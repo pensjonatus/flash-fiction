@@ -10,7 +10,7 @@
   --ifm-color-primary-lightest: #d85555;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --stylized-font: "DM Serif Display", serif;
+  --stylized-font: 'DM Serif Display', serif;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -31,9 +31,58 @@
       0 0 2px var(--ifm-color-primary),
       0 0 8px var(--ifm-color-primary, #fff);
   }
+
+  body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    z-index: 0;
+    background:
+    /* layer 1 */
+      radial-gradient(circle, rgba(255, 255, 255, 0.8) 1px, transparent 1.5px) 0
+        0 / 120px 120px repeat,
+      /* layer 2 */
+        radial-gradient(circle, rgba(255, 255, 255, 0.5) 1px, transparent 1.5px)
+        60px 60px / 160px 160px repeat,
+      /* layer 3 */
+        radial-gradient(circle, rgba(255, 255, 255, 0.3) 0.5px, transparent 1px)
+        30px 90px / 200px 200px repeat;
+    opacity: 0.25;
+  }
 }
 
-h1, h2 {
+[data-theme='light'] body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    repeating-linear-gradient(
+      135deg,
+      transparent 0 48px,
+      rgba(255, 192, 203, 0.13) 48px 64px,
+      transparent 64px 112px
+    ),
+    repeating-linear-gradient(
+      45deg,
+      transparent 0 48px,
+      rgba(255, 192, 203, 0.09) 48px 64px,
+      transparent 64px 112px
+    );
+  opacity: 0.7;
+  mix-blend-mode: lighten;
+}
+
+h1,
+h2 {
   font-family: var(--stylized-font);
 }
 

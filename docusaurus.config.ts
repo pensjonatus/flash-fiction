@@ -76,6 +76,7 @@ const config: Config = {
         src: 'img/flash-fiction.png',
       },
       items: [],
+      style: 'dark',
     },
     footer: {
       links: [],
