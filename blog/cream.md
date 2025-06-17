@@ -12,7 +12,6 @@ then put the tortillas on the counter.
 
 <!-- truncate -->
 
-
 "Let's see," she said, "Do we have avocados?"
 
 "Yep," he pulled the avocados from the ice box.

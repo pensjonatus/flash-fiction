@@ -11,7 +11,6 @@ went back to visit my family.
 
 <!-- truncate -->
 
-
 My daddy was back from the Eastern Front, which I did not understand. Uncle Paul
 told me it was part of War, but I had not seen real War because in our city, War
 meant only that my mother had to work late and stand in long lines to get

@@ -10,7 +10,6 @@ I woke up and I knew immediately it was going to be a horrible day.
 
 <!-- truncate -->
 
-
 "Father, father," my apprentice screamed as he came running into my bedroom,
 "It's raining snakes."
 

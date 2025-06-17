@@ -11,7 +11,6 @@ was not well anymore.
 
 <!-- truncate -->
 
-
 But then, there were some repairs to be done, so I hired some contractors and my
 mom complained about them.
 

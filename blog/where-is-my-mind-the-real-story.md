@@ -16,7 +16,6 @@ choose.
 
 <!-- truncate -->
 
-
 "College begins soon," he said.
 
 The night lifted her pretty eyes from above the milkshake, still keeping the

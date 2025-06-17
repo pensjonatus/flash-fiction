@@ -12,7 +12,6 @@ at our call center, shall we?"
 
 <!-- truncate -->
 
-
 They entered a large room filled with cubicles. In each cubicle there was a
 colorful individual wearing interesting clothes, sporting an interesting
 haircut, showing off surprising tattoos. They stopped by one cubicle to listen

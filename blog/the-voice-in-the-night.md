@@ -10,7 +10,6 @@ but the voice kept calling.
 
 <!-- truncate -->
 
-
 "James."
 
 "Who is it?"

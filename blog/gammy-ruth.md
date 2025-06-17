@@ -11,7 +11,6 @@ cookies.
 
 <!-- truncate -->
 
-
 "Gammy, is mommy in heaven?" I asked her one day.
 
 "What do you think dear?"

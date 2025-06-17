@@ -12,7 +12,6 @@ talk for hours.
 
 <!-- truncate -->
 
-
 "Do you remember our old house, Book?" she said. "When I think of it now, I feel
 like it misses us."
 

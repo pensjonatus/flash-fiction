@@ -14,7 +14,6 @@ together.
 
 <!-- truncate -->
 
-
 "Uhm," said Molly finally, a little confused, but then she smiled bright, "Yeah,
 it all sounds great."
 

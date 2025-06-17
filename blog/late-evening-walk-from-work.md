@@ -14,6 +14,5 @@ woods.
 
 <!-- truncate -->
 
-
 After a minute or so, the chill reaches. You embrace it, because it means winter
 is coming.

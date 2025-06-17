@@ -12,7 +12,6 @@ He was alone for a bit, until young Bill in street clothes entered.
 
 <!-- truncate -->
 
-
 "Sorry I'm late, Joe."
 
 "That's okay. Things are slow today. Whatcha got there?"

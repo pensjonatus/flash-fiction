@@ -13,7 +13,6 @@ slightly drunk.
 
 <!-- truncate -->
 
-
 "Yeah, Tom, go for the third base," screamed the polo. "No, stop there, stop
 there! Oh... fudgesickles."
 

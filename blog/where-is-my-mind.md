@@ -11,7 +11,6 @@ to sit in the armchair and wait for the worst part to be over. He was afraid.
 
 <!-- truncate -->
 
-
 Somehow, in twelve hours he got from his well-lit apartment in Manhattan, a job,
 and a fiancee, to a dark little hotel in Maine. An ugly prostitute was moaning
 on the bed as a man in a dog mask was pleasuring her with his mouth. A pregnant

@@ -14,7 +14,6 @@ are lost to history), out of whom he loved his youngest boy Pietro the most.
 
 <!-- truncate -->
 
-
 Pietro was smart and funny, and smiled all day, making everyone's lives so much
 better. The whole village loved him, so all the adults let him call them aunt
 and uncle, and all the children played with him. The children liked the

@@ -12,7 +12,6 @@ when he was trying to sleep.
 
 <!-- truncate -->
 
-
 "Are you leaving?" he asked her one evening, several months later. She was
 working in the back office, he had just finished mopping the floor. They both
 started in the kitchen, but these days she was helping the manager with the

@@ -12,7 +12,6 @@ love?
 
 <!-- truncate -->
 
-
 The kitchen was small, cluttered, and dirty. She liked it that way, it was cozy.
 She could never understand white tiles and stone counter tops, she preferred old
 wood and American simplicity. If it ain't broke... She chuckled at the saying,

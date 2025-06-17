@@ -14,7 +14,6 @@ up into the sky.
 
 <!-- truncate -->
 
-
 We reached a ramp and he turned his flashlight on. The ramp led to a causeway of
 metal net with metal railings. There were more sets of stairs and ladders
 leading higher and higher. The man shone the light at me, then at himself,

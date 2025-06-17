@@ -13,7 +13,6 @@ something.
 
 <!-- truncate -->
 
-
 "Must be from when they built the house," said Skip.
 
 "You think," said Marcy, "Hard to imagine, this house is almost two hundred

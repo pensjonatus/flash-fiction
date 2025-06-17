@@ -12,7 +12,6 @@ any cloth over it. He sucked in, but no abs showed.
 
 <!-- truncate -->
 
-
 He looked at the hair, it was getting long. Maybe a pony tail, or some kind of
 eccentric hipster coif?
 

@@ -12,7 +12,6 @@ herself. She was already thinking about the bubble bath and glass of wine.
 
 <!-- truncate -->
 
-
 "No, I'm listening, mom," she said into the phone, "And I agree, it is a
 problem. I'm sorry I can't be there with you." She did not think it was a huge
 problem, but she sympathized. "Yes, I will make sure."

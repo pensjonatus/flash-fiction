@@ -13,7 +13,6 @@ connect a light.
 
 <!-- truncate -->
 
-
 It took Amanda three hours, but she finally gave birth.
 
 "What is that?" I said.

@@ -10,7 +10,6 @@ all dressed in white and reminiscing.
 
 <!-- truncate -->
 
-
 "Before I came to Hollywood, I was just a cab driver in Philly. It was not much,
 but it was a living. I always admired De Niro and I thought I could be like
 him."

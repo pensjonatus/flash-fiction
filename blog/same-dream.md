@@ -10,7 +10,6 @@ this planet all have the same dream every night?
 
 <!-- truncate -->
 
-
 The people listening at home may know I'm a relative newcomer. I came on the
 Hermes Line about six years ago. And before I came, I was like everyone else on
 other worlds: I did not believe the stories. I thought it was a hoax, or maybe

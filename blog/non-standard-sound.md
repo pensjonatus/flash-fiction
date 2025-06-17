@@ -12,7 +12,6 @@ a second to acknowledge the legendary soundsman.
 
 <!-- truncate -->
 
-
 "Good, you're here. It's about my invasion movie."
 
 "_The Invasion of Los Angeles_," the assistant director said helpfully.

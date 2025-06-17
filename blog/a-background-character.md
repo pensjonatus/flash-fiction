@@ -14,7 +14,6 @@ girlfriends always says that.
 
 <!-- truncate -->
 
-
 Ex-girlfriend. I was up late sitting on the couch playing a video game, really
 into it, when she came back from her office Christmas party. She was surprised
 to see me. She was slightly drunk.

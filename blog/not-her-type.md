@@ -15,7 +15,6 @@ like a little child? Do my feelings need protecting?
 
 <!-- truncate -->
 
-
 I smiled. "Thanks, Amy. You, on the other hand, are my type," I could not stop
 myself from saying that, but I immediately felt like an idiot. What am I doing
 ingratiating myself to her like that? I had to save it quick by being

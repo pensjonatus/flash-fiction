@@ -12,7 +12,6 @@ am already under light anesthesia.
 
 <!-- truncate -->
 
-
 In a long hospital hallway, they put me in a wheelchair and wheel me into an
 operating room. They strap me to a operating table and this is where it used to
 end. I used to wake up in my bed, not remembering the rest. But over time, I

@@ -15,7 +15,6 @@ was in the process of tuning into his evening depression.
 
 <!-- truncate -->
 
-
 A young mother with a three-year-old was sitting opposite him. She was talking
 softly to her child: "So then we will decorate the tree and Santa is going to
 bring presents."

@@ -10,7 +10,6 @@ at the table. Jim said:
 
 <!-- truncate -->
 
-
 "Hey Mike, I was wondering. You're gay, right?"
 
 "Yeah," said Mike without losing his confidence, "Everybody knows that. You were

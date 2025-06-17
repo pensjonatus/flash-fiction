@@ -9,7 +9,6 @@ Last man on Earth, alone in a room. What would he do?
 
 <!-- truncate -->
 
-
 Wake up regularly every morning, work out, go on a food run or use some of the
 organic food he grew. Then do some work around the house, make sure things are
 keeping together. He would want to stay in the same place in case... Just in

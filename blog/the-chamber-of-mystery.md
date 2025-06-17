@@ -15,7 +15,6 @@ onto the stone floor.
 
 <!-- truncate -->
 
-
 The stairway led to a place he only knew from secret history books. It was the
 Labyrinth of Worry, which stretched its tentacles below Rome and was one of
 Vatican's most heavily guarded secrets. Legend has it was was built by the first

@@ -13,7 +13,6 @@ all the time so he did not have to go to sleep.
 
 <!-- truncate -->
 
-
 I lived with Dora when we finished high school. We had a small apartment above a
 candy store at the waterfront and we fought all the time. We had a baby girl and
 named her Candy, but we finally split up.

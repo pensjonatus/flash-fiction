@@ -13,7 +13,6 @@ but nothing ever did.
 
 <!-- truncate -->
 
-
 Then they started declining invitations. Maybe it had something to do with my
 wife's growing sensibility and the way she reacted. Apart from getting angry
 quickly, she also developed opinions that were harsh-sounding for most people

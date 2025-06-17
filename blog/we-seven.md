@@ -11,7 +11,6 @@ me. I shuffled to the middle of the bed and lay with my arms and legs wide.
 
 <!-- truncate -->
 
-
 And I touched something foreign. Something I was not expecting there, so I
 flinched and a cool sweat covered my back. I pulled it out from beneath the
 covers and took a good look. It was most definitely a man's speedo.

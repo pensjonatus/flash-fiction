@@ -13,7 +13,6 @@ ignore the banging.
 
 <!-- truncate -->
 
-
 The banging came back a few hours later, around breakfast time. I was sitting on
 the couch with a book, trying to make myself sleepy. The banging was more
 insistent this time. More aggressive. I walked up to the door. Listened. More

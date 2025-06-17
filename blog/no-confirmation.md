@@ -12,7 +12,6 @@ writing. Stephen king was his hero.
 
 <!-- truncate -->
 
-
 "Not in the sense of what he writes," said Ian, "Because it's just silly
 nonsense. Living action figures and a monster in the lamp? Come on! But it's
 very well written and a commercial success. No writer's work has been adapted by

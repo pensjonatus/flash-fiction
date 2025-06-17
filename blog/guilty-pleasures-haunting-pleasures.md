@@ -11,7 +11,6 @@ be taking with her girlfriends. I should tell her today, she should know.
 
 <!-- truncate -->
 
-
 She picks up a few blouses all over the store and leads me to the changeroom. I
 sit down on a couch, other men are here. They look bored. I feel bored.
 

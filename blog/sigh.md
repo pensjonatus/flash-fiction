@@ -13,7 +13,6 @@ we were among the last few people standing.
 
 <!-- truncate -->
 
-
 "So," she asked, "You'll be going back to school soon?"
 
 "Yeah. I gotta get my bachelor's this year."

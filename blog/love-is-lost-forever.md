@@ -12,7 +12,6 @@ further back in time.
 
 <!-- truncate -->
 
-
 "I will stay out longer. Don't wait up." I remembered writing that one. I was
 out all night dancing with this girl who seemed attractive in comparison but I
 guess just because she was new.

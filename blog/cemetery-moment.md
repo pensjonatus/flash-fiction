@@ -12,7 +12,6 @@ another grave, so he just thought.
 
 <!-- truncate -->
 
-
 "I came here to say that it is okay," he thought, "All the things you did. I
 forgive you. I am over it."
 

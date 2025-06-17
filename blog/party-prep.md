@@ -10,7 +10,6 @@ preparing food for the party.
 
 <!-- truncate -->
 
-
 "Hey Jill, can you make them finer?"
 
 "From Hell's heart, I stab at thee. For hate's sake, I spit my last breath at

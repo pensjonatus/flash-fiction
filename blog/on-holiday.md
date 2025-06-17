@@ -13,7 +13,6 @@ eyes were so dark and the sky was so bright.
 
 <!-- truncate -->
 
-
 We were sitting some distance apart in rattan chairs. There was a small glass
 table between us, its surface polished to perfection, with a couple of drinks on
 coasters. The gazebo was wrapped in loose linen cloth to protect from the

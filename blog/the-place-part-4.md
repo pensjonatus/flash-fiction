@@ -12,7 +12,6 @@ made up. Stuff of fiction.
 
 <!-- truncate -->
 
-
 Irish folklore talks about traveling between this world and the world of the
 fairies through narrow places, like fox holes and cracks in old tombstones. But
 there is nothing to substantiate that.

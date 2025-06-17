@@ -9,7 +9,6 @@ categories:
 
 <!-- truncate -->
 
-
 "So quit," she said.
 
 "What? And you would support us?"

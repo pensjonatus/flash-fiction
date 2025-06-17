@@ -11,7 +11,6 @@ handsome."
 
 <!-- truncate -->
 
-
 He thought about his wife, whom he really loved and considered the perfect
 woman, but he did not say anything because he knew Dora would lash out.
 

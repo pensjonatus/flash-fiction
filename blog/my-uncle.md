@@ -10,7 +10,6 @@ You see, he was different before the war.
 
 <!-- truncate -->
 
-
 Uncle Jim never used to hang out with us. He would drive up in his car, walk
 right through the porch, and talk with my mom for a while. She was always sad
 afterwards, probably because he was such a dead beat and always wanted money. I

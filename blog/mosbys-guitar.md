@@ -12,7 +12,6 @@ chuckling as Mosby tried to catch up.
 
 <!-- truncate -->
 
-
 He found it funny at first, because he thought youth was incapable of evil and
 all they did was play, which was true. But then he was faced with the daunting
 reality of his own mortality. Ever since Jack the Dreammaster cursed Mosby years

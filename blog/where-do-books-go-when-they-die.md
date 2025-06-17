@@ -12,7 +12,6 @@ on.
 
 <!-- truncate -->
 
-
 He broke off as the husband and wife were going to sleep, having argued. She
 said "Night" and he replied "See you in the morning." There was so much positive
 energy in this little thing. Jim never said "See you in the morning" to his

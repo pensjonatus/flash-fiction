@@ -12,7 +12,6 @@ his updated resume and cover letter. He was ready.
 
 <!-- truncate -->
 
-
 "Mr. Johnson," he leaned into his manager's office, "Is this a bad time?"
 
 "Larry, come in. What is it?"

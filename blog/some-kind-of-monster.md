@@ -12,7 +12,6 @@ Because I have.
 
 <!-- truncate -->
 
-
 On the 777th day of my meditation on top of Mount Zion, I was delivered to the
 presence of an immense being, whose company was both physical and spiritual, and
 whose every breath was a foreign intellect. I spent countless days and nights

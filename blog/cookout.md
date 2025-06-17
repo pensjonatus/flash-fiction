@@ -11,7 +11,6 @@ to me.
 
 <!-- truncate -->
 
-
 "Ivan, I need you to work this Sunday."
 
 I was glad for the opportunity, a Sunday shift meant a bigger paycheck. "Sure.

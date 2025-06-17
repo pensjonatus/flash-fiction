@@ -13,7 +13,6 @@ man was short and pudgy, unattractive, weak, his eyes red and wet.
 
 <!-- truncate -->
 
-
 As the postman passed them by, the man was saying: "Please, baby, don't go,
 please, baby."
 

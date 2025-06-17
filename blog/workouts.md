@@ -14,7 +14,6 @@ distance, speed, time, and heart rate. He was all set.
 
 <!-- truncate -->
 
-
 But somehow, he felt hollow. He passed the bench where he first saw Mark. Then
 he passed the two trees where they had a picnic one Sunday. Then he passed the
 gazebo where the had "the talk" before they broke up. Now he was with David and

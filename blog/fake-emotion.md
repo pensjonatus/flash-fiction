@@ -13,7 +13,6 @@ with me even though I don't have the moves, she is good like that.
 
 <!-- truncate -->
 
-
 Now she is telling the other girl something, and the is waving her hands like
 crazy, trying to tell it. She is so happy and I am so sad. I try to be happier,
 but all I can feel is being drunk and my smile is purely physical. I am looking

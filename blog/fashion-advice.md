@@ -11,7 +11,6 @@ They were having coffee together.
 
 <!-- truncate -->
 
-
 "Yeah?" he said, "Not really my style."
 
 "It could be your style."

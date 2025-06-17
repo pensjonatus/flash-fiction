@@ -9,7 +9,6 @@ My thirteenth birthday was a weird day for me.
 
 <!-- truncate -->
 
-
 Do not worry, this will not be a book about a child. It is just the prologue
 that talks about my childhood, or one event in particular that sets the tone for
 the rest of this story. Now, I cannot really say whether it was formative in any

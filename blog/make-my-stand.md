@@ -16,7 +16,6 @@ got the street in a pincer."
 
 <!-- truncate -->
 
-
 Jason looked down the narrow alley, the building was higher than the rest, two
 levels in total.
 

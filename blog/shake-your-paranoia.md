@@ -11,7 +11,6 @@ retina and came back each time I blinked.
 
 <!-- truncate -->
 
-
 It was nice and dark in the room and I was lying over the bed covers, looking
 outside at the tree in the orange light of the street. Jason was lying on the
 couch quietly, doing something on his phone.

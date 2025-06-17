@@ -10,7 +10,6 @@ rested.
 
 <!-- truncate -->
 
-
 "All the deer are gone," said one.
 
 "We will find some," said the other.

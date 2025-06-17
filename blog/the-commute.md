@@ -13,7 +13,6 @@ dinner.
 
 <!-- truncate -->
 
-
 "You're right," said the other. "You know, I missed the 6:10 and had to wait for
 the 7:20."
 

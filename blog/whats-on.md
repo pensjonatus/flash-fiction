@@ -13,7 +13,6 @@ porn? Maybe later, when I'm ready to go to sleep.
 
 <!-- truncate -->
 
-
 I remembered a vast grassy field, except the grass was last year's. There was
 some snow, almost melted though. The sky was a heavy, dull gray. The wind was
 almost warm, spring was coming. The girl was in front of me, dressed in black, a

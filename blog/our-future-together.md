@@ -10,7 +10,6 @@ Actually, she was only having coffee because she was on a diet.
 
 <!-- truncate -->
 
-
 "I think it's going to rain," he said.
 
 "I wish I could be out of town now," she said, "In the forest somewhere. Waiting

@@ -11,7 +11,6 @@ They ask it to answer questions as if it was a source of knowledge.
 
 <!-- truncate -->
 
-
 It can answer questions, seemingly. Though its mind is very temporary and holds
 no knowledge or thought. It can only answer mindlessly, but its answers resemble
 human answers.

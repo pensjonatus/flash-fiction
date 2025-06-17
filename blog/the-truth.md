@@ -12,7 +12,6 @@ look appalled despite all the tubes stuck to it with tape.
 
 <!-- truncate -->
 
-
 "Jamie, why did you do it?" she said.
 
 He was silent.

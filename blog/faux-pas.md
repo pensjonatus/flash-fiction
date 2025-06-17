@@ -10,7 +10,6 @@ factly.
 
 <!-- truncate -->
 
-
 "Roger that, I'll take my guys and flank them," said the other. They were
 playing some kind of game on their phones or their glasses, I am not really
 sure.

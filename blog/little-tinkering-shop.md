@@ -11,7 +11,6 @@ his eyes at me and pouted.
 
 <!-- truncate -->
 
-
 "What's on your mind, Mr. Black?" I asked.
 
 "I was just wondering whether you were bored."

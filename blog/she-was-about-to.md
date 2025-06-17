@@ -11,7 +11,6 @@ up. She clicked "Accept" and the video came on. Jason was smiling wide.
 
 <!-- truncate -->
 
-
 "Jason," she screamed in joy, "Oh my god, it's been so long."
 
 "Hello, Melissa," he said. Were his eyes sad? She had known him since they were

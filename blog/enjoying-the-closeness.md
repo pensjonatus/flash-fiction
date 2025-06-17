@@ -13,7 +13,6 @@ working for a tech company, in town on business, networking with the bigshots.
 
 <!-- truncate -->
 
-
 We stepped outside for a minute. It was a warm evening, but she still wrapped
 herself with her own arms and stood next to me. It made her seen insignificant
 and defenseless, but I knew she was not so. She had never been.

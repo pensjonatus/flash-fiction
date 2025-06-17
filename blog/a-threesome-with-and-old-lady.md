@@ -10,7 +10,6 @@ when the old lady got on.
 
 <!-- truncate -->
 
-
 "Excuse me, why don't you take my seat," he said.
 
 "Thank you," said the lady, smiling, "That's very kind of you." And when she

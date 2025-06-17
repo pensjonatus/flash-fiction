@@ -12,7 +12,6 @@ I was away from home, in a strange apartment, after a whole day with girl B.
 
 <!-- truncate -->
 
-
 I met girl B several months before, but we never really talked too much. And
 then, just when I was about to leave the place away from home, girl B asked me
 to come back in a few days and come to a concert.

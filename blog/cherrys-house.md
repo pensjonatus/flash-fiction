@@ -12,7 +12,6 @@ living room was nice and cool. No AC, but Cherry kept it shady and aired.
 
 <!-- truncate -->
 
-
 "I'm in the bathroom, honey," I heard her melodic voice, "Why don't you get
 something to drink and wait five minutes. Just five, I promise."
 

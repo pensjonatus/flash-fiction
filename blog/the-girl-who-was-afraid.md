@@ -13,7 +13,6 @@ cozy. I was a student at the University of I\_\_\_.
 
 <!-- truncate -->
 
-
 There was a thunderstorm outside and Amanda jumped up on her chair each time
 lightning struck. "Sorry," she would say each time, and then finally she said,
 "Sorry, I'm scared of storms."

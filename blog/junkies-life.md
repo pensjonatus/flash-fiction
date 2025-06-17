@@ -13,7 +13,6 @@ photos, pictures, sculptures, statuettes, and trophies.
 
 <!-- truncate -->
 
-
 "Dave," I pled, "Please, don't. I know what I did." I think I started crying at
 that point, not sure if it was sincere. "I have a disease. And there is no
 cure."

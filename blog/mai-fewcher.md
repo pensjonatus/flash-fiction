@@ -12,7 +12,6 @@ fader woz a lil boi in he faders bolz.
 
 <!-- truncate -->
 
-
 i tolded he to shut up an wee woz abauht to scor an get hi, but de gai woz
 sheidi an he won sold us som bad hi, so i pukd on he an he feis go ohl bubbly
 and stinky. wee stomp on he an teik he hi an we try to sold it leiter, but dat

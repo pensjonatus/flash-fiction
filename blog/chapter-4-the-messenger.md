@@ -11,7 +11,6 @@ less so.
 
 <!-- truncate -->
 
-
 "Hi, how are ya?" I said.
 
 "Hi, I'm fine, And you?"

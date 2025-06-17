@@ -11,7 +11,6 @@ his cat.
 
 <!-- truncate -->
 
-
 "So who wants it?" said Jessie.
 
 The room fell silent. Jacob from upstairs was looking out the window, Sasha was

@@ -9,7 +9,6 @@ categories:
 
 <!-- truncate -->
 
-
 "Here we go," said Mary, smiling the sweetest of sweet smiled.
 
 They were holding hands, flying across the Atlantic to their romantic holiday in

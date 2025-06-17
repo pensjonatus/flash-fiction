@@ -14,7 +14,6 @@ thing about her is I do not know what she looks like.
 
 <!-- truncate -->
 
-
 She posts plenty of pictures, usually some funny ones from the Internet, or arty
 photos of meadows and cats and coffee cups. Sometimes there is a group of people
 in the photos, but I am almost positive she is not among them. Sometimes, there

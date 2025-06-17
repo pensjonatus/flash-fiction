@@ -15,7 +15,6 @@ all.
 
 <!-- truncate -->
 
-
 I was very curious about the brownstone, the stairwell, the hallways, the
 apartments. I wanted to see their layouts, furniture, wallpapers, the view from
 the windows. The smells must be different in each little apartment, the sheets

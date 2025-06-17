@@ -11,7 +11,6 @@ was there, everyone laughing and socializing.
 
 <!-- truncate -->
 
-
 Mr. Pitt, the gorilla trainer, had arrived with his five gorillas, and talked it
 over with the sheriff. He then put up the posters all over town. The act was all
 people could talk about. Now he was getting ready some distance away. He had

@@ -10,7 +10,6 @@ the room and said:
 
 <!-- truncate -->
 
-
 "Listening to the radio is great, but you could spend the time being more
 creative."
 

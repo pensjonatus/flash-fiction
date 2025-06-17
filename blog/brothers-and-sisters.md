@@ -12,7 +12,6 @@ right back, Vlad," she said to me.
 
 <!-- truncate -->
 
-
 I was flipping burgers on the giant skillet, sweat dripping down my back. I had
 gotten used to it. I could cool down chopping onions, or getting something from
 the walk-in fridge.

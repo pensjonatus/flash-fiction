@@ -11,7 +11,6 @@ an SUV ran her over. Jacob was in therapy for years.
 
 <!-- truncate -->
 
-
 A study has shown that car crashes are extremely erotic. People sometimes climax
 when their vehicle collides with another or with a massive obstacle.
 

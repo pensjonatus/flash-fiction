@@ -12,7 +12,6 @@ his office.
 
 <!-- truncate -->
 
-
 "Really," I said, humoring him, and then I focused on the smart-looking
 yellow letters. "What's Ediblo," I asked.
 

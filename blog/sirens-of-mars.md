@@ -10,7 +10,6 @@ categories:
 
 <!-- truncate -->
 
-
 "I don't know," I said, "I guess I don't need anything." We were in the large
 empty living room of our new house. There were two couches by the walls, but
 other than that, the room was empty and the hardwood floor looked like somebody

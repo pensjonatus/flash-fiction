@@ -11,7 +11,6 @@ least she was not a single human being without a role.
 
 <!-- truncate -->
 
-
 First, she washed the glasses. Then dried them to make room for the plates. Then
 the bowls. She left the cutlery for last. They were all going to be sparkly
 clean.

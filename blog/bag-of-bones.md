@@ -13,7 +13,6 @@ some stinky mean old party.
 
 <!-- truncate -->
 
-
 Luckily, it turned out not to be so bad. There was music and drinking, and some
 people were dancing (I hate dancing even more than I hate drinking), but it was
 also kind of dull and you could talk to people too. There was this interesting

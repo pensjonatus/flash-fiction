@@ -16,5 +16,4 @@ never had before.
 
 <!-- truncate -->
 
-
 I think my boss sometimes tells exaggerated stories.

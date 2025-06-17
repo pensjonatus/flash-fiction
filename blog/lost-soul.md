@@ -13,7 +13,6 @@ well.
 
 <!-- truncate -->
 
-
 "Father O'Hara," he said, "Is this a bad time?"
 
 "Not at all, Timothy. Sit down. How have you been? What brings you here at this

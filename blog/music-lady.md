@@ -12,7 +12,6 @@ in the mood for dancing. Never in the mood.
 
 <!-- truncate -->
 
-
 A girl, what was she? Sixteen? She wishes. She got near me and started dancing.
 Going "you like what you see?" And I was cool and did not care. Only I did care
 because she was too fucking young to be ravaged by some cokehead douchebag. I

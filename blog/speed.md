@@ -12,7 +12,6 @@ cigarettes, talking about poetry and money. He ran past all of them.
 
 <!-- truncate -->
 
-
 "Wait, stop!" she screamed, as he was about to reach the street. He stopped.
 "Marcel, please, you have to come back. You're a star. We need you."
 

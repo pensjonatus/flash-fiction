@@ -11,7 +11,6 @@ that other woman making sure everything was ready for this important day.
 
 <!-- truncate -->
 
-
 "Honey," Felicia yelled across the yard, "Could you run down to the store and
 get some groceries? I made you a list."
 

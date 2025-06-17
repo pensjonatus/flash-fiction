@@ -11,7 +11,6 @@ She was like an element, or like the weather.
 
 <!-- truncate -->
 
-
 "Hey, I brought your books back," she said. We used to hang out more. She kept
 borrowing books from me but never had the time to read them.
 

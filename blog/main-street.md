@@ -10,7 +10,6 @@ riding a bicycle down Main Street.
 
 <!-- truncate -->
 
-
 "Well I'll be damned, what happened to your car, Billy?"
 
 "Mr. White," Bill stopped, nodded a polite hello. "I had a little accident. I

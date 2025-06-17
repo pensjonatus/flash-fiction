@@ -11,7 +11,6 @@ like that."
 
 <!-- truncate -->
 
-
 "I had a dream. A good one."
 
 "Okay then. Tell me. But if it's boring, I'll punish you with sarcastic

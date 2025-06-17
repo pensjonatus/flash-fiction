@@ -12,7 +12,6 @@ everything through a haze of whimsy.
 
 <!-- truncate -->
 
-
 Tired. I struggled to move the right leg. Then the left. Then the right. Again
 and again, until I get home. My hair was ruined by the rain, but I did not care.
 I did not plan on going anywhere today. Would just take a hot shower and sleep

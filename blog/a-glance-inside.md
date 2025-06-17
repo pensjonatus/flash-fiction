@@ -10,7 +10,6 @@ coats, I give them a number, and _vice versa_.
 
 <!-- truncate -->
 
-
 One night, a classy couple were leaving in the middle of the show. He was a
 handsome forty-something artsy rich type of guy, his hair and figure impeccable,
 his eyes smiling an experienced smile. She was young and beautiful, at least on

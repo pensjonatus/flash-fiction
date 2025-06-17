@@ -10,7 +10,6 @@ Jackson worked tirelessly, until he killed everyone in the world.
 
 <!-- truncate -->
 
-
 Killing a lot of people had been his dream since he was a little boy. And he
 fantasized about all the ways he could do it. For example, he imagined poisoning
 the police cafeteria, to kill all the policemen. Although, he imagined not all

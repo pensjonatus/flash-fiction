@@ -9,7 +9,6 @@ categories:
 
 <!-- truncate -->
 
-
 We were whispering, it was the campus library. The vast reading room was mostly
 empty, just a few kids with smartphones. Jill put hers aside and extended her
 hands, waiting for me to hand over the folder.

@@ -15,7 +15,6 @@ like that.
 
 <!-- truncate -->
 
-
 Day 7779:
 
 In my mind, I replayed brutal scenes from my previous life. I was not a hero,

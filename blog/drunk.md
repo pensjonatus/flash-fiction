@@ -10,7 +10,6 @@ seemed like kind of a curiosity to the rest.
 
 <!-- truncate -->
 
-
 "Hey, Raul you ever played shotgun head?"
 
 "No, what is that?"

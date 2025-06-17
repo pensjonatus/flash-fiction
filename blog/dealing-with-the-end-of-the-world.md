@@ -12,7 +12,6 @@ gone.
 
 <!-- truncate -->
 
-
 On that morning, I woke up just just like everyone else, which is not knowing
 what was about to happen. And, like a lot of people, I experienced a sighting.
 For me, it was a grey moth the size of a car, flapping its wings in the last

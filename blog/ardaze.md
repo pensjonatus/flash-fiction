@@ -11,7 +11,6 @@ was able to mail the story to my publisher.
 
 <!-- truncate -->
 
-
 **My Story**
 
 I was on the beach, mending the nets we used for catching crabs when the

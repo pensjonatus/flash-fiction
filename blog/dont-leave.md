@@ -12,7 +12,6 @@ still had they key.
 
 <!-- truncate -->
 
-
 He got up and staggered to the front room.
 
 "Oh, Sam," she was bright as the sun, but her face was clouded, "I didn't know

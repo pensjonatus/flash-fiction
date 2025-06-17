@@ -13,7 +13,6 @@ off and then say talk to the hand. Then she left.
 
 <!-- truncate -->
 
-
 Tiberius was upset. He wanted to shout "Bitch," but he did not. She was not a
 bitch. He got up to leave the building.
 

@@ -12,7 +12,6 @@ her closer for a kiss. I wanted more.
 
 <!-- truncate -->
 
-
 "Easy. Let's take it slow, okay?" she said.
 
 I let her go and got up to piss. It was a long one, I got back after about a

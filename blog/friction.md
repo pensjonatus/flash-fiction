@@ -12,7 +12,6 @@ several times, asking for him to come over.
 
 <!-- truncate -->
 
-
 Now he just rang the bell. She opened quickly and flashed her pale face for a
 second from behind the screen door. She asked him to come in while turning away,
 her voice low and shaky, jaded as usual.

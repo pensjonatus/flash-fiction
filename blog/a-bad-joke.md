@@ -9,7 +9,6 @@ categories:
 
 <!-- truncate -->
 
-
 "I'm an attendant," Morris replied.
 
 It was a Hollywood party, with Armenian artists, some hippie interior designers,

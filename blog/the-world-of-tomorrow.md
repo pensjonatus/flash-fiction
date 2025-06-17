@@ -11,7 +11,6 @@ will tell you about the world in 3017.
 
 <!-- truncate -->
 
-
 In the future, everything is bigger and better, because we have the technology
 to make it so. I live in a billion square foot house, I have 1.5 million
 bedrooms. I used only one, but I have the option. This is due to space

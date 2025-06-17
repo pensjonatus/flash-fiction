@@ -11,7 +11,6 @@ next to him, coming down as well. Their eyes met.
 
 <!-- truncate -->
 
-
 He was slightly annoyed that it had to end. So was she. "Honey, can we do one
 more?"
 

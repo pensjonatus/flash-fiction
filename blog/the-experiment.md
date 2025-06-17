@@ -14,7 +14,6 @@ me in the dim light.
 
 <!-- truncate -->
 
-
 "It's you?" he said.
 
 "I mean you no harm," I communicated. "Do you understand?"

@@ -15,7 +15,6 @@ and he marveled at how to-the-point it was.
 
 <!-- truncate -->
 
-
 When he ran out of things to say, he just looked at her hands picking things up
 and putting them down. Her hands were a little more wrinkly these days, a little
 spotted, but they were the same hands he had always known. He could not remember

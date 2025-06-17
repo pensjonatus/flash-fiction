@@ -12,7 +12,6 @@ shakers. She got herself a glass of water.
 
 <!-- truncate -->
 
-
 Jeremy was sitting at the kitchen table, slouched over his tablet, but not
 looking at it. He was following Lucy with his eyes. He had a glum expression on
 his face.

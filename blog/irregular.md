@@ -13,7 +13,6 @@ bright either. He seemed to have no smell.
 
 <!-- truncate -->
 
-
 When she finally decided to sleep with him, she had to give him several hints
 before he realized it was time to act. She had to take his hand, and hold it in
 hers rubbing his fingers with her thumb. (His hand was not big, and it was not

@@ -14,7 +14,6 @@ for a second to catch the chance look of a cute girl walking by. Life is good.
 
 <!-- truncate -->
 
-
 Then you walk on, thinking about meeting the girl again. She would say: "I
 remember seeing you around, with your guitar. You probably don't remember me."
 

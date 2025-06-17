@@ -11,7 +11,6 @@ went black and that was when John got the feeling.
 
 <!-- truncate -->
 
-
 It shocked him, and then made him laugh. He got up and walked, barefoot, to
 Hank's cube. Hank was still working.
 

@@ -9,7 +9,6 @@ He was buttoning up his shirt. She reached her hand out.
 
 <!-- truncate -->
 
-
 "Can you stay?" she said.
 
 "I can't. Promised my wife I'd be home for dinner."

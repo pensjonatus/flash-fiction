@@ -13,7 +13,6 @@ something like that. It was amusing, as I said, at first.
 
 <!-- truncate -->
 
-
 As I read on, the comments grew , taking up all the margins and any blank space
 there was. Every page had more and more scribblings until they intruded upon the
 printed text. And then, finally, covered the original text. I could still make

@@ -13,7 +13,6 @@ floor a few feet in front of him.
 
 <!-- truncate -->
 
-
 "Hello," the woman said, "You took your time."
 
 "Yeah, I was," my response trailed off. I was a little confused. Drunk?

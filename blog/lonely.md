@@ -13,7 +13,6 @@ nonchalance.
 
 <!-- truncate -->
 
-
 "Hey, Donna. How did you like it today? It's pretty standard for me. Just
 another day on the set."
 

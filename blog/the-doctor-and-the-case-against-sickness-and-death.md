@@ -11,7 +11,6 @@ clean rooms with tiles. A medical-typ room.
 
 <!-- truncate -->
 
-
 There was a doctor there, as evidenced by his clothes and the context, and also
 by what he said: "How are you feeling?"
 

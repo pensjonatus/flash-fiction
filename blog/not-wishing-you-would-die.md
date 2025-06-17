@@ -10,7 +10,6 @@ the afternoon sun. Valentine was basking in the warm wishes he got.
 
 <!-- truncate -->
 
-
 Currently, over a cup of tea, he was reading the cards one by one. Some were
 plain and simple, and contained only the acknowledgment of Valentine's birthday.
 Others went into wishes of a great day, great year, or great life. Some

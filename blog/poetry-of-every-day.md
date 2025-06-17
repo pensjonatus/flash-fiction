@@ -10,7 +10,6 @@ cube; there was nobody to share his joy.
 
 <!-- truncate -->
 
-
 All black and white, the photo showed a couple of dancers in old fashioned
 clothes. The man was lean and handsome, wearing tails, his face was strong. The
 woman was fragile and pale as a ghost, her eyes fixed on the side of his neck.

@@ -11,7 +11,6 @@ bed-and-breakfast and headed straight for the dining room.
 
 <!-- truncate -->
 
-
 "Hey there, Steve," said Mrs. Lawrence, the owner. She was alone in the room,
 making sure the table was ready before guests come down for dinner.
 

@@ -24,5 +24,4 @@ you. There wil be no end to underground oceans we can swim in to get our hands
 on pieces of dolphin treasure." I dried my tears with my hand and smiled. "I
 guess this is better than booze. Cleaner."
 
-
 <!-- truncate -->

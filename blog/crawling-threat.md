@@ -16,7 +16,6 @@ cases kept being reported.
 
 <!-- truncate -->
 
-
 ## Wednesday
 
 Detective Krug was on the case, he was examining leads, but he was not finding

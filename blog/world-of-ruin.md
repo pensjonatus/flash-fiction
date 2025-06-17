@@ -12,7 +12,6 @@ street.
 
 <!-- truncate -->
 
-
 The shopfront was a dance school. A muscular man was standing outside, texting
 on his phone. Soon, another man joined him. A muscular man in a white t-shirt.
 They exchanged silent nods, acknowledged each other's presence and attested to

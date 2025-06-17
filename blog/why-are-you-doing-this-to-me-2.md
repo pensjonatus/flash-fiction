@@ -13,7 +13,6 @@ anyway.
 
 <!-- truncate -->
 
-
 She moved a step to the left, then leaned forward to see. The lights of the
 train were visible in the distance. Somebody had asked once, at a party, so what
 form of suicide would you choose. She did not wait her turn and said "Why would

@@ -12,7 +12,6 @@ all the stars and galaxies.
 
 <!-- truncate -->
 
-
 Sam and Mary had not spoken, but it was not the kind of uncomfortable silence
 where you stress over coming up with a topic of conversation. Perhaps they were
 at that stage back in college when they first met, but it was since past them.

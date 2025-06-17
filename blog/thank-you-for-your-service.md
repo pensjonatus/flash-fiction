@@ -10,7 +10,6 @@ his coat on, a hat in his hand. He was ready to go.
 
 <!-- truncate -->
 
-
 "Hour long has it been, Ronald?" asked Jeffrey Powers, the man who was talking
 over as CFO. Actually, had taken over about a month before.
 

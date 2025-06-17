@@ -19,7 +19,6 @@ specialized events.
 
 <!-- truncate -->
 
-
 Somehow, I got with Sarah. Lord knows that I felt I deserved her, but as I got
 to know her, I believed that less and less. Well, a little less, not a lot. I
 still thought I was pretty cool, only it was the first time in my life that I

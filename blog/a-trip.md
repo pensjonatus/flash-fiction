@@ -10,7 +10,6 @@ woke up and he decided that would be his major task for the day.
 
 <!-- truncate -->
 
-
 He slid out of his cot and wobbled to his breakfast area. As he ripped off
 morsels and put them in his gob, he ruminated over the list of friends he would
 like to invite:

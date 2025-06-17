@@ -13,7 +13,6 @@ Whatever, no big deal.
 
 <!-- truncate -->
 
-
 And then I got this job at the Vatican (I'm Italian, by the way), and it's just
 perfect.
 

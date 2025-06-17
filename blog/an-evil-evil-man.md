@@ -11,7 +11,6 @@ a brand new automobile, she was smitten. They were wed on a May day.
 
 <!-- truncate -->
 
-
 He was older, his hair was sprinkled with grey, and she was only fourteen. But
 he was gentle enough to wait until the night of her fifteenth birthday before
 deflowering her. He was the kindest of husbands and hardly ever caused her any

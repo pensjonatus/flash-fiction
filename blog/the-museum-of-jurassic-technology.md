@@ -11,7 +11,6 @@ highway and into Culver City.
 
 <!-- truncate -->
 
-
 "The Museum of Jurassic Technology," I said.
 
 "Huh. So does it have dinosaurs and stuff?" Culver City was all around us. I had

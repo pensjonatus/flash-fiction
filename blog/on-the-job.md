@@ -16,7 +16,6 @@ completely in the right place at the right time.
 
 <!-- truncate -->
 
-
 "The thing is," Tony was explaining, "Rico's sister's husband, I forget his
 name..."
 

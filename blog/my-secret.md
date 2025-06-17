@@ -9,7 +9,6 @@ I have a little secret, and I will tell you.
 
 <!-- truncate -->
 
-
 I saw a beautiful woman at the airport. She was stand offish, probably used to
 men hurting her. I would not hurt her, because she does not matter to me. But I
 have hurt others.

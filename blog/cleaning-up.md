@@ -13,7 +13,6 @@ ending. If I would still clean up those last few rooms.
 
 <!-- truncate -->
 
-
 I reached number 341, the next one on my list. There was general mess inside, so
 it took me a few seconds to notice her. There was a woman in the bed, lying on
 her stomach in the rumpled up sheets, her hair in disarray, her face with an

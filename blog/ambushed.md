@@ -12,7 +12,6 @@ being gay.
 
 <!-- truncate -->
 
-
 "Yeah?" he said, "You wish that were true. You just feel bad none of this," he
 gestured jokingly at his crotch, "can ever be yours."
 

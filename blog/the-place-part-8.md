@@ -12,7 +12,6 @@ stayed in on our way to the Grand Canyon.
 
 <!-- truncate -->
 
-
 "Aren't you going to open it?" I asked her.
 
 "I am not sure what's inside should be out in our world. I mean, it's probably

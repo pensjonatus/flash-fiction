@@ -11,7 +11,6 @@ us.
 
 <!-- truncate -->
 
-
 "You know," said Todd, "A man running this fast is bound to be running from
 something."
 

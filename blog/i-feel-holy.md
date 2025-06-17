@@ -13,7 +13,6 @@ when he was a little boy.
 
 <!-- truncate -->
 
-
 The door creaked and Meg joined him. She brought two glasses of iced tea and
 they drank. She was wearing a flowery dress, her hair was pulled back to let her
 neck cool. Her eyes looked lazy.

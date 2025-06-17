@@ -13,7 +13,6 @@ paper.
 
 <!-- truncate -->
 
-
 "Maybe I should get a job?" he said out loud.
 
 He picked an ad and called the number.

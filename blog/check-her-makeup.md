@@ -13,7 +13,6 @@ on my phone.
 
 <!-- truncate -->
 
-
 At one point, she took out one of those flip mirrors with makeup stuff inside. I
 did not know women still used these. Do they? I have not seen one in a while.
 One of those flip mirror powder boxes, or whatever they are. Anyway, she took it

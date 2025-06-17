@@ -12,7 +12,6 @@ spoke:
 
 <!-- truncate -->
 
-
 "Ah, welcome to Pine Grove Cemetery," he said, getting up from behind the desk
 and walking forth to greet us. He was using a walking stick. "I am sure you are
 here with grave business." Did he snicker? Or does the human skull always look

@@ -12,7 +12,6 @@ Harry Potter might suggest. I sometimes think of her fondly.
 
 <!-- truncate -->
 
-
 The second girl I loved tried to change me into something I could never be. She
 bitched and bitched until I became even more than she could imagine. I left her
 way behind, but I sometimes think of her angrily.

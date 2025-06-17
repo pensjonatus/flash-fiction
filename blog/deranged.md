@@ -12,7 +12,6 @@ know.
 
 <!-- truncate -->
 
-
 He killed several people at a DMV. Did he snap after standing in line for too
 long? Try snapped after living too long. Some people are not meant to exceed the
 prehistoric life expectancy. Their buffer of anger is just too small. But this

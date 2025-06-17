@@ -12,7 +12,6 @@ then he turned to the problem at hand. Should he put an arm around her?
 
 <!-- truncate -->
 
-
 Let us see, it was the second date. The first one was an expensive Chinese
 restaurant. You do not count the burger and fries, no, you do not. So this was
 the second date. There was no goodbye kiss after the first one, just an aborted

@@ -14,7 +14,6 @@ back with him.
 
 <!-- truncate -->
 
-
 The phone stopped ringing. She went into the kitchen to make herself some
 chamomile tea. As the water was about to boil, the phone rang again. She knew
 she had to pick up this time. She ran to the living room.

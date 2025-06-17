@@ -13,7 +13,6 @@ are about two miles away. I thought it was just a dream, but it kept repeating.
 
 <!-- truncate -->
 
-
 One night, I woke up in a haze and went to the bathroom. After I did my
 business, I was about to leave when I caught a glimpse of something fleshy in
 the mirror. For split second, I thought I saw a woman's bare breasts. And then I

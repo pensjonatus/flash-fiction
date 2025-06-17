@@ -12,7 +12,6 @@ there. He looked back at the girl dead asleep in her bed.
 
 <!-- truncate -->
 
-
 She had been building up to this and, like a lot of men would, he had finally
 succumbed, forgetting his obligations to the woman in his life. He lied to be
 with this girl. They undressed frantically and made love like animals all over

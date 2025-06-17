@@ -11,7 +11,6 @@ She came to my book signing. I did not look up when it was her turn, I just said
 
 <!-- truncate -->
 
-
 "Daisy. Daisy Jones."
 
 "Oh my God, Daisy. How have you been?"

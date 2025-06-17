@@ -14,7 +14,6 @@ children. I hope I can do some good.
 
 <!-- truncate -->
 
-
 Dear diary, I had my first class with the little ones (oldest were 11) today and
 they are so sweet, but also so scary. We did finger painting and their art was
 not dark or bloody, you know, like in the moves. It was just so... weird. Some

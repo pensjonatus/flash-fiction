@@ -12,7 +12,6 @@ sitting in front of her laptop with headphones on, chuckling.
 
 <!-- truncate -->
 
-
 Then her boyfriend came back. He was having a bad day. He looked at her with
 disdain which then turned into sadness. She took her headphones off to hear what
 he had to say.

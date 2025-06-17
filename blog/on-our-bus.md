@@ -11,7 +11,6 @@ of people, so it's tricky trying to be fair, but we all get along rather well.
 
 <!-- truncate -->
 
-
 There used to be fewer people on the bus, I hear. People would get on and get
 off, going to places not on the bus. But then something happened, not sure what,
 and people no longer wanted to get off the bus. So there were more and more

@@ -12,7 +12,6 @@ the slingshot sound like a real gun.
 
 <!-- truncate -->
 
-
 He used it on different things, sometimes to further the cause of evil. Like
 when he broke Mrs. Stevenson's window. Or when he hit that fat cat. Or got Suzy
 in the back of her head and she cried and told her mom.

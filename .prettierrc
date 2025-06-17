@@ -1,0 +1,13 @@
+{
+  "singleQuote": true,
+  "semi": true,
+  "proseWrap": "always",
+  "overrides": [
+    {
+      "files": ["*.md", "*.mdx"],
+      "options": {
+        "proseWrap": "always"
+      }
+    }
+  ]
+}

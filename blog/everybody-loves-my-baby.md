@@ -13,7 +13,6 @@ he appeared.
 
 <!-- truncate -->
 
-
 "What is it, Matty? You look like you just seen the devil himself."
 
 "It's nothing, I have to get back in there," he was smiling, his cheeks were

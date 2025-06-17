@@ -12,7 +12,6 @@ afternoon was full of light. I heard her begin to snore a little.
 
 <!-- truncate -->
 
-
 "K*ocham cię*" I said.
 
 "What's that?" she awoke and opened her eyes slightly.

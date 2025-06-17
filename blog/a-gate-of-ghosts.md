@@ -15,7 +15,6 @@ from the train station.
 
 <!-- truncate -->
 
-
 When they were modernizing the hospital, they took the gate down and put it up
 against the outer wall for some time. A patron of arts bought the gate and moved
 it to a historical building where performance artists worked. The building had

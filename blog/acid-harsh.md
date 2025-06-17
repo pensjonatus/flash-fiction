@@ -12,7 +12,6 @@ that made him attractive in the eyes of women.
 
 <!-- truncate -->
 
-
 The tiny bell on the door chimed as he entered the diner, and Brenda trembled a
 little. Then she put on a harsh little face and focused on her cup of coffee. He
 scrambled over and sat down across her in the booth, his hair a mess and

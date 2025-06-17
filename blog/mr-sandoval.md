@@ -12,7 +12,6 @@ ticking away and you always want to know where you are in it.
 
 <!-- truncate -->
 
-
 Oh, Mr. Sandoval, can you sometimes go back to a calmer time? When you were
 younger and everything around you was new. Everything had potential to be the
 start of an adventure. Everyone you met could turn out to be a lifelong friend.

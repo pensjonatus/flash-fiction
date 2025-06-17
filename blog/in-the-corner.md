@@ -10,7 +10,6 @@ categories:
 
 <!-- truncate -->
 
-
 "Terry," I said, "I want us to start this on a friendly note. And be friends. I
 want to be friends with you."
 

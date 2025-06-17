@@ -13,7 +13,6 @@ even more surprised at what happened next.
 
 <!-- truncate -->
 
-
 Beyond the wall, somebody knocked back. Two knocks, just like me.
 
 I knocked again. Three knocks this time. Hoping to provoke more.

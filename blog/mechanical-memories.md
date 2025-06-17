@@ -14,7 +14,6 @@ the boss told me.
 
 <!-- truncate -->
 
-
 Ivan is coming up to my desk, his overalls are covered in grease, he is carrying
 his toolbox. He says hi, I say hi back, "Are you ready to finish your shift?" I
 ask.

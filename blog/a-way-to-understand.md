@@ -12,7 +12,6 @@ makes all the difference at that age.
 
 <!-- truncate -->
 
-
 "Do you think a man and a woman can be friends?" asked the younger one. He was
 holding a tome of Ted Hughes.
 

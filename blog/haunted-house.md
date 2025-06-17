@@ -13,7 +13,6 @@ It was a really happy time for my genitals.
 
 <!-- truncate -->
 
-
 One Halloween, we decided to sneak into an old abandoned house.
 
 "They say the old lady who lived here," said Jerry, "Was a devil worshiper. She

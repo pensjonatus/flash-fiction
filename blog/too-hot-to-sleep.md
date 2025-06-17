@@ -12,7 +12,6 @@ sleep, too tired to really talk, too hot to sleep.
 
 <!-- truncate -->
 
-
 "You wanna come back inside?" he said, "We can put the AC on."
 
 "No, I'm good here." She put her hand on his chest. Their skins instantly became

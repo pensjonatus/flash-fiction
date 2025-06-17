@@ -16,7 +16,6 @@ your chances of dying are pretty small.
 
 <!-- truncate -->
 
-
 Suddenly, two girls ran past me screaming "Let's race!"
 
 They stopped a few paces ahead of me and turned back, walking slowly, laughing.

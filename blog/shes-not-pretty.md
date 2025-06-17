@@ -9,7 +9,6 @@ Gil and Deb were sitting at the bar, having some beers after work.
 
 <!-- truncate -->
 
-
 "Look at that waitress," said Gil, "I wouldn't mind..."
 
 Deb's face turned into a mask of hatred for a second, and then she said with

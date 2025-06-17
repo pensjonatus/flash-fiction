@@ -12,7 +12,6 @@ on some whiskey, looking at the lights on the Christmas tree.
 
 <!-- truncate -->
 
-
 "How you doing, hon?" she asked like she always did.
 
 He smiled a bitter smile, "Fine, you know that. Just a little tired."

@@ -13,7 +13,6 @@ posters.
 
 <!-- truncate -->
 
-
 I am called the vagabond because I know every nook and cranny of the office. I
 have been to all the floors, east and west wing, as well as the canteen. I have
 spoken with the sentinels of the restricted area and bartered with the denizens

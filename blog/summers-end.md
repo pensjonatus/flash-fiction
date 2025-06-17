@@ -13,7 +13,6 @@ nothing to him. Nevertheless, he noticed and greeted it with a smile.
 
 <!-- truncate -->
 
-
 The end of the season meant he had to move on. Perhaps east, deeper into the
 great continent to find work at a diner, a construction site, or a
 slaughterhouse. A man like him could do anything in this land of opportunity. He

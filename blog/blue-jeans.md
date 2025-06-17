@@ -10,7 +10,6 @@ eye.
 
 <!-- truncate -->
 
-
 "Excuse me, is this the train to Yorkville."
 
 "Yes," I said.

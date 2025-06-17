@@ -10,7 +10,6 @@ of a mirror. It was tight. Maybe too tight?
 
 <!-- truncate -->
 
-
 She stood sideways. What the hell? She had been dieting and working out like
 crazy, but her belly was still round. She inspected her arms and legs, they were
 skinny, practically no fat, her face was alright too. So what the hell?

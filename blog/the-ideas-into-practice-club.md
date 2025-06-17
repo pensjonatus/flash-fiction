@@ -14,7 +14,6 @@ Let's begin. Jonah, what did you do this week."
 
 <!-- truncate -->
 
-
 "Well, my idea was to start a pizza club. So, I called on a few friends and we
 had a pizza dinner together."
 

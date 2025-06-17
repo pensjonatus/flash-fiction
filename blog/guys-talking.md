@@ -10,7 +10,6 @@ coffee, looking at the girls walking by.
 
 <!-- truncate -->
 
-
 "We need to make a move on the Henderson account," said one, as a blonde passed
 by.
 

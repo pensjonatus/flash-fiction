@@ -11,7 +11,6 @@ like she had gotten the great lesson about life and death.
 
 <!-- truncate -->
 
-
 Her sister Madison walked in.
 
 "Oh my God, Madison!" Juliana screamed in delight. "Where have you been all

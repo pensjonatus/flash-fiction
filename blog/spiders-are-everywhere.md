@@ -12,7 +12,6 @@ talking.
 
 <!-- truncate -->
 
-
 "Do you know when the nurse is going to be back?"
 
 "Not sure," said the taller of the men, "She did not leave a note or anything.

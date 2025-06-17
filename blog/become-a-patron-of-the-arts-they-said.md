@@ -11,7 +11,6 @@ right next to me the whole time like a good little boy.
 
 <!-- truncate -->
 
-
 "And this one, Mr. Delaney, is a very angry piece," he would say, or "I put a
 lot of passion into creating this arrangement," and I was amused by his
 deference.

@@ -13,7 +13,6 @@ managed to get inside before I could make the decision to act.
 
 <!-- truncate -->
 
-
 The following evening, he came over to the shop. He looked very tired, pale, and
 as thin as paper. He smiled and said:
 

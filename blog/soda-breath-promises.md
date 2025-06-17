@@ -13,7 +13,6 @@ night was over.
 
 <!-- truncate -->
 
-
 The second time they saw each other was on the subway, almost two years later.
 She smiled and he thought he knew her very well but could not remember where
 they met, so he wanted to walk up and talk to her, but the train stopped and she

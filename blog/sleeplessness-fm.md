@@ -12,7 +12,6 @@ listen to. Here's some music and then I will be back with an announcement."
 
 <!-- truncate -->
 
-
 As the music played, he was looking out the window on the parking lot. Only his
 car was there in the stale lamplight.
 

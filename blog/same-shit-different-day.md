@@ -12,7 +12,6 @@ rule in Rome, and Marcus Polonius had an agenda.
 
 <!-- truncate -->
 
-
 He looked around, the same shady characters as always were getting drunk and
 ready to brawl, but it was still early, still time for polite conversations. He
 spotted the man he wanted to see tonight.

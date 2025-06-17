@@ -13,7 +13,6 @@ God.
 
 <!-- truncate -->
 
-
 The cave offered a breath of cool air, so important on a dry hot day as this
 one. The cave was peaceful and quiet. The cave was lit up by hundreds of tiny
 candles. (Who lights them up? Are they gas lights?) The cave was manned by

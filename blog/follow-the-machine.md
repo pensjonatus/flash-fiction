@@ -11,7 +11,6 @@ but the machine will ensure our safety and will lead us out of the labyrinth.
 
 <!-- truncate -->
 
-
 My name is Boot and I am the oldest in our group. I am happy to say, my journey
 has been without misadventure and my legs are hardened after all the years. I am
 still strong enough to walk for eight hours and quick enough to stay a step

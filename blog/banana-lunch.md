@@ -12,7 +12,6 @@ red curls bounced around her pale freckled face. "Huh?"
 
 <!-- truncate -->
 
-
 That gave her enough time to think.
 
 "What kind of music do you like, Rox?"

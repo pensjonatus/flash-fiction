@@ -14,7 +14,6 @@ Spanish exam.
 
 <!-- truncate -->
 
-
 "Hi, Katie," he whispered.
 
 "Hi, Tom," she looked up from the book with a smile, all the light of the

@@ -11,7 +11,6 @@ the ring came again.
 
 <!-- truncate -->
 
-
 RIIIIING!
 
 It was the telephone. I picked up before it rang again.

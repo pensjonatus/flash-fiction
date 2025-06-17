@@ -10,7 +10,6 @@ glass down. The bar was crowded, it was game night.
 
 <!-- truncate -->
 
-
 "Why is that, Frank?" Garry had his face paint on. Go Vikings!
 
 "It's my daughter's recital tomorrow night, and Anna has this gallery thing."

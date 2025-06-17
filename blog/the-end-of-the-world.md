@@ -12,7 +12,6 @@ until the end comes.
 
 <!-- truncate -->
 
-
 Logan was sitting on somebody's porch. The house was deserted. So was the main
 street. He was trying to remember who used to live here, but he could not. He
 almost did not notice the woman in the grey sweatshirt. When she got closer, he

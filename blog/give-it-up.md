@@ -10,7 +10,6 @@ when I got the message. My daughter was on floor 366.
 
 <!-- truncate -->
 
-
 I ran towards the elevator and I saw the "out of order" icon, blazingly red, and
 right under it, I saw the "fire" icon. Of course, the elevators would be
 disabled in a fire.

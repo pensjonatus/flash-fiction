@@ -12,7 +12,6 @@ so I decided to use the bicycle from then on.
 
 <!-- truncate -->
 
-
 But here's how I started walking to work. You see, one morning the chain on my
 bike broke, so I just walked. It was still good exercise, and I could take the
 time to enjoy the views.

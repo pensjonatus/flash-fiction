@@ -12,7 +12,6 @@ beat him up.
 
 <!-- truncate -->
 
-
 A man stopped to throw a dog out. The dog howled and ran after the car. A train
 screamed in the distance. I know the schedule by heart.
 

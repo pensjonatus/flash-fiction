@@ -9,7 +9,6 @@ The writer was having breakfast at a waffle house when a young man approached.
 
 <!-- truncate -->
 
-
 "Hi, I'm sorry. Are you Jeff Wilkowsky."
 
 "Yes, that's me."

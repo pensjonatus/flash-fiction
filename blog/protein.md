@@ -13,7 +13,6 @@ fat, or carbs. He made little baggies and put them in his backpack.
 
 <!-- truncate -->
 
-
 One of his roommates, Jack, walked into the kitchen, "How's the rationing going,
 man?" he said with a yawn, still trying to wake up.
 

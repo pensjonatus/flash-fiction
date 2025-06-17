@@ -12,7 +12,6 @@ and replaced, small notes and memos, and so on.
 
 <!-- truncate -->
 
-
 I left the lawyer's office with 14 cardboard boxes of these tiny treasures. When
 I unloaded them in the garage, they covered the whole workbench, which by the
 way, I never used. I opened the first box and started looking through the

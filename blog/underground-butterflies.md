@@ -11,7 +11,6 @@ For him, it was the underground butteflies.
 
 <!-- truncate -->
 
-
 The assistant cleared her throat to get his attention: "Sir, we're ready for
 you, but also, you wife wants to see you after the talk."
 

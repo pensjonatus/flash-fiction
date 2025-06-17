@@ -9,7 +9,6 @@ categories:
 
 <!-- truncate -->
 
-
 I rushed to the intercom, it rang again before I got there. I pressed the
 button. "Who is it?"
 

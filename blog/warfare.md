@@ -1,9 +1,9 @@
 ---
-title: "Warfare"
-date: "2013-04-24"
+title: 'Warfare'
+date: '2013-04-24'
 categories:
-  - "flash-fiction"
-  - "love"
+  - 'flash-fiction'
+  - 'love'
 ---
 
 Veronica was an unexpected ally, I have to admit. I it were not for her, I would

@@ -16,7 +16,6 @@ ever before in his life.
 
 <!-- truncate -->
 
-
 It was 4 am, but Ben was still up, looking at the views on his video, refreshing
 every couple dozen seconds, watching the number climb. He was making his first
 million. Not million views, his first million dollars. People across the globe

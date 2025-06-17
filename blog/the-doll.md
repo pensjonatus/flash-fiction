@@ -11,7 +11,6 @@ preserved. I brought it home to Victoria.
 
 <!-- truncate -->
 
-
 "Thank you," she said with a broad smile, "You're so sweet. You always know what
 to get me. Where do you find such beautiful things?"
 

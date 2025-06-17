@@ -15,7 +15,6 @@ trying to avoid his gaze.
 
 <!-- truncate -->
 
-
 I thought about how many of them had actually been to the war. The suited ones?
 Not likely. The rough Jersey boys? Maybe one of them. The stout construction
 builder types? Maybe. The slim young college type wearing glasses? I doubt that,

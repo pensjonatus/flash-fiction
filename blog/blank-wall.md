@@ -13,7 +13,6 @@ could focus on their departure and get ready to leave this planet.
 
 <!-- truncate -->
 
-
 They talked about their past relationships, their military service, their
 business and moneymaking. They both had had rich and fulfilling lives. But they
 were not completely symmetrical.

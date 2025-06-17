@@ -12,7 +12,6 @@ were safe.
 
 <!-- truncate -->
 
-
 "I wonder," my wife said, "What will happen to this..." she could not bring
 herself to say it.
 

@@ -11,7 +11,6 @@ people in the night are not easy to get used to, so they wake me up.
 
 <!-- truncate -->
 
-
 Some people are coming back from a party, singing. I wake up in the middle of a
 woman's solo. then the others join in. It's a sea shanty, far far away from the
 sea. They are headed for the underground tunnel, so their voices fade and I

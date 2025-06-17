@@ -11,7 +11,6 @@ can buy anything.
 
 <!-- truncate -->
 
-
 "First day," said the older man, "How exciting. I remember my first day. You
 will do well here, young man."
 

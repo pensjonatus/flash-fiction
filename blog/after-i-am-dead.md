@@ -12,7 +12,6 @@ Heaven, eternally in bliss.
 
 <!-- truncate -->
 
-
 I am not in hell either, tormented by demons, of my separation from the creator.
 
 I was alive and experienced great joy and great sorrow. But then I died and my

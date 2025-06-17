@@ -13,7 +13,6 @@ of sleep.
 
 <!-- truncate -->
 
-
 "What's your favorite thing when we're having sex?" she asked.
 
 He did not want to talk about it. It was that point beyond satisfaction on the

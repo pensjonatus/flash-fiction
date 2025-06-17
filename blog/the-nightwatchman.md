@@ -12,7 +12,6 @@ It could have been so pretty.
 
 <!-- truncate -->
 
-
 A shadow descended from the black sky. Two sharp horns. Black wings.
 
 Freddy tried to stay tough, even though he was about to shit his pants. "Circus

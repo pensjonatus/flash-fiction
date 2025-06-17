@@ -12,7 +12,6 @@ long silver spoon on the side of the plate.
 
 <!-- truncate -->
 
-
 "What are they?" she asked.
 
 "Ah, a delicacy," he said. "Travellers brought them from a different planet.

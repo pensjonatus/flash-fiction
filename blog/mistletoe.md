@@ -10,7 +10,6 @@ drunk by then.
 
 <!-- truncate -->
 
-
 Mark had been watching her from afar throughout the party. She seemed to follow
 her own rules of behavior, taking drinks away from people and giving them to
 others, or changing the music. She danced with everyone and no one. She made out

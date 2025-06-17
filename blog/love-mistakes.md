@@ -12,7 +12,6 @@ I broke up with her. I wanted to say "Hey, doll," like I used to.
 
 <!-- truncate -->
 
-
 "Hey, Doris," I said, "How are you?"
 
 "Fine," she was indifferent. "I have the portfolio you asked for. Hopefully,

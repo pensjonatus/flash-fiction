@@ -13,7 +13,6 @@ But play your cards right, and you just might get a private show."
 
 <!-- truncate -->
 
-
 No, that is too sleazy. How about I show up in a cardigan and glasses and be the
 nerdy sensitive type but when I can get a girl upstairs, I will eat her out like
 a masterful master of head.

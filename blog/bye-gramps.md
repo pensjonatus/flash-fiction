@@ -12,7 +12,6 @@ We all had a good laugh, only mom sneaked a few tears into her dishcloth.
 
 <!-- truncate -->
 
-
 I wanted to play some videogames, but grandpa convinced me to play catch for a
 little bit and I must admit it was fun. Grandpa had quite an arm for somebody
 his age. He told me stories from his childhood. Really short and funny ones. He

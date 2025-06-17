@@ -13,7 +13,6 @@ speed, each year would only be 18 days long.
 
 <!-- truncate -->
 
-
 For Ellie, the great conflict began when she discovered her husband's mistress's
 blog. The slutty slutty girl described all the intimate details of the forbidden
 relationship, and Ellie soon began to compete. Letting him come in her mouth and

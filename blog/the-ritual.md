@@ -11,7 +11,6 @@ contained some nonsense words, like "Teera Deera Poora Park."
 
 <!-- truncate -->
 
-
 Sarah read the poems aloud to see if they were beautiful to listen to. When she
 finished, she felt a chill come down her back and an eerie presence fill the
 room.

@@ -16,7 +16,6 @@ as big as my fist.
 
 <!-- truncate -->
 
-
 Soon enough, we made enough money to cover up our indiscretion and the hospital
 began to flourish. In a dreary twist of fate, I grew weary of the city to the
 point of nausea, so I moved into the countryside. I set up a small office at the

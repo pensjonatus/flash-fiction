@@ -11,7 +11,6 @@ remove their makeup and talk.
 
 <!-- truncate -->
 
-
 "You once told me," said Sharon, "That you dumped a girl to be with another
 woman. And that woman became your wife."
 

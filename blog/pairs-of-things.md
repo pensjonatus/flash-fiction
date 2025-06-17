@@ -11,7 +11,6 @@ a special crutch.
 
 <!-- truncate -->
 
-
 I walked past the swan pond, past the playground, and into a nice shaded path.
 There were boulders on one side of the path and a dinosaur skeleton on the
 other. I stopped to look at the skeleton.

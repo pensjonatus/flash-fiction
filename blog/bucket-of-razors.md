@@ -11,7 +11,6 @@ so I just rushed by the bucket a few times, but finally it caught my attention.
 
 <!-- truncate -->
 
-
 "Mikey, do you know who put this here?" I asked and he shrugged. I asked a few
 other people, but nobody knew.
 

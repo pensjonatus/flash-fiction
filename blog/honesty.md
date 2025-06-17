@@ -13,7 +13,6 @@ for a way into the West Coast robotics industry.
 
 <!-- truncate -->
 
-
 “Tomorrow after lunch, we should talk to Henderson,” she said, “This will give
 us an opportunity to reach his IsoDyne connection.”
 

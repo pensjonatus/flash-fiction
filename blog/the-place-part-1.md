@@ -13,7 +13,6 @@ place. It was dark, mysterious, and we wanted to go back there.
 
 <!-- truncate -->
 
-
 Let me tell you about how we found our way there, and then I can tell you what
 it was like. The way will not work again. We tried and it only worked once.
 Other times we got there (if it was the same place!) we used a different way.

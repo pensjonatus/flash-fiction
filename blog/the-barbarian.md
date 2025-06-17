@@ -13,7 +13,6 @@ muscles, muscles.
 
 <!-- truncate -->
 
-
 The ladies seemed to notice, at least that is what he thought. He held his head
 up high and demonstrated the peak of his wit to all around. He was also
 chivalrous, offering his seat to Lisa, bringing drinks for the table, and

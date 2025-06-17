@@ -12,7 +12,6 @@ destination.
 
 <!-- truncate -->
 
-
 "Well, hello," said the lady, "Are you a new tennant here? Perhaps Gloria's
 boyfriend?"
 

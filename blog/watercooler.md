@@ -11,7 +11,6 @@ categories:
 
 <!-- truncate -->
 
-
 Gregory rolled his eyes and mimicked a man hanging himself. "Boooring!" he
 shouted from beyond the closed eyes of death.
 

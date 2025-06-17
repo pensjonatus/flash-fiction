@@ -9,7 +9,6 @@ categories:
 
 <!-- truncate -->
 
-
 "The Body Reformation Oversight Clinic, yes," said the young on the other side.
 "Would you like to come in for a consultation?"
 

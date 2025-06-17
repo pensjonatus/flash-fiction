@@ -13,7 +13,6 @@ educated people my age, but I also like electronic text.
 
 <!-- truncate -->
 
-
 Anyway, Andy at my work is the man who finds all these accesses to different
 information stores, like websites, databases, and archives. I use them to track
 down the information people look for. They read in an old excerpt that Prince

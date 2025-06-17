@@ -12,7 +12,6 @@ took the kids. It was part of normal life.
 
 <!-- truncate -->
 
-
 But the back of the house was a different story altogether. It faced the woods
 and I never felt safe there. Even during day time, when you stare into the woods
 there is something looking back at you. Something that reminds you.

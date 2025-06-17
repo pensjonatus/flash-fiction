@@ -12,7 +12,6 @@ slowly.
 
 <!-- truncate -->
 
-
 Alice appeared in the door frame behind Mack. He could sense her quiet presence.
 
 "What?" he said lazily.

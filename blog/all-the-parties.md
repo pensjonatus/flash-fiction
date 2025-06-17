@@ -10,7 +10,6 @@ Everybody gazed up at the sky; it was full of stars.
 
 <!-- truncate -->
 
-
 "It don't get like that in the city," said Efron.
 
 "It sure doesn't," I confirmed.

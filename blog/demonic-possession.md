@@ -12,7 +12,6 @@ B, watching little Timmy play. The boy had just finished spelling the word
 
 <!-- truncate -->
 
-
 "I've said it before," said the doctor, "There is no such thing as demonic
 possession. For centuries, primitive cultures attributed behavior they could not
 understand to the supernatural. Women who practiced medicine in the Middle Ages

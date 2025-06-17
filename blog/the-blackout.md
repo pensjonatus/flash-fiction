@@ -13,7 +13,6 @@ able to wear a relaxed smile, no problem.
 
 <!-- truncate -->
 
-
 She was pretty, like the girls I used to date in college. I had a long break,
 but now I was back on the market, as they say. No, I hate cliches like that. I
 was... What was I?

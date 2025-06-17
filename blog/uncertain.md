@@ -15,7 +15,6 @@ and when you were with her, you felt very special.
 
 <!-- truncate -->
 
-
 But I figured everyone got that from her, so when we talked, I sometimes made
 fun of that. Especially later, when I started meeting her at parties and such. I
 would pretend to be coming on to her as a joke, ironically, to suggest I would

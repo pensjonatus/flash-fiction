@@ -13,7 +13,6 @@ the alcoholic stage of Dave.
 
 <!-- truncate -->
 
-
 "How many times do we need to go through this?" said Margo, and Jessica a little
 bit too.
 

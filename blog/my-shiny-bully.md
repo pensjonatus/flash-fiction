@@ -16,7 +16,6 @@ like him were wolves.
 
 <!-- truncate -->
 
-
 Then something changed near the end of junior high. Jeremy started giving us a
 pass in the hallway, he ignored us at lunch, he sometimes even said hi. We
 wondered what brought about the change and speculated wildly, until one day I

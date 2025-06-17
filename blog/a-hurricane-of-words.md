@@ -13,7 +13,6 @@ so I decided to take action.
 
 <!-- truncate -->
 
-
 I called my agent:
 
 "I have a serious problem with this place."

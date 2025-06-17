@@ -15,7 +15,6 @@ distract myself.
 
 <!-- truncate -->
 
-
 A theatrical mask lying on a wooden table, an old, old table. I am tired of
 doing things with my thoughts, I force myself to imagine myself sleeping. I am
 sleeping on the floor, at the girl's apartment, that one time when I got all the

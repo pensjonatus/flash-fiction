@@ -14,7 +14,6 @@ front desk girl, Lucy, refused him, no matter how much money he threw at her.
 
 <!-- truncate -->
 
-
 So, people travel just to see the garage. There are hundreds of cars parked
 around the garage all the time, creating a makeshift town in the middle of the
 desert. There are facilities as well, and music, and merchants.

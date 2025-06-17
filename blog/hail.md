@@ -11,7 +11,6 @@ sitting there, listening to the drumming on the rooftiles.
 
 <!-- truncate -->
 
-
 "I was only out there for like ten seconds," I said, "And I'm all wet."
 
 "That's Mother Nature," said my uncle, "She'll get ya'."

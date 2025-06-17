@@ -13,7 +13,6 @@ only understood something about a prince and not much more.
 
 <!-- truncate -->
 
-
 Later that night, I was in a cafe and two French girls gave me some looks and
 smiles from across the room. I imagined myself taking both of them to my hotel
 room and making passionate love in my first ever threesome. But then I thought

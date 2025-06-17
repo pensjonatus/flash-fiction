@@ -12,7 +12,6 @@ wear mysterious hues at night. And they are silent.
 
 <!-- truncate -->
 
-
 As people go about their business in the streets of this town, and tip their
 hats in greetings, they glance nervously at the flower circle. They never glance
 more than twice in a row actually, because they don't know what could happen.

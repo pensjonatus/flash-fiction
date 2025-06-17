@@ -11,7 +11,6 @@ lingered a little too long.
 
 <!-- truncate -->
 
-
 "Hi, I'm Thomas... McClintock. Amanda's husband."
 
 "Nice to meet you, Thomas," she replied, "I'm Jane." She smiled a satisfied

@@ -12,7 +12,6 @@ waiting for your calls, so don't be shy.
 
 <!-- truncate -->
 
-
 What I just realized, and I know it's obvious, but in the nineties there were no
 cellphones. How did people ever get together? What if you had a change of plans?
 Or were stuck in traffic? Seems amazing, but we actually used to have more

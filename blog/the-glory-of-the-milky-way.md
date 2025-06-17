@@ -13,7 +13,6 @@ of stars.
 
 <!-- truncate -->
 
-
 I wobbled across the garden, now all covered in snow, opened the small door in
 the fence to get into the street, and walked down the street almost all the way
 across town. The stars were bright enough to light my way so I did not need a

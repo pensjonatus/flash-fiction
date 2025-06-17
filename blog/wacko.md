@@ -13,7 +13,6 @@ mess. He leaned over the front desk.
 
 <!-- truncate -->
 
-
 "Please," he said, "there is something wrong." I started walking towards him.
 
 "What is it, sir?" the receptionist replied politely.

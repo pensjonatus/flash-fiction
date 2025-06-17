@@ -15,7 +15,6 @@ what he does and than he has to live with it.
 
 <!-- truncate -->
 
-
 "I have all my things packed. I'm just," she does not finish. She is too kind to
 say these final words.
 

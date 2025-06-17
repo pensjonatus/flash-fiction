@@ -11,7 +11,6 @@ salmon, vegetable tempura. The conversation was:
 
 <!-- truncate -->
 
-
 "I saw a spider in the shower yesterday," said Chaz, "I let it scoot before I
 ran the water. Poor guy does not deserve to die in a watery grave."
 

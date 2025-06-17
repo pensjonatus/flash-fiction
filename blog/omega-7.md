@@ -11,7 +11,6 @@ what I do. I do it to promote a brand. No big deal.
 
 <!-- truncate -->
 
-
 I met a man in Prague who told me about a church he goes to.
 
 "No, it's not really a church. These are meetings. We investigate," he said.

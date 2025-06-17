@@ -12,7 +12,6 @@ beginning to wrinkle.
 
 <!-- truncate -->
 
-
 You have birthmarks, and brown spots, and cellulite, and zits, and hairs... You
 scratch. You smell when you are sweaty (a wonderful sour smell) and there is
 sometimes dirt on your skin.

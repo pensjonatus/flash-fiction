@@ -12,7 +12,6 @@ dimensions, or 9. Come on!
 
 <!-- truncate -->
 
-
 The density theory says there are five dimensions, the fifth being matter
 density, and thanks to that, objects can occupy the same space. There is enough
 room between atoms for that to be possible, things just mesh or pass through

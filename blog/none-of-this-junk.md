@@ -13,7 +13,6 @@ shaking, aching, trembling, longing.
 
 <!-- truncate -->
 
-
 A man appeared in his way. Shady, murky, a large puffy jacket, a cap and shades
 (it was still night time). The man was secretive.
 

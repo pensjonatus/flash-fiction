@@ -10,7 +10,6 @@ were tears of anger in his eyes. The other kid was looking tough, but Jim knew.
 
 <!-- truncate -->
 
-
 It was after school, under the bleachers, and this time it was jock fighters
 against heavy metal kids, three one-on-one matches. It was not Jim's first
 fight, but it was the first one after he learned to apply Psychology.

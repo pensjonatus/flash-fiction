@@ -12,7 +12,6 @@ he always imagined was natural.
 
 <!-- truncate -->
 
-
 He did the bathroom, then had a piece of toast for breakfast, and sat down in
 front of his laptop to get updated. Finally, about an hour later, he was ready
 to get to work.

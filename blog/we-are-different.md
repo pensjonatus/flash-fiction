@@ -9,7 +9,6 @@ categories:
 
 <!-- truncate -->
 
-
 "Yes," the metallic voice was emotionless.
 
 "Thank you," she was about to leave, but she hesitated. The mechanical man

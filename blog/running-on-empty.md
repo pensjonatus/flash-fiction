@@ -12,7 +12,6 @@ She had a hat on and a scarf to keep it fixed.
 
 <!-- truncate -->
 
-
 "That's rule number one," said the other Matt, "Do not insult a man in his car.
 So yeah, Matt. I'm sorry I called you a fag."
 

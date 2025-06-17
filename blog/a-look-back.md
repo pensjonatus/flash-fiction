@@ -12,7 +12,6 @@ light hit her hair just right, so I lifted my camera to take a photo.
 
 <!-- truncate -->
 
-
 She sensed I was doing it. She stopped and looked back at me. Her eyes said
 everything I was to learn in the years to come. She would marry me, but not
 because she really wanted to. She would not tolerate my infidelities.  She would

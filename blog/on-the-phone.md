@@ -10,7 +10,6 @@ his phone vibrating. He picked up quickly.
 
 <!-- truncate -->
 
-
 "Hello?"
 
 "John, is it you? It's Lisa."

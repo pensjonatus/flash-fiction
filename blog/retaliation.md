@@ -17,7 +17,6 @@ enchanting a colander and putting it on his head.
 
 <!-- truncate -->
 
-
 But not that night. Sitting on his throne-couch alone, he was looking outside,
 over Las Vegas, onto the bright horizon where the sun was about to rise. He was
 restless.

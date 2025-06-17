@@ -12,7 +12,6 @@ silence.
 
 <!-- truncate -->
 
-
 "I want you to move out," he said finally.
 
 "I have nowhere to go," she said calmly.

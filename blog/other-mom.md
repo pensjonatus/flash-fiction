@@ -10,7 +10,6 @@ I tucked my son in and gave him a hug. As I got up to leave, he said:
 
 <!-- truncate -->
 
-
 "Mom, I liked your hugs better before."
 
 "What do you mean, honey?" I asked.

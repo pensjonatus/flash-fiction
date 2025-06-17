@@ -13,7 +13,6 @@ she went over to the terrace door and opened it.
 
 <!-- truncate -->
 
-
 Then I heard a flutter, like a whole lot of pigeons. I sat up to look, but she
 was gone. Flown out of the window [like my mother](./the-lady-who-drops-leaves).
 

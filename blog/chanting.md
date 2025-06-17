@@ -14,7 +14,6 @@ parts became alien and self-amputated.
 
 <!-- truncate -->
 
-
 "I wonder how many more like this one they will bring us," orderly Brody
 wondered, "Hope not too many, it gives me the creeps to see them."
 

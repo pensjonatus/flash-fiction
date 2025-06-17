@@ -11,7 +11,6 @@ not order any coffee, and waited.
 
 <!-- truncate -->
 
-
 Later, at the party she said looking at her phone: "Oh, you sent me a text. I
 did not see it."
 

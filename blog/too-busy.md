@@ -10,7 +10,6 @@ She called Frank. "Hey, Frank, you got a minute."
 
 <!-- truncate -->
 
-
 "Sorry, I'm too busy," he said.
 
 "Oh, that's too bad."

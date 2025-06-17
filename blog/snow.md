@@ -14,7 +14,6 @@ all left together and they are still somewhere out there. My father, too.
 
 <!-- truncate -->
 
-
 And then my older brother was sad because he could no longer listen to the music
 he liked. None of us could do the things we liked because that would make God
 angry. At least, that is what the new teacher at school keeps saying. I do not

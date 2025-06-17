@@ -11,7 +11,6 @@ enough for him to haunt the place.
 
 <!-- truncate -->
 
-
 You see, unbeknownst to Klaus, humans actually have no souls. Granted, Klaus was
 a sensitive young man. He read a lot of novels and books of poems, waxing over
 the pure and perfect heroines. He wrote poems of his own and he painted too. He

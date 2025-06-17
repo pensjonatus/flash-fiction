@@ -12,7 +12,6 @@ the longer he looked at the people, the more patterns his brain began to form.
 
 <!-- truncate -->
 
-
 The first pattern was that most people were joined into couples. That was
 slightly sad, as Jim was currently single. But, he thought, some of these people
 were alone.

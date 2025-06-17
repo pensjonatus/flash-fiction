@@ -11,7 +11,6 @@ she was. She came out with a guy.
 
 <!-- truncate -->
 
-
 "Hi Jeremy," she said, "Nice to see you, what are you up to? This is my
 boyfriend, Troy."
 

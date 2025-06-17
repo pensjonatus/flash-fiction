@@ -13,7 +13,6 @@ tell me a lot of great stories and time would pass by faster.
 
 <!-- truncate -->
 
-
 There is nothing wrong with two men talking, boatswain. Nothing wrong at all,
 even though people now think of it as dirty. There is nothing like the bond that
 is created between two seamen in line of duty.

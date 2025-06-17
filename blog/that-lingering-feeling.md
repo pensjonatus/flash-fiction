@@ -11,7 +11,6 @@ of nice weather and interesting conversations. He was smiling.
 
 <!-- truncate -->
 
-
 "They are not here today," said Bryan. "I can give it to them in our daily over
 Skype."
 

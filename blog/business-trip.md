@@ -11,7 +11,6 @@ jug of milk.
 
 <!-- truncate -->
 
-
 The car that took me to my meetings was armored. The building where we did
 business was a real fortress, and the guards were the most loyal among the brown
 people. They were paid well and well fed. In the meeting rooms we exchanged fat

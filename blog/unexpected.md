@@ -15,7 +15,6 @@ with the subject line. "You won't believe it."
 
 <!-- truncate -->
 
-
 It said:
 
 _Hi Michael,_

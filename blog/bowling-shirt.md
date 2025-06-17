@@ -14,7 +14,6 @@ was 3 am. "Do you bowl?"
 
 <!-- truncate -->
 
-
 "Oh, the shirt?" I said, "No, I thought we were supposed to wear costumes. I'm
 Jesus from _The Big Lebowski_."
 

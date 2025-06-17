@@ -12,7 +12,6 @@ also wonder what makes her desperate late at night.
 
 <!-- truncate -->
 
-
 I cannot sleep, so I remember the time when I was lying in the snow with a hole
 in my stomach. I wondered if I would freeze to death or bleed out first. I never
 found out.

@@ -15,7 +15,6 @@ got off at the next station.
 
 <!-- truncate -->
 
-
 This morning I saw her again. It had been years, but somehow I recognized her
 face almost instantly. She jumped onto the train last minute, as the door was
 about to close. She was carrying a box full of stuff, like she was moving. She

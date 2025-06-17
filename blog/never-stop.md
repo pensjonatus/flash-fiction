@@ -11,7 +11,6 @@ under his head.
 
 <!-- truncate -->
 
-
 His shirt was unbuttoned. He had gained some weight recently, but that did not
 matter at all, there was nobody to judge him out here. Besides, a farm owner
 could have a tummy that sticks out. A real man gut.

@@ -10,7 +10,6 @@ night, the street was quiet. Her house was dark, everyone had gone to sleep.
 
 <!-- truncate -->
 
-
 She had spoken to him that day. She asked him for a pencil and he had a spare,
 so he gave it up. She smiled and took it but forgot to return it. Could he talk
 to her and ask her for it?

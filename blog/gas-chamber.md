@@ -12,7 +12,6 @@ reminiscent of some of the most primitive ages in human history.
 
 <!-- truncate -->
 
-
 The gases used vary from day to day, but most of the time death comes after no
 less than 10 minutes of inhalation. It is often accompanied by tears, a metallic
 taste, aching joints, difficulty breathing, vomiting, headaches, loss of vision,

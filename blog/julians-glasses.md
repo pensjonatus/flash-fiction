@@ -10,7 +10,6 @@ second, but tenderly.
 
 <!-- truncate -->
 
-
 It was a sixties-style cafe, with colorful furniture and murals of Audrey
 Hepburn. The two girls ordered some fashionable coffee and talked about this and
 that. Finally, they got to the point.

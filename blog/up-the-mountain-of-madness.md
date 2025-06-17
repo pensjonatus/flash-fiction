@@ -11,7 +11,6 @@ to go back to the presentation at hand, flipping to the next slide.
 
 <!-- truncate -->
 
-
 The next twitch came that evening, and he had been waiting. He wanted to see
 what causes the twitch and he managed to catch it. It was an image from his
 life, coming back with full intensity of all the senses. He was returned to the

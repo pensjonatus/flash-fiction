@@ -12,7 +12,6 @@ and I wanted to save what was left, so I just hopped trains.
 
 <!-- truncate -->
 
-
 "I got off a freight in Lousiana and I saw a man laying in a ditch. He was all
 beat up, could hardly breathe, dying almost dead. I got closer asking 'Hey
 mister, are you okay?' which was a dumb question, if I ever heard one. And he

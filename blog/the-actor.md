@@ -14,7 +14,6 @@ actor the following week.
 
 <!-- truncate -->
 
-
 Yet somehow, the actor was not happy. He got up from the couch, took off his
 fashionable scarf, then his designer sweater which he wore over nothing and
 stood in front of a mirror, looking at his exposed torso. The chiseled chest,

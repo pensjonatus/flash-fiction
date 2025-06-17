@@ -11,7 +11,6 @@ people.
 
 <!-- truncate -->
 
-
 An hour later she came back and she was slightly drunk.
 
 "Hey," she said, "Want to get out of here?"

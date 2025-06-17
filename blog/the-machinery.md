@@ -10,7 +10,6 @@ with Mandy and play by the river, and he could not.
 
 <!-- truncate -->
 
-
 Her mother had told him Mandy was having her _menstrual cramps_. He felt sorry
 for her so he came back with an m&m cookie and climbed the window to give it to
 her. Mandy cried and then yelled at him.

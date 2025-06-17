@@ -11,7 +11,6 @@ the warm comfort that comes after sex. He smiled back.
 
 <!-- truncate -->
 
-
 "Are you sometimes bored with me?" she asked.
 
 "What? No. What gave you that idea?"

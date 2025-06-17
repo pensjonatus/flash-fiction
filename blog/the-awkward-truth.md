@@ -10,7 +10,6 @@ up, he was smoking. The room was stuffy.
 
 <!-- truncate -->
 
-
 "I've already told you."
 
 "I have more questions."

@@ -14,7 +14,6 @@ which I had not seen in years.
 
 <!-- truncate -->
 
-
 I waved slightly to get her attention. She noticed me and recognition flickered
 in her eye. So I approached her with a smile.
 

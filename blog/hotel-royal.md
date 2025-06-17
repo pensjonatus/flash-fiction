@@ -10,7 +10,6 @@ hedge funds, and real estate, and 401k?"
 
 <!-- truncate -->
 
-
 The two men were sitting in the lobby, drinking some Italian coffee, waiting for
 the important client to come down. They were both wearing striped suits. A
 leather briefcase was sitting next to the elegant armchair, calm, black, and

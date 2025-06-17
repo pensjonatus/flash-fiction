@@ -10,7 +10,6 @@ shooting the breeze like they were old friends.
 
 <!-- truncate -->
 
-
 "My job is horrible," said Jack, laughing.
 
 "Oh yeah? What do you do?"

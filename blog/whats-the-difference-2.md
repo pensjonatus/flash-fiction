@@ -10,7 +10,6 @@ as the original.
 
 <!-- truncate -->
 
-
 Some people put the two on a couple of screens side by side. They watched it and
 rewatched it. They could not find a single difference.
 

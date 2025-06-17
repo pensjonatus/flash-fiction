@@ -12,7 +12,6 @@ paper away and said with concern:
 
 <!-- truncate -->
 
-
 "How can you do this? It is not only disgusting, it is also bad for you. Science
 has proven time and again..."
 

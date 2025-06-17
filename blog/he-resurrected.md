@@ -11,7 +11,6 @@ mouth and then suddenly he was falling down a well.
 
 <!-- truncate -->
 
-
 There was nothing but black for a long time, and then he fell into a sea of
 emotion and the emotion was anguish. His mind began to construct  images to
 match this emotion, and so he found himself floating over a city of torture,

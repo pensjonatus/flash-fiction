@@ -11,7 +11,6 @@ and the big one was still missing.
 
 <!-- truncate -->
 
-
 The text editor was open, but she only had the first words of a headline. "By
 2050." The rest was missing like a severed limb, and the phantom pain was
 driving her crazy.

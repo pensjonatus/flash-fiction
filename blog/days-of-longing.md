@@ -15,7 +15,6 @@ mundane. It would be sacrilege.
 
 <!-- truncate -->
 
-
 The day had been uneventful, I would even say dull, and the lack of her made it
 even worse. My Alice, every other minute I found myself thinking of her, the
 sound of her voice, her soft walk, the way she gripped everyday objects gently

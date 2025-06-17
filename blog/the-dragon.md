@@ -12,7 +12,6 @@ Jenny.
 
 <!-- truncate -->
 
-
 When I first met her, she was giving blowjobs for money in Portland, Maine. She
 said twenty bucks, no, fifteen. I told her she did not need to do that because I
 was all righteous.

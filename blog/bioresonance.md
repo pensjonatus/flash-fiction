@@ -10,7 +10,6 @@ really bad bioresonance, so I caught it too.
 
 <!-- truncate -->
 
-
 "It's those Wallaces," my dad sad once over dinner, "They could never get
 enough. Enough freedom, enough land, enough money. They brought bioresonance on
 us. It's a curse. Metaphorically and literally."

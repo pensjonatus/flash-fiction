@@ -14,7 +14,6 @@ put my arm around her. Her skin was soft.
 
 <!-- truncate -->
 
-
 "It's called _My Secret Desire_. It's Woody Allen's latest."
 
 I looked across the coffee table at Jenny. She smiled a brilliant smile.

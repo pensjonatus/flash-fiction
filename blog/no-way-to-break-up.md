@@ -11,7 +11,6 @@ I was having lunch with my girlfriend.
 
 <!-- truncate -->
 
-
 "I guess I am tired of you. Maybe we should take a break."
 
 "Yeah, I need a break from you too," she said.

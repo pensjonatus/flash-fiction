@@ -12,7 +12,6 @@ heard a humming.
 
 <!-- truncate -->
 
-
 The light was the heavy type of red, and it made everything seem red. I think
 the carpet might have been red all along, just like the carpet we have in our
 living room, but I'm only speculating.

@@ -11,7 +11,6 @@ did not take away the magic of the ride.
 
 <!-- truncate -->
 
-
 Other kids used to say your wish would come true if you could sit on the red
 horse and if it revolved more than twelve times. The man would usually shut it
 off after ten or eleven times. I do not remember if I ever got more when sitting

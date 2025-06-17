@@ -11,7 +11,6 @@ is at her job and how she should be promoted. Ugh!"
 
 <!-- truncate -->
 
-
 "I know what you mean," said Dave, making it about him now, "I can't get a break
 with my boss. He is such an idiot and he thinks he is this business tycoon. He
 gives me all kinds of tasks and treats it like he is mentoring me. Like I am

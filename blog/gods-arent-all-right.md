@@ -12,7 +12,6 @@ something to happen.
 
 <!-- truncate -->
 
-
 Maybe somebody would come along to buy some wreckage. That never happened.
 
 Maybe the police would come to tell him about some criminal on the run, or to

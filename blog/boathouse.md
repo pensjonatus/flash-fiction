@@ -15,7 +15,6 @@ ideas.
 
 <!-- truncate -->
 
-
 They postponed returning to the boat long into the night. They walked, silently
 or laughing, on the river banks, leaving the noisy night life behind. They fell
 into each others arms and made sweet love, transforming back and forth between

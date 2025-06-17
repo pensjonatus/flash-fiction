@@ -14,7 +14,6 @@ was sure he thought he was better than us.
 
 <!-- truncate -->
 
-
 I met Kevin at the reunion last year. I remember I recognized him instantly, the
 slanted shoulders, the blond mop of hair, the pale blue eyes. His girl or wife,
 whoever she was, had a really hot body, I think she was some kind of model. I

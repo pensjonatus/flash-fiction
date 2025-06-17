@@ -12,7 +12,6 @@ envious, and much more.
 
 <!-- truncate -->
 
-
 When I was just out of medical school, I knew I would never be a doctor. I found
 a job at a t-shirt shop and got a small apartment near the docks. It was a bad
 neighborhood and my life was in a bad shape. I started drinking and got myself a

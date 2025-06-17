@@ -12,7 +12,6 @@ the scruff of his neck.
 
 <!-- truncate -->
 
-
 Wei was in this kind of situation before, and many times.
 
 "You fucking punk, you think you can eat for free? Well I got a family too, and

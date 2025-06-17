@@ -14,7 +14,6 @@ believed it.
 
 <!-- truncate -->
 
-
 I never thought it made sense, even though I couldn't explain why. I can explain
 why now, and that makes me sure that I was right all along.
 

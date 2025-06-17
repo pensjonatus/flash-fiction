@@ -14,7 +14,6 @@ the Bible.
 
 <!-- truncate -->
 
-
 "Beneath the streetlight," she said, "He was the most beautiful thing I ever
 saw. My thirst and desperation were gone and all I could do was tremble in his
 overwhelming presence. He was powerful and evident. Like a black tower suddenly

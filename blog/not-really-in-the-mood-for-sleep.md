@@ -11,7 +11,6 @@ read. If not, I would just sit and listen to my street.
 
 <!-- truncate -->
 
-
 It was suburbia and there was virtually no traffic. Sometimes a car would cruise
 by, somebody returning home late. Sometimes cats would chase around or have a
 little fight in someone's yard. Sometimes I would hear somebody yell in the

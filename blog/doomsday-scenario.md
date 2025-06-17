@@ -14,7 +14,6 @@ to know, but you feel rushed.
 
 <!-- truncate -->
 
-
 Everybody is leaving work and going home, so the streets are packed. You had
 trouble getting through, but right now you found a straight, empty stretch of
 road and you floored it. You are making up for lost time.

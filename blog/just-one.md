@@ -11,7 +11,6 @@ Roberts and Maria were still there when Guy appeared.
 
 <!-- truncate -->
 
-
 "Good evening, Mr. Pearce, what are you doing here?" said nurse Roberts.
 
 He looked nervous. "Uhm, could I talk to Maria?"

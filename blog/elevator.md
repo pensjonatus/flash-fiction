@@ -13,7 +13,6 @@ This time, he was alone.
 
 <!-- truncate -->
 
-
 "Hold the elevator, please," he heard a woman's voice.
 
 He frantically looked for the hold button and managed to press it when the door

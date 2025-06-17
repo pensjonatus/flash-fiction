@@ -12,7 +12,6 @@ middle of the woods somewhere in Washington state. Or is it Canada already?
 
 <!-- truncate -->
 
-
 Last night you were the king of the party, all eyes on you. You were about to
 make the deal of a lifetime, reeling in those suckers, just needed to get them a
 little more drunk. Also, your wife was in Oregon visiting her sister, which was

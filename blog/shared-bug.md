@@ -13,7 +13,6 @@ he could tell something was wrong.
 
 <!-- truncate -->
 
-
 She stared at the wall blankly, drinking a milky drink out of a tumbler. She was
 wearing a scruffy t-shirt and sweats. She barely registered his presence. He
 said hello, she looked up and took about a minute to respond.

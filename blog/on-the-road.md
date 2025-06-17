@@ -15,7 +15,6 @@ minutes back, but it already felt like hours.
 
 <!-- truncate -->
 
-
 The night before, Ike and Jenny shared a bottle of beer when Gill was being
 interviewed. They laughed about the old days, when they rode around the country
 in a jallopy, bitten by both heat and cold. Music was more real back then, and

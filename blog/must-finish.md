@@ -11,7 +11,6 @@ highlighted. He was writing the term paper.
 
 <!-- truncate -->
 
-
 Everything was quiet, the rush of the world far, far away, everybody gone. But
 Jack had a problem. Jack's head was empty.
 

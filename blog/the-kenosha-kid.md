@@ -11,7 +11,6 @@ because at work you live to the beat of the clock.
 
 <!-- truncate -->
 
-
 Sheryl was checking my work, nodding in approval when something was right and
 only speaking up when something was wrong.
 

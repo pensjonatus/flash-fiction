@@ -11,7 +11,6 @@ next morning.
 
 <!-- truncate -->
 
-
 He was waiting for his buddies to get out of Walmart with all the beers. So they
 can drive back to the cabin and get shitfaced. But for now, he was alone.
 

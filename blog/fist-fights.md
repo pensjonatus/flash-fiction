@@ -13,7 +13,6 @@ his face was bruised badly.
 
 <!-- truncate -->
 
-
 "It's nothing, forget about it. I walked into a door."
 
 "Yeah, sure you did. Repeatedly."

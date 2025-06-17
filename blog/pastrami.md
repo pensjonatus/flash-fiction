@@ -10,7 +10,6 @@ pastrami. I also want greens and tomatoes.
 
 <!-- truncate -->
 
-
 I enter a deli. There are tiles on the the floor, red and white diamonds. Or, I
 guess they are squares, if you look from a different angle. They chase one
 another all the way to the wall, but people's shoes and pants are in the way,

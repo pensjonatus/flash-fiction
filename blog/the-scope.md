@@ -11,7 +11,6 @@ flew away.
 
 <!-- truncate -->
 
-
 "You missed," said Bob.
 
 "If I shoot enough of them, they will stop coming back."

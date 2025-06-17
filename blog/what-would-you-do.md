@@ -12,7 +12,6 @@ pleasant because that was his job.
 
 <!-- truncate -->
 
-
 "That is not my name," I corrected him.
 
 "Right, let's assume it is," he smiled, "Could I get an answer, Mr. Holiday?"

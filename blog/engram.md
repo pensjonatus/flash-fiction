@@ -9,7 +9,6 @@ categories:
 
 <!-- truncate -->
 
-
 It was very strange when my one-year-old said her first words. She was looking
 at me across the kitchen, her round head over the tablet, her eyes focused like
 a grown-ups.

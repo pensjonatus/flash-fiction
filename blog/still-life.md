@@ -13,7 +13,6 @@ never did.
 
 <!-- truncate -->
 
-
 Except this time, when he put his hand on hers and stopped her pen from tapping
 the paper. She looked him in the eye, he looked at her lips. They kissed.
 

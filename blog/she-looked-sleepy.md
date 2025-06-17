@@ -12,7 +12,6 @@ in to get a few items off the shelves.
 
 <!-- truncate -->
 
-
 She made her way to the counter.. She was really pretty, pretty enough to be a
 stripper. But she looked too beaten down for it, her eyes were blood shot and
 she looked really sleepy. She spoke in a tired voice.

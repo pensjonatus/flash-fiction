@@ -12,7 +12,6 @@ that year.
 
 <!-- truncate -->
 
-
 Simultaneously, two people reached for water. Mr. Boyd, a prominent citizen,
 grabbed a bottle. Iona, a scrawny immigrant, grabbed two bottles.
 

@@ -11,7 +11,6 @@ The big boss nodded with approval, making the "not bad" face.
 
 <!-- truncate -->
 
-
 "Damn good job, Stanley," said one of the sub-bosses, "Outstanding."
 
 "Thank you," Stan bowed his head modestly. He felt validated. All of his efforts

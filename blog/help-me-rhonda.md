@@ -15,7 +15,6 @@ and ordered the local coffee specialty.
 
 <!-- truncate -->
 
-
 Returning to the hotel was his main fixation because he had a call to dial into.
 An early morning in his corporate headquarters was an evening in this holiday
 retreat and he still had two hours to get there. Nevertheless, it seemed very

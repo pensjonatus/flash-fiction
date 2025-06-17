@@ -11,7 +11,6 @@ open.
 
 <!-- truncate -->
 
-
 "Hello baby," she said faintly, "How was your day?"
 
 "Not so good," he said, "The post office is killing me. I don't know if I can

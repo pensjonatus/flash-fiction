@@ -11,7 +11,6 @@ person was among the killed.
 
 <!-- truncate -->
 
-
 She imagined she was waiting for a doctor and that made her happy for a few
 seconds. Oh, how she wished she was waiting in line for a doctor.
 

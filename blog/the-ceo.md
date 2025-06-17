@@ -13,7 +13,6 @@ but he was still better than his own father.
 
 <!-- truncate -->
 
-
 Mr. Wiletzky was also the CEO of CyberCorp Inc., the company that put Alex
 Decker's brain into a high-tech robot body with tactical software and assault
 weapons. Mt. Wiletzky had the best interest of the public in mind. He wanted

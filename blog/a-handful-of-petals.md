@@ -12,7 +12,6 @@ eager, even though I was crazy about her. She smiled mysteriously and asked:
 
 <!-- truncate -->
 
-
 "Will you still love me when I am no longer with you?"
 
 I felt chills down my spine. I got cold, even though it was a summer day.

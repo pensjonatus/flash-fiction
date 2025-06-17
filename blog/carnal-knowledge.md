@@ -11,7 +11,6 @@ kiss.
 
 <!-- truncate -->
 
-
 She wanted some pillowtalk.
 
 "Whatcha thinking?"

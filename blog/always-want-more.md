@@ -11,7 +11,6 @@ over his shoulder at the girl with the long black hair.
 
 <!-- truncate -->
 
-
 "What's her name?" I asked.
 
 "Who, she? That's Debra. She's in Dave's pic. She's a dancer or something."

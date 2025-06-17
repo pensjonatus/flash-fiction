@@ -13,7 +13,6 @@ childish as they would ever be.
 
 <!-- truncate -->
 
-
 This street was empty. It felt like longing, the kind you get when you do not
 know what you want, and cannot help but cry. They both felt the same impulse:
 run around more scream more, dance more, do more. But the street was

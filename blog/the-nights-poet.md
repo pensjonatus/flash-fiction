@@ -10,7 +10,6 @@ to Melissa's open window. She was doing homework at her desk.
 
 <!-- truncate -->
 
-
 "Hey, can I come in?"
 
 She turned around surprised, but then smiled.

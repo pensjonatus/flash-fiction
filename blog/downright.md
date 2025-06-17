@@ -11,7 +11,6 @@ strong accent which Fen identifies as _really American_.
 
 <!-- truncate -->
 
-
 "So you here on vacation, huh?" They were in a rest area on the verge of the
 desert. The bulky man was reclining on a Harley Davidson, sipping something from
 a brown bottle.

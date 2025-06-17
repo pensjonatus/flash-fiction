@@ -13,7 +13,6 @@ his phone.
 
 <!-- truncate -->
 
-
 "I gotta log the muffin I had on the way over," he said, "240 cals."
 
 She watched his quick finger, slender hands, the long sleeves of his sweatshirt

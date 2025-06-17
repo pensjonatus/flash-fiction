@@ -12,7 +12,6 @@ them basic pants, we just call them pants.
 
 <!-- truncate -->
 
-
 So, where I come from, there are very few basic humans, and nobody thinks of
 them as the baseline or the template. We just think of them as unmodified. Most
 people have a different number of arms or legs or other members, and it's

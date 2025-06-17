@@ -11,7 +11,6 @@ enough to reach the space station. He turned on the comm.
 
 <!-- truncate -->
 
-
 "Space station Falcon, Space station Falcon, this is the Wanderer, license FX
 231-09-777. Do you read me."
 

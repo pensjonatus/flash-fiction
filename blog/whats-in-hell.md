@@ -12,7 +12,6 @@ legs in. My mouth was dry, like there was something stressful ahead.
 
 <!-- truncate -->
 
-
 The priest said a prayer, and I though that it would really be something if Baby
 Jesus was real. But then I thought Hell would be real as well, and I would be on
 my way there. I would have something to be stressed about.

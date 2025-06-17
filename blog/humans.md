@@ -20,7 +20,6 @@ existed anyway.
 
 <!-- truncate -->
 
-
 Human culture was not completely uninteresting, especially the obsessive
 secret-keeping around excrement. Humans would leave the company of others to
 defecate in isolation, at the same time trying to mask the noises and smells

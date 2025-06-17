@@ -12,7 +12,6 @@ portions. It took her a good few minutes to swallow all of them.
 
 <!-- truncate -->
 
-
 She gagged a lot in the process, too. "Come on, body," she thought, "I am no
 trying to hurt you. It's going to be okay."
 

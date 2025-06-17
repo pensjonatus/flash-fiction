@@ -11,7 +11,6 @@ washroom, when Jim said:
 
 <!-- truncate -->
 
-
 "It's not real, you know."
 
 "What's not real?"

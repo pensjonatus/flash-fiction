@@ -12,7 +12,6 @@ H-wite to tease him.
 
 <!-- truncate -->
 
-
 "I don't know," Jeremy said, "I guess when you are in love."
 
 "Are you in love, Jeremy?" I asked. I heard all the showers had stopped. Other

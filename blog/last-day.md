@@ -14,7 +14,6 @@ there with them, nodding and smiling.
 
 <!-- truncate -->
 
-
 Then somebody hugged Jake, and others followed one by one. A simple hug and a
 "Take care!" and Melly made nothing of it. Until it was her turn to do it.
 

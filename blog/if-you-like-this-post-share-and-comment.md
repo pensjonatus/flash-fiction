@@ -12,7 +12,6 @@ hesitation, he did.
 
 <!-- truncate -->
 
-
 "You know me, Dory, I am not much for extreme sports. I guess I value my
 survival too much," he said.
 

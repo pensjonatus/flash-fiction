@@ -11,7 +11,6 @@ in the hot air.
 
 <!-- truncate -->
 
-
 "In here," a man growled.
 
 "Hi, I'm looking for Elizabeth," I said. I walked in slowly, without confidence,

@@ -15,7 +15,6 @@ her.
 
 <!-- truncate -->
 
-
 She was feeling rested and calm, but somehow nostalgic and that nostalgia made
 her sad. The kids were due back in about an hour, so she would whip up some food
 for them and that would be it for the day. All the housework already done, no

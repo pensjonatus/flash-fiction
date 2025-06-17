@@ -12,7 +12,6 @@ started making love to her passionately.
 
 <!-- truncate -->
 
-
 That is what it felt like to him. To her, he was drunk and they had broken up a
 few months before. But she also did not want to be alone that night. It was cold
 and windy outside the bed and breakfast, everyone else had gone to sleep. Now

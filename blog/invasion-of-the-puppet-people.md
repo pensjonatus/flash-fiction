@@ -12,7 +12,6 @@ alien in their objectness.
 
 <!-- truncate -->
 
-
 I almost fall down doing a tumble thing to change direction and ran towards a
 chain-link fence. They were closing in from all sides, those murder puppets with
 knives and claws. Immobile faces, expressionless eyes, blank stares.

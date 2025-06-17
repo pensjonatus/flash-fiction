@@ -11,7 +11,6 @@ picnic in our dying marriage.
 
 <!-- truncate -->
 
-
 We had chicken and steamed vegetables, some seafood, and mushrooms cut up into
 tiny pieces. You wore a white dress and a large white hat.
 

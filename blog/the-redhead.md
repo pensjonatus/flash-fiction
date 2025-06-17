@@ -11,7 +11,6 @@ had a certain charm. We sometimes exchanged neutral glances.
 
 <!-- truncate -->
 
-
 One time, she dropped a notebook. I picked it up and handed it to her. She
 smiled. The next time I saw her, I smiled. She returned the smile, but then
 turned her head, as if to hide it. When she looked my way again, she was

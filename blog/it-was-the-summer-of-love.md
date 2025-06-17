@@ -10,7 +10,6 @@ It was not a date.
 
 <!-- truncate -->
 
-
 I met with Emily just outside her apartment building where she hung out with the
 squatters and the musicians and we talked a little right there. I was kind of
 rough with her, crude, and she was crude back. This was the way we did it.

@@ -11,7 +11,6 @@ unsuspecting walking dead who had gotten too close.
 
 <!-- truncate -->
 
-
 Jim was already climbing the ladder, Clive followed. None of the stiffs was able
 to grab his ankle.
 

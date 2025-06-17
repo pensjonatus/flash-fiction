@@ -11,7 +11,6 @@ was trying to catch some z's. The season was coming to an end.
 
 <!-- truncate -->
 
-
 A family came walking from the beach with all the towels and toys. Parents and
 two daughters, the little girl crying intensely.
 

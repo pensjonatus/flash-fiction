@@ -11,7 +11,6 @@ Everett always went there because of the books.
 
 <!-- truncate -->
 
-
 Presently, he was sitting in the reading room over a tome on ornithology and he
 looked up at the librarian who was sitting behind the counter, some distance
 from him. She was a pleasant-looking woman in her fifties.

@@ -7,5 +7,4 @@ categories:
 
 Once upon a time, in the bushes, there was something very interesting.
 
-
 <!-- truncate -->

@@ -11,7 +11,6 @@ and it was the last bus.
 
 <!-- truncate -->
 
-
 "Sir, you have to get off," he heard the driver's tired voice from the
 loudspeaker.
 

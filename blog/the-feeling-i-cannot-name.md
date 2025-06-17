@@ -12,7 +12,6 @@ my mind.
 
 <!-- truncate -->
 
-
 Straight from the train, I went to the theatre to see you on stage. You were
 reclining on a simple chair, the set behind you pretending to be an all American
 city apartment, and the man in front of you your lover who betrayed you. Your

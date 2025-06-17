@@ -12,7 +12,6 @@ everything was closed. I might have been the only outlander.
 
 <!-- truncate -->
 
-
 It was beginning to rain when I got out of the street into the dimly lit lobby
 of the hotel. The front desk was unmanned. An old lady was having coffee by the
 window, reading a book. I had figured she was either the owner, or the owner's

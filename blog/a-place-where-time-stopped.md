@@ -11,7 +11,6 @@ very animated when he was telling me about it:
 
 <!-- truncate -->
 
-
 "It's like it was in the Before. The buildings, the nature, the people. You
 simply *have* to see it. But make sure you get a local guide."
 

@@ -13,7 +13,6 @@ complain it is too boring. But they also have other complaints.
 
 <!-- truncate -->
 
-
 "It's too cold outside."
 
 "My life is without purpose."

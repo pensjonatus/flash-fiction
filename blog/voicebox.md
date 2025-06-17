@@ -14,7 +14,6 @@ a gray-haired psychologist in her head seemed to say.
 
 <!-- truncate -->
 
-
 "I was hoping we could leave work together," she said to an imaginary him. "I
 was hoping we could walk down to the subway station, wait together, and then
 ride the few stops before I have to switch lines. I was hoping we could talk

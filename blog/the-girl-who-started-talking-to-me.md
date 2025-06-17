@@ -13,7 +13,6 @@ are. She was wearing a blouse with thousands of tiny flowers.
 
 <!-- truncate -->
 
-
 "And I also read," she said, "That a guy in the nineteenth century really
 criticized electric light. He said natural light comes from the sun and the
 stars, but electric light is artificial and it makes the skin go pale. And

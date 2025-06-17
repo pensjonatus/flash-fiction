@@ -11,7 +11,6 @@ smoking a cigarette.
 
 <!-- truncate -->
 
-
 "What do you think, love?" said Regis, "Is Veronica going to come?"
 
 "Ah, I should say 'that's what she said,' because indeed she said it, and

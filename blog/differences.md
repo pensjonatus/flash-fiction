@@ -11,7 +11,6 @@ when I turn eighteen?
 
 <!-- truncate -->
 
-
 Anyway, I think I hardly ever learned anything at school. But I remember very
 clearly one day when I did. It was when a new kid came to town and we were all
 talking in the cafeteria, trying to get to know him.

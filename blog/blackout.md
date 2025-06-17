@@ -13,7 +13,6 @@ down the hall.
 
 <!-- truncate -->
 
-
 I heard something moving in the dark in front of me. Footsteps. And a clicking
 sound.
 

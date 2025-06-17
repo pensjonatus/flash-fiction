@@ -9,7 +9,6 @@ categories:
 
 <!-- truncate -->
 
-
 They were speaking across a high counter, so the policeman was looking down on
 Hubert.
 

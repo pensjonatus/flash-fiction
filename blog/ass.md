@@ -11,7 +11,6 @@ had big breasts, but all of them had large round asses.
 
 <!-- truncate -->
 
-
 I like to consider myself a feminist. I am an opponent of the pay gap, I think
 women should be allowed to breastfeed in public places and abort pregnancies and
 other such affairs at their own discretion. But I cannot deny myself the

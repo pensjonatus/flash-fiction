@@ -15,10 +15,9 @@ the sex. For the first time in his life he understood what non-binary meant.
 
 <!-- truncate -->
 
-
-The reverend was also the first to wake out of stupor. He took a step forward and
-said: "Oh, holy messenger of the Lord. Are you here to give us a sign? To relay
-His Holy Will to us? Blessed be!"
+The reverend was also the first to wake out of stupor. He took a step forward
+and said: "Oh, holy messenger of the Lord. Are you here to give us a sign? To
+relay His Holy Will to us? Blessed be!"
 
 But the angel did not respond, only stood in the gesture of offering. And
 slowly, as if shyly, the glow around him begot tiny little babies. They lay on

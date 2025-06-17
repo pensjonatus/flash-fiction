@@ -9,7 +9,6 @@ categories:
 
 <!-- truncate -->
 
-
 "Pretty good. Why? Are you thinking of getting one too?"
 
 "Maybe. Do you recommend it, though?"

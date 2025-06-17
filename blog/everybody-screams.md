@@ -14,7 +14,6 @@ joining.
 
 <!-- truncate -->
 
-
 We all arched back down to become incarnated again in a endless ballet. I was
 happy to leave the blue void behind, even though I felt so good up there. I dove
 into the black clouds below.

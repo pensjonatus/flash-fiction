@@ -13,7 +13,6 @@ comprehension.
 
 <!-- truncate -->
 
-
 Tony's phone buzzed and that woke him up for a second. The text that came in was
 just a smiley face. The girl sent him that in response to a joke he texted a few
 hours earlier. She was probably with somebody, probably with her guy.

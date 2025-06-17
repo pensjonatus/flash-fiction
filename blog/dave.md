@@ -14,7 +14,6 @@ the sense of inevitable doom.
 
 <!-- truncate -->
 
-
 He fell down on the couch and passed out. When he woke up, it was still night.
 The lights were on in the kitchen. He forced himself to get up and scrambled
 back to the counter. The book was there. The autobiography of Dave Mustaine. She

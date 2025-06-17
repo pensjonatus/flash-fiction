@@ -12,7 +12,6 @@ correct?"
 
 <!-- truncate -->
 
-
 "For all intensive purposes, yes," he nodded.
 
 "You were also among the largest group to attain immortality during the

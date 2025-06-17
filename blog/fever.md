@@ -12,7 +12,6 @@ felt immense relief.
 
 <!-- truncate -->
 
-
 Then my uncle came into the room. He was tall, his head almost reached the
 ceiling. I did not remember him ever being so tall.
 

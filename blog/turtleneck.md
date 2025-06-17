@@ -10,7 +10,6 @@ with it. He went out to meet some girls.
 
 <!-- truncate -->
 
-
 "Hey there, gorgeous," he said to the billionth chick that evening, "Is it just
 you, or is this room really hot?"
 

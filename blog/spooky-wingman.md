@@ -10,7 +10,6 @@ with a satisfied grin.
 
 <!-- truncate -->
 
-
 "Whoa, that's pretty spooky," I said.
 
 Outside the window, the old forest made its scary wind noises. We sat in silence

@@ -11,7 +11,6 @@ into his dark eyes.
 
 <!-- truncate -->
 
-
 "I never knew I could feel this way," she said, "I love you so much."
 
 He looked back into her eyes, deep, deep, deep. "I love you too," he said, and

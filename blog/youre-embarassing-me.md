@@ -12,7 +12,6 @@ and whatevered as we discovered the new features and DLCs.
 
 <!-- truncate -->
 
-
 When it was no longer my turn, I passed my controller to Jason and sat back.
 That is when I began to smell roasted nuts.
 

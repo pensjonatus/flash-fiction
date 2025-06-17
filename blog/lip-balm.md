@@ -11,7 +11,6 @@ how. I stumbled down the block and stopped to lean on a red mailbox.
 
 <!-- truncate -->
 
-
 That is when I saw a girl on the other side of the street. She looked poor, her
 clothes were cheap and old. She was probably going to work, one of those people
 who get up early so the rest of us can sleep in. Something guys like me will

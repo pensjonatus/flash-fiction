@@ -12,7 +12,6 @@ cheek a few times to stay awake.
 
 <!-- truncate -->
 
-
 "It sounds like the kind of thing you can buy from frizzlers at pon-stations,"
 said Lucie. Frizzlers were people who made music using outdated technology and
 pon-stations were floating transponders where you could lease bandwidth to

@@ -15,6 +15,5 @@ feet. You looked down on me and smiled.
 
 <!-- truncate -->
 
-
 I remember the smells, the music coming out of the radio, I even remember the
 cover of the book you were reading. But I do not remember your face.

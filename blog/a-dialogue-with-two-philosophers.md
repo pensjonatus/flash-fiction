@@ -13,7 +13,6 @@ accosted by two homeless fellows, one very young and one very old.
 
 <!-- truncate -->
 
-
 "Hello there, kind stranger," said the older, "We were just standing over there
 when we saw you and we wondered if you would like to contribute to our libations
 of the coming night. A small amount of money would be sufficient, as our needs

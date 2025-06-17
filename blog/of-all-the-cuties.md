@@ -11,7 +11,6 @@ half-face ironic smile, but then turned it into a cute frown.
 
 <!-- truncate -->
 
-
 "Are you going to wear this shirt and no tie?"
 
 I did not have time to reply, she pulled me into the dark bowels of the house

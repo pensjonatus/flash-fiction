@@ -10,7 +10,6 @@ bad guys at least.
 
 <!-- truncate -->
 
-
 The last anyone ever saw the good guy was in a town on the edge of a dark
 forest. He had a backpack on, and a worn baseball cap. He headed down a shadowy
 trail. I was told the same thing by the owner of the general store and by

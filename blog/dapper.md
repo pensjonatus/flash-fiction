@@ -11,7 +11,6 @@ her phone.
 
 <!-- truncate -->
 
-
 "What do you think?" he asked.
 
 "I think you look like someone, who's trying too hard," she said.

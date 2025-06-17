@@ -12,7 +12,6 @@ made typing more intuitive. And yet, the page remained empty.
 
 <!-- truncate -->
 
-
 He searched his mid for images of love. Of a girl he once knew and whose
 affection was long lost, never to be regained. Her hair was so beautiful, like
 pure gold. Or was it dark as the night sky? Was she smiling, or sad?

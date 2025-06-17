@@ -15,7 +15,6 @@ intelligence and a capricious smirk.
 
 <!-- truncate -->
 
-
 He made small talk with the other patrons. And when asked about news of the
 outside world, he said:
 

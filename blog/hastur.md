@@ -13,7 +13,6 @@ who came to me in a dream.
 
 <!-- truncate -->
 
-
 At first, I thought it was all just a dream. Everything was dreamy and cloudy
 with gusts of snow and ash swirling around in fantastic spirals that both
 obscured the senses and titillated the spirit, drawing forth the images of

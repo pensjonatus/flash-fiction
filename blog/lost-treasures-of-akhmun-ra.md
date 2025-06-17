@@ -12,7 +12,6 @@ called Ugara Dan, which roughly translates to Broken Neck.
 
 <!-- truncate -->
 
-
 To say hike is a bit of an understatement, as it is to call Ugara Dan a hill.
 These treacherous mountains are what has kept the ancient city of Akhmun-Ra lost
 for ages. You cannot drive a jeep up here, you cannot fly a helicopter in, and

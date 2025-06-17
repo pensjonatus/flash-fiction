@@ -11,7 +11,6 @@ explain it any other way. I am allergic to you.
 
 <!-- truncate -->
 
-
 Back in school, I wasn't. We hung out all the time and when you weren't around,
 I always thought I could almost see you.
 

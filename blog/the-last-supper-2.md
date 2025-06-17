@@ -13,7 +13,6 @@ figs from a bowl.
 
 <!-- truncate -->
 
-
 "I haven't been sleeping," said Jesus. "I keep having visions of this body being
 tortured and humiliated, whipped and mutilated."
 

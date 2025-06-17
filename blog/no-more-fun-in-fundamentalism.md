@@ -11,7 +11,6 @@ admired him, and he was one of the reasons I started writing myself.
 
 <!-- truncate -->
 
-
 One time, he wrote a play about a woman making her way in the world. She was a
 strong, independent character and showed the men she could do it without them.
 There were no religious motifs, no transcendent talk, not even one mention of

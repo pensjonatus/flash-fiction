@@ -14,10 +14,7 @@ b. hot dogs
 
 <!-- truncate -->
 
-
 c. cupcakes
-
-
 
 2\. Whose eyes were the first you saw?
 
@@ -27,8 +24,6 @@ b. your doctor's
 
 c. other
 
-
-
 3\. Which limb would you like to have more of?
 
 a. arms
@@ -36,8 +31,6 @@ a. arms
 b. legs
 
 c. other
-
-
 
 4\. Which is the worst?
 

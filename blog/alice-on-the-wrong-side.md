@@ -13,7 +13,6 @@ to look her best if she wanted to be asked out, the prom night was almost here.
 
 <!-- truncate -->
 
-
 She was looking at her own face, noticing things. There was a little loose skin
 under her chin. Her neck was beginning to wrinkle. Her body was no longer tight,
 fat-free, pre-pubescent. She knew it was absurd, but she was getting anxious.

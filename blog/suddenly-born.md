@@ -13,7 +13,6 @@ screeches.
 
 <!-- truncate -->
 
-
 "Hello, I am Pete and I am an eight-year-old boy," said Pete, using his voice
 for the first time.
 

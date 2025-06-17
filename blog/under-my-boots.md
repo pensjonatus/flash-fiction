@@ -10,7 +10,6 @@ did, though, because he fell like a rag doll. I turned to the other one.
 
 <!-- truncate -->
 
-
 "You thinking of something?"
 
 "No, man."

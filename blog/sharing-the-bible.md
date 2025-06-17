@@ -11,7 +11,6 @@ they got to Bible reading, he knew he was in trouble.
 
 <!-- truncate -->
 
-
 "Benjamin," sister Mary called over the pious heads of all other twelve year
 olds, "Where is your Bible?"
 

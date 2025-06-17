@@ -12,7 +12,6 @@ and I work for a wannabe Steve Jobs who wants to revolutionize the car industry.
 
 <!-- truncate -->
 
-
 But enough about that. It was midnight when I finished, the house was dark. I
 never got around to turning the lights on, having worked all day. I was sitting
 in the kitchen, the half-eaten frozen dinner still in front of me, all around me

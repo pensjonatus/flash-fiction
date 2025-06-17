@@ -11,7 +11,6 @@ the snowy hills. He was waiting for better days.
 
 <!-- truncate -->
 
-
 Sometimes he would lose his lucidity. Like when they put two black chairs in his
 room for visitors to sit. He could not sleep because of the way the chairs
 hummed. Or sometimes he saw faces staring at him from outside the window.

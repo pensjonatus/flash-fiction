@@ -9,7 +9,6 @@ categories:
 
 <!-- truncate -->
 
-
 The man shook my hand, "A pleasure," then he took a business card out of his
 pocket. "Here, stay in touch."
 

@@ -15,7 +15,6 @@ shining God who creates everything that exists.
 
 <!-- truncate -->
 
-
 Now, seldom does a schoolchild ask the following question: how does the Age of
 Brutality come about? Are angels not highly developed beings with ages upon ages
 of growth and harmony behind them? True, old angels are, but as the universe

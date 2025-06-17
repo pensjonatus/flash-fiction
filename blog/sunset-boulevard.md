@@ -11,7 +11,6 @@ They were walking down the street.
 
 <!-- truncate -->
 
-
 "Nothing, man. I never promised her anything. She's just... Fuck!"
 
 "Easy, boy. Easy. She'll get over it. But you," Pat wagged a finger, "You need

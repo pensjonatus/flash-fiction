@@ -13,7 +13,6 @@ important.
 
 <!-- truncate -->
 
-
 So, she took him very seriously and spoke in a serious (but friendly) way: "Hi,
 welcome to El Restaurante. Would you like today's lunch special, or something
 off of the menu?" And so on. She also gave him a serious look before she left,

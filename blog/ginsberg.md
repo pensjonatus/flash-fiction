@@ -15,7 +15,6 @@ tissue on the coffee table, a pantyhose on the bed.
 
 <!-- truncate -->
 
-
 One Thursday he put on Allen Ginsberg reciting "Father Death Blues." It was a
 record in a thin paper envelope, nothing special about the envelope. The record
 crackled a little. And the audio was too quiet when it started and my father

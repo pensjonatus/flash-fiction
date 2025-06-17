@@ -9,7 +9,6 @@ The bearded guy leaned over the kid. The kid was on the ground, spitting blood.
 
 <!-- truncate -->
 
-
 "That will teach ya," said the man.
 
 "Fuck you," said the kid, but the words drowned in tears.

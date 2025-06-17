@@ -11,7 +11,6 @@ to do whatever I wanted. Finally.
 
 <!-- truncate -->
 
-
 I spent a year drinking alcohol and eating. I would have used drugs but I could
 not find them. Or when I could find them, if I could get to them, for example in
 police evidence lock up. My drug problem existed probably because most of the

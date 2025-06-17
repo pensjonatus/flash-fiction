@@ -11,7 +11,6 @@ some really strong arguments and so there I was.
 
 <!-- truncate -->
 
-
 "Bless your faces, brothers and sisters. It's a beautiful day the Lord has given
 us!"
 

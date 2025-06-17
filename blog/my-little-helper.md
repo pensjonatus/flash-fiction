@@ -11,7 +11,6 @@ I sleep fine, and I don't hear voices."
 
 <!-- truncate -->
 
-
 Vanessa shifted in her chair. Around them, the food court reeled with people
 taking a break from shopping. She nodded her head with understanding, she knew
 the best part was coming.

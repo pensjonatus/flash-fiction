@@ -12,7 +12,6 @@ out.
 
 <!-- truncate -->
 
-
 "That's it!" she said, snapping me out of a reverie, "Let's write that down."
 
 "Okay," I said, and repeated the last idea she had. Thank God for this weird

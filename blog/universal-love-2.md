@@ -12,7 +12,6 @@ energetic college girl with a punky hairdo. Somebody mentioned the word love.
 
 <!-- truncate -->
 
-
 "Love is only in the movies," said somebody else.
 
 "No, no," said the punky girl, "Don't you wanna be like, mmmmmmmm," she purred

@@ -11,7 +11,6 @@ remembering Mark and picking petals off a daisy.
 
 <!-- truncate -->
 
-
 "He loves me, he loves me not..." she kept repeating.
 
 There had been another man. She wanted to get closer to him, but he was her

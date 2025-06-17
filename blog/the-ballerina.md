@@ -13,7 +13,6 @@ tomorrow. He also had a good book in his bag.
 
 <!-- truncate -->
 
-
 From where he was standing, he could see the well-lit room where they practiced.
 It was so late, but the music was still playing, and he could see her from time
 to time when she happened to come into view. So light and slim, like a paper

@@ -11,7 +11,6 @@ the copy machine, just to shake this feeling of boredom.
 
 <!-- truncate -->
 
-
 I look at people on the way. Melinda is a redhead with a pale face. I would love
 to cut her scalp and see blood run down. Her eyes would look good surrounded by
 streaks of red.

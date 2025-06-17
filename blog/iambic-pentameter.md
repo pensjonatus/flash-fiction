@@ -11,7 +11,6 @@ and again.
 
 <!-- truncate -->
 
-
 "They're not there," said an old lady in the street.
 
 "Oh, hello. I'm sorry, yeah. They're my parents. Do you know where they went?"

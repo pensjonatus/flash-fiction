@@ -12,7 +12,6 @@ or some such thing. Sometimes with me, but I knew I was just one of many.
 
 <!-- truncate -->
 
-
 Not for long, though. I had a plan, you see. I had been telling her that I was
 an alcoholic trying not to drink and it was getting harder for me. Harder every
 day since she... died.

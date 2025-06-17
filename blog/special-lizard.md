@@ -12,7 +12,6 @@ this one is okay with the cold, walking leisurely up and down the wall.
 
 <!-- truncate -->
 
-
 You see, this lizard really is special, because it has a special heart which is
 like a bright ember in a black metal cage. Lizards are usually cold-blooded but
 this one is always warm because of the ember heard. Although, it does not really

@@ -11,7 +11,6 @@ categories:
 
 <!-- truncate -->
 
-
 "Johmmy with an m?"
 
 "Yeah, double m actually."

@@ -13,7 +13,6 @@ and asked me to use the scope on my rifle.
 
 <!-- truncate -->
 
-
 The weapon was heavy. The initial rush of holding a lethal object was washed
 away by the muscle ache it caused. Nevertheless, I raised it up and looked
 through the scope. There were two teens and one massive horned one. I knew it

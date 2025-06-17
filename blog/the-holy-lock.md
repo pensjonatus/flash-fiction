@@ -11,7 +11,6 @@ was victorious. He was alone with the priest.
 
 <!-- truncate -->
 
-
 The prince leaned on his sword to move forward, as the priest fell backwards
 onto the altar. Upon it, amidst the decoration of golden giants and ruby-studded
 dragons was a precious box which contained an artifact of great power.

@@ -11,7 +11,6 @@ a different time, but now it was all coming to an end.
 
 <!-- truncate -->
 
-
 "Do you think the Republicans are going to win again?" he said.
 
 "I don't know, honey," she replied, "You were always more interested in

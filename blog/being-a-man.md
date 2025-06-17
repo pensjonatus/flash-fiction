@@ -10,7 +10,6 @@ doorbell to his apartment when it was getting dark outside.
 
 <!-- truncate -->
 
-
 "Oh, good, you're here," my sister answered it. We went into the kitchen, her
 husband and two sons were there. "Your wife did not come with you?" she asked.
 

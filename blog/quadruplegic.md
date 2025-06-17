@@ -11,7 +11,6 @@ had told him he would never get better.
 
 <!-- truncate -->
 
-
 His room was nice and clean, and a nurse would come and wash him. People visited
 and talked about stuff. His best friend sometimes came to make him laugh.
 

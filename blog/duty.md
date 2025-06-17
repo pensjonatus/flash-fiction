@@ -10,7 +10,6 @@ ones, the grandpa, and the boy.
 
 <!-- truncate -->
 
-
 "Nice and warm," said the grandpa, "That cold outside will kill you. Nights are
 getting colder, means fall is coming."
 

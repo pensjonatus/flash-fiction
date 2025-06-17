@@ -19,7 +19,6 @@ right proportions, but somehow they were put together in the wrong order.
 
 <!-- truncate -->
 
-
 It was just that. Not that they were our of sync with one another or something.
 You just had a feeling they were put together in the wrong God damned order.
 
