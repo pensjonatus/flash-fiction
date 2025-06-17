@@ -1,9 +1,5 @@
 pensjonatus:
   name: Paweł Kowaluk
-  title: Flash fictioner
   url: https://www.linkedin.com/in/pawel-kowaluk/
   image_url: https://github.com/pensjonatus.png
   page: true
-  socials:
-    linkedin: pawel-kowaluk
-    github: pensjonatus

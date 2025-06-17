@@ -43,6 +43,7 @@ const config: Config = {
         docs: false, // Disable docs preset
         blog: {
           routeBasePath: '/',
+          blogSidebarCount: 0, // Disable blog sidebar
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -78,7 +79,7 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} Flash Fiction Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Flash Fiction, built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

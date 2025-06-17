@@ -27,4 +27,16 @@
   --ifm-color-primary-lighter: #f05eae;
   --ifm-color-primary-lightest: #f17abc;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  h1,
+  h2 {
+    color: var(--ifm-color-primary);
+    text-shadow:
+      0 0 2px var(--ifm-color-primary),
+      0 0 8px var(--ifm-color-primary, #fff);
+  }
+}
+
+div[class^='col col--12 author'] {
+  display: none;
 }
