@@ -1,9 +1,9 @@
 ---
-title: 'Warfare'
-date: '2013-04-24'
+title: "Warfare"
+date: "2013-04-24"
 categories:
-  - 'flash-fiction'
-  - 'love'
+  - "flash-fiction"
+  - "love"
 ---
 
 Veronica was an unexpected ally, I have to admit. I it were not for her, I would
@@ -12,7 +12,6 @@ there and she helped me when I needed it, under the power lines in the grey grey
 sun.
 
 <!-- truncate -->
-
 
 But let us not get ahead of ourselves. Veronica and I started as neutral parties
 with a tendency to disagree. I always found her quite dull and disagreeable,
