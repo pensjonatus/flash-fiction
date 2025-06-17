@@ -3,6 +3,7 @@ title: The Perfect Girl
 date: '2013-09-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was on the subway, sitting by the door when she boarded. She was blind, using

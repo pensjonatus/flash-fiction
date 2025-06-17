@@ -4,6 +4,7 @@ date: '2015-01-24'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 The mother sat the child in front of her across the kitchen table. She spread a

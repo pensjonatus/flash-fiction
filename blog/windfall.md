@@ -3,6 +3,7 @@ title: Windfall
 date: '2012-04-29'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Janice and I were over her laptop, waiting for the page to load. First the

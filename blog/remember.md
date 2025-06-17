@@ -3,6 +3,7 @@ title: Remember
 date: '2012-02-18'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jim was old and sick. He could no longer get out of bed without help, so they

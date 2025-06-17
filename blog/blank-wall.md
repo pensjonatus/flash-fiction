@@ -3,6 +3,7 @@ title: Blank Wall
 date: '2013-01-12'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Two old men shared a hospital room. As it all took place in a world where people

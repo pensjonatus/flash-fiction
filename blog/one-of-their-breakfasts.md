@@ -4,6 +4,7 @@ date: '2013-08-03'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 He was already sitting at the kitchen table with a bowl of cereal. She came in

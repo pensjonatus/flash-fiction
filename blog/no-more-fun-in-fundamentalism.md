@@ -3,6 +3,7 @@ title: No More Fun In Fundamentalism
 date: '2015-07-01'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 When I was growing up, there was a playwright in town. He was quite popular, and

@@ -3,6 +3,7 @@ title: In a Loop
 date: '2013-06-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Why thank you kindly. You're a good man, I can tell. You never know where

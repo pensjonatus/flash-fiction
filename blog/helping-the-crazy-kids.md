@@ -4,6 +4,7 @@ date: '2016-08-07'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 Dear diary, today I begin my internship at the Stone Pines Asylum, the

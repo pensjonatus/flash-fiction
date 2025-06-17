@@ -4,6 +4,7 @@ date: '2012-11-24'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 It was poetry reading night at Dragon Circus Cafe, so Natalie took her new

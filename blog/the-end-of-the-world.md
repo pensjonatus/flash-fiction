@@ -4,6 +4,7 @@ date: '2012-07-03'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 The asteroids were clearly visible during the day as well. Fragile electronics

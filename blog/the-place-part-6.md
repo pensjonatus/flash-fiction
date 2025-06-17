@@ -4,6 +4,7 @@ date: '2017-07-16'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 I had never been to Morocco, but I kind of had a feel for it. Warm and gold,

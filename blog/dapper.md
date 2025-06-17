@@ -3,6 +3,7 @@ title: Dapper
 date: '2017-04-28'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jake got a new old-looking suit and a trilby hat. He stood in front of the

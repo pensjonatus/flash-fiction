@@ -3,6 +3,7 @@ title: Bioresonance
 date: '2023-04-05'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I went out to see some live music, but everyone at the club had succumbed to

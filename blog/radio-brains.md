@@ -3,6 +3,7 @@ title: Radio Brains
 date: '2018-04-18'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I had a friend named Monica once, who believed human brains were like radios in

@@ -3,6 +3,7 @@ title: The Doctor and the Case Against Sickness and Death
 date: '2023-12-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I woke up in a medical-type room. What do you call one of those? A medical-type

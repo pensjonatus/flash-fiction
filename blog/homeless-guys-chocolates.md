@@ -3,6 +3,7 @@ title: Homeless Guy's Chocolates
 date: '2015-08-18'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was taking the morning train to work. It was pretty empty at this hour, so I

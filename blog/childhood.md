@@ -3,6 +3,7 @@ title: Childhood
 date: '2012-06-09'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The sun was setting over the Ocean and three people were sitting on the terrace,

@@ -3,6 +3,7 @@ title: All the Parties
 date: '2012-04-23'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Zack tossed a beer bottle in the air spilling the frothy goodness all around.

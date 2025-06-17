@@ -3,6 +3,7 @@ title: Two Life Stories
 date: '2015-08-09'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 At the county fair, there was a "hydration station" set up. Specifically, it was

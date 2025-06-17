@@ -3,6 +3,7 @@ title: The Life of a Sausage Eater
 date: '2013-10-14'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I remember when Mr. Pericault, the maths teacher, first arrived in town. He

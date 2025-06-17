@@ -4,6 +4,7 @@ date: '2017-07-12'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was dark and stuffy there. My wife thinks there was a giant boiler just

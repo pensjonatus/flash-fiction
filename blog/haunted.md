@@ -4,6 +4,7 @@ date: '2015-05-02'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 It started about 4 am one night. I woke up and heard a soft moan, as if somebody

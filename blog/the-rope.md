@@ -3,6 +3,7 @@ title: The Rope
 date: '2016-01-29'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I live in the cave with my parents and I am old enough for rope duty. It is a

@@ -3,6 +3,7 @@ title: The Perfect Temple
 date: '2013-12-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 When I found myself cast away on Hispaniola, I did not trek to any of the cities

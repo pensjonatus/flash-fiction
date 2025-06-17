@@ -3,6 +3,7 @@ title: Lost Soul
 date: '2013-07-15'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was late in the evening, one cold November evening in New York when Timothy

@@ -3,6 +3,7 @@ title: Keep a Record
 date: '2014-10-22'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 On Jim's birthday we all went bowling. He looked at me three times the entire

@@ -4,6 +4,7 @@ date: '2016-01-14'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was a birthday party at a bar. I was in a circle of people talking about

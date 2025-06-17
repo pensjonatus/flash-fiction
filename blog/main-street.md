@@ -3,6 +3,7 @@ title: Main Street
 date: '2012-07-14'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Bill was twenty-five that day when Mr. White, his former maths teacher, saw him

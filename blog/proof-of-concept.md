@@ -3,6 +3,7 @@ title: Proof of Concept
 date: '2013-07-10'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The two men boarded the spacecraft. It left the planet's surface noiselessly and

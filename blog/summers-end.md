@@ -3,6 +3,7 @@ title: Summer's End
 date: '2013-09-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Ivan was sitting by the pool, watching the sun set slowly over the buildings of

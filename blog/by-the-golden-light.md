@@ -3,6 +3,7 @@ title: By the Golden Light
 date: '2015-09-30'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was a late evening and Kate was lying in bed with a book. It was the cabin

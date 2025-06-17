@@ -4,6 +4,7 @@ date: '2012-10-05'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 She was waiting for the train, her toes neatly on the line. She got all the

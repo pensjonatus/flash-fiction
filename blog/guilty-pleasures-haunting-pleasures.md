@@ -4,6 +4,7 @@ date: '2012-10-10'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 We are at a shopping mall, she needs to get some new clothes for a trip she will

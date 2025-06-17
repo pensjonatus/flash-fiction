@@ -4,6 +4,7 @@ date: '2012-09-30'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Not entirely sure what she would say, Tom approached Kate to invite her to the

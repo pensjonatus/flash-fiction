@@ -3,6 +3,7 @@ title: Always in a New Town
 date: '2012-07-02'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jake turned a corner and was surprised at what he saw. He was expecting a park,

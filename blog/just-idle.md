@@ -3,6 +3,7 @@ title: Just Idle
 date: '2014-06-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I sent this beautiful creature a text: "Will you join me in the plaza?" but did

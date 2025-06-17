@@ -4,6 +4,7 @@ date: '2015-10-19'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 Archbishop Cavalieri was in attendance of the Pope for the week. He just entered

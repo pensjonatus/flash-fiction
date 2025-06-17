@@ -3,6 +3,7 @@ title: Special Lizard
 date: '2016-07-16'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 There is a special lizard living on the outside wall of the lighthouse, although

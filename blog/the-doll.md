@@ -3,6 +3,7 @@ title: The Doll
 date: '2014-04-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I bought a doll from an antique shop on Upper East Side. It had a white china

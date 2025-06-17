@@ -3,6 +3,7 @@ title: The Nightwatchman
 date: '2012-07-21'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The girl took a shortcut through an alley. Big mistake. Freddy was pretty horny

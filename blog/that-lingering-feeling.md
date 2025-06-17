@@ -3,6 +3,7 @@ title: That Lingering Feeling
 date: '2015-01-16'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "So where's Kevin and Mordecai?" asked Kelly. She was alone with Bryan in the

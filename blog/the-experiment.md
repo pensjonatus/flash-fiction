@@ -5,6 +5,7 @@ tags:
   - creepy
   - flash-fiction
   - sci-fi
+authors: pensjonatus
 ---
 
 I walked down the gloomy corridor and into the dark room. The man was sitting in

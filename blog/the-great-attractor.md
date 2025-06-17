@@ -4,6 +4,7 @@ date: '2014-07-09'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Our Sun is falling towards a supermassive unseen object known as the Great

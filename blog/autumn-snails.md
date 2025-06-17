@@ -4,6 +4,7 @@ date: '2013-02-14'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Rebellion makes a boy cool. Revolution makes him a god. I was never part of any

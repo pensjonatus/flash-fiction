@@ -3,6 +3,7 @@ title: On Our Bus
 date: '2017-05-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I like our bus! The road is not too bumpy, the driver is a funny man (when he

@@ -3,6 +3,7 @@ title: The Barbarian
 date: '2015-05-05'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Seth was out with his friends again. He came straight from the gym, so he was

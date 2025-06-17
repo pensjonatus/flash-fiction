@@ -3,6 +3,7 @@ title: The Suicide Note
 date: '2012-07-31'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 First of all, it has nothing to do with any of you. I was happy with you,

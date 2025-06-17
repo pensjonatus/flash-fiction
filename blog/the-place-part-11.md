@@ -4,6 +4,7 @@ date: '2017-07-21'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 After the mechanism stopped working, we both collapsed on the couch in our

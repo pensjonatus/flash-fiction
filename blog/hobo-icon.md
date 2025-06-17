@@ -3,6 +3,7 @@ title: Hobo Icon
 date: '2018-08-03'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 We just bought a house. I was in the backyard with my son. He thought there were

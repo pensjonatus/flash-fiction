@@ -3,6 +3,7 @@ title: Confessions of a Star
 date: '2014-02-12'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Cue music.

@@ -4,6 +4,7 @@ date: '2015-08-12'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 I gave her the pendant on our first month-iversary. My look back then was a tank

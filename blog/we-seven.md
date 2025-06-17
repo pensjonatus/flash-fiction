@@ -3,6 +3,7 @@ title: We Seven
 date: '2014-04-16'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I just got into bed, getting ready for a good night's sleep. I was alone, my

@@ -3,6 +3,7 @@ title: The Library
 date: '2015-01-26'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 After the war, Everett made it a habit to go to the library every day. It had

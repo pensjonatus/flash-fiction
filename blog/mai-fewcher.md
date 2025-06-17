@@ -3,6 +3,7 @@ title: mai fewcher
 date: '2013-08-21'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 i woz slingin by the streats, lookin to get hi, an i woz wiv mai frend, dedzon.

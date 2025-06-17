@@ -4,6 +4,7 @@ date: '2013-06-05'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 "Now think of the implications," he said.

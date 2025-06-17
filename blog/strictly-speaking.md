@@ -3,6 +3,7 @@ title: Strictly Speaking
 date: '2015-10-26'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Hey, how are you doing?" said the guy at the bar. He was kind of handsome, but

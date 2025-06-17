@@ -3,6 +3,7 @@ title: Everything Is Fine, In General
 date: '2015-05-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "He is not a burglar _per se_," I said, "I mean, he did break in, but he did not

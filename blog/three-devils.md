@@ -3,6 +3,7 @@ title: Three Devils
 date: '2012-12-16'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 John murdered his wife when he found out she was cheating on him. He did not

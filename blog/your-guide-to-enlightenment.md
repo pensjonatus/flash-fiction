@@ -5,6 +5,7 @@ tags:
   - creepy
   - flash-fiction
   - pm-writing
+authors: pensjonatus
 ---
 
 This paper is provided to all of you still left behind on Earth who could not

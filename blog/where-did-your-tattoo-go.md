@@ -3,6 +3,7 @@ title: Where Did Your Tattoo Go?
 date: '2014-06-05'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The guys were drinking some beers, relaxing after work. There were five of them

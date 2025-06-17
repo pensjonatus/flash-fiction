@@ -3,6 +3,7 @@ title: Kevin
 date: '2012-09-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Kevin was a weird kid and I could never relate to him. There was a bunch of us

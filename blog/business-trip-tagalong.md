@@ -4,6 +4,7 @@ date: '2014-06-06'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Clara was getting ready to go out to work. I flung myself across the bed and

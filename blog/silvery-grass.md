@@ -3,6 +3,7 @@ title: Silvery grass
 date: '2023-04-29'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 When I stepped out of the pharmacy, a homeless-looking man said to me:

@@ -3,6 +3,7 @@ title: Working Before the Holidays
 date: '2015-12-22'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The office was not as busy before the holidays, because we did not want to start

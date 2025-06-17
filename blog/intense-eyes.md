@@ -4,6 +4,7 @@ date: '2012-10-03'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 He entered and saw his wife's new secretary. Their eyes met, and he might have

@@ -3,6 +3,7 @@ title: Wash It Down
 date: '2015-04-21'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 She had to drink a lot to get all those pills down. She had never tried to

@@ -3,6 +3,7 @@ title: Disappointing afterlife
 date: '2023-07-09'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The life after life is a big apartment building which I think you might have

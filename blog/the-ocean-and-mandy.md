@@ -3,6 +3,7 @@ title: The Ocean and Mandy
 date: '2012-02-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was dozing off in a rocking chair on the ocen-side proch of a small hotel in

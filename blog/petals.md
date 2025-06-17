@@ -4,6 +4,7 @@ date: '2013-10-14'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Mary was sitting on the wall. The sun was bright, the day was warm, she was

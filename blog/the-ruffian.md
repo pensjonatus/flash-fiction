@@ -3,6 +3,7 @@ title: The Ruffian
 date: '2012-10-23'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was sitting at Harley's Diner with Matt. We were about to make a deal that

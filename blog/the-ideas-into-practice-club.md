@@ -3,6 +3,7 @@ title: The Ideas Into Practice Club
 date: '2012-09-12'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Classes were over, the teachers had gone to their own wing, leaving the boys to

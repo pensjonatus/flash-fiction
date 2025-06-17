@@ -3,6 +3,7 @@ title: Slingshot
 date: '2012-03-11'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Mark had a great slingshot. It was painted red with the leftovers from that time

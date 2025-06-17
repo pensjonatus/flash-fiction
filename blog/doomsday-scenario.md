@@ -3,6 +3,7 @@ title: Doomsday Scenario
 date: '2014-07-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Imagine yourself speeding. You are in your car, going just above the limit,

@@ -3,6 +3,7 @@ title: Lonely Writer
 date: '2015-03-10'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Howard finished another story. He put the period at the end of the sentence of

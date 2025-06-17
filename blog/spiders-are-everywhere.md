@@ -3,6 +3,7 @@ title: Spiders Are Everywhere
 date: '2015-01-31'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was bit by a spider. It was round and chubby, all red with black spots. Quite

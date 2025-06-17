@@ -3,6 +3,7 @@ title: Elephant Parade
 date: '2013-11-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 We were sitting at a diner, eating burgers. I had decided that would be the best

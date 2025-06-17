@@ -4,6 +4,7 @@ date: '2013-09-30'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 "A million candy bars to win," Jake read the wrapper. They were sitting on the

@@ -3,6 +3,7 @@ title: Heart to heart
 date: '2018-05-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 During the last war I was drafted. But I was lucky and got a desk job at Fort

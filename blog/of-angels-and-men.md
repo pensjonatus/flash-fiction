@@ -3,6 +3,7 @@ title: Of Angels and Men
 date: '2014-03-09'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Every schoolchild knows the basics of cosmology. The world exists in the corpse

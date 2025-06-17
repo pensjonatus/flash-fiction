@@ -3,6 +3,7 @@ title: Music Mush
 date: '2014-09-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The boy was carrying a guitar. A bunch of rednecks stopped by as he was walking

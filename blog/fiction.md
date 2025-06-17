@@ -3,6 +3,7 @@ title: Fiction
 date: '2012-04-19'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The writer was having breakfast at a waffle house when a young man approached.

@@ -3,6 +3,7 @@ title: Raven's Bridge
 date: '2016-03-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Hurry up," he said, "We're almost there."

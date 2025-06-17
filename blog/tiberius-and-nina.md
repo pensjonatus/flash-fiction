@@ -3,6 +3,7 @@ title: Tiberius and Nina
 date: '2012-03-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Wat you playin' at, girl?"

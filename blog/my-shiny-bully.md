@@ -4,6 +4,7 @@ date: '2016-03-27'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jeremy C. Shepherd was a classic bully. He took our lunch money, he beat on us,

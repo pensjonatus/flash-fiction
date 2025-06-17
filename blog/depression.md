@@ -3,6 +3,7 @@ title: Depression
 date: '2012-07-02'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 She could not get out of bed for five days. She felt so tired and the thought of

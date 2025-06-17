@@ -3,6 +3,7 @@ title: Party Prep
 date: '2015-01-30'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jill was chopping up the vegetables, and Jack was frying up the meat. They were

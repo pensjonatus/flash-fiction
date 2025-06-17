@@ -3,6 +3,7 @@ title: In the End
 date: '2012-10-12'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 A day is a day is a day, and in the end, a girl needs to make money. That is

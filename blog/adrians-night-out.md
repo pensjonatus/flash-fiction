@@ -4,6 +4,7 @@ date: '2014-06-16'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Adrian noticed that after a few drinks, the place got a lot more classy. The dim

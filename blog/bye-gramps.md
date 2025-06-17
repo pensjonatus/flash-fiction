@@ -3,6 +3,7 @@ title: Bye, Grandpa
 date: '2012-11-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 That morning grandpa took his pill and felt better right away. He walked

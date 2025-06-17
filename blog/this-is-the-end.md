@@ -3,6 +3,7 @@ title: This Is The End
 date: '2012-02-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The boy was sitting in alone in a car. It was night time, the middle of a

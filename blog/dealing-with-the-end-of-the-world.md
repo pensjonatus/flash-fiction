@@ -3,6 +3,7 @@ title: Dealing with the End of the World
 date: '2016-08-07'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 We all had our ways of dealing with the end of the world. Some denied it, others

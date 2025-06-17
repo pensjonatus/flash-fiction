@@ -4,6 +4,7 @@ date: '2017-11-04'
 tags:
   - flash-fiction
   - sci-fi
+authors: pensjonatus
 ---
 
 We were on a spaceship from the Belt to Mars. We were waiting in line for the

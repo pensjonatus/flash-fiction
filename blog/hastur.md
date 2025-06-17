@@ -4,6 +4,7 @@ date: '2015-03-05'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 So I have been granted the privilege of becoming a Dreamer, or whatever. And I

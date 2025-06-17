@@ -3,6 +3,7 @@ title: Crackpot
 date: '2012-05-28'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "I am not really a man," said Jesus, "I am older than this world. I am Apollo,

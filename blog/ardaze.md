@@ -3,6 +3,7 @@ title: Ardaze
 date: '2012-07-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I would like to put two pieces of writing together. The first one is a story I

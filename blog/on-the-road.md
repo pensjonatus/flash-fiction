@@ -4,6 +4,7 @@ date: '2012-11-08'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Ike was stretched out on the bunk of the tour bus. The road was fast and light,

@@ -3,6 +3,7 @@ title: Running
 date: '2015-08-10'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I went out to have breakfast with my friend Todd. We lived in a walk-around

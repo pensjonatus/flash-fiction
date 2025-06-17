@@ -3,6 +3,7 @@ title: Watercooler
 date: '2018-04-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "How are ya, Dick?" Gregory approached me at the watercooler.

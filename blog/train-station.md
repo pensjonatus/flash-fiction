@@ -4,6 +4,7 @@ date: '2012-07-08'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 I was at a train station in a place I hardly knew, far away from home. The

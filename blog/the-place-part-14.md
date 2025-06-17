@@ -4,6 +4,7 @@ date: '2017-07-24'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 I got up in the dark to see who it was. I sneaked up to the door of the spare

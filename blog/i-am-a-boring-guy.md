@@ -3,6 +3,7 @@ title: I am a Boring Guy
 date: '2013-05-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I happened to me in a shopping mall when I was on a business trip a million

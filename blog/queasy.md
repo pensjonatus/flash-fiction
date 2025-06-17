@@ -3,6 +3,7 @@ title: Queasy
 date: '2012-12-13'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 He managed to get on the last train, and it was still a forty-five minute ride

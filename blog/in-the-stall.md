@@ -3,6 +3,7 @@ title: In the Stall
 date: '2014-12-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was a few weeks into the end of the world. People were gone. I walked through

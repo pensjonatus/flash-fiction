@@ -3,6 +3,7 @@ title: Bad News from Ganymede
 date: '2016-07-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 A terrible ring shook the observatory and I was jolted back into consciousness.

@@ -3,6 +3,7 @@ title: A Hurricane of Words
 date: '2013-12-29'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was trying to write, so I leaned over my laptop but I could not focus because

@@ -3,6 +3,7 @@ title: Crabs
 date: '2018-04-21'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 We always went out to eat on Fridays, and the meals were great. One of her

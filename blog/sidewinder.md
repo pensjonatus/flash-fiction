@@ -3,6 +3,7 @@ title: Sidewinder
 date: '2012-07-01'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was in the eastern forty-sevens in New York, just like Truman Capote's

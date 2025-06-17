@@ -3,6 +3,7 @@ title: Junkie's Life
 date: '2016-03-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "And here we are again, in my office, talking about the same thing," the

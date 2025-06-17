@@ -4,6 +4,7 @@ date: '2015-06-18'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 [A man](./on-holiday) was sitting alone in a penthouse suite. There was an old

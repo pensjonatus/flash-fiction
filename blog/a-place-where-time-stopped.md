@@ -3,6 +3,7 @@ title: A Place Where Time Stopped
 date: '2018-08-15'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 During my time as an explorer, I visited a place where time stopped. It was a

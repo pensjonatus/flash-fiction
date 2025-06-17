@@ -3,6 +3,7 @@ title: Still Life
 date: '2012-06-18'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jacob and Mary were in the conference room, going over the monthly statements.

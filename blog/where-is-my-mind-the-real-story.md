@@ -4,6 +4,7 @@ date: '2012-07-29'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 The real story is too scary to tell, so let us assume that Mark was sitting at a

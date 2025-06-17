@@ -3,6 +3,7 @@ title: The Whimsical
 date: '2013-07-22'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was doing my homework when my dad leaned inside.

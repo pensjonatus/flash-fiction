@@ -3,6 +3,7 @@ title: Listening to Tears
 date: '2012-05-31'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was there for the famous Bill Hicks speech about the roller coaster. I heard

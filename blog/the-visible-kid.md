@@ -3,6 +3,7 @@ title: The Visible Kid
 date: '2012-06-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Someone pushed Jim back into the circle. His nose was pulsating with pain, there

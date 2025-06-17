@@ -3,6 +3,7 @@ title: The Finding in the Temple
 date: '2012-03-05'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The people gathered were mostly older men, well versed in the scripture. They

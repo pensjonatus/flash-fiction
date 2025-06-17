@@ -3,6 +3,7 @@ title: Two Houses
 date: '2013-12-23'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 In California December sun, the house was getting ready for Christmas, but Jason

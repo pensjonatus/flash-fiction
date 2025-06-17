@@ -3,6 +3,7 @@ title: Blistery Mike
 date: '2012-06-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Mike was a painter, and he was working on the latest one. It was called: the

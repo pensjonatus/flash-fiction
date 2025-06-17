@@ -3,6 +3,7 @@ title: Political Poetry
 date: '2015-02-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Of course her poetry is political," said the critic, "What else is there left

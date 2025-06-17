@@ -3,6 +3,7 @@ title: 'Chapter 2: How, In All Actuality, She Loves Me'
 date: '2015-07-09'
 tags:
   - growing-up-in-greyland
+authors: pensjonatus
 ---
 
 Anyway, as I was saying, years later I moved to America. I fiddled with this and

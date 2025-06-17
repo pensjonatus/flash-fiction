@@ -4,6 +4,7 @@ date: '2012-07-21'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Their eyes first met when they were at a burger place with their respective

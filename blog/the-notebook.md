@@ -3,6 +3,7 @@ title: The Notebook
 date: '2013-05-02'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The car garage was waiting to be become the setting of a scene. There were tools

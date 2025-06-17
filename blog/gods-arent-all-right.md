@@ -3,6 +3,7 @@ title: Gods Aren't All Right
 date: '2012-04-02'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Discarded by generation after generation, the rusty cars piled up sky high. The

@@ -4,6 +4,7 @@ date: '2012-09-25'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Phil was more confident than his usual self, joking all the time and maybe even

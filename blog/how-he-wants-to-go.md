@@ -3,6 +3,7 @@ title: How He Wants to Go
 date: '2012-03-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Norman was hard sitting at his desk, going over the Henderson report and making

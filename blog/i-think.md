@@ -4,6 +4,7 @@ date: '2016-07-19'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 I think they just said on TV that there is a zombie invasion. What do you call

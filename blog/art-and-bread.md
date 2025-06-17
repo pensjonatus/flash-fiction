@@ -4,6 +4,7 @@ date: '2012-07-13'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 He placed the bag of groceries on the counter and smiled at her. She looked up

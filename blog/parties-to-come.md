@@ -3,6 +3,7 @@ title: Parties to Come
 date: '2013-07-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was was done with the delivery, about to leave, just had to get a signature.

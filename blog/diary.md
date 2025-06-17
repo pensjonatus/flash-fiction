@@ -3,6 +3,7 @@ title: Diary
 date: '2013-06-19'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Day 7778:

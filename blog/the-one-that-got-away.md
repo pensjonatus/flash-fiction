@@ -4,6 +4,7 @@ date: '2012-07-06'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Everybody was hanging out, eating pizza, taking turns playing Xbox in pairs. The

@@ -4,6 +4,7 @@ date: '2012-09-10'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Jack's wife was standing over him, the smoking gun still in her hand. The roar

@@ -3,6 +3,7 @@ title: The Last Supper
 date: '2012-03-15'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Jesus, you don't look yourself tonight."

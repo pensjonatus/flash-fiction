@@ -3,6 +3,7 @@ title: Hail
 date: '2013-06-10'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was almost home when I was caught in a hailstorm. I ran the final stretch and

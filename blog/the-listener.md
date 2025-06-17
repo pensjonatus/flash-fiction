@@ -3,6 +3,7 @@ title: The Listener
 date: '2012-06-22'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The music coming from the radio was soft, it was putting Tony to sleep. He was

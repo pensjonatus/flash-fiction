@@ -3,6 +3,7 @@ title: What Sticks In My Mind
 date: '2015-07-17'
 tags:
   - love
+authors: pensjonatus
 ---
 
 I remember things she said throughout my life. When we first met, it was at

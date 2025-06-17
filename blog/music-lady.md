@@ -3,6 +3,7 @@ title: Music Lady
 date: '2012-05-29'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I leaned on the bar, the music was booming. "What am I doing here, I hate

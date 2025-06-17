@@ -4,6 +4,7 @@ date: '2016-01-03'
 tags:
   - flash-fiction
   - sci-fi
+authors: pensjonatus
 ---
 
 Humans were a carbon-based life form which arose in the Original Solar System

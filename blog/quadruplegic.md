@@ -3,6 +3,7 @@ title: Quadruplegic
 date: '2012-03-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Sam was paralyzed from the neck down. Sometimes, he felt like just a head lying

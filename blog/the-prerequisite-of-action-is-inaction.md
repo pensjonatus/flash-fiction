@@ -4,6 +4,7 @@ date: '2012-12-19'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 I was part of a hardcore online gaming commune once. We lived in an old house in

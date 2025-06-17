@@ -4,6 +4,7 @@ date: '2015-06-17'
 tags:
   - flash-fiction
   - pm-writing
+authors: pensjonatus
 ---
 
 The cathedral was full of people, inside and out. The crowd surrounded the

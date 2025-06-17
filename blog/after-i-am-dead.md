@@ -4,6 +4,7 @@ date: '2016-11-18'
 tags:
   - flash-fiction
   - pm-writing
+authors: pensjonatus
 ---
 
 If you are reading this after I am dead, know I am not up there somewhere

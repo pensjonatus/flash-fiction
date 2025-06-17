@@ -4,6 +4,7 @@ date: '2013-09-19'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 The hotel I worked at was huge but there were not many guests, I only had a few

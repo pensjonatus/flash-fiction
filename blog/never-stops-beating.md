@@ -3,6 +3,7 @@ title: Never Stops Beating
 date: '2012-05-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was a hunting trip, so the two of us were dressed in pseudo-military garb and

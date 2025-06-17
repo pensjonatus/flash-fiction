@@ -4,6 +4,7 @@ date: '2012-10-02'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Mark had a mark on his face. It was a little circular scar on his left

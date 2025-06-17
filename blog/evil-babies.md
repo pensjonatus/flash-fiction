@@ -3,6 +3,7 @@ title: Evil Babies
 date: '2014-03-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Okay, so what's next?" asked Derek.

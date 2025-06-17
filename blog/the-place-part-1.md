@@ -4,6 +4,7 @@ date: '2017-07-11'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 We discovered a strange place. When people say "alternate dimension"... I never

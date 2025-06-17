@@ -3,6 +3,7 @@ title: 'Prologue: Of Cups and Men'
 date: '2015-07-03'
 tags:
   - growing-up-in-greyland
+authors: pensjonatus
 ---
 
 My thirteenth birthday was a weird day for me.

@@ -3,6 +3,7 @@ title: The Sickness
 date: '2012-02-10'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 On day one, Jeff came in a little late. His eyes were all red, his nose was

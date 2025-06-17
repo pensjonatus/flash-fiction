@@ -3,6 +3,7 @@ title: The Unboxing
 date: '2014-12-21'
 tags:
   - creepy
+authors: pensjonatus
 ---
 
 It has been tough without my wife, but over the past two years, we learned to

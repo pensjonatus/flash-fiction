@@ -4,6 +4,7 @@ date: '2017-07-14'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 My research first made me think that it was all make-believe. That visiting

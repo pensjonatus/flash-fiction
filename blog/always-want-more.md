@@ -4,6 +4,7 @@ date: '2012-12-02'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 "You're one lucky bastard," said one of the guys, and I just nodded, looking

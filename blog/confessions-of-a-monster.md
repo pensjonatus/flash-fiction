@@ -3,6 +3,7 @@ title: Confessions of a Monster
 date: '2015-01-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The viewers held their breath as the face of the criminal came into focus again.

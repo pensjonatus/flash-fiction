@@ -5,6 +5,7 @@ tags:
   - growing-up-in-greyland
   - bizarro
   - novel
+authors: pensjonatus
 ---
 
 A girl sometimes seems interesting when she is, in fact, boring. We see things

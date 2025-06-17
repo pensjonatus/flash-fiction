@@ -3,6 +3,7 @@ title: The Magic Merry-Go-Round
 date: '2015-02-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 There was a magic merry-go-round down by the pier when I was little. The man who

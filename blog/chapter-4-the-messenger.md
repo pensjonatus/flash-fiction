@@ -3,6 +3,7 @@ title: 'Chapter 4: The Messenger'
 date: '2015-07-20'
 tags:
   - growing-up-in-greyland
+authors: pensjonatus
 ---
 
 The mysterious stranger had such beautiful eyes. He stared at me, and it became

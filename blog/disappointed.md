@@ -4,6 +4,7 @@ date: '2013-04-06'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 John got up in the middle of the night and stepped out into the unfamiliar

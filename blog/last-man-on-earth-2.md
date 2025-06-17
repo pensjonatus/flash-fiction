@@ -3,6 +3,7 @@ title: Last Man on Earth
 date: '2015-11-02'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Last man on Earth, alone in a room. What would he do?

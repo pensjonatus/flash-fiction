@@ -3,6 +3,7 @@ title: Make It Quick
 date: '2012-03-11'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Mr. Jefferson was a history teacher at Thomas Jefferson High. He was not

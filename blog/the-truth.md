@@ -3,6 +3,7 @@ title: The Truth
 date: '2012-03-31'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The flickering light made the hospital room look ghastly and unfriendly. The

@@ -4,6 +4,7 @@ date: '2013-06-23'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 It was a hot day in the kitchen. I was washing some pots when the boss came up

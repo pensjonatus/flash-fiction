@@ -3,6 +3,7 @@ title: She's Not Pretty
 date: '2015-01-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Gil and Deb were sitting at the bar, having some beers after work.

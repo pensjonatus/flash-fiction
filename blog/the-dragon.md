@@ -3,6 +3,7 @@ title: The Dragon
 date: '2012-04-13'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jenny was just a little girl before the dragon came. She was afraid of it before

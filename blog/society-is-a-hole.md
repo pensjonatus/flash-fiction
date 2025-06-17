@@ -3,6 +3,7 @@ title: Society is a Hole
 date: '2015-10-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "And the motherfucker cut me off. No blinkers, he just jumped lanes and cut me

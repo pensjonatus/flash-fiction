@@ -3,6 +3,7 @@ title: Deranged
 date: '2012-02-29'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 So he was a deranged killer. So what!

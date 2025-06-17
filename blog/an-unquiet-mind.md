@@ -3,6 +3,7 @@ title: An Unquiet Mind
 date: '2014-09-09'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jim was cooking up some franks and patties at a barbecue. He was wearing one of

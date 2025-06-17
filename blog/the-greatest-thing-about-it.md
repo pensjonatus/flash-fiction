@@ -3,6 +3,7 @@ title: The Greatest Thing About It
 date: '2012-06-23'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "So what's so great about being straight anyway?" Jervais was teasing Scotty all

@@ -3,6 +3,7 @@ title: Banana Lunch
 date: '2012-03-01'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "So what kind of music do you like, Rox?"

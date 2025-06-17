@@ -3,6 +3,7 @@ title: Downright
 date: '2012-06-05'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The man was the bulky biker type. Not fat, but not all muscle either, he was

@@ -3,6 +3,7 @@ title: Studded with Souls
 date: '2013-12-31'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I remember my last moments. There was some pain, but a lot of relief. I was not

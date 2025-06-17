@@ -3,6 +3,7 @@ title: No Confirmation
 date: '2014-06-12'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Ian was a writer by calling and a writer by passion. He had a little space in

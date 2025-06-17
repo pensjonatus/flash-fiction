@@ -3,6 +3,7 @@ title: Blackout
 date: '2014-05-30'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Almost late for work, night shift today, I got out of the apartment and started

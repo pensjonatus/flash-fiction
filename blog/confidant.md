@@ -3,6 +3,7 @@ title: Confidant
 date: '2015-05-21'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "He is the strong type, a business shark, but also a real man," Dora said. "The

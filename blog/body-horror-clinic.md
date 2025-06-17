@@ -3,6 +3,7 @@ title: Body Horror Clinic
 date: '2022-07-26'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Hullo," I said into the receiver, "Is this the body horror clinic?"

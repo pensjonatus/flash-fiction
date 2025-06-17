@@ -3,6 +3,7 @@ title: The Yellow Sign
 date: '2023-07-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I woke up in a hospital room and the rain was pit-pat-pattering against the

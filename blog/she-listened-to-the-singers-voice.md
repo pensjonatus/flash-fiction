@@ -4,6 +4,7 @@ date: '2012-10-24'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Young and in love, I followed the girl to the ends of earth. We were in the

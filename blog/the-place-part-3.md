@@ -4,6 +4,7 @@ date: '2017-07-13'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 My job is pretty dull, but I get to read a lot. Used to be on paper, and now

@@ -3,6 +3,7 @@ title: Brain Junk
 date: '2012-12-12'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was a San Francisco party, so it was on a roof. Below, the street was going

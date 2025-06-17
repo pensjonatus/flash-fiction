@@ -3,6 +3,7 @@ title: Dave
 date: '2012-05-29'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The apartment was empty. He threw his keys on the counter, right next to the

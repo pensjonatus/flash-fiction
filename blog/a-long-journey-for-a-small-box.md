@@ -4,6 +4,7 @@ date: '2016-05-19'
 tags:
   - flash-fiction
   - pm-writing
+authors: pensjonatus
 ---
 
 "This box," said Weathers, "Made its way here all the way from Marakesh." He was

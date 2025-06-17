@@ -3,6 +3,7 @@ title: None of This Junk!
 date: '2014-07-18'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The distant future, the year 20XX, night time in a large city. Jeremy was

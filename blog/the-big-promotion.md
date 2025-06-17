@@ -3,6 +3,7 @@ title: The Big Promotion
 date: '2013-04-18'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Larry was walking down the long hallway beyond the stadium's maintenance area.

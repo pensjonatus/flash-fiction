@@ -3,6 +3,7 @@ title: The CEO
 date: '2014-03-09'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Mr. Wiletzky was a very successful man. He had a beautiful wife whom he loved

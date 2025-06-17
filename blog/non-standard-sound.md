@@ -3,6 +3,7 @@ title: Non-standard Sound
 date: '2016-05-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The best sound effects guy in town was called in. As he arrived, the director

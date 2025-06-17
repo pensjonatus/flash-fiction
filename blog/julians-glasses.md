@@ -3,6 +3,7 @@ title: Julian's Glasses
 date: '2012-05-31'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Hey, Monica," Sarah kissed her friend on the cheek. They hugged for half a

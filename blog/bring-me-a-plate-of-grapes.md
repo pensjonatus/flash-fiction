@@ -3,6 +3,7 @@ title: Bring Me a Plate of Grapes
 date: '2012-04-30'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The hotel suite had one of those large sitting spaces with two couches and a few

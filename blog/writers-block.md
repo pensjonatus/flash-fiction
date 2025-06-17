@@ -3,6 +3,7 @@ title: Writer's Block
 date: '2015-01-19'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 He was sitting in his study in front of a blank electronic page. It was his

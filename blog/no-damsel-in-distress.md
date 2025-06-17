@@ -3,6 +3,7 @@ title: No Damsel In Distress
 date: '2013-05-31'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I had to press my contacts real hard before I got it. And by real hard I mean

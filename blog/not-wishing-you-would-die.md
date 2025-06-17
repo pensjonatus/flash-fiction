@@ -3,6 +3,7 @@ title: Not wishing you would die
 date: '2023-04-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Valentine got lots of birthday cards, and they were all on the table, basking in

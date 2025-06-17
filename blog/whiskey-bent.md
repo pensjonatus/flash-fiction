@@ -3,6 +3,7 @@ title: Whiskey Bent
 date: '2014-03-03'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was two years since my wife had... died and I was still looking at Sue with

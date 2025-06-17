@@ -4,6 +4,7 @@ date: '2014-11-03'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 I tucked my son in and gave him a hug. As I got up to leave, he said:

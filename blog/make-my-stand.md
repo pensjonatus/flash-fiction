@@ -3,6 +3,7 @@ title: Make My Stand
 date: '2012-03-15'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Listen up," Sarge was crouching with his back against the wall, the team were

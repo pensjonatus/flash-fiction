@@ -3,6 +3,7 @@ title: Lip Balm
 date: '2013-01-30'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I got out of the club and realized it was light outside. What time? I checked my

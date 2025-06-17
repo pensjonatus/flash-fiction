@@ -3,6 +3,7 @@ title: My Dream
 date: '2014-10-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "My dream?" Jack put out a cigarette and lit up another. The place was empty, a

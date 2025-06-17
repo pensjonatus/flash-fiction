@@ -3,6 +3,7 @@ title: Groceries
 date: '2015-01-21'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 In the hallway on the way to my apartment, there were groceries in a paper bag.

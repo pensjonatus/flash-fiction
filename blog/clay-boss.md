@@ -3,6 +3,7 @@ title: Clay Boss
 date: '2012-04-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I used to pass by this artsy cafe on my way to a construction site I was

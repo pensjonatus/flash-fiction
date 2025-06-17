@@ -3,6 +3,7 @@ title: Glass Slipper
 date: '2017-05-09'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Hullo, Hugo," the younger guard hollered tubally, "Shall we convene for whiskey

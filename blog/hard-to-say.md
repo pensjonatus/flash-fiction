@@ -4,6 +4,7 @@ date: '2012-07-04'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 They came to the corner of the street.

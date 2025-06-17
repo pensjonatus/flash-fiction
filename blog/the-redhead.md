@@ -4,6 +4,7 @@ date: '2012-10-05'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 I often saw her on the subway on my way to work. She was not beautiful, but she

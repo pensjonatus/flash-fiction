@@ -3,6 +3,7 @@ title: My Friend Was Wounded
 date: '2016-08-23'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 My friend was badly wounded. My friend is my phone, actually, and the display

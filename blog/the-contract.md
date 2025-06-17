@@ -3,6 +3,7 @@ title: The Contract
 date: '2012-07-15'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "...and this will be on a monthly basis. Now as for concert fees..." the

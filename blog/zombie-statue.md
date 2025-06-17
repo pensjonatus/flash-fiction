@@ -4,6 +4,7 @@ date: '2014-06-06'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 On holiday in France, I visited a small church in Bar-le-Duc and saw a statue of

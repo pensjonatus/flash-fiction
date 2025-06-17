@@ -3,6 +3,7 @@ title: Dead Highway
 date: '2012-03-22'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 A car just flew by, not even slowing down. It was not quite the desert, but

@@ -3,6 +3,7 @@ title: Love Mistakes
 date: '2012-06-12'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 She was fragile, tearful, I could tell she had been crying. She was not dressed

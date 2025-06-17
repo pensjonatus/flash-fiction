@@ -3,6 +3,7 @@ title: Protein
 date: '2012-08-05'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 An ounce of nuts, how much protein is that? Brad was wondering as he was

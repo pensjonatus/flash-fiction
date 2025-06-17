@@ -3,6 +3,7 @@ title: On the Phone
 date: '2012-02-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 John stirred in the dark. Right after his sudden awakening, came the sound of

@@ -4,6 +4,7 @@ date: '2015-01-25'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 Those beaked creatures were intruders on Earth at first, but then we learned to

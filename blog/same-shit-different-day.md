@@ -4,6 +4,7 @@ date: '2012-09-22'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Marcus Polonius entered the taverna. The interior was dimly lit, smelled of of

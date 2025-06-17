@@ -3,6 +3,7 @@ title: Life During Wartime
 date: '2014-02-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 She had had an okay day at work. Got a little tired but not too bad, had some

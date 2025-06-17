@@ -3,6 +3,7 @@ title: Last Two Liters
 date: '2012-05-23'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Silas ran a system check, everything was working fine. He had the computer

@@ -3,6 +3,7 @@ title: Dick's Diary
 date: '2013-11-16'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I know what this city is really like. Every night, kneeling in its own filth,

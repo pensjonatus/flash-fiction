@@ -3,6 +3,7 @@ title: Everybody Screams
 date: '2014-12-22'
 tags:
   - creepy
+authors: pensjonatus
 ---
 
 When I died, everything seemed so abrupt that I closed my eyes and did not open

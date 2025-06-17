@@ -3,6 +3,7 @@ title: Boylston Social Club
 date: '2017-05-02'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Sitting on the balcony overlooking Boylston Street and the Commons, Mack was

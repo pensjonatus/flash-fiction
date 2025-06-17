@@ -3,6 +3,7 @@ title: Bombed Again
 date: '2012-07-03'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The music died suddenly. The dancing figures stopped in mid motion, an arm

@@ -4,6 +4,7 @@ date: '2013-09-26'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 1\. Which is the most tasty?

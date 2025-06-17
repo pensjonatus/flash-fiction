@@ -3,6 +3,7 @@ title: When I Was a Child...
 date: '2014-03-16'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The three of them were sitting together one evening, drinking wine and talking.

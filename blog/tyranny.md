@@ -3,6 +3,7 @@ title: Tyranny
 date: '2012-03-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The bearded guy leaned over the kid. The kid was on the ground, spitting blood.

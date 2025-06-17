@@ -3,6 +3,7 @@ title: Spider Mutant
 date: '2019-02-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 As you know, the recent nuclear war did a number on our neighborhood. It is

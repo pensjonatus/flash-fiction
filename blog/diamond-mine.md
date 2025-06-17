@@ -5,6 +5,7 @@ tags:
   - creepy
   - flash-fiction
   - pm-writing
+authors: pensjonatus
 ---
 
 Out of boredom I think, we dug around one beggar patient's brain and found a

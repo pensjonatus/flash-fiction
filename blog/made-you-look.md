@@ -4,6 +4,7 @@ date: '2013-10-01'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 He noticed her bright eyes the first time he saw her. There was no reason to

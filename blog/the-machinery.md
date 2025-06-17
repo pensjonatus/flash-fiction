@@ -3,6 +3,7 @@ title: The Machinery
 date: '2014-03-11'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jake was twelve and his life was great. But that day he wanted to go for a walk

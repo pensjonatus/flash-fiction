@@ -4,6 +4,7 @@ date: '2017-04-30'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jackson worked tirelessly, until he killed everyone in the world.

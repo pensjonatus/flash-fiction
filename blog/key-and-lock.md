@@ -3,6 +3,7 @@ title: Key and Lock
 date: '2013-10-30'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 We've been living in this office building for generations. Desks have been our

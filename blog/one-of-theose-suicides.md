@@ -3,6 +3,7 @@ title: One of those Suicides
 date: '2013-09-01'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 One time when I heard the song, I decided to kill myself. My reason was the

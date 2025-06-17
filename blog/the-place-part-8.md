@@ -4,6 +4,7 @@ date: '2017-07-18'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 The box found a new home on a shelf in our living room. My wife put it between

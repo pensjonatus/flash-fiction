@@ -3,6 +3,7 @@ title: Singer's Coke
 date: '2014-09-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was cleaning up the place, picking up all the beer bottles from all the

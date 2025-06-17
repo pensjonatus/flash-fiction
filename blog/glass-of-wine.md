@@ -3,6 +3,7 @@ title: Glass of Wine
 date: '2015-08-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "The point about Balzac," said a blond guy, "Is that he wrote all the time. If

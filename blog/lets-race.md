@@ -3,6 +3,7 @@ title: Let's Race!
 date: '2015-04-23'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was a sunny day and there were lots of people by the river,

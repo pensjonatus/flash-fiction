@@ -3,6 +3,7 @@ title: Open the Door
 date: '2014-03-12'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The sound of someone banging on my door awoke me from fitful sleep. It was the

@@ -3,6 +3,7 @@ title: Darker
 date: '2012-03-14'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Hey, you got a minute?" Bill was standing at the entrance to her cubicle. She

@@ -4,6 +4,7 @@ date: '2014-07-08'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 People say some young folks took a road trip once. They took out a van, packed

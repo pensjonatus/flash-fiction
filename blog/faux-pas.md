@@ -3,6 +3,7 @@ title: Faux Pas
 date: '2013-11-13'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "We're taking heave fire, we need backup," said one of the teenagers matter of

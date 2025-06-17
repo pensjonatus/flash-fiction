@@ -4,6 +4,7 @@ date: '2024-01-27'
 tags:
   - poem
   - poetry
+authors: pensjonatus
 ---
 
 In a room above a pub I lay my things down.

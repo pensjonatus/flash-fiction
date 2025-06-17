@@ -3,6 +3,7 @@ title: Lifehacks
 date: '2015-10-21'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I calculated that I wash my hands, on average, seven times a day. That is why I

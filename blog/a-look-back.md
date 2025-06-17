@@ -3,6 +3,7 @@ title: A Look Back
 date: '2014-09-02'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Life is a series of backward glances. We were on holiday, walking down a narrow

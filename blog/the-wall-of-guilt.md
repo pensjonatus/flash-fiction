@@ -3,6 +3,7 @@ title: The Wall of Guilt
 date: '2012-09-26'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Tom and Sharon had to share a dressing room, and that was fine, because they

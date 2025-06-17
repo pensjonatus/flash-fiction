@@ -3,6 +3,7 @@ title: Drugmind
 date: '2012-07-03'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was on the phone, so I was able to take control of the project. Lucky! I think

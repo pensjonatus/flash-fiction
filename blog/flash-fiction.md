@@ -3,6 +3,7 @@ title: Flash Fiction
 date: '2014-11-18'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was a slow day in non-fiction writing class. The professor had prepared a

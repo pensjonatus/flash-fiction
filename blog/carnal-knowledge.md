@@ -3,6 +3,7 @@ title: Carnal Knowledge
 date: '2012-02-28'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Emily was still recovering from the orgasm, it only just reached her that Zack's

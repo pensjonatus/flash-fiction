@@ -4,6 +4,7 @@ date: '2012-12-03'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 The postman was coming back now and the couple were still standing there, by the

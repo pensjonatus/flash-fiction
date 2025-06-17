@@ -4,6 +4,7 @@ date: '2016-03-25'
 tags:
   - flash-fiction
   - sci-fi
+authors: pensjonatus
 ---
 
 Pete suddenly came to life in Machine City and he wondered the block for a

@@ -3,6 +3,7 @@ title: Oracle stones
 date: '2023-03-13'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "I stand before thee, my lords," said the Elder, "To ask your advice. My people

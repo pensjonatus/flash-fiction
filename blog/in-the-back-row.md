@@ -4,6 +4,7 @@ date: '2013-07-09'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 The movie theater was hot, or was it just him? The hero on the screen was a

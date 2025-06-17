@@ -4,6 +4,7 @@ date: '2013-09-24'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Party, the music was loud, everybody was drunk dancing falling over the couch

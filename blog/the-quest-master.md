@@ -3,6 +3,7 @@ title: The Quest Master
 date: '2012-04-26'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The sun was rising over the land and the city of Dragonport was just waking up.

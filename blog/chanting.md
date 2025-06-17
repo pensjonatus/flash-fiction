@@ -3,6 +3,7 @@ title: Chanting
 date: '2012-12-15'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I would rather be out there in the streets with junkies looking for fixes in the

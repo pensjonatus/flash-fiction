@@ -3,6 +3,7 @@ title: Sessions
 date: '2012-03-16'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "How are you feeling, Hal?" asked doctor Peters.

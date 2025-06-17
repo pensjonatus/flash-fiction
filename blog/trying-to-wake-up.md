@@ -5,6 +5,7 @@ tags:
   - creepy
   - flash-fiction
   - pm-writing
+authors: pensjonatus
 ---
 
 Munch, munch, munch, I was eating the meat they prepared for me. It was ground

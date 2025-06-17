@@ -3,6 +3,7 @@ title: Basic
 date: '2018-03-31'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Basic pants have two legs, just like basic humans. But we never call them basic

@@ -3,6 +3,7 @@ title: Gas Chamber
 date: '2014-07-09'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 This new club is really popular with the youth. It is preferred to places like

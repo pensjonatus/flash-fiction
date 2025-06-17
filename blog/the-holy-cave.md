@@ -3,6 +3,7 @@ title: The Holy Cave
 date: '2014-04-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Brian was finally allowed to enter the Holy Cave. After the bumpy flight with

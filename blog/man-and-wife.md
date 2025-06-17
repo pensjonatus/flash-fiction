@@ -3,6 +3,7 @@ title: Man and Wife
 date: '2015-02-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "I wish I could quit my job," he said.

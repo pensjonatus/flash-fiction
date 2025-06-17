@@ -3,6 +3,7 @@ title: The Awkward Truth
 date: '2013-05-24'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Let's start again, Jeffrey," said the police officer. He had his sleeves rolled

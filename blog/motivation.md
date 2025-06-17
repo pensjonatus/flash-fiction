@@ -3,6 +3,7 @@ title: Motivation!
 date: '2015-12-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Ms. Vernon," said the young girl in jean overalls and pink-rimmed glasses, "I

@@ -3,6 +3,7 @@ title: Bus Stop
 date: '2018-11-07'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Within civilization, people are expected to spend their free time in rooms

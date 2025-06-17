@@ -3,6 +3,7 @@ title: Just Trinkets
 date: '2018-04-19'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 After my uncle died, I inherited a lot of small things. In life, he was not so

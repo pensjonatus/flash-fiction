@@ -3,6 +3,7 @@ title: The Holy Lock
 date: '2017-07-30'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The knight's body fell to the stone floor with a rattle of armor. Useless. The

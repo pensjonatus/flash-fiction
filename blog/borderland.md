@@ -3,6 +3,7 @@ title: Borderland
 date: '2012-05-30'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was a cold day. Mike and his dog Barkley were out on a walk in the woods.

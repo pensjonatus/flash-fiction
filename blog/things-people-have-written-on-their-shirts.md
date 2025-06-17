@@ -3,6 +3,7 @@ title: Things People Have Written on Their Shirts
 date: '2015-08-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Kiss me, I'm Irish. Animal. Live free. FBI - Female Body Inspector. Doctor Who.

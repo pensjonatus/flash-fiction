@@ -4,6 +4,7 @@ date: '2015-08-06'
 tags:
   - flash-fiction
   - pm-writing
+authors: pensjonatus
 ---
 
 "Amanda, this is Jake," that's how I introduced them. Now we were sitting in my

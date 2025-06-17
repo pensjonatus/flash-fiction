@@ -4,6 +4,7 @@ date: '2013-01-28'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Scott and I were restocking the shelves. We were on toilet paper when he said:

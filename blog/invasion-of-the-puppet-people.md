@@ -3,6 +3,7 @@ title: Invasion of the Puppet People
 date: '2012-06-13'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I ran down the street, chased by the pale lights and fear. I turned a corner,

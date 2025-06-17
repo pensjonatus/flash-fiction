@@ -3,6 +3,7 @@ title: Friction
 date: '2012-02-07'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jake rang the doorbell. Normally, he would just walk in because this used to be

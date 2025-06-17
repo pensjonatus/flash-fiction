@@ -3,6 +3,7 @@ title: Spooky Wingman
 date: '2018-08-10'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "...and that's why we are all born... screaming." Scott leaned back in his chair

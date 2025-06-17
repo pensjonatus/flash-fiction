@@ -3,6 +3,7 @@ title: Crazy Person
 date: '2014-01-13'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was standing in line for a coffee. There was a shabby lady in front of me.

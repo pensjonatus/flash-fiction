@@ -3,6 +3,7 @@ title: The Kenosha Kid
 date: '2016-01-14'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was my third day at the record store. The colors seemed faded as the sun

@@ -4,6 +4,7 @@ date: '2017-07-15'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 Carcosa! If I heard it in any other context, I would have thought it was just a

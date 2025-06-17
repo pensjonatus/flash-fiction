@@ -4,6 +4,7 @@ date: '2012-10-11'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 I was feeling like such an asshole. The sight of her crying was etched into my

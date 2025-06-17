@@ -3,6 +3,7 @@ title: The Gorilla Act
 date: '2013-04-21'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Lucy was eight when she saw the Gorilla Act. She went with her mom and her

@@ -3,6 +3,7 @@ title: A Bad Joke
 date: '2012-05-02'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "So what do you do?" the stunning red-haired girl asked.

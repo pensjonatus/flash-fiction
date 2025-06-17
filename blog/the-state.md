@@ -3,6 +3,7 @@ title: The State
 date: '2012-12-14'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 In Brainesia life was not always easy. The country used to be just like any

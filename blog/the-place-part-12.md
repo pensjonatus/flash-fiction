@@ -4,6 +4,7 @@ date: '2017-07-22'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 This is a note of mine I found. I am putting it here, because I wrote it after

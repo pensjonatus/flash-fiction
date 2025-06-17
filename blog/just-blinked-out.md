@@ -3,6 +3,7 @@ title: Just Blinked Out
 date: '2015-03-07'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I do not remember what I was doing on the day some of the stars disappeared from

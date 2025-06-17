@@ -3,6 +3,7 @@ title: Bucket of Razors
 date: '2015-02-07'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Somebody had left a bucket half-full of shaving razors back stage, the

@@ -3,6 +3,7 @@ title: A Deadline Cynic
 date: '2013-05-12'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 She was biting her nails in front of the laptop. She worked for a news blog

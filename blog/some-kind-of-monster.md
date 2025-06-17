@@ -3,6 +3,7 @@ title: Some Kind of Monster
 date: '2012-11-19'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Praised be the name of the LORD who delivered Moses from the hands of Aegypt. I

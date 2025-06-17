@@ -3,6 +3,7 @@ title: I Want To Be a Writer
 date: '2012-03-19'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The sun had set and night was falling. Steve was carrying a bag full of copies

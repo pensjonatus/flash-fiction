@@ -3,6 +3,7 @@ title: The Blackout
 date: '2012-06-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 We were walking down the street after dinner and a movie. She was talking about

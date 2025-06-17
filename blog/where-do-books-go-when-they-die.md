@@ -3,6 +3,7 @@ title: Where Do Books Go When They Die?
 date: '2013-09-10'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jim was walking down the street with a half-open book in his hand. He had been

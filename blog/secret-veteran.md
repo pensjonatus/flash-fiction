@@ -3,6 +3,7 @@ title: Secret Veteran
 date: '2012-06-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was sweeping the sidewalk in front of the store and I could see a beggar on

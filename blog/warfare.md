@@ -4,6 +4,7 @@ date: '2013-04-24'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Veronica was an unexpected ally, I have to admit. I it were not for her, I would

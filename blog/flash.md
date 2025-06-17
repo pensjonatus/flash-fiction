@@ -4,6 +4,7 @@ date: '2012-10-11'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 The storm was raging outside, but the two of them were tucked in a blanket on

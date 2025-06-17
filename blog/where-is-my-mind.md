@@ -4,6 +4,7 @@ date: '2012-07-29'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Mark had never taken drugs before, so he did not know how to behave. He decided

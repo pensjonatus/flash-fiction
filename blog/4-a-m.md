@@ -4,6 +4,7 @@ date: '2012-11-18'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 It was the devil's hour. Two cool kids were coming back from a party, still

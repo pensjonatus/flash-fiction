@@ -3,6 +3,7 @@ title: Misunderstood Rose
 date: '2012-04-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 He was walking her back to her place. He had given her a rose, she had asked him

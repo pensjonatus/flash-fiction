@@ -4,6 +4,7 @@ date: '2015-01-23'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was nervous before going to the party, mostly because of the movies. See, in

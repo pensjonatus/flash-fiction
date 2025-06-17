@@ -4,6 +4,7 @@ date: '2012-09-17'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 He was wrapping the long scarf around his neck, getting ready to go out. It was

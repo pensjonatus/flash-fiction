@@ -3,6 +3,7 @@ title: The Glory of the Milky Way
 date: '2015-01-30'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was winter, so I was not very keen on going outside, but Jacob wanted to

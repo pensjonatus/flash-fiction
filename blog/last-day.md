@@ -4,6 +4,7 @@ date: '2015-10-03'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Friday was Jake's last day and he sent an email, inviting people to say goodbye

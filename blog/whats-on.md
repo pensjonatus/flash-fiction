@@ -3,6 +3,7 @@ title: What's On?
 date: '2013-04-11'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Okay, so TV was no good. Reruns of _Friends_, _Dancing with the Stars_, some

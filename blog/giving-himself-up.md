@@ -3,6 +3,7 @@ title: Giving Himself Up
 date: '2016-06-18'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Explain it to me again," said the policeman, "Like I'm seven years old."

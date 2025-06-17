@@ -3,6 +3,7 @@ title: On the Job
 date: '2013-12-09'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Hey, Vinnie," Tony asked me to come over with a gesture and then he told me

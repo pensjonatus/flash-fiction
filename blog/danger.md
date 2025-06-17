@@ -4,6 +4,7 @@ date: '2017-05-07'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 I entered the room. There was a woman sitting in the armchair, and a cup of

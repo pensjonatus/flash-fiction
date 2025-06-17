@@ -3,6 +3,7 @@ title: Check Her Makeup
 date: '2015-05-21'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 She was leaning against a wall. The wall was big and blank, and she was tiny,

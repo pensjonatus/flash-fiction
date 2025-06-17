@@ -4,6 +4,7 @@ date: '2013-10-24'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 It was a Washington DC party, a white tie occasion, with all the senators and

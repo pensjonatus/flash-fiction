@@ -3,6 +3,7 @@ title: The Syndrome
 date: '2014-05-10'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The hospital room was dark and the wife was standing by the husband's bedside.

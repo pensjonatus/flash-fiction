@@ -3,6 +3,7 @@ title: Puzzlefaced Man Gets Bombed
 date: '2015-06-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was very little back then, so I did not understand what was happening. I know

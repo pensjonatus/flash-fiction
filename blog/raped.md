@@ -3,6 +3,7 @@ title: Raped
 date: '2015-12-07'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 She was nice to me and her hair smelled like bubblegum. But she gave me a lot of

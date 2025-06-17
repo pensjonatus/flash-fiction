@@ -3,6 +3,7 @@ title: Shades of Grey
 date: '2012-02-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Hey, you see those two? That's Saturn and Jupiter," she said, pointing at the

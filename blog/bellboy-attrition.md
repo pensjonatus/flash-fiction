@@ -3,6 +3,7 @@ title: Bellboy (Attrition)
 date: '2012-05-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 He opened the door and carried the bags in. Then he turned around, but the guest

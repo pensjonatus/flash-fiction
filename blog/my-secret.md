@@ -3,6 +3,7 @@ title: My Secret
 date: '2017-06-19'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I have a little secret, and I will tell you.

@@ -3,6 +3,7 @@ title: Hotel Royal
 date: '2012-02-07'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "When was the last time you went to a party where people did not talk about

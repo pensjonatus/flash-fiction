@@ -3,6 +3,7 @@ title: It Speaks
 date: '2014-12-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I borrowed a book from my friend and at first I was amused by the comments she

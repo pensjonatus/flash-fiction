@@ -3,6 +3,7 @@ title: Drunk
 date: '2012-03-17'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The party felt pretty wild to the four guys who were drinking heavily. They

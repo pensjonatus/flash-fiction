@@ -4,6 +4,7 @@ date: '2015-06-09'
 tags:
   - flash-fiction
   - sci-fi
+authors: pensjonatus
 ---
 
 "What would you like for birthday?" she asked me.

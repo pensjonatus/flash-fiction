@@ -3,6 +3,7 @@ title: Christmas Presents and A Nice Time
 date: '2012-04-30'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The house was bustling with activity on Christmas Eve. Erica's three sons and

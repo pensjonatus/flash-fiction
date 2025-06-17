@@ -3,6 +3,7 @@ title: He Packs Quite a Swing
 date: '2012-05-24'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Come one, Tom! Come on!"

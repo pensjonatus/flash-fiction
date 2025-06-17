@@ -3,6 +3,7 @@ title: Parallels
 date: '2012-06-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 O'Reilly's Bar was dark and damp. Perfect. After a few drinks, the two men were

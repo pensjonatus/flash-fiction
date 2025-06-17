@@ -3,6 +3,7 @@ title: Duty
 date: '2013-08-02'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The whole family was sat around the fire, the mother, the daughters, the little

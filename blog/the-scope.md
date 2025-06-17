@@ -3,6 +3,7 @@ title: The Scope
 date: '2012-07-28'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "God damn birds are all over the God damn tree again," Joe remarked and raised

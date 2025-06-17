@@ -4,6 +4,7 @@ date: '2012-10-23'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Can a man be friends with a woman? He noticed her looking, but then she turned

@@ -3,6 +3,7 @@ title: All About My Mother
 date: '2012-07-07'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Mr. Black, Anna Hetch is here."

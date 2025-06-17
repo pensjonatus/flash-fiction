@@ -4,6 +4,7 @@ date: '2014-03-27'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Jim thought he could find his way in a European city but he did not take into

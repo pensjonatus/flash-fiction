@@ -3,6 +3,7 @@ title: Car Crash
 date: '2014-02-01'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jacob saw somebody get hit by a car every day since he was ten. The first one

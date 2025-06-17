@@ -3,6 +3,7 @@ title: Harder, Faster, Better, Stronger
 date: '2012-05-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Hank was under the car, looking for the torque wrench, when he realized he

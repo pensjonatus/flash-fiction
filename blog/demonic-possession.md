@@ -4,6 +4,7 @@ date: '2014-07-15'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 Through a one-way mirror, the doctor and the mother were looking into playroom

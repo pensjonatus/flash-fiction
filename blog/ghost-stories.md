@@ -4,6 +4,7 @@ date: '2015-03-19'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 All ghost stories are bullshit. I know, because I have seen real ghosts in my

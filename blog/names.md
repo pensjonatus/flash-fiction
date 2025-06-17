@@ -3,6 +3,7 @@ title: Names
 date: '2012-06-09'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Hey, welcome. What's your name?" said the male interviewer.

@@ -3,6 +3,7 @@ title: Guys Talking
 date: '2014-05-16'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was hot, it was a an outdoor cafe, it was summer. Two man were drinking

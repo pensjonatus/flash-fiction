@@ -4,6 +4,7 @@ date: '2013-08-03'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 I opened the screen door, the front door was ajar. Music was playing inside the

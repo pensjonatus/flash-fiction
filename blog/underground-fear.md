@@ -3,6 +3,7 @@ title: Underground Fear
 date: '2012-03-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Clive was walking through an underground tunnel beneath Checker Street. The

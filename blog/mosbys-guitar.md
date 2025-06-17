@@ -3,6 +3,7 @@ title: Mosby's Guitar
 date: '2014-10-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Mosby was relaxing in the sun when the Rag Tag Gang stole his guitar. The

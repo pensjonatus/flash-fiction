@@ -3,6 +3,7 @@ title: Just Banter
 date: '2012-02-16'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Bang! A stiff's head exploded in a cloud of rotten meat and black clots. Bang!

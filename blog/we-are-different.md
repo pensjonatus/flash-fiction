@@ -3,6 +3,7 @@ title: We Are Different
 date: '2012-02-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Excuse me, is this the way to the meeting hall," the girl asked.

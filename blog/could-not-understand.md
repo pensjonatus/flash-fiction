@@ -4,6 +4,7 @@ date: '2015-06-19'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Bob was by the bar, ordering beers for the table. As he was waiting, he looked

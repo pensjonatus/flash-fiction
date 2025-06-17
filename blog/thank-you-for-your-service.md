@@ -3,6 +3,7 @@ title: Thank You for Your Service
 date: '2015-06-10'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Ronald P. Winter was just finishing his last day at Wilson Industries. He had

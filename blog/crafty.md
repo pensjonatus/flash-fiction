@@ -3,6 +3,7 @@ title: Crafty
 date: '2015-04-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The number four streetcar rolled away just as I reached the stop, so I missed

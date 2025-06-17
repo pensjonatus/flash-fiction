@@ -3,6 +3,7 @@ title: this is my religion
 date: '2013-09-12'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 on the verge of **uncanny events**, i remain **vigilant**

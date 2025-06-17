@@ -4,6 +4,7 @@ date: '2014-02-26'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 I was having supper at the hotel restaurant. I noticed a couple, he was a

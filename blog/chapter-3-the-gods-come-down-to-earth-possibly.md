@@ -3,6 +3,7 @@ title: 'Chapter 3: The Gods Come Down to Earth (Possibly)'
 date: '2015-07-18'
 tags:
   - growing-up-in-greyland
+authors: pensjonatus
 ---
 
 When the mysterious stranger opened his eyes, my brain was flooded with strange

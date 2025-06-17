@@ -3,6 +3,7 @@ title: You're Embarassing Me
 date: '2014-04-01'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was playing Xbox with my friends one evening. It was already dark outside and

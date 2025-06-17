@@ -3,6 +3,7 @@ title: Dissociative
 date: '2014-10-05'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 She was sitting on her bed, talking into a camera. She stopped when I came in.

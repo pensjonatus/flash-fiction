@@ -3,6 +3,7 @@ title: Chocolate Mousse
 date: '2012-04-21'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "So how did you guys meet?" I asked. The four of us were having dessert.

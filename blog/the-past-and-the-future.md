@@ -3,6 +3,7 @@ title: The Past and the Future
 date: '2012-03-11'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 My brother's homecoming was like in the movies. He got off the bus in a uniform,

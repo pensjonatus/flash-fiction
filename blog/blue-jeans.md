@@ -3,6 +3,7 @@ title: Blue Jeans
 date: '2012-07-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 She wore blue jeans and a denim jacket. She lifted the shades to look me in the

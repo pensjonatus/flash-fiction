@@ -4,6 +4,7 @@ date: '2016-10-31'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 It is the end of the world, but there is no fire in the sky or people screaming.

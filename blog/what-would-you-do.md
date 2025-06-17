@@ -4,6 +4,7 @@ date: '2015-08-30'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Do you know why you are here, Mr. Holiday?" the inspector, or whoever he was,

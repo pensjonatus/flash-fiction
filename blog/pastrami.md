@@ -3,6 +3,7 @@ title: Pastrami
 date: '2019-08-16'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I want a sandwich. I want the bread to be white and crunchy, and I want a lot of

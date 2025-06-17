@@ -3,6 +3,7 @@ title: Doing
 date: '2012-04-01'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Bless your faces," said the reverend, entering the podium. It was a steamy

@@ -4,6 +4,7 @@ date: '2013-10-10'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 She was preparing supper. Whatever she made was always bad because she was a bad

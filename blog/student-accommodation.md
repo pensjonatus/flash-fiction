@@ -4,6 +4,7 @@ date: '2017-05-27'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 I got a bed at a slaughterhouse for twenty a week. It is a pretty good deal,

@@ -4,6 +4,7 @@ date: '2014-07-27'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 Sam and Mary were sitting on the dark beach. Sun had already set, then the sky

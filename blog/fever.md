@@ -3,6 +3,7 @@ title: Fever
 date: '2013-08-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I remember it vividly, as if it was real. Perhaps it was real, I cannot say for

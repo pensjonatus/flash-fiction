@@ -3,6 +3,7 @@ title: Little Tinkering Shop
 date: '2012-04-12'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Mr. Black's wrinkled fingers put the two tiny elements together. He was

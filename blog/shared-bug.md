@@ -4,6 +4,7 @@ date: '2015-10-06'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 Ralph got home early and saw his wife was in a mood. It was pretty strange,

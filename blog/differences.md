@@ -3,6 +3,7 @@ title: Differences
 date: '2014-12-22'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Everybody knows school sucks. But still, generation after generation people make

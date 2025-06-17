@@ -4,6 +4,7 @@ date: '2017-06-24'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 Klaus committed suicide in the little park on the edge of town. But that was not

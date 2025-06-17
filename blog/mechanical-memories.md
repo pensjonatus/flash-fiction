@@ -3,6 +3,7 @@ title: Mechanical Memories
 date: '2014-01-18'
 tags:
   - love
+authors: pensjonatus
 ---
 
 This new guy came to work with us the other week. His name is Ivan, and he is

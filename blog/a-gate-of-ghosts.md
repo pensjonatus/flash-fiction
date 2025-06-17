@@ -3,6 +3,7 @@ title: A gate of ghosts
 date: '2020-07-26'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 They put up a metal gate at the front of the hospital, and they only closed it

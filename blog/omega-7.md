@@ -3,6 +3,7 @@ title: Omega 7
 date: '2016-07-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I meet all sorts of people in my line of work, and I have conversations with

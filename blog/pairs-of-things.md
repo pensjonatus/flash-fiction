@@ -3,6 +3,7 @@ title: Pairs of Things
 date: '2015-02-24'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was walking through the park, wearing my Sunday suit and a hat. I managed to

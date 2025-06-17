@@ -3,6 +3,7 @@ title: Something New
 date: '2015-03-12'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The man looked in the mirror. He was getting more handsome with age, and the

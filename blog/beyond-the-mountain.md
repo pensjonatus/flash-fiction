@@ -3,6 +3,7 @@ title: Beyond the Mountain
 date: '2013-08-03'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Hunting was not going well. The two boys laid their bows by the river and

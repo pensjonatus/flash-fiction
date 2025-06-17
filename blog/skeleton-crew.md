@@ -4,6 +4,7 @@ date: '2015-10-24'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 We were shocked to see a skeleton sitting behind the desk. We thought it was a

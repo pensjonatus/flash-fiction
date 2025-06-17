@@ -3,6 +3,7 @@ title: Slingshots and Snails
 date: '2012-05-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jeannie was sitting on the couch, Jake was playing a video game.

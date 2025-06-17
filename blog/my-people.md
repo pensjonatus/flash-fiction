@@ -4,6 +4,7 @@ date: '2017-01-27'
 tags:
   - flash-fiction
   - pm-writing
+authors: pensjonatus
 ---
 
 I was on the train to work, drinking a cup of coffee, when I got the text. My

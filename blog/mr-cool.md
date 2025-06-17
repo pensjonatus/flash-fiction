@@ -3,6 +3,7 @@ title: Mr. Cool
 date: '2013-08-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I sit down with a pack of cigarettes. I think about taking one, and then I put

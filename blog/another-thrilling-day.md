@@ -3,6 +3,7 @@ title: Another Thrilling Day
 date: '2014-04-19'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Natalie was sitting at the hotel cafe enjoying a light breakfast when she saw

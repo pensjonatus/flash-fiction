@@ -3,6 +3,7 @@ title: Damn It!
 date: '2012-03-14'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "I wish I could be in two places at the same time," said Frank, putting the beer

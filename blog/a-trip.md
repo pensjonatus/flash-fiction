@@ -3,6 +3,7 @@ title: A trip
 date: '2023-03-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Harr wanted to take a trip with his friends. That was his first thought when he

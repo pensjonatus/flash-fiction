@@ -3,6 +3,7 @@ title: What a Twist!
 date: '2012-05-19'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jack was alone in his tiny dorm room, sitting straight in front of his tiny

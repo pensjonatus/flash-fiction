@@ -3,6 +3,7 @@ title: Travel Time
 date: '2013-08-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "We're leaving for Taiwan," I said. "Everybody, take just one thing."

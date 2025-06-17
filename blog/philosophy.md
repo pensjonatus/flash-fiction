@@ -3,6 +3,7 @@ title: Philosophy
 date: '2012-02-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Hey, nice jacket. Got a minute?" said the religious guy. The writer stopped and

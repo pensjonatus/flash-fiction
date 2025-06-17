@@ -3,6 +3,7 @@ title: The High
 date: '2012-07-15'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was like a pink mist of happiness. And then a soft come-down to the smelly

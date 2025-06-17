@@ -3,6 +3,7 @@ title: Clash of Titans
 date: '2014-10-28'
 tags:
   - love
+authors: pensjonatus
 ---
 
 Liz had a weaponized ass. All her features were in harmony, but her backside had

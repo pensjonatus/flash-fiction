@@ -3,6 +3,7 @@ title: Deadboy Adventures
 date: '2012-06-02'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "A comic book?" she smiled, "I didn't know you drew comic books. Let me see."

@@ -4,6 +4,7 @@ date: '2020-07-28'
 tags:
   - flash-fiction
   - sci-fi
+authors: pensjonatus
 ---
 
 "And so I told her," said Reginald, "That we cannot move the recital. We are

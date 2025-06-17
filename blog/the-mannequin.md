@@ -3,6 +3,7 @@ title: The Mannequin
 date: '2014-07-19'
 tags:
   - love
+authors: pensjonatus
 ---
 
 Frank was walking down the street when he saw a topless mannequin in a shop

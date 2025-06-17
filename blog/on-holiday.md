@@ -4,6 +4,7 @@ date: '2015-05-26'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 We were sitting in a gazebo in a seaside resort on a tropical island. It was

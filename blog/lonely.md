@@ -4,6 +4,7 @@ date: '2013-08-22'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 They were done shooting for the day, the crew were turning off the powerful

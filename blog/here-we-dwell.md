@@ -4,6 +4,7 @@ date: '2013-07-01'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 When we retired, we got an apartment in Paris. If the night was clear and warm,

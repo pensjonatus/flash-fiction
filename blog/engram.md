@@ -3,6 +3,7 @@ title: Engram
 date: '2022-11-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Daddy, I want to be a designer. I want to design things."

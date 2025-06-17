@@ -4,6 +4,7 @@ date: '2012-09-16'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 I was leaving the motel, locked the door, then wondered if I should have left it

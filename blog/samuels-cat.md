@@ -4,6 +4,7 @@ date: '2018-03-31'
 tags:
   - flash-fiction
   - pm-writing
+authors: pensjonatus
 ---
 
 After Samuel died, we met in my apartment to figure out who would take care of

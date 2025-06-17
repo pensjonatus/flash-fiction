@@ -3,6 +3,7 @@ title: Humans
 date: '2018-02-23'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I woke up as usual and sniffed around the apartment to make sure everything was

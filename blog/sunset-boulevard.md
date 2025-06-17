@@ -3,6 +3,7 @@ title: Sunset Boulevard
 date: '2012-06-26'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 They were walking down the street.

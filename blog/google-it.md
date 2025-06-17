@@ -3,6 +3,7 @@ title: Google It!
 date: '2015-06-21'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Chaz and Melissa were having brunch by the marina. The food was: shrimp

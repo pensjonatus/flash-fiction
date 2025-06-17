@@ -3,6 +3,7 @@ title: Shrimp
 date: '2013-05-22'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 He took her to a fancy restaurant on the 900th floor, the view was breathtaking.

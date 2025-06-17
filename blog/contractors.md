@@ -3,6 +3,7 @@ title: Contractors
 date: '2015-02-26'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I got my mom a new house. Well, it was pretty old, but it was new to her. She

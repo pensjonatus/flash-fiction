@@ -3,6 +3,7 @@ title: Elevator
 date: '2012-04-20'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 He got on and pressed the top floor, as usual. The ride took about 90 seconds,

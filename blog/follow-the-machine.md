@@ -3,6 +3,7 @@ title: Follow the machine
 date: '2022-07-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It is an honor and a privilege to walk in the first line, right behind the

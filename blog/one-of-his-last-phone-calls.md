@@ -3,6 +3,7 @@ title: One of His Last Phone Calls
 date: '2013-04-05'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 He had to wait two signals before she picked up. "Hello, it's me," he said.

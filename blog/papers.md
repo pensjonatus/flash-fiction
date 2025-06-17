@@ -3,6 +3,7 @@ title: Papers
 date: '2012-05-23'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Benjamin and Tara were sitting on a park bench. The leaves were falling off the

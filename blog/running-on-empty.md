@@ -3,6 +3,7 @@ title: Running on Empty
 date: '2012-05-29'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The car rolled smooth across the desert. The landscape was immobile, only the

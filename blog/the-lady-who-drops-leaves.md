@@ -3,6 +3,7 @@ title: The Lady Who Drops Leaves
 date: '2015-11-01'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 My mom was a special woman. Other moms attended bake sales and prepared lunch

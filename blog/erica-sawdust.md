@@ -3,6 +3,7 @@ title: Erica Sawdust
 date: '2015-02-17'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 People travel from all over the state to see Erica Sawdust's garage. They have

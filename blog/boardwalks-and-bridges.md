@@ -3,6 +3,7 @@ title: Boardwalks and Bridges
 date: '2012-11-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I was on holiday again, almost out of season this time. It was a seaside town in

@@ -3,6 +3,7 @@ title: Last Stop
 date: '2012-05-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Vinnie woke up as the bus was pulling into the bay. It was the last stop by the

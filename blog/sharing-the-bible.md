@@ -3,6 +3,7 @@ title: Sharing the Bible
 date: '2012-08-12'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Ben rushed into the classroom last minute, just as sister Mary was closing the

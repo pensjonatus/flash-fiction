@@ -3,6 +3,7 @@ title: Shopping Bags
 date: '2016-02-18'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 She was walking back from the store, carrying brown paper shopping bags. She

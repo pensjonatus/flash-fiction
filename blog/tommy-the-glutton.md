@@ -3,6 +3,7 @@ title: Tommy the Glutton
 date: '2012-05-05'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I remember Tommy from high school. He was very skinny and weak; there was no fat

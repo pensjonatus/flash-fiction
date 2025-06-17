@@ -4,6 +4,7 @@ date: '2015-03-26'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 Mr. White was one of the greatest teachers we knew, but his love for apples made

@@ -3,6 +3,7 @@ title: The Coming Attractions
 date: '2013-06-11'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 They stepped out of the theater. She said: "So did you enjoy the movie, baby?"

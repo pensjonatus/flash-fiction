@@ -3,6 +3,7 @@ title: Those Last Moments Are Sometimes Sad
 date: '2013-04-17'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Olivia was dying. She was in a haze, stretched mercilessly between pain and pain

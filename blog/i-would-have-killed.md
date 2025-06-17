@@ -3,6 +3,7 @@ title: I Would Have Killed
 date: '2014-05-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The doorbell rang. I opened and saw the girl. She was a ghostly blonde now, she

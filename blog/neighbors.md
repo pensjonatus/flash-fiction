@@ -3,6 +3,7 @@ title: Neighbors
 date: '2016-07-26'
 tags:
   - short-stories
+authors: pensjonatus
 ---
 
 # 1.

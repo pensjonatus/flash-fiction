@@ -4,6 +4,7 @@ date: '2014-09-27'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 He looked her in the eye with love and smiled brilliantly. He touched her

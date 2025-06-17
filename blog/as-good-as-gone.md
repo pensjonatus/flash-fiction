@@ -4,6 +4,7 @@ date: '2013-01-06'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 She was standing in the kitchen door, looking across the hallway into the living

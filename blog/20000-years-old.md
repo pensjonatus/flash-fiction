@@ -4,6 +4,7 @@ date: '2015-04-30'
 tags:
   - flash-fiction
   - sci-fi
+authors: pensjonatus
 ---
 
 "Mr. Johnson," said the reporter, "You were not among the first to become

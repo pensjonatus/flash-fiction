@@ -3,6 +3,7 @@ title: Sex Doll
 date: '2014-08-29'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Striker, snap out of it, man," Toad's voice sounded distant and distorted, like

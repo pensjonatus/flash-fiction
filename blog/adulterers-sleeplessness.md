@@ -3,6 +3,7 @@ title: Adulterer's Sleeplessness
 date: '2013-12-11'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I cannot sleep, so I shift. You are next to me, very warm. Too hot. When I lie

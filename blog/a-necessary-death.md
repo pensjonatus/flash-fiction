@@ -3,6 +3,7 @@ title: A Necessary Death
 date: '2012-07-05'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The Roman soldier jumped off the pier onto the beach. The screams of the siege

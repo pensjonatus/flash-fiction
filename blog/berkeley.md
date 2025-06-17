@@ -3,6 +3,7 @@ title: Berkeley
 date: '2012-04-14'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Hey, so this campus is really nice," I said.

@@ -3,6 +3,7 @@ title: Picking up music from the past
 date: '2020-07-26'
 tags:
   - sci-fi
+authors: pensjonatus
 ---
 
 Not sure how it was even possible, but we picked up an old radio transmission

@@ -3,6 +3,7 @@ title: On the Deathbed
 date: '2013-01-01'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 When I was little, I used to think the deathbed was a special place they moved

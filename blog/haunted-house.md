@@ -3,6 +3,7 @@ title: Haunted House
 date: '2014-06-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 You know what it is like to be young and in love. Jenny and I met during our

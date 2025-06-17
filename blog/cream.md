@@ -3,6 +3,7 @@ title: Cream
 date: '2013-10-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was late in the evening when Brenda and Sam were working on burritos for

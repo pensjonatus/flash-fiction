@@ -3,6 +3,7 @@ title: Old Friends, New Conversations
 date: '2012-06-01'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The well-dressed man was walking down the street when the homeless man asked:

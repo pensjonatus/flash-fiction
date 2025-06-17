@@ -3,6 +3,7 @@ title: He Resurrected
 date: '2012-04-28'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Jesus felt the final pangs of pain as the electrical activity in his body ebbed.

@@ -4,6 +4,7 @@ date: '2012-12-11'
 tags:
   - flash-fiction
   - love
+authors: pensjonatus
 ---
 
 They were kissing and he could tell she was getting hot and wet. Or at least he

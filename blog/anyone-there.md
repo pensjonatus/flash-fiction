@@ -4,6 +4,7 @@ date: '2016-06-13'
 tags:
   - flash-fiction
   - pm-writing
+authors: pensjonatus
 ---
 
 "Hello," I said into the house, "Anyone there?" Particles of dust were floating

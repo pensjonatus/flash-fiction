@@ -3,6 +3,7 @@ title: Bus Ride
 date: '2012-02-26'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The bus was going from Golden Gate Bridge to the Embarcadero. Jake was coming

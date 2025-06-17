@@ -3,6 +3,7 @@ title: They Could Not Stop
 date: '2014-08-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 My boss told me that when he was on a business trip, his wife would call about

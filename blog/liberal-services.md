@@ -3,6 +3,7 @@ title: Liberal Services
 date: '2015-09-03'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The young man was wearing a colorful bow tie and shirt. He had a bluetooth

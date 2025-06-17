@@ -3,6 +3,7 @@ title: The Thief
 date: '2014-11-19'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 When I was on the train a few years ago, I saw a girl steal a phone out of some

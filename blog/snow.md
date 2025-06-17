@@ -3,6 +3,7 @@ title: Snow
 date: '2013-07-27'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I hardly remember what life was like before the revolution, but I remember

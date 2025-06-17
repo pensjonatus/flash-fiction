@@ -4,6 +4,7 @@ date: '2017-07-25'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 There was no light anywhere, completely black. When I held out my hands in front

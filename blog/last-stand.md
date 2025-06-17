@@ -3,6 +3,7 @@ title: Last Stand
 date: '2018-07-25'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 The good guy fled and the bad guys followed. Well, he was good relative to the

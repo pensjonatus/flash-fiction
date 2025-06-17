@@ -3,6 +3,7 @@ title: Give Me A Kiss
 date: '2014-05-04'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Give me a kiss, my dear friend.

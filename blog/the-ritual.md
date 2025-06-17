@@ -3,6 +3,7 @@ title: The Ritual
 date: '2012-05-08'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Sarah read a short short story online. It was weird, it made little sense and

@@ -3,6 +3,7 @@ title: Poetry of Every Day
 date: '2013-01-05'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 Mark changed his desktop background. He smiled at it, and then looked around his

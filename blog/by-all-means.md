@@ -3,6 +3,7 @@ title: By All Means
 date: '2012-06-09'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "What is up with that girl," said Vlad. He and Jamal were sitting on the curb in

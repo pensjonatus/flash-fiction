@@ -3,6 +3,7 @@ title: First Date
 date: '2012-06-03'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I pick her up and try not to make the greeting awkward. When we get into my car,

@@ -4,6 +4,7 @@ date: '2016-05-17'
 tags:
   - flash-fiction
   - pm-writing
+authors: pensjonatus
 ---
 
 "Mom, I'm home," I said, like I used to when I got back from school. The house

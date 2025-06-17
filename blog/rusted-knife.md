@@ -3,6 +3,7 @@ title: Rusted Knife
 date: '2016-04-09'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 When renovating the house, we tore up the floors and Skip found a rusted knife.

@@ -3,6 +3,7 @@ title: Lost Treasures of Akhmun-Ra
 date: '2015-02-01'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 We woke up before dawn, excited to be reaching the last stretch of our long walk

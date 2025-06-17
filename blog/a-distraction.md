@@ -3,6 +3,7 @@ title: A Distraction
 date: '2014-07-17'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 It was about two hours into the meeting, just me and Natalie from the

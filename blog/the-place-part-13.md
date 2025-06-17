@@ -4,6 +4,7 @@ date: '2017-07-23'
 tags:
   - creepy
   - flash-fiction
+authors: pensjonatus
 ---
 
 My wife and I used to spend evenings with this other couple, Greg and Lisa. We

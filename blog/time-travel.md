@@ -3,6 +3,7 @@ title: Time Travel
 date: '2014-09-06'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 "Time of death, 11:22 PM," I heard them say.

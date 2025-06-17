@@ -3,6 +3,7 @@ title: Best job Ever
 date: '2018-04-22'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I got fired from a lot of jobs. I used to sell this brand of yogurt to shops,

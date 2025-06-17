@@ -3,6 +3,7 @@ title: Faltered from the Path
 date: '2012-10-09'
 tags:
   - flash-fiction
+authors: pensjonatus
 ---
 
 I got into my car, tried to calm myself. Those girls, they were nothing but
