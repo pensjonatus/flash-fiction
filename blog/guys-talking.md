@@ -8,6 +8,9 @@ categories:
 It was hot, it was a an outdoor cafe, it was summer. Two man were drinking
 coffee, looking at the girls walking by.
 
+<!-- truncate -->
+
+
 "We need to make a move on the Henderson account," said one, as a blonde passed
 by.
 

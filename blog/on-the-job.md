@@ -14,6 +14,9 @@ haired paisan, swaying side to side as we strut without fear like a couple of
 animals in human skin, kings of the block, cocks of the walk, the two of us were
 completely in the right place at the right time.
 
+<!-- truncate -->
+
+
 "The thing is," Tony was explaining, "Rico's sister's husband, I forget his
 name..."
 

@@ -9,6 +9,9 @@ Jim was old and sick. He could no longer get out of bed without help, so they
 had a nurse take care of him. They put him in a nice white room with a view of
 the snowy hills. He was waiting for better days.
 
+<!-- truncate -->
+
+
 Sometimes he would lose his lucidity. Like when they put two black chairs in his
 room for visitors to sit. He could not sleep because of the way the chairs
 hummed. Or sometimes he saw faces staring at him from outside the window.

@@ -8,6 +8,9 @@ categories:
 "Let's start again, Jeffrey," said the police officer. He had his sleeves rolled
 up, he was smoking. The room was stuffy.
 
+<!-- truncate -->
+
+
 "I've already told you."
 
 "I have more questions."

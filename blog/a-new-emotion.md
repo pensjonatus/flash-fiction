@@ -9,6 +9,9 @@ John was done writing the report. The office was almost empty, just a few lights
 in a few of the innumerable cubes. He switched off the computer, the monitor
 went black and that was when John got the feeling.
 
+<!-- truncate -->
+
+
 It shocked him, and then made him laugh. He got up and walked, barefoot, to
 Hank's cube. Hank was still working.
 

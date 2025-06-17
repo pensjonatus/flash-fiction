@@ -10,6 +10,9 @@ So he was a deranged killer. So what!
 Nobody cares. Move on. But why did he do it? Now that is interesting. We want to
 know.
 
+<!-- truncate -->
+
+
 He killed several people at a DMV. Did he snap after standing in line for too
 long? Try snapped after living too long. Some people are not meant to exceed the
 prehistoric life expectancy. Their buffer of anger is just too small. But this

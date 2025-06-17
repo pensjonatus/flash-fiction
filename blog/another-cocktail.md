@@ -9,6 +9,9 @@ categories:
 "Another one, please," and the waitress shuffled away to get me another
 candy-flavored drink.
 
+<!-- truncate -->
+
+
 "Three with lunch is enough," said Monica, but that was a joke.
 
 "Right you are, my love," I joked back. We were not a couple, never would be.

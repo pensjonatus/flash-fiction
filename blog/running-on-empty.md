@@ -10,6 +10,9 @@ yellow lines on the black road indicated progress. Matt was driving, the other
 Matt was in the front seat, and Doris was in the back, smoking a long cigarette.
 She had a hat on and a scarf to keep it fixed.
 
+<!-- truncate -->
+
+
 "That's rule number one," said the other Matt, "Do not insult a man in his car.
 So yeah, Matt. I'm sorry I called you a fag."
 

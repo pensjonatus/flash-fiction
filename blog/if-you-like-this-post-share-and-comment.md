@@ -10,6 +10,9 @@ eventful night which started with a bungee jump. He went to the peer with his
 friends where somebody had set up a tall crane you could jump off of. After much
 hesitation, he did.
 
+<!-- truncate -->
+
+
 "You know me, Dory, I am not much for extreme sports. I guess I value my
 survival too much," he said.
 

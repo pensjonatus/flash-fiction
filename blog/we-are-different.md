@@ -7,6 +7,9 @@ categories:
 
 "Excuse me, is this the way to the meeting hall," the girl asked.
 
+<!-- truncate -->
+
+
 "Yes," the metallic voice was emotionless.
 
 "Thank you," she was about to leave, but she hesitated. The mechanical man

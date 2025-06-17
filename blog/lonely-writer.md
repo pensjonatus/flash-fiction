@@ -11,6 +11,9 @@ as it was going to get. He put the leather-bound notebook into his desk drawer.
 There were more in there. A notebook per story, sometimes half empty, but each
 story deserved its own notebook. It was the least he could do.
 
+<!-- truncate -->
+
+
 He got back to the letter he had started reading earlier that afternoon, it was
 from an editor who published one of Howard's stories a few months ago. The
 editor was inquiring about any "longer piece of writing, perhaps more of that

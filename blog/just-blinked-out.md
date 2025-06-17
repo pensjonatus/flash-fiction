@@ -9,6 +9,9 @@ I do not remember what I was doing on the day some of the stars disappeared from
 the sky. I did not even know it happened because you cannot see the stars in the
 city. I found out the next day, when people were talking about it at the office.
 
+<!-- truncate -->
+
+
 A bunch of stars went dark, leaving a small black hole in the sky. Not bigger
 than a penny, but nevertheless, pretty scary. Especially if you imagine these
 stars are not all together, by spread across billions of light years. The

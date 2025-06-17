@@ -8,6 +8,9 @@ categories:
 
 Clakkata-clakkata-clakkata. That's the sound of keyboards. Everyone's typing.
 
+<!-- truncate -->
+
+
 The office is all three major colors: #423B0B, #B5FED9, and #7BA098. Those were
 also the colors used on the site they were building.
 

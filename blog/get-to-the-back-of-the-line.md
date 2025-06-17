@@ -9,6 +9,9 @@ She was standing in a long line, in a gray corridor, in a drab old building.
 When it was somebody's turn, they said a person's name and they found out if the
 person was among the killed.
 
+<!-- truncate -->
+
+
 She imagined she was waiting for a doctor and that made her happy for a few
 seconds. Oh, how she wished she was waiting in line for a doctor.
 

@@ -9,6 +9,9 @@ I was having lunch with my girlfriend.
 
 "You're always mean to me," she said. "Why do you always make fun of me?"
 
+<!-- truncate -->
+
+
 "I guess I am tired of you. Maybe we should take a break."
 
 "Yeah, I need a break from you too," she said.

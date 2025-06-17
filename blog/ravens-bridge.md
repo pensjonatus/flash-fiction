@@ -14,6 +14,9 @@ afternoon, and the light and the leaves were golden. The forest was old and
 heavy. Everything glistened from the recent rain. Below them, a forest valley
 lay open.
 
+<!-- truncate -->
+
+
 They were wearing warm sweaters and rain jackets, carried sturdy backpacks with
 extra socks, ham-and-cheese sandwiches, and a thermos of hot coffee each. It was
 their second trip together.

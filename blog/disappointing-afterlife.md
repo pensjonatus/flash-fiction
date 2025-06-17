@@ -9,6 +9,9 @@ The life after life is a big apartment building which I think you might have
 seen, maybe in a dream. At least if you are like me, born in this time and in
 this place. I imagine life after death is different for different people.
 
+<!-- truncate -->
+
+
 While learning the floorplan and meeting the neighbors, I could not shake the
 feeling that there was a certain lack of universality and finality here.
 Shouldn't the afterlife be a more eternal experience, rather than a reflection

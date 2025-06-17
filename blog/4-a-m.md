@@ -11,6 +11,9 @@ sweaty from all the dancing, their hearts still pumping to the rhythm of the
 devil's music. Those were the years where they felt grown up, and were as
 childish as they would ever be.
 
+<!-- truncate -->
+
+
 This street was empty. It felt like longing, the kind you get when you do not
 know what you want, and cannot help but cry. They both felt the same impulse:
 run around more scream more, dance more, do more. But the street was

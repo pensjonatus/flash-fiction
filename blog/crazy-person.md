@@ -7,6 +7,9 @@ categories:
 
 I was standing in line for a coffee. There was a shabby lady in front of me.
 
+<!-- truncate -->
+
+
 "What will it me, ma'am?" said the barista.
 
 "Last night a had a dream that somebody cared about me," she replied.

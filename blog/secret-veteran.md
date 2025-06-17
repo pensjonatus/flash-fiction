@@ -13,6 +13,9 @@ whites of his eyes and his head was trembling. Or maybe it was meth and alcohol.
 People were walking past, some of them giving him some coin, but most just busy
 trying to avoid his gaze.
 
+<!-- truncate -->
+
+
 I thought about how many of them had actually been to the war. The suited ones?
 Not likely. The rough Jersey boys? Maybe one of them. The stout construction
 builder types? Maybe. The slim young college type wearing glasses? I doubt that,

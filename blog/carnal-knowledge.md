@@ -9,6 +9,9 @@ Emily was still recovering from the orgasm, it only just reached her that Zack's
 arms were around her. She smiled and turned her head backwards to give him a
 kiss.
 
+<!-- truncate -->
+
+
 She wanted some pillowtalk.
 
 "Whatcha thinking?"

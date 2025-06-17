@@ -9,6 +9,9 @@ During my time as an explorer, I visited a place where time stopped. It was a
 small island where people rejected the Aid after the War. My friend Serg was
 very animated when he was telling me about it:
 
+<!-- truncate -->
+
+
 "It's like it was in the Before. The buildings, the nature, the people. You
 simply *have* to see it. But make sure you get a local guide."
 

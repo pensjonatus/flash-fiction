@@ -8,6 +8,9 @@ categories:
 "Hullo, Hugo," the younger guard hollered tubally, "Shall we convene for whiskey
 and cigars later?"
 
+<!-- truncate -->
+
+
 The older guard did not respond with a smile, he looked distressed. From the
 bottom of his black leather boots all the way up to his ornate hat, he was
 tense. "Not tonight, Horace," he sighed, "We have work."

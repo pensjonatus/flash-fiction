@@ -11,6 +11,9 @@ two or three days. I would pick up five or six books each time and just read a
 little bit of each before I decided they were no good. I was extremely critical
 of other people's writing back then.
 
+<!-- truncate -->
+
+
 There was a boy worked at the shop. A calm, gentle type, probably bullied at
 school, possibly smart. I imagined he was the type of boy who often falls in
 love, obsesses, and then hates for not having received love in return. Or maybe

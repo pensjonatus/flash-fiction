@@ -8,6 +8,9 @@ categories:
 "I wish I could be in two places at the same time," said Frank, putting the beer
 glass down. The bar was crowded, it was game night.
 
+<!-- truncate -->
+
+
 "Why is that, Frank?" Garry had his face paint on. Go Vikings!
 
 "It's my daughter's recital tomorrow night, and Anna has this gallery thing."

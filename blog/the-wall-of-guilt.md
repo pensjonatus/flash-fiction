@@ -9,6 +9,9 @@ Tom and Sharon had to share a dressing room, and that was fine, because they
 were good friends. After a performance, they would often take a long time to
 remove their makeup and talk.
 
+<!-- truncate -->
+
+
 "You once told me," said Sharon, "That you dumped a girl to be with another
 woman. And that woman became your wife."
 

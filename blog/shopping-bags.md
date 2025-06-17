@@ -13,6 +13,9 @@ according to Hollywood rules, with the perfect light of the golden hour and the
 right direction of camera movement. Yet the whole scene seemed depressing to
 her.
 
+<!-- truncate -->
+
+
 She was feeling rested and calm, but somehow nostalgic and that nostalgia made
 her sad. The kids were due back in about an hour, so she would whip up some food
 for them and that would be it for the day. All the housework already done, no

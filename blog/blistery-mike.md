@@ -9,6 +9,9 @@ Mike was a painter, and he was working on the latest one. It was called: the
 freaking garage wall. That's right! Mike was in the middle of a painter's block.
 He was trying to pass a hard and heavy painter's constipation.
 
+<!-- truncate -->
+
+
 The broad paint brush was moving up and down smoothly, the white paint was
 getting into all the little holes and pores and the wall was becoming nicer and
 nicer. But that was not inspiring Mike at all.

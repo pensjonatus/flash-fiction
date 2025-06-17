@@ -7,6 +7,9 @@ categories:
 
 When I stepped out of the pharmacy, a homeless-looking man said to me:
 
+<!-- truncate -->
+
+
 "Excuse me, do you believe you have a soul?"
 
 He did not look like a preacher of any typical kind I had ever seen. And I was

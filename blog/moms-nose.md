@@ -9,6 +9,9 @@ categories:
 The mother sat the child in front of her across the kitchen table. She spread a
 towel on the table. She was wearing her pink bathrobe.
 
+<!-- truncate -->
+
+
 "Mommy needs to find you a new daddy, baby. Somebody to take care of us. Pay the
 bills, take you to the zoo, hug and kiss. But she cannot do it with a nose like
 this. That's why mommy got this cutting wire. It was only 12 dollars, much less

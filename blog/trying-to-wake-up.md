@@ -12,6 +12,9 @@ beef which they fried in a pan and seasoned with salt. It was good and a lot of
 it, but I would appreciate some vegetables and bread. Still, the two sisters
 were really good to me to prepare the meal.
 
+<!-- truncate -->
+
+
 I was thirsty, having finished the ground beef, so they gave me a tumbler of
 water. It was nice and cold, but a little salty. Still, I chugged it all down.
 Gulp, gulp, gulp, it went down my pipe.

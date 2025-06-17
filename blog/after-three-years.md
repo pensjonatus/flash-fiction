@@ -10,6 +10,9 @@ I just found out my girlfriend has the annoying habit of eating raw parrot meat.
 It is making her sick and I can tell her hair is beginning to fall out. I put my
 paper away and said with concern:
 
+<!-- truncate -->
+
+
 "How can you do this? It is not only disgusting, it is also bad for you. Science
 has proven time and again..."
 

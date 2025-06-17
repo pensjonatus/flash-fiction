@@ -12,6 +12,9 @@ thugs a dirty look. I dive into the alley and get into the restaurant through
 the back door. Scare the Latino cooks and the fat sous chef, job down the hall
 and barge into Lou's office.
 
+<!-- truncate -->
+
+
 The girl that was just riding his fat lap is cowering in the corner. I am
 pointing my gun. I feel so strong, but it will pass. Before long, I will be
 drinking myself to sleep, but not yet.

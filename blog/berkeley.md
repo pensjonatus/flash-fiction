@@ -12,6 +12,9 @@ tour. Jim was wearing a Kurt Cobain type sweater, he was smiling slightly. When
 we had met that day, it was after not having seen each other for months. He
 hugged me which made me uncomfortable because he was gay.
 
+<!-- truncate -->
+
+
 "Yeah, it's nice. You want to see my dorm room?"
 
 I agreed. We stepped outside into the windy mid-afternoon, there were crowds of

@@ -8,6 +8,9 @@ categories:
 Bill was twenty-five that day when Mr. White, his former maths teacher, saw him
 riding a bicycle down Main Street.
 
+<!-- truncate -->
+
+
 "Well I'll be damned, what happened to your car, Billy?"
 
 "Mr. White," Bill stopped, nodded a polite hello. "I had a little accident. I

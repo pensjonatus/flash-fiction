@@ -9,6 +9,9 @@ Do you remember that picnic we had on the bank of the Yenisei? It was windy but
 warm. We had cakes and hot tea from the thermos. It was the last perfunctory
 picnic in our dying marriage.
 
+<!-- truncate -->
+
+
 We had chicken and steamed vegetables, some seafood, and mushrooms cut up into
 tiny pieces. You wore a white dress and a large white hat.
 

@@ -10,6 +10,9 @@ Every night I go to bed, the surgeons drag me out. One of them grabs me by the
 leg and pulls me away from, my wife, my family. I cannot do anything because I
 am already under light anesthesia.
 
+<!-- truncate -->
+
+
 In a long hospital hallway, they put me in a wheelchair and wheel me into an
 operating room. They strap me to a operating table and this is where it used to
 end. I used to wake up in my bed, not remembering the rest. But over time, I

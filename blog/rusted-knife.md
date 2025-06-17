@@ -11,6 +11,9 @@ and a broad blade. It was embedded in the soft moist earth, surrounded by some
 blackened pieces of china. Looked like the remains of a shattered vase or
 something.
 
+<!-- truncate -->
+
+
 "Must be from when they built the house," said Skip.
 
 "You think," said Marcy, "Hard to imagine, this house is almost two hundred

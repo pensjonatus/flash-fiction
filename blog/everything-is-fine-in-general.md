@@ -8,6 +8,9 @@ categories:
 "He is not a burglar _per se_," I said, "I mean, he did break in, but he did not
 steal anything. He just sort of... moved in."
 
+<!-- truncate -->
+
+
 "What does your wife think about it?"
 
 "She was livid at first, but now I think she's learned to deal with it. She

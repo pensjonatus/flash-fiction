@@ -9,6 +9,9 @@ I got my mom a new house. Well, it was pretty old, but it was new to her. She
 moved in happily, and I hired a young girl called Nadia to be her nurse. My mom
 was not well anymore.
 
+<!-- truncate -->
+
+
 But then, there were some repairs to be done, so I hired some contractors and my
 mom complained about them.
 

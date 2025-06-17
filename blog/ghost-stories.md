@@ -9,6 +9,9 @@ categories:
 All ghost stories are bullshit. I know, because I have seen real ghosts in my
 life and it is nothing like what people describe.
 
+<!-- truncate -->
+
+
 See, in ghost stories, people see an apparition emerging from the wall, or
 something moving in the dark, or perhaps objects flying across the room. In
 reality, this world and the next one are too far apart for things like that.

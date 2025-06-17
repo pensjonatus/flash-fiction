@@ -11,6 +11,9 @@ company. The elevator was usually full of lawyers, bankers, advertisers,
 secretaries, accountants, and so on, and the more of them were, the more stops.
 This time, he was alone.
 
+<!-- truncate -->
+
+
 "Hold the elevator, please," he heard a woman's voice.
 
 He frantically looked for the hold button and managed to press it when the door

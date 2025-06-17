@@ -8,6 +8,9 @@ categories:
 He was walking her back to her place. He had given her a rose, she had asked him
 to carry it for her.
 
+<!-- truncate -->
+
+
 "You should not walk me all the way to the porch," she said, "My father cannot
 see you. Wait by the fence until I get inside. I hope the neighbors don't see
 you."

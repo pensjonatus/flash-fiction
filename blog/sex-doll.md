@@ -8,6 +8,9 @@ categories:
 "Striker, snap out of it, man," Toad's voice sounded distant and distorted, like
 a sub-band transmission gone awry.
 
+<!-- truncate -->
+
+
 "I'm out already," said Striker, getting up from the ground. Reality around him
 was slowly moving back into focus. It was a real bad trip down the rabbit hole.
 A virtual reality run gone bad.

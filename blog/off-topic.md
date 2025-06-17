@@ -9,6 +9,9 @@ Juliana was lying in her hospital bed, more or less ready to die. Nothing had
 been settled yet and her cancer was not really terminal, but still, she felt
 like she had gotten the great lesson about life and death.
 
+<!-- truncate -->
+
+
 Her sister Madison walked in.
 
 "Oh my God, Madison!" Juliana screamed in delight. "Where have you been all

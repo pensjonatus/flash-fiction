@@ -10,6 +10,9 @@ sure. I was ill, with high fever, lying in bed in an empty house. I was swinging
 in and out of sleep as if on a crazy ride when suddenly it all stopped and I
 felt immense relief.
 
+<!-- truncate -->
+
+
 Then my uncle came into the room. He was tall, his head almost reached the
 ceiling. I did not remember him ever being so tall.
 

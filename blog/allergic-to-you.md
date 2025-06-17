@@ -9,6 +9,9 @@ categories:
 My skin itches, my nose is runny, and I cough. When you are near me. I cannot
 explain it any other way. I am allergic to you.
 
+<!-- truncate -->
+
+
 Back in school, I wasn't. We hung out all the time and when you weren't around,
 I always thought I could almost see you.
 

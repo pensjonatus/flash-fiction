@@ -10,6 +10,9 @@ legal department. She was going on and on about how legally a method is not a
 manufactured product, so technically it has some repercussions and I just zoned
 out.
 
+<!-- truncate -->
+
+
 "That's it!" she said, snapping me out of a reverie, "Let's write that down."
 
 "Okay," I said, and repeated the last idea she had. Thank God for this weird

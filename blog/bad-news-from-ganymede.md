@@ -9,6 +9,9 @@ A terrible ring shook the observatory and I was jolted back into consciousness.
 I had about 1.3 seconds to feel confused and try to remember who I was before
 the ring came again.
 
+<!-- truncate -->
+
+
 RIIIIING!
 
 It was the telephone. I picked up before it rang again.

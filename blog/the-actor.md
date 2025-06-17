@@ -12,6 +12,9 @@ singer girlfriend looked even better in real life than she did on screen. To top
 it off, the queen herself would take time out of her busy schedule to knight the
 actor the following week.
 
+<!-- truncate -->
+
+
 Yet somehow, the actor was not happy. He got up from the couch, took off his
 fashionable scarf, then his designer sweater which he wore over nothing and
 stood in front of a mirror, looking at his exposed torso. The chiseled chest,

@@ -11,6 +11,9 @@ workroom. He had to start work right after he woke up, the law of the land
 mandated that, and so he did. The regulation was made so that dreams could be
 captured in material form before they fly away into the sky with the hot vapors.
 
+<!-- truncate -->
+
+
 Nimori was a sculptor, he used a high-temperature flame cutter to shape old junk
 into things people wanted - metal bars for fences, baskets, doors, windows and
 so on. He always bent them in shapes that made people think of the places they

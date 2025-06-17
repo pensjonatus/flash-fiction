@@ -9,6 +9,9 @@ I got into my car, tried to calm myself. Those girls, they were nothing but
 whores, shaking their hips like that, dancing to the music. The devil's music,
 my mother would say.
 
+<!-- truncate -->
+
+
 As I drove down Bachman Road, my thoughts went back to those filthy moments and
 I could not help but notice a tightness in my pants. I tried to busy my mind
 with Godly thoughts until I reached the church.

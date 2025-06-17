@@ -8,6 +8,9 @@ categories:
 I went out to see some live music, but everyone at the club had succumbed to
 really bad bioresonance, so I caught it too.
 
+<!-- truncate -->
+
+
 "It's those Wallaces," my dad sad once over dinner, "They could never get
 enough. Enough freedom, enough land, enough money. They brought bioresonance on
 us. It's a curse. Metaphorically and literally."

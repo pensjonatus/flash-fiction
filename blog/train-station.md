@@ -12,6 +12,9 @@ a nice little outdoor cafe. As I was walking past the tables and making brief
 eye contact with the people waiting for their trains, I notices a beautiful face
 which I had not seen in years.
 
+<!-- truncate -->
+
+
 I waved slightly to get her attention. She noticed me and recognition flickered
 in her eye. So I approached her with a smile.
 

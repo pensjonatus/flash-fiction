@@ -9,6 +9,9 @@ She could not get out of bed for five days. She felt so tired and the thought of
 getting up was just too much to bear. When the five days passed, she found
 herself wide awake, staring at the ceiling.
 
+<!-- truncate -->
+
+
 Her husband was still at work. She wanted to get pretty for him, but all she was
 able to do was sit in front of her laptop. She spent the next few hours like
 that, reading Facebook updates and scrolling down pages of funny pictures, only

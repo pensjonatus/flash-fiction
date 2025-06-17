@@ -9,6 +9,9 @@ They Hispanic guys were shouting something in Spanish, and the Polish guys were
 shouting something in Polish. There were two camps in the kitchen. Not competing
 camps, friendly camps, at least usually.
 
+<!-- truncate -->
+
+
 The boss walked in and the shouts gradually became silence, except for the
 clanking of pots and the hissing of the dish washing machine. The boss would put
 on an American smile on his face at times like this. He raised his hands in an

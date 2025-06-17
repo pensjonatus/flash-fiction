@@ -9,6 +9,9 @@ My brother's homecoming was like in the movies. He got off the bus in a uniform,
 a large bag over his shoulder, and he immediately got the respect of the older
 generation.
 
+<!-- truncate -->
+
+
 Now, we were standing a few steps away from each other at the creek, where we
 used to play as kids. He was wearing regular clothes, but his hair was still
 short, and his face still brownish from the foreign sun.

@@ -12,6 +12,9 @@ this privilege. It is not about money or fame, that is certain. For example,
 Matt Damon wanted to get one of his expensive cars looked at once, but Erica's
 front desk girl, Lucy, refused him, no matter how much money he threw at her.
 
+<!-- truncate -->
+
+
 So, people travel just to see the garage. There are hundreds of cars parked
 around the garage all the time, creating a makeshift town in the middle of the
 desert. There are facilities as well, and music, and merchants.

@@ -7,6 +7,9 @@ categories:
 
 They stepped out of the theater. She said: "So did you enjoy the movie, baby?"
 
+<!-- truncate -->
+
+
 "I couldn't really get into it," he said.
 
 "What's wrong, is it work? You stressed out?"

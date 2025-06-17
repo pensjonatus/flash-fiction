@@ -12,6 +12,9 @@ breathing right. He had had a good stretch and he was planning a good stretch
 when he was done. All manner of modern technology was tracking his route,
 distance, speed, time, and heart rate. He was all set.
 
+<!-- truncate -->
+
+
 But somehow, he felt hollow. He passed the bench where he first saw Mark. Then
 he passed the two trees where they had a picnic one Sunday. Then he passed the
 gazebo where the had "the talk" before they broke up. Now he was with David and

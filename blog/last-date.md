@@ -12,6 +12,9 @@ she is not talking about herself, she is talking about something so
 insignificant, inconsequential, or boring, that it turns out even worse. She is
 not a bad person, she is just extremely dull.
 
+<!-- truncate -->
+
+
 I know saying that does not make me look good. I mean, who am I to judge another
 person? But guess what, I am the same. I want to talk about myself and I want to
 talk about insignificant shit, and she is taking that time away from me. I am

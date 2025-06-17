@@ -11,6 +11,9 @@ a decomposing man with his hand raised high in a theatrical pose. In poor
 french, I asked somebody what this was and listed to the response nodding, but I
 only understood something about a prince and not much more.
 
+<!-- truncate -->
+
+
 Later that night, I was in a cafe and two French girls gave me some looks and
 smiles from across the room. I imagined myself taking both of them to my hotel
 room and making passionate love in my first ever threesome. But then I thought

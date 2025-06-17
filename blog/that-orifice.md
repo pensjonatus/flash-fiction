@@ -9,6 +9,9 @@ categories:
 Jack's wife was standing over him, the smoking gun still in her hand. The roar
 of gunshot still sharp in his ears. The pain in his chest getting stronger.
 
+<!-- truncate -->
+
+
 When she first fired, Jack thought she missed and wanted to smack the gun out of
 her hands, but realized that he was not strong enough. She must have hit
 something important. He collapsed slowly, feeling annoyed more than afraid. Now

@@ -12,5 +12,8 @@ of your steps joins them. You look up, the moon is almost full, but not
 completely. It seems out of place among these walls, it would be better in the
 woods.
 
+<!-- truncate -->
+
+
 After a minute or so, the chill reaches. You embrace it, because it means winter
 is coming.

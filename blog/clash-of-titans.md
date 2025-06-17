@@ -13,6 +13,9 @@ jobs, win contracts, and make new friends. No sex was involved, just good old
 fashioned promise of heavenly pleasures. This stuff has been along ever since
 Satan invented intercourse in the Garden of Eden.
 
+<!-- truncate -->
+
+
 Liz was the queen of the block until Jo appeared. See, Jo was old school and she
 stayed old school even in the times when we guilt shame women into being
 "natural." Jo had weaponized everything. Her ass and tits were easy, but she

@@ -12,6 +12,9 @@ great grandfather, the lord of this estate. Lean closer, not further. Please, do
 not let your sleeve stop touching mine. No, do not run away down the ancient
 gallery.
 
+<!-- truncate -->
+
+
 Give me a kiss, my dear friend.
 
 Do not shy away down the stairs and into the garden. Know you not that my debt

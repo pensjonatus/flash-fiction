@@ -9,6 +9,9 @@ categories:
 The Skype signal made her snap out of a reverie. "Jason is calling..." popped
 up. She clicked "Accept" and the video came on. Jason was smiling wide.
 
+<!-- truncate -->
+
+
 "Jason," she screamed in joy, "Oh my god, it's been so long."
 
 "Hello, Melissa," he said. Were his eyes sad? She had known him since they were

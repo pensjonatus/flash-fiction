@@ -11,6 +11,9 @@ is the soul network? That is the name I give to the invisible, intangible
 connection we all have, all of us humans. Think of it as a spiritual internet. I
 am not saying it actually exists, but I am saying it would explain a lot.
 
+<!-- truncate -->
+
+
 Anyway, in that single 0.8 seconds before I looked away, I had a very real
 experience of things that were happening around the city. Here is what they
 were.

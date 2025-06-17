@@ -9,6 +9,9 @@ categories:
 I got up in the dark to see who it was. I sneaked up to the door of the spare
 bedroom. The pacing was there.
 
+<!-- truncate -->
+
+
 I heard plates crashing in the kitchen. My wife was throwing them against the
 wall in anger. I would have to go into town to buy new ones in the morning. But
 not now.

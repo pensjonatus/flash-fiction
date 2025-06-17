@@ -11,6 +11,9 @@ little bit until he stumbled into a little shop where somebody was making iron
 bannisters. That somebody was rusted and dented and moved with a lot of
 screeches.
 
+<!-- truncate -->
+
+
 "Hello, I am Pete and I am an eight-year-old boy," said Pete, using his voice
 for the first time.
 

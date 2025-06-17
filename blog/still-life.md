@@ -11,6 +11,9 @@ of nothing else but her. She was swinging her foot back and forth and tapping
 the statement rows one by one with her pen. She hoped he would touch her, but he
 never did.
 
+<!-- truncate -->
+
+
 Except this time, when he put his hand on hers and stopped her pen from tapping
 the paper. She looked him in the eye, he looked at her lips. They kissed.
 

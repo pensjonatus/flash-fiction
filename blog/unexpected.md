@@ -13,6 +13,9 @@ hotel room filled with bright light from the display. The unread e-mail was
 there, smack in the middle of the screen, waiting for me to read it, enticing me
 with the subject line. "You won't believe it."
 
+<!-- truncate -->
+
+
 It said:
 
 _Hi Michael,_

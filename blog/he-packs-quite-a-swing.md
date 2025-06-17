@@ -11,6 +11,9 @@ The fathers were sitting on the bleachers watching little league baseball. One
 had his cap turned backwards. One was wearing a white polo shirt. One was
 slightly drunk.
 
+<!-- truncate -->
+
+
 "Yeah, Tom, go for the third base," screamed the polo. "No, stop there, stop
 there! Oh... fudgesickles."
 

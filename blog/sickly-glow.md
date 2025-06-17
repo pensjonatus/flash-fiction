@@ -14,6 +14,9 @@ possible because of highly advanced technology, made his skin look sick, like he
 was dying of swamp gas and radiation poisoning. And yet, he was stronger than
 ever before in his life.
 
+<!-- truncate -->
+
+
 It was 4 am, but Ben was still up, looking at the views on his video, refreshing
 every couple dozen seconds, watching the number climb. He was making his first
 million. Not million views, his first million dollars. People across the globe

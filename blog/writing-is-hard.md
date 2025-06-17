@@ -11,6 +11,9 @@ outside, and the warm grass smelled like adventure. It was the middle of Summer,
 but he was home schooled, so his father made him do his lessons anyway, up to 11
 am. And that felt like a huge chunk of the day, and the room was dark and damp.
 
+<!-- truncate -->
+
+
 He looked at his pen, focused on the point, tried to see a drop of ink, but
 there wasn't one right at that time. So he put the pen to the sheet, quite
 pointlessly. No words we coming.

@@ -9,6 +9,9 @@ Jacob saw somebody get hit by a car every day since he was ten. The first one
 was his mother. She was walking across the parking lot of a shopping mall when
 an SUV ran her over. Jacob was in therapy for years.
 
+<!-- truncate -->
+
+
 A study has shown that car crashes are extremely erotic. People sometimes climax
 when their vehicle collides with another or with a massive obstacle.
 

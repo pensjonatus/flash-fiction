@@ -12,6 +12,9 @@ a chair. He was old, looked tired and scared. His skin was grey, paper-thin, and
 heavily bruised. One of his eyes was bloody and swollen. He stirred when he saw
 me in the dim light.
 
+<!-- truncate -->
+
+
 "It's you?" he said.
 
 "I mean you no harm," I communicated. "Do you understand?"

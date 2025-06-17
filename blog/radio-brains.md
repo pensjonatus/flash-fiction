@@ -12,6 +12,9 @@ essentially, from human skull to human skull. She got that idea from someone who
 didn't know any better, and it sounded like something that makes sense, so she
 believed it.
 
+<!-- truncate -->
+
+
 I never thought it made sense, even though I couldn't explain why. I can explain
 why now, and that makes me sure that I was right all along.
 

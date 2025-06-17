@@ -10,6 +10,9 @@ special area for writing, where he had plenty of inspiration. There was nobody
 there to bother him or interrupt. He had special software and a keyboard that
 made typing more intuitive. And yet, the page remained empty.
 
+<!-- truncate -->
+
+
 He searched his mid for images of love. Of a girl he once knew and whose
 affection was long lost, never to be regained. Her hair was so beautiful, like
 pure gold. Or was it dark as the night sky? Was she smiling, or sad?

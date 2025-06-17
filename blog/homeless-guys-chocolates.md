@@ -8,6 +8,9 @@ categories:
 I was taking the morning train to work. It was pretty empty at this hour, so I
 could sit back with my book and relax.
 
+<!-- truncate -->
+
+
 A homeless guy climbed aboard on one of the stations. He had all his possessions
 with him in a large duffel bag, a sizable parcel of winter clothes and God knows
 what else. I certainly do not, as I never had to rely on my own self for storage

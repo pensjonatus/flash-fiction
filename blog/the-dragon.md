@@ -10,6 +10,9 @@ she saw it. But then she loved it and could not get enough of it. The dragon
 destroys virgins and makes them into monsters, and that was what happened to
 Jenny.
 
+<!-- truncate -->
+
+
 When I first met her, she was giving blowjobs for money in Portland, Maine. She
 said twenty bucks, no, fifteen. I told her she did not need to do that because I
 was all righteous.

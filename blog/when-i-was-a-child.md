@@ -8,6 +8,9 @@ categories:
 The three of them were sitting together one evening, drinking wine and talking.
 There was candle light and soft music in the background.
 
+<!-- truncate -->
+
+
 "Do you remember that place we spent the night when we took that road trip in
 spring?"
 

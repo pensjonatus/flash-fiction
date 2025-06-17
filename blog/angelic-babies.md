@@ -13,6 +13,9 @@ chanting and stood there not really knowing what to do. The reverend in
 particular was looking at the angel's face and body and was trying to determine
 the sex. For the first time in his life he understood what non-binary meant.
 
+<!-- truncate -->
+
+
 The reverend was also the first to wake out of stupor. He took a step forward and
 said: "Oh, holy messenger of the Lord. Are you here to give us a sign? To relay
 His Holy Will to us? Blessed be!"

@@ -10,6 +10,9 @@ Riding on the train, I was reading text messages from my ex-girlfriend. There
 were definite signs of me becoming too clingy towards the end, but I moved
 further back in time.
 
+<!-- truncate -->
+
+
 "I will stay out longer. Don't wait up." I remembered writing that one. I was
 out all night dancing with this girl who seemed attractive in comparison but I
 guess just because she was new.

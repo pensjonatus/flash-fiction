@@ -13,6 +13,9 @@ never did and like I was about to tip forward, but I did not. The corners where
 the walls should meet looked bent and the walls didn't seem to actually meet.
 But how?
 
+<!-- truncate -->
+
+
 The lights went out, or maybe I was extinguished for a moment, and when
 everything came back, I was not alone in the room. My guest sat on a little
 rickety metal-and-green-Formica chair. He (she?) had her lips pursed and her

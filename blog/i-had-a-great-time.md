@@ -8,6 +8,9 @@ categories:
 
 I walked her to the porch.
 
+<!-- truncate -->
+
+
 "Well, I had a great time," she said. "Will you call me?"
 
 "Yeah," I said eagerly, "Yeah."

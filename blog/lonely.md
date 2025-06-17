@@ -11,6 +11,9 @@ lights and disconnecting a few of the millions of black cables. She was standing
 by the massive supporting pylon. He approached her with a smile of unmatched
 nonchalance.
 
+<!-- truncate -->
+
+
 "Hey, Donna. How did you like it today? It's pretty standard for me. Just
 another day on the set."
 

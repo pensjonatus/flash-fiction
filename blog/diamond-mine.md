@@ -14,6 +14,9 @@ downtrodden under the pretense of vaccination, and we cracked open their
 crane-shells. It turned out roughly one in seventeen had a diamond inside, some
 as big as my fist.
 
+<!-- truncate -->
+
+
 Soon enough, we made enough money to cover up our indiscretion and the hospital
 began to flourish. In a dreary twist of fate, I grew weary of the city to the
 point of nausea, so I moved into the countryside. I set up a small office at the

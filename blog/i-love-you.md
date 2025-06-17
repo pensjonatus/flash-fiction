@@ -10,6 +10,9 @@ She rolled over to her side of the bed and closed her eyes. Her face was calm
 and relaxed. The sheets were white, her black skin in stark contrast. The
 afternoon was full of light. I heard her begin to snore a little.
 
+<!-- truncate -->
+
+
 "K*ocham cię*" I said.
 
 "What's that?" she awoke and opened her eyes slightly.

@@ -7,6 +7,9 @@ categories:
 
 "So how did you guys meet?" I asked. The four of us were having dessert.
 
+<!-- truncate -->
+
+
 "Ooh, do tell," said my wife.
 
 Deb and Mike looked at each other, she smiled.

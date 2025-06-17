@@ -9,6 +9,9 @@ categories:
 I drove to her house to pick her up. At the screen door, she greeted me with a
 half-face ironic smile, but then turned it into a cute frown.
 
+<!-- truncate -->
+
+
 "Are you going to wear this shirt and no tie?"
 
 I did not have time to reply, she pulled me into the dark bowels of the house

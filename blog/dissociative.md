@@ -7,6 +7,9 @@ categories:
 
 She was sitting on her bed, talking into a camera. She stopped when I came in.
 
+<!-- truncate -->
+
+
 "Hey, Amber," I said, "Didn't mean to interrupt you. What are you up to?"
 
 "Hi Michael," her voice was deep, the hormones changed it a little bit, but when

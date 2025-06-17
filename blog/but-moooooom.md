@@ -9,6 +9,9 @@ categories:
 events, never did. In fact, I think nobody likes them, people just go because
 they feel they should. It's just tradition."
 
+<!-- truncate -->
+
+
 She put the phone in the other hand, started looking for something in her purse.
 
 "Besides, I don't really know anybody, so I won't have a good time. Mom, I know

@@ -10,6 +10,9 @@ morning was cold, the desert sun had barely lifted from its resting place beyond
 the mountains. The kid was sitting on the porch of the trailer, waiting for
 something to happen.
 
+<!-- truncate -->
+
+
 Maybe somebody would come along to buy some wreckage. That never happened.
 
 Maybe the police would come to tell him about some criminal on the run, or to

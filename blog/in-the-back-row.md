@@ -10,6 +10,9 @@ The movie theater was hot, or was it just him? The hero on the screen was a
 chisel-chested dandy, not one of those Humphrey Bogarts of old, thought Mark and
 then he turned to the problem at hand. Should he put an arm around her?
 
+<!-- truncate -->
+
+
 Let us see, it was the second date. The first one was an expensive Chinese
 restaurant. You do not count the burger and fries, no, you do not. So this was
 the second date. There was no goodbye kiss after the first one, just an aborted

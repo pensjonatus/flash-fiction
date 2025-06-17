@@ -11,6 +11,9 @@ They were all in the upper room, lying on cushions all over. James was playing
 the harp. The others were talking in twos or threes. John was with Jesus, eating
 figs from a bowl.
 
+<!-- truncate -->
+
+
 "I haven't been sleeping," said Jesus. "I keep having visions of this body being
 tortured and humiliated, whipped and mutilated."
 

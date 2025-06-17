@@ -11,6 +11,9 @@ lobbyists. I was a campaign manager back then. She had been a girl I knew in
 college. Ten years later, at the party, she was a woman I hardly knew. She was
 working for a tech company, in town on business, networking with the bigshots.
 
+<!-- truncate -->
+
+
 We stepped outside for a minute. It was a warm evening, but she still wrapped
 herself with her own arms and stood next to me. It made her seen insignificant
 and defenseless, but I knew she was not so. She had never been.

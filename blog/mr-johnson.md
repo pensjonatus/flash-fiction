@@ -11,6 +11,9 @@ Your wife may have left you for somebody who is not a loser and not a disgusting
 fat slob. It all may well be so, but we will always remember you as our teacher.
 That incredible person who introduced us to the world of science.
 
+<!-- truncate -->
+
+
 Hey, Mr. Johnson, you may be driving around the mall parking lot looking for a
 spot. Other drivers may be faster than you or more rude. You may finally end up
 sounding your horn long and loud in helpless despair. It all may well be so, but

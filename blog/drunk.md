@@ -8,6 +8,9 @@ categories:
 The party felt pretty wild to the four guys who were drinking heavily. They
 seemed like kind of a curiosity to the rest.
 
+<!-- truncate -->
+
+
 "Hey, Raul you ever played shotgun head?"
 
 "No, what is that?"

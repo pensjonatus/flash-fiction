@@ -11,6 +11,9 @@ the drops, and if he got off the porch, he could look down to Main Street, but
 would probably not see it in the haze. His paper route used to lead down there
 when he was a little boy.
 
+<!-- truncate -->
+
+
 The door creaked and Meg joined him. She brought two glasses of iced tea and
 they drank. She was wearing a flowery dress, her hair was pulled back to let her
 neck cool. Her eyes looked lazy.

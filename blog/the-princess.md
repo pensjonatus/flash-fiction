@@ -10,6 +10,9 @@ Nevertheless, when your father died, your stepmother accused you of witchcraft
 and had you tortured. Those poor torturer suckers did not expect you to slip
 away before they could get a confession, but you did. You died on their table.
 
+<!-- truncate -->
+
+
 Yet, a part of you survived in those halls, and you watched with unblinking
 sleepless eyes as more and more were tortured and imprisoned. Finally it stopped
 for quiet ages and the dungeons crumbled and earth consumed them. So you

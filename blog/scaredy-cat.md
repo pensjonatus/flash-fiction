@@ -12,6 +12,9 @@ needed a ride into town, or when she had a longer break between classes, he was
 there. So naturally, he knew she would be at the library, studying for her
 Spanish exam.
 
+<!-- truncate -->
+
+
 "Hi, Katie," he whispered.
 
 "Hi, Tom," she looked up from the book with a smile, all the light of the

@@ -11,6 +11,9 @@ coffee on the coffee table. It was a little dark, so it took me a little bit to
 notice the boy standing in the corner. He was looking angry, staring at the
 floor a few feet in front of him.
 
+<!-- truncate -->
+
+
 "Hello," the woman said, "You took your time."
 
 "Yeah, I was," my response trailed off. I was a little confused. Drunk?

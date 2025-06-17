@@ -11,6 +11,9 @@ from the street. He was wearing a suit just like everybody else around this
 neighborhood, but there was a big coffee stain on his jacket and his hair was a
 mess. He leaned over the front desk.
 
+<!-- truncate -->
+
+
 "Please," he said, "there is something wrong." I started walking towards him.
 
 "What is it, sir?" the receptionist replied politely.

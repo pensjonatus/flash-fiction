@@ -9,6 +9,9 @@ Bang! A stiff's head exploded in a cloud of rotten meat and black clots. Bang!
 Another one got his face blown up. Bang! Clive unloaded his last bullet into the
 unsuspecting walking dead who had gotten too close.
 
+<!-- truncate -->
+
+
 Jim was already climbing the ladder, Clive followed. None of the stiffs was able
 to grab his ankle.
 

@@ -11,6 +11,9 @@ skylight at the clear blue sky. She rested her head on his chest, wrapped her
 arms around his arm and was playing with his fingers. He was drifting in and out
 of sleep.
 
+<!-- truncate -->
+
+
 "What's your favorite thing when we're having sex?" she asked.
 
 He did not want to talk about it. It was that point beyond satisfaction on the

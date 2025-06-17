@@ -11,6 +11,9 @@ Attractor. The speed of this event is 600 kilometers per second relative to the
 Universe's background radiation. If the Earth revolved around the Sun at that
 speed, each year would only be 18 days long.
 
+<!-- truncate -->
+
+
 For Ellie, the great conflict began when she discovered her husband's mistress's
 blog. The slutty slutty girl described all the intimate details of the forbidden
 relationship, and Ellie soon began to compete. Letting him come in her mouth and

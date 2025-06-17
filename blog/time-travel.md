@@ -7,6 +7,9 @@ categories:
 
 "Time of death, 11:22 PM," I heard them say.
 
+<!-- truncate -->
+
+
 The doctor stepped out of my wife's room, he looked at me sympathetically and
 told me she was gone. The love of my life was no more. I nodded slowly and gave
 him a look that meant "I was ready," because I had been preparing for this for

@@ -10,6 +10,9 @@ work is very important and people rely on you, so you have to be there. Even
 sitting by the pool, you look at your shiny gold watch because time is always
 ticking away and you always want to know where you are in it.
 
+<!-- truncate -->
+
+
 Oh, Mr. Sandoval, can you sometimes go back to a calmer time? When you were
 younger and everything around you was new. Everything had potential to be the
 start of an adventure. Everyone you met could turn out to be a lifelong friend.

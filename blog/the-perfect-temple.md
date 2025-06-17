@@ -12,6 +12,9 @@ lie down. The water let some light in, so it was not completely black, but dimly
 lit during daytime. There were no mosquitoes inside. I found the place very
 soothing, so I decided to spend a few days before I move on.
 
+<!-- truncate -->
+
+
 As I lay there, I gave some thought to my past. My weakling days back in the Old
 Country and my first steps as a sailor. Then my more adventurous days as a
 pirate, and finally, my disagreement with the captain, which led to my present

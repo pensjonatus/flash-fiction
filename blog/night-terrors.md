@@ -8,6 +8,9 @@ categories:
 
 I am a mother. Or I was a mother, I do not know anymore.
 
+<!-- truncate -->
+
+
 It started one June night when I woke up and saw my husband standing at the foot
 of the bed.
 

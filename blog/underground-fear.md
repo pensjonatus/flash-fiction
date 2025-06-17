@@ -9,6 +9,9 @@ Clive was walking through an underground tunnel beneath Checker Street. The
 tunnel always smelled of Chinese Food, it was warm in winter and cool in
 summertime, and something lucky always happened to him in the tunnel.
 
+<!-- truncate -->
+
+
 This time, he slipped. Maybe it was a patch of cooking oil from a bottle that
 fell out of a shopping bag and broke. Or maybe it was ice cream that detached
 from the cone. One second he was walking, and the next he was on his butt. He

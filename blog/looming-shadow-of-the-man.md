@@ -11,6 +11,9 @@ this was going to be her first serious job. She poured herself a cup of coffee
 and walked up to the window to look at the street below. There were no people at
 the moment, only a handsome man in a charcoal suit.
 
+<!-- truncate -->
+
+
 Another time, Sarah was recovering after a bad breakup. She had been crying a
 lot but finally she was able to get herself together. She poured herself a cup
 of coffee and stood by the window to look outside. The street was empty, except

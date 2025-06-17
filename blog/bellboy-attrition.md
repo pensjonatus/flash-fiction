@@ -8,6 +8,9 @@ categories:
 He opened the door and carried the bags in. Then he turned around, but the guest
 was not there. He stepped into the corridor, but it was empty.
 
+<!-- truncate -->
+
+
 He took the elevator all the way down into the lobby and saw the desk was
 unmanned. He looked in the back room, but that was also empty. He went into the
 hotel bar, but there was no bartender and no guests. He looked into his phone -

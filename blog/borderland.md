@@ -10,6 +10,9 @@ They got off the path for a little while to look at the frozen river, then
 scrambled up the hill and got on the road that led to the school. They walked
 down about a mile when they saw Trisha.
 
+<!-- truncate -->
+
+
 She was wearing a big winter jacket and a big wool hat, arms crossed, back
 hunched, she was trying to get out of the cold as fast as she could.
 

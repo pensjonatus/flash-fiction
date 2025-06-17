@@ -12,6 +12,9 @@ not phony. He has an accent, like in the movies. I guess he came over from
 Russia or some place like that. And he is really good with engines, that is what
 the boss told me.
 
+<!-- truncate -->
+
+
 Ivan is coming up to my desk, his overalls are covered in grease, he is carrying
 his toolbox. He says hi, I say hi back, "Are you ready to finish your shift?" I
 ask.

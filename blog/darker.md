@@ -8,6 +8,9 @@ categories:
 "Hey, you got a minute?" Bill was standing at the entrance to her cubicle. She
 turned away from the computer and smiled.
 
+<!-- truncate -->
+
+
 "Yeah, I'm going to be leaving in a few minutes. I'm just IMing my boyfriend,
 checking if he's ready. What's up?"
 

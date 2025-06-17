@@ -9,6 +9,9 @@ I was walking through the park, wearing my Sunday suit and a hat. I managed to
 get the hang of it by now. That is walking with only one arm and one leg. I used
 a special crutch.
 
+<!-- truncate -->
+
+
 I walked past the swan pond, past the playground, and into a nice shaded path.
 There were boulders on one side of the path and a dinosaur skeleton on the
 other. I stopped to look at the skeleton.

@@ -10,6 +10,9 @@ from Earth, and it was some really old music. It undulated and frizzled with
 static and distortion. Listening to it made me a little sleepy and I slapped my
 cheek a few times to stay awake.
 
+<!-- truncate -->
+
+
 "It sounds like the kind of thing you can buy from frizzlers at pon-stations,"
 said Lucie. Frizzlers were people who made music using outdated technology and
 pon-stations were floating transponders where you could lease bandwidth to

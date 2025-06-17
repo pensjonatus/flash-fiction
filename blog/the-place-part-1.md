@@ -11,6 +11,9 @@ really knew what they meant. Dimensions are width, breadth, height... and the
 extra ones that physics talks about. It's not what we found. What we found was a
 place. It was dark, mysterious, and we wanted to go back there.
 
+<!-- truncate -->
+
+
 Let me tell you about how we found our way there, and then I can tell you what
 it was like. The way will not work again. We tried and it only worked once.
 Other times we got there (if it was the same place!) we used a different way.

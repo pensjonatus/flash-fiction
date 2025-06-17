@@ -9,6 +9,9 @@ categories:
 "Hello," I said into the house, "Anyone there?" Particles of dust were floating
 in the hot air.
 
+<!-- truncate -->
+
+
 "In here," a man growled.
 
 "Hi, I'm looking for Elizabeth," I said. I walked in slowly, without confidence,

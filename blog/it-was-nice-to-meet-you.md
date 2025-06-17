@@ -7,6 +7,9 @@ categories:
 
 "Anyway, it was really nice to meet you," I said, reaching my hand out.
 
+<!-- truncate -->
+
+
 The man shook my hand, "A pleasure," then he took a business card out of his
 pocket. "Here, stay in touch."
 

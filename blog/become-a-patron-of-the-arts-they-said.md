@@ -9,6 +9,9 @@ I was enjoying the art show I paid for. The venue was properly located, the wine
 and cheeses were excellent, and the art was adequate. The artist, Lucas, was
 right next to me the whole time like a good little boy.
 
+<!-- truncate -->
+
+
 "And this one, Mr. Delaney, is a very angry piece," he would say, or "I put a
 lot of passion into creating this arrangement," and I was amused by his
 deference.

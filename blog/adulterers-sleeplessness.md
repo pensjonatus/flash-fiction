@@ -10,6 +10,9 @@ next to you, I think of her. When I lie with her, I think of you. I sometimes
 wonder what makes you sad before you go to sleep and I am afraid it is me. I
 also wonder what makes her desperate late at night.
 
+<!-- truncate -->
+
+
 I cannot sleep, so I remember the time when I was lying in the snow with a hole
 in my stomach. I wondered if I would freeze to death or bleed out first. I never
 found out.

@@ -9,6 +9,9 @@ categories:
 This is a note of mine I found. I am putting it here, because I wrote it after
 we got out of there.
 
+<!-- truncate -->
+
+
 _I did some reading. The extra dimensions from string theory are curled up next
 to the ones we see, and they are very tiny. Too tiny to be detectable with
 conventional means. I think that also means they are too tiny to hide a whole

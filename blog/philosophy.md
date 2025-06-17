@@ -8,6 +8,9 @@ categories:
 "Hey, nice jacket. Got a minute?" said the religious guy. The writer stopped and
 nodded politely.
 
+<!-- truncate -->
+
+
 "Sure, what's up." He could see right away the other man was wearing a black
 name tag which read: *Elder Joseph*. This clean-shaven well-mannered young man
 with a broad smile on his face was definitely a Mormon.

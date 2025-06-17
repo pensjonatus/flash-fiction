@@ -12,6 +12,9 @@ it "rubber duck therapy." Basically, it was as if she was talking to a rubber
 duck, only without the rubber duck. Thoughts acquire substance when articulated,
 a gray-haired psychologist in her head seemed to say.
 
+<!-- truncate -->
+
+
 "I was hoping we could leave work together," she said to an imaginary him. "I
 was hoping we could walk down to the subway station, wait together, and then
 ride the few stops before I have to switch lines. I was hoping we could talk

@@ -10,6 +10,9 @@ small, but the bite was painful. I walked across the trading post to see the
 nurse, but she was not there. Two men were standing in front of her office,
 talking.
 
+<!-- truncate -->
+
+
 "Do you know when the nurse is going to be back?"
 
 "Not sure," said the taller of the men, "She did not leave a note or anything.

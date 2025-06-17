@@ -9,6 +9,9 @@ categories:
 
 "Quite all right," I said, "Good meeting?"
 
+<!-- truncate -->
+
+
 Gregory rolled his eyes and mimicked a man hanging himself. "Boooring!" he
 shouted from beyond the closed eyes of death.
 

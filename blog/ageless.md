@@ -10,6 +10,9 @@ on, one picked up a book and the other put her headphones on to listen to music.
 They spent most of their trip like that, exchanging smiles every once in a
 while.
 
+<!-- truncate -->
+
+
 I could not tell what their relationship was, were they friends, a couple,
 mother and daughter, sisters? At one point, the one that was reading the book
 got a phone call. As she answered it, she passed the book to the other one who

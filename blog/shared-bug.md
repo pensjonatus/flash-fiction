@@ -11,6 +11,9 @@ because she was a very level-headed, cheerful person, and Ralph would have never
 said "My wife is sometimes in those... moods." And yet, the moment he walked in,
 he could tell something was wrong.
 
+<!-- truncate -->
+
+
 She stared at the wall blankly, drinking a milky drink out of a tumbler. She was
 wearing a scruffy t-shirt and sweats. She barely registered his presence. He
 said hello, she looked up and took about a minute to respond.

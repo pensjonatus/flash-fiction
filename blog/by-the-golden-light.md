@@ -10,6 +10,9 @@ where her father used to take them when she was little, now it was all hers. It
 was winter time, and dark above with white snow below. It was quiet and cozy.
 She was reading by an old-fashioned yellow light bulb.
 
+<!-- truncate -->
+
+
 The book was an arcane tale, one of those old complex ones. One of those
 arabesques or adjectives and adverbs. The story winded through the streets of
 Marrakesh and London and other places that seemed made up, and everybody was

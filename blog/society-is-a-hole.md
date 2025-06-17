@@ -9,6 +9,9 @@ categories:
 off. He could've gotten me killed. People think they are good drivers, but they
 aren't. They risk their own lives and they risk other people's."
 
+<!-- truncate -->
+
+
 The two men were talking over a meal
 
 "Yeah, and they don't realize how they spoil someone's day. I mean, you're a

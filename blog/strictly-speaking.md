@@ -10,6 +10,9 @@ a little creepy, like a child molester trying to fool everybody by picking up
 women at the bar. What was I even doing there? "You alone in here? Can I buy you
 a drink?"
 
+<!-- truncate -->
+
+
 "Strictly speaking," I said, "I have a boyfriend."
 
 "Well, that's too bad," he said and sat down on the stool next to me, "But can

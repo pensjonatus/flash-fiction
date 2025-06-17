@@ -12,6 +12,9 @@ Melanie, toast and jam, eggs, and coffee. I was reading something on the tablet
 while chewing slowly, each bite needs 36 times. Melanie was up and about,
 putting dishes in the washer, watering the plants, etc.
 
+<!-- truncate -->
+
+
 "Look," she said from the window, "There's someone moving in, I can see the
 truck downstairs. They're carrying all this furniture in, and boxes. Should we
 welcome them?"

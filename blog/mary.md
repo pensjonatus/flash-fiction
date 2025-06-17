@@ -17,6 +17,9 @@ idiot, the other one understanding the circumstances completely. And forgiving.
 And giving a second chance. I knew I would always get a second chance with her
 if I did something silly, and that was important for an awkward jerk like me."
 
+<!-- truncate -->
+
+
 "Yeah, you're kind of shy. How did it go with Mary?"
 
 "She was so lovely and caring, but the thing is she was like that with

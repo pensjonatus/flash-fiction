@@ -8,6 +8,9 @@ categories:
 
 "So, did you talk to Frank," I asked him.
 
+<!-- truncate -->
+
+
 "I went over to see him," he replied, "But he was not there. His wife told me he
 was at the doctor's. I stayed over for coffee."
 

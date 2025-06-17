@@ -13,6 +13,9 @@ the towering walls of naked brick. Laura walks into the room, her eyes are tired
 and I think she cannot bear to see me anymore. I do not blame her. A man does
 what he does and than he has to live with it.
 
+<!-- truncate -->
+
+
 "I have all my things packed. I'm just," she does not finish. She is too kind to
 say these final words.
 

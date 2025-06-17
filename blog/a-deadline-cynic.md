@@ -9,6 +9,9 @@ She was biting her nails in front of the laptop. She worked for a news blog
 which posted twelve pieces a day, including one really big. Only six hours left
 and the big one was still missing.
 
+<!-- truncate -->
+
+
 The text editor was open, but she only had the first words of a headline. "By
 2050." The rest was missing like a severed limb, and the phantom pain was
 driving her crazy.

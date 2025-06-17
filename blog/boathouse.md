@@ -13,6 +13,9 @@ hands. They could barely understand each other, but they hung out at cafes and
 galleries, and met wonderful, colorful people who were full of music and art and
 ideas.
 
+<!-- truncate -->
+
+
 They postponed returning to the boat long into the night. They walked, silently
 or laughing, on the river banks, leaving the noisy night life behind. They fell
 into each others arms and made sweet love, transforming back and forth between

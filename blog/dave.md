@@ -12,6 +12,9 @@ ever again, in the back of that fast food joint, blowing life away for
 disposable income. He was drunk as a Turkish saint but he was not happy, hence
 the sense of inevitable doom.
 
+<!-- truncate -->
+
+
 He fell down on the couch and passed out. When he woke up, it was still night.
 The lights were on in the kitchen. He forced himself to get up and scrambled
 back to the counter. The book was there. The autobiography of Dave Mustaine. She

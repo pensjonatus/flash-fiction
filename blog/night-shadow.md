@@ -12,6 +12,9 @@ about to begin. We knew we would have to part ways soon, that these last minutes
 of darkness were our last chance to be together before Everything Changes. Two
 months is a long time.
 
+<!-- truncate -->
+
+
 The noise of the party was still in my head, my mind was still spinning with all
 the alcohol. She was calm and composed and she was my best friend.
 

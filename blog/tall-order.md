@@ -8,6 +8,9 @@ categories:
 The doorbell. Annabelle waddled down the hall yelling "I'm coming." At the door,
 she stopped and asked "Who is it?"
 
+<!-- truncate -->
+
+
 "Clancy's Groceries, for Ms. Lee," came the voice from the other side.
 
 She opened the door. A young fellow with hair of blonde and big blue eyes was

@@ -8,6 +8,9 @@ categories:
 I happened to me in a shopping mall when I was on a business trip a million
 light years from home. I stumbled into a food vendor's, weak and weary.
 
+<!-- truncate -->
+
+
 "Hi, I would like to get something to eat," I said, "But I left my wallet at the
 space hotel."
 

@@ -11,6 +11,9 @@ went bowling twice and to the museum once, but mostly we went to the Olive
 Garden for dinner. I used to think something exciting would happen one evening,
 but nothing ever did.
 
+<!-- truncate -->
+
+
 Then they started declining invitations. Maybe it had something to do with my
 wife's growing sensibility and the way she reacted. Apart from getting angry
 quickly, she also developed opinions that were harsh-sounding for most people

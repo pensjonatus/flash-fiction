@@ -10,6 +10,9 @@ After the mechanism stopped working, we both collapsed on the couch in our
 living room. My head was still spinning from the noxious gas, but at least we
 were safe.
 
+<!-- truncate -->
+
+
 "I wonder," my wife said, "What will happen to this..." she could not bring
 herself to say it.
 

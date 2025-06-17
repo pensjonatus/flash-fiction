@@ -9,6 +9,9 @@ Mr. Black's wrinkled fingers put the two tiny elements together. He was
 squeezing the tiny metal ball, waiting for the glue to set a little. He raised
 his eyes at me and pouted.
 
+<!-- truncate -->
+
+
 "What's on your mind, Mr. Black?" I asked.
 
 "I was just wondering whether you were bored."

@@ -8,6 +8,9 @@ categories:
 
 Scott and I were restocking the shelves. We were on toilet paper when he said:
 
+<!-- truncate -->
+
+
 "What is monogamy, really? Is it when I don't want to fuck other people? Or is
 it when I just not fuck them?"
 

@@ -10,6 +10,9 @@ He was already sitting at the kitchen table with a bowl of cereal. She came in
 and got a yogurt out of the refrigerator. She sat across the table. They ate in
 silence.
 
+<!-- truncate -->
+
+
 "I want you to move out," he said finally.
 
 "I have nowhere to go," she said calmly.

@@ -10,6 +10,9 @@ any new projects. Mark came up with the idea of office poetry, and he started
 with a haiku: "Fingers tapping gently on keyboards like raindrops on the roof."
 He wrote it on the whiteboard.
 
+<!-- truncate -->
+
+
 Everybody liked the idea and got their creative gears turning. Debbie was
 second, and she wrote on the donuts using icing: "You will eat them, bringing
 yourself one step closer to Heaven." Mark said it was deep and the others

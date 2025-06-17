@@ -11,6 +11,9 @@ buzz and the room set appeared. Jessica as Margo was standing on the other end
 of the table. I was sitting, my shirtsleeves rolled up, my hair a mess. It was
 the alcoholic stage of Dave.
 
+<!-- truncate -->
+
+
 "How many times do we need to go through this?" said Margo, and Jessica a little
 bit too.
 

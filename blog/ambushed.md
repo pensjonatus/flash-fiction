@@ -10,6 +10,9 @@ They were just friends hanging out after work, they both had somebody. He was
 being a rascal, and she was being sassy. At some point she made a joke about him
 being gay.
 
+<!-- truncate -->
+
+
 "Yeah?" he said, "You wish that were true. You just feel bad none of this," he
 gestured jokingly at his crotch, "can ever be yours."
 

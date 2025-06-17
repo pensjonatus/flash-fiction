@@ -10,6 +10,9 @@ since he was trying to kick the habit and tonight was the night he was getting
 laid, no matter what. He cut her off, she shrieked, a knife flashed in his hand.
 It could have been so pretty.
 
+<!-- truncate -->
+
+
 A shadow descended from the black sky. Two sharp horns. Black wings.
 
 Freddy tried to stay tough, even though he was about to shit his pants. "Circus

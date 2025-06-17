@@ -7,6 +7,9 @@ categories:
 
 "Explain it to me again," said the policeman, "Like I'm seven years old."
 
+<!-- truncate -->
+
+
 They were speaking across a high counter, so the policeman was looking down on
 Hubert.
 

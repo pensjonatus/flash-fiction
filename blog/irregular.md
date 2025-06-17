@@ -11,6 +11,9 @@ muscular or fat, not handsome or ugly. He had a plain old job and was okay at
 it. He had some sense of humor, but not hilarious. He was not dumb but not
 bright either. He seemed to have no smell.
 
+<!-- truncate -->
+
+
 When she finally decided to sleep with him, she had to give him several hints
 before he realized it was time to act. She had to take his hand, and hold it in
 hers rubbing his fingers with her thumb. (His hand was not big, and it was not

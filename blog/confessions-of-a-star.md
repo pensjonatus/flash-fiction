@@ -12,6 +12,9 @@ on people in the street doing local stuff alternate with wide shots of buildings
 and cars. Then transition to the studio. The band is in the back, the host is
 behind his desk, the movie star is sitting on the couch.
 
+<!-- truncate -->
+
+
 The star is probably close to forty, but he looks young. Chiseled chest, zero
 body fat, perfect hair. He smiles and makes the ladies swoon (figuratively).
 

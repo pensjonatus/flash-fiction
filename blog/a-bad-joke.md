@@ -7,6 +7,9 @@ categories:
 
 "So what do you do?" the stunning red-haired girl asked.
 
+<!-- truncate -->
+
+
 "I'm an attendant," Morris replied.
 
 It was a Hollywood party, with Armenian artists, some hippie interior designers,

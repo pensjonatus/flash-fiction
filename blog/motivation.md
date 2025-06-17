@@ -10,6 +10,9 @@ categories:
 "Ms. Vernon," said the young girl in jean overalls and pink-rimmed glasses, "I
 loved your talk."
 
+<!-- truncate -->
+
+
 "Thank you, but please, call me Jane."
 
 They were at the coffee area of the Women in Tech Conference. Jane Vernon was

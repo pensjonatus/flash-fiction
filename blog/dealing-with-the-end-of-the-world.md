@@ -10,6 +10,9 @@ fought it, but my family took it as an invitation to create art. I think that
 might be the reason why our house kept existing long after everything else was
 gone.
 
+<!-- truncate -->
+
+
 On that morning, I woke up just just like everyone else, which is not knowing
 what was about to happen. And, like a lot of people, I experienced a sighting.
 For me, it was a grey moth the size of a car, flapping its wings in the last

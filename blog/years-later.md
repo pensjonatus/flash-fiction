@@ -7,6 +7,9 @@ categories:
 
 Steve was sipping on some latte at a cafe when Molly walked up.
 
+<!-- truncate -->
+
+
 "Steve? Steve Warynsky? Oh my God, it is you!"
 
 "Hey, Molly, it's been years," he got up and then got awkward for a second.

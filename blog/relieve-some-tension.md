@@ -9,6 +9,9 @@ categories:
 I was in Amsterdam again. After the a day of client meetings, I took the tram to
 the red light district. I selected a girl and went back to her place.
 
+<!-- truncate -->
+
+
 I stepped out of the shower and she was sitting on the bed. "What do you like,
 honey?" she asked. She was tall, skinny and black. She did not look like my
 Martha at all. Good.

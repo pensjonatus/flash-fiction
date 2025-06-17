@@ -9,6 +9,9 @@ The Roman soldier jumped off the pier onto the beach. The screams of the siege
 were dying down over Syracuse. The sandy stretch was almost empty, except for
 one man writing in the sand.
 
+<!-- truncate -->
+
+
 "You there," the soldier said in Greek, "Who are you?"
 
 "I am just a mathematician. A philosopher," said the old man without lifting his

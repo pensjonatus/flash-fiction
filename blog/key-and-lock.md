@@ -11,6 +11,9 @@ become midgets over the ages, mere shadows of our former glory. And so it must
 be, I know it when I look at the posters. Nobody is as perfect as people in the
 posters.
 
+<!-- truncate -->
+
+
 I am called the vagabond because I know every nook and cranny of the office. I
 have been to all the floors, east and west wing, as well as the canteen. I have
 spoken with the sentinels of the restricted area and bartered with the denizens

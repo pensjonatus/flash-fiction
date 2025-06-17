@@ -11,6 +11,9 @@ in the garden just outside the dance hall. Their jackets on the railings, their
 shirtsleeves rolled up, they were smoking and talking in low raspy voices when
 he appeared.
 
+<!-- truncate -->
+
+
 "What is it, Matty? You look like you just seen the devil himself."
 
 "It's nothing, I have to get back in there," he was smiling, his cheeks were

@@ -12,6 +12,9 @@ had fallen down a passage. I had used all my supplies. I had cut my leg and
 infected the wound. With the last piece of candle, I had limped down a dark,
 pointless hallway, until I reached a dead end filled with human skeletons.
 
+<!-- truncate -->
+
+
 I lay on the floor, holding the candle close to my face, three blankets around
 me trying to keep the cold at bay. I thought of the surface world, and stars at
 night (I could no longer imagine sunlight) and all the wonders of the universe.

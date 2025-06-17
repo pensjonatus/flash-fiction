@@ -7,6 +7,9 @@ categories:
 
 "Well, here we go," said Marshal as the plane was taking off.
 
+<!-- truncate -->
+
+
 "Here we go," said Mary, smiling the sweetest of sweet smiled.
 
 They were holding hands, flying across the Atlantic to their romantic holiday in

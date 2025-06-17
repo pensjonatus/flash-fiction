@@ -11,6 +11,9 @@ She was funny. I was looking sideways at her as we were crossing the 42nd
 towards the park. My gaze fixed on her profile, trying to catch her eye. I was
 able to wear a relaxed smile, no problem.
 
+<!-- truncate -->
+
+
 She was pretty, like the girls I used to date in college. I had a long break,
 but now I was back on the market, as they say. No, I hate cliches like that. I
 was... What was I?

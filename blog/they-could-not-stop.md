@@ -14,4 +14,7 @@ he told me how Jane could not take the wait anymore and started to move her hips
 a little bit, making him slide in and out a little bit. They both came like they
 never had before.
 
+<!-- truncate -->
+
+
 I think my boss sometimes tells exaggerated stories.

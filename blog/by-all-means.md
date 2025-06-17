@@ -8,6 +8,9 @@ categories:
 "What is up with that girl," said Vlad. He and Jamal were sitting on the curb in
 front of the repair garage they were working for.
 
+<!-- truncate -->
+
+
 "What girl?" Jamal looked around, the street was empty.
 
 "That girl, man," Vlad pointed to a billboard across. A famous large-breasted

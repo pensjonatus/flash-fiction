@@ -11,6 +11,9 @@ margin about what she liked and what she did not. Sometimes she would say
 "Baxter (the main hero) should quit his job and move to Venice Beach," or
 something like that. It was amusing, as I said, at first.
 
+<!-- truncate -->
+
+
 As I read on, the comments grew , taking up all the margins and any blank space
 there was. Every page had more and more scribblings until they intruded upon the
 printed text. And then, finally, covered the original text. I could still make

@@ -9,6 +9,9 @@ categories:
 
 "I'm angry."
 
+<!-- truncate -->
+
+
 "Why? What made you angry?"
 
 Jeff and Bertha. You know, our next door neighbors. They were going out together

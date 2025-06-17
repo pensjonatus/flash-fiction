@@ -13,6 +13,9 @@ had collapsed, the furniture was decayed. It smelled of mold and old age. I
 walked from room to room with a strong feeling that I was trespassing and that I
 should not be there. The feeling drove me outside.
 
+<!-- truncate -->
+
+
 The light outside was soft and warm, like a perpetual sunset. The air was crisp,
 I could feel it, and it carried the smell of apples. I felt relieved to be out
 of the house and I hoped the owner would not notice signs of my presence when he

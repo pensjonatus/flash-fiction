@@ -12,6 +12,9 @@ went over there. A few other people were there at the same time, saying how
 sorry they are to see him leave and asking about the future. Melly just stood
 there with them, nodding and smiling.
 
+<!-- truncate -->
+
+
 Then somebody hugged Jake, and others followed one by one. A simple hug and a
 "Take care!" and Melly made nothing of it. Until it was her turn to do it.
 

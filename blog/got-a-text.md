@@ -12,6 +12,9 @@ could be from, but there were no dramatic love stories in my past. I was in a
 hurry to leave for work, so I decided it was a wrong number and got on with my
 day.
 
+<!-- truncate -->
+
+
 During the lunch break, when everybody else was was busy eating and talking
 about their shows, I read the text again. There were some girls in my life
 before my wife Karen, but only two. One in junior high, and we were never really

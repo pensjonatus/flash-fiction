@@ -9,6 +9,9 @@ I sit in my cubicle, and I am bored. These tasks are too easy, a monkey could do
 them. It is a good cover though, for a man like me. I get up and take a walk to
 the copy machine, just to shake this feeling of boredom.
 
+<!-- truncate -->
+
+
 I look at people on the way. Melinda is a redhead with a pale face. I would love
 to cut her scalp and see blood run down. Her eyes would look good surrounded by
 streaks of red.

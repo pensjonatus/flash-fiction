@@ -8,6 +8,9 @@ categories:
 The hospital room was dark and the wife was standing by the husband's bedside.
 She had an irritated look on her face.
 
+<!-- truncate -->
+
+
 "Where is this doctor?"
 
 The doctor walked in.

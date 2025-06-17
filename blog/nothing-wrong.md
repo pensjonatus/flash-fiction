@@ -11,6 +11,9 @@ of it when I saw you in the mess. You were eating your salad with your fingers
 and I thought you are a man of adventure, a man of the sea. I am sure you could
 tell me a lot of great stories and time would pass by faster.
 
+<!-- truncate -->
+
+
 There is nothing wrong with two men talking, boatswain. Nothing wrong at all,
 even though people now think of it as dirty. There is nothing like the bond that
 is created between two seamen in line of duty.

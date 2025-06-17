@@ -7,6 +7,9 @@ categories:
 
 "We're leaving for Taiwan," I said. "Everybody, take just one thing."
 
+<!-- truncate -->
+
+
 They were ready in under a minute, I like a good, disciplined family. Everyone
 had a thing they wanted to transfer with them and I smiled and nodded at each
 and every one of them until I reached my daughter.

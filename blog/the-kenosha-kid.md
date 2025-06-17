@@ -9,6 +9,9 @@ It was my third day at the record store. The colors seemed faded as the sun
 began to set. I missed the beach and living to the beat of night and day,
 because at work you live to the beat of the clock.
 
+<!-- truncate -->
+
+
 Sheryl was checking my work, nodding in approval when something was right and
 only speaking up when something was wrong.
 

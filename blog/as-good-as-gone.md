@@ -11,6 +11,9 @@ room. Watching her husband play with their son in the living room. The man
 pulled the boy close and she could see his lips make the words: "Listen, Trevor.
 This is important."
 
+<!-- truncate -->
+
+
 The night before, they had a long talk. Not a fight, they did not fight anymore.
 He was mourning after their dead love. She wished she could speak about love in
 romantic terms like that. To her, it had been no more than a word for years now.

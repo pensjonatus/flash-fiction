@@ -14,6 +14,9 @@ exciting and scary. Everybody knew somebody, even a friend of a friend, who was
 killed in this way. Casualties reached 9% of the city's population and more
 cases kept being reported.
 
+<!-- truncate -->
+
+
 ## Wednesday
 
 Detective Krug was on the case, he was examining leads, but he was not finding

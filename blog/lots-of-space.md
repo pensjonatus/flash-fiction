@@ -8,6 +8,9 @@ categories:
 The house where we grew up was very calm and empty. There was very little
 furniture, perhaps not enough.
 
+<!-- truncate -->
+
+
 
 
 

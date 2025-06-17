@@ -12,6 +12,9 @@ tables. Then I remembered the table on stage. I climbed up. It was difficult
 because of my large gut. Mom says I should get in shape, and then she smiles,
 but I think she is sad.
 
+<!-- truncate -->
+
+
 The little table on stage had a half empty coke bottle on it. I picked it up,
 put it in the crate, making sure it does not tip over, then I wiped the table. I
 keep the cloth tucked under my belt so it is easy to reach. Sam taught me that

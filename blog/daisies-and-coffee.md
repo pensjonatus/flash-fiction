@@ -9,6 +9,9 @@ categories:
 Daisy took a sip of coffee and looked at Marcus with her big cow eyes. She
 smiled and he smiled back.
 
+<!-- truncate -->
+
+
 "I like to drink a lot of coffee before I go to sleep," she said, "So that my
 dreams are really fast, like this." With her hand, she showed how fast she liked
 her dreams to be.

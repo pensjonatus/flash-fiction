@@ -9,6 +9,9 @@ categories:
 
 "Send her in, please."
 
+<!-- truncate -->
+
+
 Anna was a tall blonde with big brown eyes full of focus, small freckles in the
 corners. She was carrying two purses and a leather-bound notebook. She said
 hello and took a seat in front of him.

@@ -10,6 +10,9 @@ medication. She could not tell for sure what was real and what was not, but she
 assumed meadows, houses, offices, and lakes were not real. She assumed the
 hospital room was real.
 
+<!-- truncate -->
+
+
 Her father could not have been real, he had died years before. He was leaning
 over and saying: "You've done all you could. Made it as far as any human can.
 You did not take the easy way out. You stuck it out. I'm proud of you, girl. I

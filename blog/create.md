@@ -8,6 +8,9 @@ categories:
 I was tuning the radio to catch some music when my father popped his head into
 the room and said:
 
+<!-- truncate -->
+
+
 "Listening to the radio is great, but you could spend the time being more
 creative."
 

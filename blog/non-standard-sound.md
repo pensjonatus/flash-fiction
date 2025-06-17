@@ -10,6 +10,9 @@ was pacing back and forth between his office window and his Zen garden. All
 around stood a host of concerned minions. The director lifted his head only for
 a second to acknowledge the legendary soundsman.
 
+<!-- truncate -->
+
+
 "Good, you're here. It's about my invasion movie."
 
 "_The Invasion of Los Angeles_," the assistant director said helpfully.

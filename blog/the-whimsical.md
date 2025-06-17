@@ -7,6 +7,9 @@ categories:
 
 I was doing my homework when my dad leaned inside.
 
+<!-- truncate -->
+
+
 "Hi," he said, and he immediately receded behind the half-open door. I could
 only see a part of him.
 

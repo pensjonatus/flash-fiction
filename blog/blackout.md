@@ -11,6 +11,9 @@ pull all our resources together in a crisis and rise to the challenge, so I made
 a tough face (which nobody could see) and, keeping one hand to the wall, edged
 down the hall.
 
+<!-- truncate -->
+
+
 I heard something moving in the dark in front of me. Footsteps. And a clicking
 sound.
 

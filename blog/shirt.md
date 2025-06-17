@@ -9,6 +9,9 @@ tags:
 
 In a room above a pub I lay my things down.
 
+<!-- truncate -->
+
+
 I lay my things down after business meetings.
 
 I lay my things down before I lay myself down

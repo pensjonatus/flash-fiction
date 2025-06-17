@@ -8,6 +8,9 @@ categories:
 
 "Honey, I have a surprise for you," the husband bellowed from downstairs.
 
+<!-- truncate -->
+
+
 "What is it," she said.
 
 "Come down here and I will show you," he hollered, and she could hear he was

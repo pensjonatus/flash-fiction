@@ -10,6 +10,9 @@ It was dark and stuffy there. My wife thinks there was a giant boiler just
 outside the wall and I think she's right, even though we could not see it. We
 heard a humming.
 
+<!-- truncate -->
+
+
 The light was the heavy type of red, and it made everything seem red. I think
 the carpet might have been red all along, just like the carpet we have in our
 living room, but I'm only speculating.

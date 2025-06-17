@@ -8,6 +8,9 @@ categories:
 I live in the cave with my parents and I am old enough for rope duty. It is a
 privilege of age.
 
+<!-- truncate -->
+
+
 The cave is this: There is a big shaft, and it seems to go on forever. There is
 light coming from the top of the shaft. There are rooms and shelves and nooks on
 the walls of the shaft. There are stairways to go up and down a few levels and

@@ -10,6 +10,9 @@ headset on and was holding a clipboard, very lower-management like. "Now, Mr.
 White," he said to the well-to-do gentleman who was with him, "Let's take a look
 at our call center, shall we?"
 
+<!-- truncate -->
+
+
 They entered a large room filled with cubicles. In each cubicle there was a
 colorful individual wearing interesting clothes, sporting an interesting
 haircut, showing off surprising tattoos. They stopped by one cubicle to listen

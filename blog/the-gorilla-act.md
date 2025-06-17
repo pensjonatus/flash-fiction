@@ -9,6 +9,9 @@ Lucy was eight when she saw the Gorilla Act. She went with her mom and her
 brothers, they set up a blanket on Sagan Point, on the lakeside. The whole town
 was there, everyone laughing and socializing.
 
+<!-- truncate -->
+
+
 Mr. Pitt, the gorilla trainer, had arrived with his five gorillas, and talked it
 over with the sheriff. He then put up the posters all over town. The act was all
 people could talk about. Now he was getting ready some distance away. He had

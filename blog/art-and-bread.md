@@ -9,6 +9,9 @@ categories:
 He placed the bag of groceries on the counter and smiled at her. She looked up
 from the TV Guide, annoyed.
 
+<!-- truncate -->
+
+
 "What's the problem, baby?" he asked as if he did not know. She was a bitch.
 
 "It's nothing," she said with trained exhaustion. How did she get so tired from

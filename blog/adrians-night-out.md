@@ -10,6 +10,9 @@ Adrian noticed that after a few drinks, the place got a lot more classy. The dim
 barlight, the music, especially the company. She leaned closer to Adrian and
 smiled, then blew him a kiss.
 
+<!-- truncate -->
+
+
 "So what do you say, baby?" she said, "Another drink?"
 
 "Yeah," he said opening his wallet to see if there was any money left, "Why

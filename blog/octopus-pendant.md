@@ -12,6 +12,9 @@ I would also try to impress the soldiers I sometimes passed in the street, I
 would give them a knowing nod. I hoped they would think I was one of them. That
 is the kind of person I was.
 
+<!-- truncate -->
+
+
 I guess I blew my cover giving her that octopus pendant. If it was a bullet
 pendant, or dog tags, she might have thought I was a soldier, but octopus showed
 childlike wonder and also care. It showed a deep meditative spirit and a love of

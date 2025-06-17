@@ -9,6 +9,9 @@ categories:
 I think they just said on TV that there is a zombie invasion. What do you call
 one of these? A zombie apocalypse.
 
+<!-- truncate -->
+
+
 Nah, that's too crazy, I'm sure it's not true. I don't think they really said
 that. That would be insane. Wouldn't it?
 

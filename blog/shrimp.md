@@ -10,6 +10,9 @@ Everything was perfect, the wine, the flowers, the food. And then they were
 served something new. Three crustacean creatures, perfectly round and shiny. A
 long silver spoon on the side of the plate.
 
+<!-- truncate -->
+
+
 "What are they?" she asked.
 
 "Ah, a delicacy," he said. "Travellers brought them from a different planet.

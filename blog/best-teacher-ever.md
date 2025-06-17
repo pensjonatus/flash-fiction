@@ -9,6 +9,9 @@ categories:
 Mr. White was one of the greatest teachers we knew, but his love for apples made
 him rather fat so we decided to make the world a better place by destroying him.
 
+<!-- truncate -->
+
+
 We put lard in his briefcase, we made loud noises at night in the boys
 dormitory, we burned a lock of his hair on the altar of Greed. All to make sure
 Principal Black gave him the pink slip. But what really did it was when we put

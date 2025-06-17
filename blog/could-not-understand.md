@@ -13,6 +13,9 @@ joyful hair. She was laughing at something one of the guys was saying. All the
 men looked like her court, ready to amuse. If there was danger, they would form
 a wall to protect her. Bob smiled at the thought.
 
+<!-- truncate -->
+
+
 Then he thought about how handsome they all were, so much different from his
 scrawny self. And they were interesting, too. Mike ran his own software company,
 Ralph and Jake were tattoo artists, other Ralph was a painter, and Jamal

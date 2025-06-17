@@ -14,6 +14,9 @@ friends, and both in love with him. Finally, they were mutually exclusive. One
 was the night, the other was the day, and he could love them both, but he had to
 choose.
 
+<!-- truncate -->
+
+
 "College begins soon," he said.
 
 The night lifted her pretty eyes from above the milkshake, still keeping the

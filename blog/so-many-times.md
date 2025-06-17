@@ -9,6 +9,9 @@ categories:
 How nice her hair is, Joe thought, and how graciously she brushes it back with
 her fingers. Her eyes are so bright, they make me happy.
 
+<!-- truncate -->
+
+
 He was looking at his colleague Veronica from across the room in the middle of a
 seminar. She was opening a three-ring binder, about to read some data from
 graphs and charts. He imagined she understood it all and had some interesting

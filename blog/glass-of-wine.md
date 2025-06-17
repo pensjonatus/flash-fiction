@@ -12,6 +12,9 @@ you do not write all the time, you lose the hang of it. That's why I cannot be a
 writer. I need constant practice. But how can I practice when I have to work a
 day job?"
 
+<!-- truncate -->
+
+
 I looked around the table, at least three people had a follow up comment, but
 only one spoke, a black guy in a red jacket. "Well, some find a way. Raymond T.
 Baxter was a postman and he got up at 4 am every day to write until 7 am, then

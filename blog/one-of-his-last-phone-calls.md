@@ -7,6 +7,9 @@ categories:
 
 He had to wait two signals before she picked up. "Hello, it's me," he said.
 
+<!-- truncate -->
+
+
 "Oh, it's you," as if she had been expecting, "So what's going on?"
 
 "Nothing. I'm just calling to talk. How have you been?"

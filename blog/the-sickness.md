@@ -8,6 +8,9 @@ categories:
 On day one, Jeff came in a little late. His eyes were all red, his nose was
 runny.
 
+<!-- truncate -->
+
+
 "Hey, everybody. I think I have the flu. Don't come near me, or you'll catch it
 too."
 

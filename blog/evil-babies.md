@@ -10,6 +10,9 @@ categories:
 Marshal looked at the list, "We have two scenes left. One is called Evil Babies
 and the other Gay Machines."
 
+<!-- truncate -->
+
+
 "Let me take a look," Derek read through the descriptions, frowning a little at
 the end. "This one is going to be harder. Gay Machines. Let's start with this
 one then."

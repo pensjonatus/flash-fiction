@@ -11,6 +11,9 @@ years. He had changed. He was thin and pale, his eyes were red, as though he had
 been crying. He had that raw intensity of a strung-out junkie that I knew so
 well.
 
+<!-- truncate -->
+
+
 "Father O'Hara," he said, "Is this a bad time?"
 
 "Not at all, Timothy. Sit down. How have you been? What brings you here at this

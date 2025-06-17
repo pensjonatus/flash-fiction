@@ -9,6 +9,9 @@ The man was the bulky biker type. Not fat, but not all muscle either, he was
 just a bulldozer of a guy with a red face and giant hands. He spoke with a
 strong accent which Fen identifies as _really American_.
 
+<!-- truncate -->
+
+
 "So you here on vacation, huh?" They were in a rest area on the verge of the
 desert. The bulky man was reclining on a Harley Davidson, sipping something from
 a brown bottle.

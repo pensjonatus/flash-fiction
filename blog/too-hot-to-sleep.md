@@ -10,6 +10,9 @@ They were both completely naked, and the sheet was rumpled up between them. The
 stars were shining on their naked bodies. They were both drifting in and out of
 sleep, too tired to really talk, too hot to sleep.
 
+<!-- truncate -->
+
+
 "You wanna come back inside?" he said, "We can put the AC on."
 
 "No, I'm good here." She put her hand on his chest. Their skins instantly became

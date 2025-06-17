@@ -10,6 +10,9 @@ in front of me. The sky outside was getting gray-blue, the sun would set soon. I
 focused on being in the moment, something I read in a book about Steve Jobs or
 someone like that. I was winding down after a day of hard work.
 
+<!-- truncate -->
+
+
 Suddenly, the front door slammed open, and then shut. I turned around just in
 time to see my son rush by. I got up and leaned out into the hallway to watch
 him climb upstairs. His head was lowered, his bag hung carelessly, banging each

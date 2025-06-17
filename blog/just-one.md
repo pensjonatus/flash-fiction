@@ -9,6 +9,9 @@ The haematology department was getting empty, there were no more visitors and
 the doctors were leaving. The nurses station was almost empty too, only nurse
 Roberts and Maria were still there when Guy appeared.
 
+<!-- truncate -->
+
+
 "Good evening, Mr. Pearce, what are you doing here?" said nurse Roberts.
 
 He looked nervous. "Uhm, could I talk to Maria?"

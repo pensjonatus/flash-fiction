@@ -9,6 +9,9 @@ categories:
 We were on a spaceship from the Belt to Mars. We were waiting in line for the
 washroom, when Jim said:
 
+<!-- truncate -->
+
+
 "It's not real, you know."
 
 "What's not real?"

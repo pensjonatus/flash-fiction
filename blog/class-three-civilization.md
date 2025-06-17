@@ -9,6 +9,9 @@ On Kardashev's scale, a class-three civilization is one that can control its
 entire galaxy. To humans, meeting creatures from a civilization like that would
 be like meeting gods.
 
+<!-- truncate -->
+
+
 My experience with highly advanced creatures was that they rudely interrupted my
 lunch with their God-awful noise. I could only suspect what they were doing, as
 my brain is not capable of the level of reasoning necessary to comprehend.

@@ -9,6 +9,9 @@ It has been tough without my wife, but over the past two years, we learned to
 celebrate Christmas without her. That is my three kids and I. Ben, Kelly, and
 Rebecca, they were so much work, and so much fun.
 
+<!-- truncate -->
+
+
 I woke up on the Christmas morning and walked right downstairs, expecting to see
 my kids unwrapping the presents. It was oddly quiet and when I got to the living
 room, they were not there. One thing struck me though, three large boxes under

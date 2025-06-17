@@ -12,6 +12,9 @@ crying? No matter, I did not need to know. I was already sure you were the one.
 Came into my life so unexpectedly, carried a certain heat with you, a change in
 temperature. Made me no longer feel so cold anymore.
 
+<!-- truncate -->
+
+
 I followed you from the party to the train station. You were so alone, and so
 fucked up. You did not even realize no train was coming, it was almost 4 am. It
 was alcohol and drugs and loneliness, you had not realized all you needed in

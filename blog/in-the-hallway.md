@@ -10,6 +10,9 @@ one hand, the unfamiliar keys in the other. He was just two doors away when the
 old lady emerged from 2C. She did not say anything until he reached his
 destination.
 
+<!-- truncate -->
+
+
 "Well, hello," said the lady, "Are you a new tennant here? Perhaps Gloria's
 boyfriend?"
 

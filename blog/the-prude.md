@@ -11,6 +11,9 @@ was hoping she was, because he was ready to tear all her clothes off. But she
 whispered "No, I'm not that kind of girl. Please, let's not do anything tonight.
 Okay? I'm sorry."
 
+<!-- truncate -->
+
+
 He learned to accept it over the next few weeks. Until one night, they were
 about to go out, she was getting ready, and he was sitting at her desk, just
 waiting. He picked up a book. It was _Naked Lunch_. He read a few paragraphs and

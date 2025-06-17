@@ -13,6 +13,9 @@ those rare times when she gave a moan, or breathed faster, or when I moved up
 from kissing her neck to her lips and her tongue was cold because her mouth had
 been open all the time.
 
+<!-- truncate -->
+
+
 The night before she left for six months, she let me know she liked it. Again,
 she did not let it go anywhere, but she did cling to me, and kiss me, and grind
 against me a little. If only she did not leave, we could have explored the land

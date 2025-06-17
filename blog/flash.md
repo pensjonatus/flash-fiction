@@ -9,6 +9,9 @@ categories:
 The storm was raging outside, but the two of them were tucked in a blanket on
 the couch, listening to each other's voices.
 
+<!-- truncate -->
+
+
 "It's so good to be in here and not out there, huh?" he stated the obvious.
 
 "Yes," she said, "I love rain and I love dancing in the rain in the middle of

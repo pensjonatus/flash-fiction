@@ -12,6 +12,9 @@ some ancient library nobody has been able to enter for ages. I know what you are
 going to say, I play too many video games. Read too many fantasy novels. My
 girlfriends always says that.
 
+<!-- truncate -->
+
+
 Ex-girlfriend. I was up late sitting on the couch playing a video game, really
 into it, when she came back from her office Christmas party. She was surprised
 to see me. She was slightly drunk.

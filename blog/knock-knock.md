@@ -11,6 +11,9 @@ on the wall. I do not know what made me do it, maybe something I was thinking,
 or just the pulse of life. I was surprised at my involuntary action, but I was
 even more surprised at what happened next.
 
+<!-- truncate -->
+
+
 Beyond the wall, somebody knocked back. Two knocks, just like me.
 
 I knocked again. Three knocks this time. Hoping to provoke more.

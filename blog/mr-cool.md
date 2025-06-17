@@ -9,6 +9,9 @@ I sit down with a pack of cigarettes. I think about taking one, and then I put
 the pack on the table. I quit two weeks ago, have to make it a little longer at
 least.
 
+<!-- truncate -->
+
+
 I check the time. No point going out for another two hours, unless I want to get
 something to eat before the party. I have been getting a little chubbier
 recently, so I guess it will do me good to skip a meal. Besides, I hate eating

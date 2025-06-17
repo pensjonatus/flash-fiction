@@ -8,6 +8,9 @@ categories:
 Jake turned a corner and was surprised at what he saw. He was expecting a park,
 but it was just a back alley. The park had to be around there somewhere.
 
+<!-- truncate -->
+
+
 Somehow, Jake found himself facing the back door of a butcher shop. The sign
 read "Satriale's Meats and Cold Cuts," and then a pretty little caption that
 said "DELIVERIES." He figured he was close to 3rd and 22nd, so he pressed on,

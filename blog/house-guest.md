@@ -10,6 +10,9 @@ and into the house. She put her car keys on the painted wooden tray by the door,
 put her bag on the kitchen counter next to the frog-shaped salt and pepper
 shakers. She got herself a glass of water.
 
+<!-- truncate -->
+
+
 Jeremy was sitting at the kitchen table, slouched over his tablet, but not
 looking at it. He was following Lucy with his eyes. He had a glum expression on
 his face.

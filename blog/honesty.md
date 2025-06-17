@@ -11,6 +11,9 @@ looking for it. Nevertheless, there she was in my hotel room, slightly drunk,
 with a head full of stupid ideas. We were in San Francisco on business, looking
 for a way into the West Coast robotics industry.
 
+<!-- truncate -->
+
+
 “Tomorrow after lunch, we should talk to Henderson,” she said, “This will give
 us an opportunity to reach his IsoDyne connection.”
 

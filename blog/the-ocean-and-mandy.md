@@ -9,6 +9,9 @@ I was dozing off in a rocking chair on the ocen-side proch of a small hotel in
 Maine. I still had about fifteen minutes before my shift in the kitchen, so I
 was trying to catch some z's. The season was coming to an end.
 
+<!-- truncate -->
+
+
 A family came walking from the beach with all the towels and toys. Parents and
 two daughters, the little girl crying intensely.
 

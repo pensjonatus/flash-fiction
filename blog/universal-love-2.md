@@ -10,6 +10,9 @@ Party, the music was loud, everybody was drunk dancing falling over the couch
 and doing redundant beer runs. I ended up in a hippie circle, next to an
 energetic college girl with a punky hairdo. Somebody mentioned the word love.
 
+<!-- truncate -->
+
+
 "Love is only in the movies," said somebody else.
 
 "No, no," said the punky girl, "Don't you wanna be like, mmmmmmmm," she purred

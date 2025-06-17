@@ -11,6 +11,9 @@ only showed what they had already learnt. The professor sensed something was not
 working, but he did not know how to fix it. Or did not care. Either way, Tracy
 was so bored, she decided to change the pace a little.
 
+<!-- truncate -->
+
+
 "Professor, do you remember Trent Hauser?" she had been thinking about bringing
 up the subject before but she never did, not until this day. Even as she spoke,
 her throat went dry and the last word of the sentence turned out squeaky. It was

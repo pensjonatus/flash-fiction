@@ -9,6 +9,9 @@ Frank was walking down the street when he saw a topless mannequin in a shop
 window. Its perfectly shaped plastic breasts with no nipples shone in the
 morning light.
 
+<!-- truncate -->
+
+
 Frank stepped inside, it was a small shop with too many clothes crammed into a
 small space. A forty-something woman was sitting behind the counter looking
 bored. She was attractive, with just some slight wrinkles but perhaps a little

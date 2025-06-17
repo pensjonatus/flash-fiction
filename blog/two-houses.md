@@ -9,6 +9,9 @@ In California December sun, the house was getting ready for Christmas, but Jason
 could not put all his heart into it. He kept thinking about his other house and
 that other woman making sure everything was ready for this important day.
 
+<!-- truncate -->
+
+
 "Honey," Felicia yelled across the yard, "Could you run down to the store and
 get some groceries? I made you a list."
 

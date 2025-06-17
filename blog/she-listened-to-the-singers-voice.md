@@ -14,6 +14,9 @@ security was tight, as if the guards were desperate to prove themselves for a
 chance to get out too. Or making sure nobody leaves was their way of punishing
 the State for making them suffer.
 
+<!-- truncate -->
+
+
 The girl was a sexual being, so she used it. She approached one of the guards, a
 chubby young Asian fellow, who luckily spoke Russian. They talked for a minute
 or two, and then he nodded a short disdainful agreement. They walked to the back

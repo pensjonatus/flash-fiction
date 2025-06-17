@@ -9,6 +9,9 @@ Nights are not quiet where I live because the windows open into a busy street.
 You get used to cars because the noise is constant, like a river. But voices of
 people in the night are not easy to get used to, so they wake me up.
 
+<!-- truncate -->
+
+
 Some people are coming back from a party, singing. I wake up in the middle of a
 woman's solo. then the others join in. It's a sea shanty, far far away from the
 sea. They are headed for the underground tunnel, so their voices fade and I

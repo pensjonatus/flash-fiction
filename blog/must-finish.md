@@ -9,6 +9,9 @@ Jack was alone in his tiny dorm room, sitting straight in front of his tiny
 laptop. He had a soda can on the side. He had a $900-textbook open, passages
 highlighted. He was writing the term paper.
 
+<!-- truncate -->
+
+
 Everything was quiet, the rush of the world far, far away, everybody gone. But
 Jack had a problem. Jack's head was empty.
 

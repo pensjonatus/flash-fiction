@@ -12,6 +12,9 @@ heart. One's heart is always broken, so it seems. Even if one has somebody to be
 with and just realizes there are other people who could be loved, but never will
 be.
 
+<!-- truncate -->
+
+
 I chose dying of thirst, which is quite unconventional. I figured I needed about
 three days, if I stayed away from food as well, because food is a source of
 moisture. I made barely it past the 16-hour mark and then I gulped down a

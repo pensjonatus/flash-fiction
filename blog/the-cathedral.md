@@ -15,6 +15,9 @@ that was a simple time for him when church was something you had to do, not
 something you wanted, and he often ran off to the woods to play with the other
 boys.
 
+<!-- truncate -->
+
+
 The time he was really excited for religion was when he attended university in
 Europe. He was just after a breakup, at the cusp of adulthood, and he thought a
 serious young man should not concern himself with women as much as he should

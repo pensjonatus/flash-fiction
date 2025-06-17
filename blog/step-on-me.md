@@ -8,6 +8,9 @@ categories:
 After the art show, we walked six blocks to her apartment. At the end of the
 journey, she said "Do you want to come in?"
 
+<!-- truncate -->
+
+
 My heart was pounding all the way up the stairs. Our eyes met as she was looking
 for the keys, she smiled nervously. We shut the door behind us already kissing.
 

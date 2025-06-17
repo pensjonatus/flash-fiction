@@ -8,6 +8,9 @@ categories:
 
 He was dropping her off. The car pulled up by the curb.
 
+<!-- truncate -->
+
+
 "So I'll talk to you tomorrow," she said, "I better get out of here before you
 get a ticket."
 

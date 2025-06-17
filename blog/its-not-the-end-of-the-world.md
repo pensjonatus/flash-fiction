@@ -10,6 +10,9 @@ categories:
 going to have to move Christmas," and everybody laughed. "But anyway, you know
 what life used to be like with all these working people around."
 
+<!-- truncate -->
+
+
 "Yes, quite," said Buffy, picking up a cucumber sandwich from the tray. The
 servebot then moved the tray my way, and I picked one up as well, not planning
 to eat it. "It was so dreadful looking at them struggle, and hearing about the

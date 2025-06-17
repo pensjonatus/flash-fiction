@@ -12,6 +12,9 @@ than any other day. Maybe your wife called you asking when you will be home
 because you stayed a bit too long and she does not mean anything, she just wants
 to know, but you feel rushed.
 
+<!-- truncate -->
+
+
 Everybody is leaving work and going home, so the streets are packed. You had
 trouble getting through, but right now you found a straight, empty stretch of
 road and you floored it. You are making up for lost time.

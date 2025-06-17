@@ -10,6 +10,9 @@ nuckle feeding, knee to the stomach, face through glass door, head against
 concrete pressing with my boot at the back of their head. Finally, a sleeze bag
 from Harlem, spitting blood and teeth, gave me an address.
 
+<!-- truncate -->
+
+
 I got to the building with one objective only: save Jennifer from this lowlife
 scum. So I stormed the front door, packing heat, guns blazing, all that jazz. I
 wasted two or three dozen guys before they realized I was a force to be reckoned

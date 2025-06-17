@@ -10,6 +10,9 @@ other place in the world and people's lives were just ordinary. But then it
 turned out two factions were becoming more and more prominent, the Scientists,
 and the Godists.
 
+<!-- truncate -->
+
+
 The Scientists worked on technology, building better transportation, renewable
 energy plants, ecological farms, genetic engineerings, bridges into outer space,
 and more. Their mission was to improve the quality of life and bring a better

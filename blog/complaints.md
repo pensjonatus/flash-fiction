@@ -11,6 +11,9 @@ colors, but management decided it was too festive, and also some people
 complained that it offended them, so we made it more conservative. Now they
 complain it is too boring. But they also have other complaints.
 
+<!-- truncate -->
+
+
 "It's too cold outside."
 
 "My life is without purpose."

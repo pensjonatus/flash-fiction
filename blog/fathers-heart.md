@@ -11,6 +11,9 @@ world was full of people. I dragged an old mattress into a small apartment,
 moved an old fridge to block the window and rigged some cables so that I could
 connect a light.
 
+<!-- truncate -->
+
+
 It took Amanda three hours, but she finally gave birth.
 
 "What is that?" I said.

@@ -11,6 +11,9 @@ donkeys, all his wiry muscles hard as steel, his skin tight, his veins clearly
 visible. His muscle-fit shirt was almost bursting from his muscles. Muscles,
 muscles, muscles.
 
+<!-- truncate -->
+
+
 The ladies seemed to notice, at least that is what he thought. He held his head
 up high and demonstrated the peak of his wit to all around. He was also
 chivalrous, offering his seat to Lisa, bringing drinks for the table, and

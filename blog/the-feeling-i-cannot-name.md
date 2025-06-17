@@ -10,6 +10,9 @@ I have seen you so many times, and you wore so many faces. I remember you as the
 harpy, the valkyrie, the priestess. I will never be able to wipe your image from
 my mind.
 
+<!-- truncate -->
+
+
 Straight from the train, I went to the theatre to see you on stage. You were
 reclining on a simple chair, the set behind you pretending to be an all American
 city apartment, and the man in front of you your lover who betrayed you. Your

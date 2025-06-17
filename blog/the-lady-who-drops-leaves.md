@@ -13,6 +13,9 @@ bringing back treasures which she sold to make rent. She even got the Medal of
 Honor from the president for being a war hero. She saved the world multiple
 times.
 
+<!-- truncate -->
+
+
 Sometimes when I got back from school, she would sit on the couch and look out
 the window, planning another adventure. She would smoke the stinky cigarettes
 that chased the Bone Devil away. She would smile when she saw me come in. I

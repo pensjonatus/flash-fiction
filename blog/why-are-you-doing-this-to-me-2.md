@@ -11,6 +11,9 @@ attention from all the men that day, except the one. They all laughed and joked,
 they opened the door for her, but he kept averting his gaze. He was off limits
 anyway.
 
+<!-- truncate -->
+
+
 She moved a step to the left, then leaned forward to see. The lights of the
 train were visible in the distance. Somebody had asked once, at a party, so what
 form of suicide would you choose. She did not wait her turn and said "Why would

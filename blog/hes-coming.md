@@ -7,6 +7,9 @@ categories:
 
 "He's coming," I said into the phone, "I have to go."
 
+<!-- truncate -->
+
+
 I rushed to the intercom, it rang again before I got there. I pressed the
 button. "Who is it?"
 

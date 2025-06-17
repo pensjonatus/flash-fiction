@@ -10,6 +10,9 @@ categories:
 was empty, no furniture except for some old cracked plastic chairs in the
 corner. There were cobwebs in the windows. Bright July sun shone through.
 
+<!-- truncate -->
+
+
 I went out and circled around back. Our old washer and dryer were still in the
 laundry room, but now they were all rusted. I opened the washer hatch and
 reached into its dark belly. I touched something hard cold and oblong. I pulled

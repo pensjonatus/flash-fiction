@@ -11,6 +11,9 @@ anyway. And I used to work for at this tobacco shop, but all the customers were
 idiots who didn't know anything about tobacco, so I would just cuss them out.
 Whatever, no big deal.
 
+<!-- truncate -->
+
+
 And then I got this job at the Vatican (I'm Italian, by the way), and it's just
 perfect.
 

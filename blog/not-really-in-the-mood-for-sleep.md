@@ -9,6 +9,9 @@ When summer nights got hot, I used to go up to the roof. I was in high school
 back then. If there were no clouds in the sky and the stars were bright, I would
 read. If not, I would just sit and listen to my street.
 
+<!-- truncate -->
+
+
 It was suburbia and there was virtually no traffic. Sometimes a car would cruise
 by, somebody returning home late. Sometimes cats would chase around or have a
 little fight in someone's yard. Sometimes I would hear somebody yell in the

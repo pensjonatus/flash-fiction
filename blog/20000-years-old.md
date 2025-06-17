@@ -10,6 +10,9 @@ categories:
 immortal, but you are currently the oldest human in the Universe, is that
 correct?"
 
+<!-- truncate -->
+
+
 "For all intensive purposes, yes," he nodded.
 
 "You were also among the largest group to attain immortality during the

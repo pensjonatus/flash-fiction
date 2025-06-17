@@ -11,6 +11,9 @@ red-and-yellow Hawaiian shirt, it looked goofy enough for him, so he bought it.
 He then went into a diner and ordered a cup of coffee. He looked through the
 paper.
 
+<!-- truncate -->
+
+
 "Maybe I should get a job?" he said out loud.
 
 He picked an ad and called the number.

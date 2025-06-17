@@ -10,6 +10,9 @@ She was preparing supper. Whatever she made was always bad because she was a bad
 cook. However, Norm, her husband of fourteen years, always ate it all. Is that
 love?
 
+<!-- truncate -->
+
+
 The kitchen was small, cluttered, and dirty. She liked it that way, it was cozy.
 She could never understand white tiles and stone counter tops, she preferred old
 wood and American simplicity. If it ain't broke... She chuckled at the saying,

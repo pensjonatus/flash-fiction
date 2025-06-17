@@ -11,6 +11,9 @@ boyfriend, Mark. He was never much into poetry, he spent most of his time
 working at the garage, and after work he was too tired. But it is never too late
 to start getting interested, right?
 
+<!-- truncate -->
+
+
 They sat in the corner and listened to a few poets. A girl in a huge sweater, a
 skinny boy covered in tattoos, a girl in a t-shirt with large white letters
 saying "IRREGADLESS" on the front. Then Jeff appeared on stage. He saw Natalie,

@@ -9,6 +9,9 @@ categories:
 I was standing outside the Anthropology Building, hoping to see her, and there
 she was. She came out with a guy.
 
+<!-- truncate -->
+
+
 "Hi Jeremy," she said, "Nice to see you, what are you up to? This is my
 boyfriend, Troy."
 

@@ -11,6 +11,9 @@ That's how he was greeted on Monday morning when he came into the office. You
 could tell he was suppressing a triumphant smile. He seemed happy, even though
 his face was bruised badly.
 
+<!-- truncate -->
+
+
 "It's nothing, forget about it. I walked into a door."
 
 "Yeah, sure you did. Repeatedly."

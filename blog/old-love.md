@@ -8,6 +8,9 @@ categories:
 
 "So, what's happening with Veronica?" he asked me.
 
+<!-- truncate -->
+
+
 We were having lunch at a seafood restaurant in a small seaside town. A tourist
 spot, great for vacationers on a budget, and families who want to experience the
 local color. Fish and crabs were mounted on the walls, along with some equipment

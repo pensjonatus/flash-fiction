@@ -9,6 +9,9 @@ categories:
 I got a bed at a slaughterhouse for twenty a week. It is a pretty good deal,
 despite the smell and the noises.
 
+<!-- truncate -->
+
+
 My bed is one of sixteen stacked one on top of another in a steel cage inside a
 defunct chimney. I am on level eight, and I have to climb a ladder to get there.
 I never drink anything two hours before going to bed so I don't have to climb

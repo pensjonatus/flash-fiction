@@ -8,6 +8,9 @@ categories:
 Mr. Jefferson was a history teacher at Thomas Jefferson High. He was not
 related.
 
+<!-- truncate -->
+
+
 He enjoyed staying after class. The school was empty and there was nobody to
 disturb him, so he corrected papers, or prepared lessons. Sometimes, he wrote
 stories in one of his numerous tattered notebooks. On one of those creative

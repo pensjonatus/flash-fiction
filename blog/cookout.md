@@ -9,6 +9,9 @@ categories:
 It was a hot day in the kitchen. I was washing some pots when the boss came up
 to me.
 
+<!-- truncate -->
+
+
 "Ivan, I need you to work this Sunday."
 
 I was glad for the opportunity, a Sunday shift meant a bigger paycheck. "Sure.

@@ -8,6 +8,9 @@ categories:
 
 They came to the corner of the street.
 
+<!-- truncate -->
+
+
 "Well, this is the end of the line for me," he said.
 
 They both stopped. Her eyes were bright as a blue flame. She smiled slightly.

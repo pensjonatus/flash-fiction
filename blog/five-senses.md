@@ -11,6 +11,9 @@ she had a picnic basket and a smile on her face. We went to the park and sat on
 a hillside. I was so hungry, and she broke out the food. The chicken was so
 good. It tasted like what my mother used to make, only better.
 
+<!-- truncate -->
+
+
 On out wedding day, I was nervous. Hank was trying to tell me how nervous he was
 and that was supposed to make me feel better, but I just kept pacing back and
 forth until it was time to stand on ceremony. So there I was, at the head of the

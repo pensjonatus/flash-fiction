@@ -7,6 +7,9 @@ categories:
 
 The well-dressed man was walking down the street when the homeless man asked:
 
+<!-- truncate -->
+
+
 "Excuse me, sir. Spare some change?"
 
 The well-dressed man stopped casually and reached into his pocket. He fished out

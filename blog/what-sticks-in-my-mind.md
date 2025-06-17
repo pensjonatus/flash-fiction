@@ -10,6 +10,9 @@ school. She was new, but not at all shy. The teacher asked her to say a few
 words about herself, so she got up from her desk, walked all the way to the
 front of the classroom and said, "Hi, do you guys like cats?"
 
+<!-- truncate -->
+
+
 When we first made love it was years later, at a house party when Dave's parents
 were away. We snuck out into the gazebo to make out. It was so beautiful, with
 tiny lights like a Christmas tree, and the thrill of being discovered was so

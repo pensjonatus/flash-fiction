@@ -9,6 +9,9 @@ I woke up as usual and sniffed around the apartment to make sure everything was
 the way I left it. Then I played with Jimmy the Sock until My Love woke up.
 Little did I know, this day was going to be different than most days.
 
+<!-- truncate -->
+
+
 My Love filled my bowl and I ate ravenously. I love her so much because she
 gives me food. Oh, glorious food! One has to be a wonderful creature to have
 access to all this food and share it willingly. In return, I have nothing to

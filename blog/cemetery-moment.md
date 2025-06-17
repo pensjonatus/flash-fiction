@@ -10,6 +10,9 @@ singing and it seemed like a perfect time to do this. He wanted to speak out
 loud, but there were people about, somebody raking leaves, a family visiting
 another grave, so he just thought.
 
+<!-- truncate -->
+
+
 "I came here to say that it is okay," he thought, "All the things you did. I
 forgive you. I am over it."
 

@@ -12,6 +12,9 @@ walk slowly, as if you did not care. You seem lost in thought, probably going
 over lyrics or replaying a love encounter in your mind. You raise your eyes only
 for a second to catch the chance look of a cute girl walking by. Life is good.
 
+<!-- truncate -->
+
+
 Then you walk on, thinking about meeting the girl again. She would say: "I
 remember seeing you around, with your guitar. You probably don't remember me."
 

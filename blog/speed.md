@@ -10,6 +10,9 @@ them, the music was booming. He opened a metal door and leaped outside, into the
 cold night. There were some fashionable punks in the alley, smoking designer
 cigarettes, talking about poetry and money. He ran past all of them.
 
+<!-- truncate -->
+
+
 "Wait, stop!" she screamed, as he was about to reach the street. He stopped.
 "Marcel, please, you have to come back. You're a star. We need you."
 

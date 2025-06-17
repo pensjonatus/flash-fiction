@@ -10,6 +10,9 @@ favorite restaurants was Rabo's Baked Meat, run by a bearded Armenian guy. The
 guy's father was called Rabo and he set up the place when he came over from the
 old country. But I digress.
 
+<!-- truncate -->
+
+
 When at Rabo's, we ordered our favorites: Baked Squirrel for me and Crab Delight
 for her. Mind you, there was no real squirrel in the dish, it was only called
 Squirrel. It was beef, I think, but the waiter would never tell us. Part of the

@@ -10,6 +10,9 @@ categories:
 matter, who you are? It happens to me sometimes, and I panic. Just for a few
 seconds."
 
+<!-- truncate -->
+
+
 The table had no reaction to what I said. People just stared at me blankly.
 
 "Yeah," I continued, embarrassed, "I think it's normal, though, don't you?"

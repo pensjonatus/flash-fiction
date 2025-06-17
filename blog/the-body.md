@@ -10,6 +10,9 @@ with your hair. You have the perfect figure, but I know your buttocks will sag.
 There is some extra fat here and there, and there will be more. Your skin is
 beginning to wrinkle.
 
+<!-- truncate -->
+
+
 You have birthmarks, and brown spots, and cellulite, and zits, and hairs... You
 scratch. You smell when you are sweaty (a wonderful sour smell) and there is
 sometimes dirt on your skin.

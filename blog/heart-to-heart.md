@@ -13,6 +13,9 @@ what he had in his closet? Two rifles and a case of ammo. He had a gun rack with
 rifles in full view, but I guess he wanted to keep a couple of rifles out of
 sight? Or maybe they were his backup rifles, I don't know.
 
+<!-- truncate -->
+
+
 Anyway, the reason I know this is because he would sometimes invite me back to
 his quarters. He had a little house within the perimeter, used to be a local's
 house, but then they turned the village into Fort Freedom. I guess I should say

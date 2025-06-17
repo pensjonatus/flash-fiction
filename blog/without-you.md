@@ -10,6 +10,9 @@ a 6 and that woke him as well, and even if he tried to get back to sleep, he
 could not. But that morning, he woke up around 10, and he did it slowly, the way
 he always imagined was natural.
 
+<!-- truncate -->
+
+
 He did the bathroom, then had a piece of toast for breakfast, and sat down in
 front of his laptop to get updated. Finally, about an hour later, he was ready
 to get to work.

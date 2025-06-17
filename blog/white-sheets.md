@@ -10,6 +10,9 @@ I opened my eyes and saw her lying next to me, wrapped in white sheets, awake.
 She smiled brilliantly and whispered a good morning. I grabbed her and pulled
 her closer for a kiss. I wanted more.
 
+<!-- truncate -->
+
+
 "Easy. Let's take it slow, okay?" she said.
 
 I let her go and got up to piss. It was a long one, I got back after about a

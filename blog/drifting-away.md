@@ -11,6 +11,9 @@ into the apartment, flashed her a smile, came over, kissed her hello, they
 talked about how was your day it was fine, and then he sat opposite her. Got on
 his phone.
 
+<!-- truncate -->
+
+
 "I gotta log the muffin I had on the way over," he said, "240 cals."
 
 She watched his quick finger, slender hands, the long sleeves of his sweatshirt

@@ -11,6 +11,9 @@ away. The gallery was a-buzz, interns and photographers running around madly,
 tired and mindless, longing for an hour of sleep. But the grand opening was
 coming and nothing was ready.
 
+<!-- truncate -->
+
+
 Somebody spread some plans in front of him, asking a meaningless question. He
 tried to catch her eye again, but he could no longer even see her. Seventeen
 rooms, each one a different theme of street art, she must have run to one of the

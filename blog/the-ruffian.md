@@ -11,6 +11,9 @@ somewhere else. I was off booze for a short while, drinking a lemonade, looking
 at all the truck drivers, cowgirls, and other suspicious characters, waiting for
 Matt to get enough beer in him and say it was time to go.
 
+<!-- truncate -->
+
+
 A group of bikers was playing pool. One of them caught my interest. He was
 skinny, lanky, his long hair was going gray. He was shirtless. He had a tattoo
 across his back. It said: "You may L... But you will not L..." I could not read

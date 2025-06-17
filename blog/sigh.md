@@ -11,6 +11,9 @@ She looked at me and smiled, then she took a sip of beer. I looked above her
 head, the sun was just about to rise over the city. The party was melting away,
 we were among the last few people standing.
 
+<!-- truncate -->
+
+
 "So," she asked, "You'll be going back to school soon?"
 
 "Yeah. I gotta get my bachelor's this year."

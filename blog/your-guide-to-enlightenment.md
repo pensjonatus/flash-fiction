@@ -11,6 +11,9 @@ This paper is provided to all of you still left behind on Earth who could not
 achieve enlightenment on their own. Please read these instructions to join the
 chosen.
 
+<!-- truncate -->
+
+
 The Earth is a terrible place with hunger, disease, war, hatred, and stupidity.
 It is the place where you are born in pain, live in obscurity (though dreaming
 of greatness!) and have to fulfill your duties until the day you die

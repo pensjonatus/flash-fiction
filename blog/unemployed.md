@@ -12,6 +12,9 @@ we had an old pot, some bowls. We even knew how to catch fish. I would come back
 home late in the evening, not have any dinner, not watch TV, just go to sleep,
 anxious for another day.
 
+<!-- truncate -->
+
+
 When my sickness finally made me stay in bed, my dad, who did not have a job,
 would spend all days with me. He would come up with games and things to do, we
 wrote a few books, painted some pictures. When we ate spicy food, our eyes would

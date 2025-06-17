@@ -10,6 +10,9 @@ They were in the middle of the floor, I had to step over them. They were not
 near any particular door. Anyway, I did not have time to think about them, I had
 to feed my rats.
 
+<!-- truncate -->
+
+
 When I was leaving the next morning, the groceries were still there, only
 somebody kicked them up against the wall. An orange had rolled out of the bag.
 

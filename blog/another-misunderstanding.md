@@ -9,6 +9,9 @@ categories:
 We were out in a waffle house, all of us, and it was hard to talk to her because
 everyone would hear. Luckily, I caught her on the way to the bathroom.
 
+<!-- truncate -->
+
+
 "Alice, we have to talk," I said, "About us. Our relationship."
 
 She blinked at me twice. A very bad sign. People do not blink twice for no

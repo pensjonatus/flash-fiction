@@ -11,6 +11,9 @@ talking. No families came over to drag them down with their fear of dying, nor
 did the cold, hunger, or thieves of the hospital bother them. No, the two men
 could focus on their departure and get ready to leave this planet.
 
+<!-- truncate -->
+
+
 They talked about their past relationships, their military service, their
 business and moneymaking. They both had had rich and fulfilling lives. But they
 were not completely symmetrical.

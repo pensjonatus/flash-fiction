@@ -9,6 +9,9 @@ I sent this beautiful creature a text: "Will you join me in the plaza?" but di
 not wait for a response, I just went. I sat at one of those round tables, did
 not order any coffee, and waited.
 
+<!-- truncate -->
+
+
 Later, at the party she said looking at her phone: "Oh, you sent me a text. I
 did not see it."
 

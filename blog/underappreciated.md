@@ -9,6 +9,9 @@ categories:
 Phil was more confident than his usual self, joking all the time and maybe even
 flirting a bit. And the girls at the office must have taken notice.
 
+<!-- truncate -->
+
+
 He was about to leave, but still chit-chatting, he said: "I have this theory,
 you see. Women, especially beautiful women, are more boring than men. That's
 because they don't really have to talk their way in or out of situations. They

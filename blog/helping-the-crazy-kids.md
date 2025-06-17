@@ -12,6 +12,9 @@ little souls. My boyfriend says I will be "helping the crazy kids." Haha, very
 funny, Scott, but it's not polite to call people crazy, especially little
 children. I hope I can do some good.
 
+<!-- truncate -->
+
+
 Dear diary, I had my first class with the little ones (oldest were 11) today and
 they are so sweet, but also so scary. We did finger painting and their art was
 not dark or bloody, you know, like in the moves. It was just so... weird. Some

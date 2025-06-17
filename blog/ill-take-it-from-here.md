@@ -10,6 +10,9 @@ categories:
 to dinner and keep her company and I will get there after this thing." So there
 I was, at a restaurant full of cozy darkness, with her.
 
+<!-- truncate -->
+
+
 She never let silence fall, she always had something to say. And she was full of
 energy, not like I thought her to be when I saw her get in and out of my car.
 "And then I read it again," she said laughing, "The story about the lady in the

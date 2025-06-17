@@ -8,6 +8,9 @@ categories:
 John stirred in the dark. Right after his sudden awakening, came the sound of
 his phone vibrating. He picked up quickly.
 
+<!-- truncate -->
+
+
 "Hello?"
 
 "John, is it you? It's Lisa."

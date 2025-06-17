@@ -13,6 +13,9 @@ there is tea and coffee and drugs, and an orgy in the other room with young boys
 being hung and ejaculating as they die. That's what William Boroughs wrote about
 Morocco, I think.
 
+<!-- truncate -->
+
+
 So the place we arrived in was like that. And there was an intricate golden box
 on the table. It was resting on a red velveteen cushion, tired after a long day
 of being a box. The sun was setting outside and I knew our time would run out as

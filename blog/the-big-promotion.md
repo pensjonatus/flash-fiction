@@ -10,6 +10,9 @@ He was wearing his white shirt and tie. That morning, he had gone into the copy
 point on the corner of his street and bought a leather folder. He printed out
 his updated resume and cover letter. He was ready.
 
+<!-- truncate -->
+
+
 "Mr. Johnson," he leaned into his manager's office, "Is this a bad time?"
 
 "Larry, come in. What is it?"

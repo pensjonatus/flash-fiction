@@ -12,6 +12,9 @@ spent time in rooms with her sister or with her parents, and sometimes they
 visited relatives to spend time in rooms with them. Rooms that were lit and
 warm. Until she questioned.
 
+<!-- truncate -->
+
+
 She figured growing up was about leaving the rooms and leaving the house, and
 going to scary places, so you can show how grown up you are. Scary places like
 parties where there is loud music. She gathered her courage, and got permission

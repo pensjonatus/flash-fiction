@@ -10,6 +10,9 @@ got to the theater, he let her pay for the tickets and did not offer to buy the
 pop corn. After the movie, he groped her in the car and tried to make her give
 him a blowjob.
 
+<!-- truncate -->
+
+
 When she finally got home, she prepared for bed, but had a hard time falling
 asleep. She just lay there with her eyes wide open, staring at the window-shaped
 light stain on the ceiling. Her thoughts were like a mountain spring, ever

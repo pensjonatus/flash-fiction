@@ -10,6 +10,9 @@ My research first made me think that it was all make-believe. That visiting
 other worlds and "alternate dimensions" (I still don't know what that means) was
 made up. Stuff of fiction.
 
+<!-- truncate -->
+
+
 Irish folklore talks about traveling between this world and the world of the
 fairies through narrow places, like fox holes and cracks in old tombstones. But
 there is nothing to substantiate that.

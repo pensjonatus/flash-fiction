@@ -13,6 +13,9 @@ was sitting comfortably. He removed the shawl and mask, and we all saw a
 weathered face, a truly rugged man in his fifties. Pale blue eyes of some
 intelligence and a capricious smirk.
 
+<!-- truncate -->
+
+
 He made small talk with the other patrons. And when asked about news of the
 outside world, he said:
 

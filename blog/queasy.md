@@ -13,6 +13,9 @@ checkbooks, and there is nothing to get in touch with when technology has chewed
 your brain to bits and spat you out an extension of the computer. Yes, Bradley
 was in the process of tuning into his evening depression.
 
+<!-- truncate -->
+
+
 A young mother with a three-year-old was sitting opposite him. She was talking
 softly to her child: "So then we will decorate the tree and Santa is going to
 bring presents."

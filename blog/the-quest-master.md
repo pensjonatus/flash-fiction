@@ -12,6 +12,9 @@ white robes and curved swords, cunning catpeople coming back from a night of
 thieving, city guards hustling peasants, Valdameri travellers speaking their
 snake-like language, and the occasional wizard with a pointy hat.
 
+<!-- truncate -->
+
+
 Among them, one figure stood out. The man was taller than anybody else and much
 more smuscular. He moved with the threatening grace of a sabretooth tiger, his
 eyes always watchful, his tanned face as hard as the stone of Azeroth. He was

@@ -13,6 +13,9 @@ friends, we keep seeing the same places over and over. We do not get
 to experience the diversity of this world, so naturally, we feel like we know it
 all.
 
+<!-- truncate -->
+
+
 I was very curious about the brownstone, the stairwell, the hallways, the
 apartments. I wanted to see their layouts, furniture, wallpapers, the view from
 the windows. The smells must be different in each little apartment, the sheets

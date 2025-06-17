@@ -8,6 +8,9 @@ categories:
 Have you seen that Australian version of Alien? They say it's exactly the same
 as the original.
 
+<!-- truncate -->
+
+
 Some people put the two on a couple of screens side by side. They watched it and
 rewatched it. They could not find a single difference.
 

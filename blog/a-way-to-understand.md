@@ -10,6 +10,9 @@ Two guys were waiting on the pier. The boat was far away, they could not hear
 the motor yet. They were both young, but one of them was a year older. That
 makes all the difference at that age.
 
+<!-- truncate -->
+
+
 "Do you think a man and a woman can be friends?" asked the younger one. He was
 holding a tome of Ted Hughes.
 

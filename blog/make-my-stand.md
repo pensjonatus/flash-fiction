@@ -14,6 +14,9 @@ and everything is secure, we install the heavy machine gun and lay fire on
 sniper positions across the street. Then sergeant Matthews' team moves in and we
 got the street in a pincer."
 
+<!-- truncate -->
+
+
 Jason looked down the narrow alley, the building was higher than the rest, two
 levels in total.
 

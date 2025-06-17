@@ -12,6 +12,9 @@ key on the counter. I stepped outside, it started raining. A strange sight in
 the desert, but it was one of the signs of the end coming. Few people apart from
 me knew that this was the last day there would ever be.
 
+<!-- truncate -->
+
+
 I got into my car. The shotgun seat was empty now, she had left in such a hurry.
 I would never see her again. Does not matter. I opened the glove compartment and
 a pack of gum fell out. I leaned over to pick it up and saw that her shoes were

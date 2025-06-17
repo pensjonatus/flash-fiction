@@ -10,6 +10,9 @@ I was on a train back home and the world was whooshing by. I was tired, could
 barely think, so I decided to let someone else control my mind for a minute and
 read a book. But the book was boring and I kept looking up at other commuters.
 
+<!-- truncate -->
+
+
 There was a girl there, with copper hair and a purple hat, she was playing with
 her phone. She kept looking at me. Just short glances from time to time. And
 then back to her phone with a mysterious smile.

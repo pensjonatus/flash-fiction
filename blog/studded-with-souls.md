@@ -9,6 +9,9 @@ I remember my last moments. There was some pain, but a lot of relief. I was not
 alone, my children were there. It was a clear day outside, the bedsheets were
 white, and everyone was very understanding. Then I just slipped into sleep.
 
+<!-- truncate -->
+
+
 I do not believe in immortal soul, so I am surprised to be conscious. Yet, here
 I am in the dark. I have never seen darkness so dark before. Could this be the
 primal void? Are other souls around here, embedded into this black nothing like

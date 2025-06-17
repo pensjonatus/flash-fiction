@@ -8,6 +8,9 @@ categories:
 A day is a day is a day, and in the end, a girl needs to make money. That is
 what Micah was doing. Just making money.
 
+<!-- truncate -->
+
+
 You could see her in the parking lot in front of the gas station, or near the
 motel, or at a corner by the park. A car would pull up, a few words would be
 exchanged, and a transaction would either be made, or not.

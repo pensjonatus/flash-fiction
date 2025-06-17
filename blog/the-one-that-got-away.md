@@ -10,6 +10,9 @@ Everybody was hanging out, eating pizza, taking turns playing Xbox in pairs. The
 conversation was about professors, classes, student loans, cars, apartments, and
 then movies and music. There was beer, and Mike must have had too much.
 
+<!-- truncate -->
+
+
 "I'm gonna call her," he said finally, reaching for his phone.
 
 "No, man," his roommate Buck said, "Don't do it."

@@ -9,6 +9,9 @@ Jake got a new old-looking suit and a trilby hat. He stood in front of the
 mirror for a good few minutes, admiring the result. Jenny was on the couch, on
 her phone.
 
+<!-- truncate -->
+
+
 "What do you think?" he asked.
 
 "I think you look like someone, who's trying too hard," she said.

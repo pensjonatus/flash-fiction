@@ -10,6 +10,9 @@ his house especially for writing. He set at least an hour aside every day (it is
 tough when you have a full-time job). He went to conventions and read books on
 writing. Stephen king was his hero.
 
+<!-- truncate -->
+
+
 "Not in the sense of what he writes," said Ian, "Because it's just silly
 nonsense. Living action figures and a monster in the lamp? Come on! But it's
 very well written and a commercial success. No writer's work has been adapted by

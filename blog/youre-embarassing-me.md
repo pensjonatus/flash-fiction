@@ -10,6 +10,9 @@ we were getting into this new game, even though all of us were pretending like
 it was not such a big deal. We sat around the couch, chair and floor all jaded
 and whatevered as we discovered the new features and DLCs.
 
+<!-- truncate -->
+
+
 When it was no longer my turn, I passed my controller to Jason and sat back.
 That is when I began to smell roasted nuts.
 

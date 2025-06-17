@@ -10,6 +10,9 @@ and parts, and a car half-disassembled. Or half-assembled, if you prefer. Old
 Joe in blue coveralls stumbled in, polishing a piece of metal with a dirty rag.
 He was alone for a bit, until young Bill in street clothes entered.
 
+<!-- truncate -->
+
+
 "Sorry I'm late, Joe."
 
 "That's okay. Things are slow today. Whatcha got there?"

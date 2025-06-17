@@ -9,6 +9,9 @@ I bought a doll from an antique shop on Upper East Side. It had a white china
 face and beautiful silk clothes. It was centuries old, but extremely well
 preserved. I brought it home to Victoria.
 
+<!-- truncate -->
+
+
 "Thank you," she said with a broad smile, "You're so sweet. You always know what
 to get me. Where do you find such beautiful things?"
 

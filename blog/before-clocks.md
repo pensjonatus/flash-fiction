@@ -9,6 +9,9 @@ Balthazar was shifting in his cot. It was nearly 2 AM, per the clock in the
 barracks, and he still could not get any sleep. He was angry because he would be
 going on duty soon. Only four hours left.
 
+<!-- truncate -->
+
+
 The room was filled with hard but comfortable beds, His Majesty's troops all in
 a deep sleep. He could hear them snore and, from time to time, fart heartily. He
 was probably the only one still awake and it made him really angry. Only four

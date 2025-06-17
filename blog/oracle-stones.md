@@ -8,6 +8,9 @@ categories:
 "I stand before thee, my lords," said the Elder, "To ask your advice. My people
 are in need."
 
+<!-- truncate -->
+
+
 The boy stood there, weary-eyed, expecting silence. He physically jumped up when
 a voice rumbled through the cave.
 

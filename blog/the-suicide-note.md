@@ -11,6 +11,9 @@ friends who stimulated me intellectually and creatively. I do not think I ever
 had a sad day in my life. Also, I was not terminally ill or anything. I was not
 trying to spare anybody any suffering. Neither was I trying to cause any.
 
+<!-- truncate -->
+
+
 It is all me. Since I was a little girl, I was obsessed with death. I drew
 pictures of things not moving anymore: birds, cats, bugs, people. I also drew
 pictures of death personified, but that did not interest me as much as the event

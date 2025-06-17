@@ -12,6 +12,9 @@ cold with her unborn, dying of hunger, aching for a shot of H. John's mind was
 separated from his brain, and his brain from his body until all of his body
 parts became alien and self-amputated.
 
+<!-- truncate -->
+
+
 "I wonder how many more like this one they will bring us," orderly Brody
 wondered, "Hope not too many, it gives me the creeps to see them."
 

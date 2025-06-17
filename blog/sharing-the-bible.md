@@ -9,6 +9,9 @@ Ben rushed into the classroom last minute, just as sister Mary was closing the
 door. He apologized and sat down. Prayer went smoothly, then homework, but when
 they got to Bible reading, he knew he was in trouble.
 
+<!-- truncate -->
+
+
 "Benjamin," sister Mary called over the pious heads of all other twelve year
 olds, "Where is your Bible?"
 

@@ -10,6 +10,9 @@ a table with water bottles set up for everyone to take. The sheriff's office set
 it up so people would not get dehydrated in the heat. It was a very hot summer
 that year.
 
+<!-- truncate -->
+
+
 Simultaneously, two people reached for water. Mr. Boyd, a prominent citizen,
 grabbed a bottle. Iona, a scrawny immigrant, grabbed two bottles.
 

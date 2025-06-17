@@ -8,6 +8,9 @@ categories:
 Hank was under the car, looking for the torque wrench, when he realized he
 couldn't take it anymore.
 
+<!-- truncate -->
+
+
 "Why don't you turn that shit down, huh?"
 
 "Yeah?" said Mike. "What do you want, Hank?"

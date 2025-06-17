@@ -8,6 +8,9 @@ categories:
 My name is Darren and I am 14 years old. I want to tell you about my uncle Jim.
 You see, he was different before the war.
 
+<!-- truncate -->
+
+
 Uncle Jim never used to hang out with us. He would drive up in his car, walk
 right through the porch, and talk with my mom for a while. She was always sad
 afterwards, probably because he was such a dead beat and always wanted money. I

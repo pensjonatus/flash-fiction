@@ -9,6 +9,9 @@ I would like to put two pieces of writing together. The first one is a story I
 wrote. The second is a letter from a friend a received not long after, before I
 was able to mail the story to my publisher.
 
+<!-- truncate -->
+
+
 **My Story**
 
 I was on the beach, mending the nets we used for catching crabs when the

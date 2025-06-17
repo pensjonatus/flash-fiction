@@ -15,6 +15,9 @@ them with high-quality items, but he appreciated the humor. Him, king of two
 continents, appeared everywhere wrapped in an old blanket. He even considered
 enchanting a colander and putting it on his head.
 
+<!-- truncate -->
+
+
 But not that night. Sitting on his throne-couch alone, he was looking outside,
 over Las Vegas, onto the bright horizon where the sun was about to rise. He was
 restless.

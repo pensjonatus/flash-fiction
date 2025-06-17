@@ -13,6 +13,9 @@ equivalent to my mom saying that I am handsome and that I will find a special
 someone for sure.  I know she was just trying to be nice, but please. Do I look
 like a little child? Do my feelings need protecting?
 
+<!-- truncate -->
+
+
 I smiled. "Thanks, Amy. You, on the other hand, are my type," I could not stop
 myself from saying that, but I immediately felt like an idiot. What am I doing
 ingratiating myself to her like that? I had to save it quick by being

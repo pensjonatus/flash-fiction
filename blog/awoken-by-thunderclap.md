@@ -8,6 +8,9 @@ categories:
 
 I am so glad I survived the night. Thunder woke me up in the morning.
 
+<!-- truncate -->
+
+
 My dad thought it would be hard to survive the night and I think he was right,
 in the end. He had said we needed water and protection from the Holy Cross. He
 had said only our Lord Jesus Christ could protect us on a night like that. I

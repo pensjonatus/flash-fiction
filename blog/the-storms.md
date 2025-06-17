@@ -8,6 +8,9 @@ categories:
 
 Anyone catch the storms this morning? Ugh, they were amazing!
 
+<!-- truncate -->
+
+
 I woke up to the beautiful sound of rain and thunderclap. It was so nice after
 the heatwave we've been having. I mean, just the night before each gust of wind
 felt like a blow from a hair dryer. But this morning? Nice and cool.

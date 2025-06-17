@@ -7,6 +7,9 @@ categories:
 
 on the verge of **uncanny events**, i remain **vigilant**
 
+<!-- truncate -->
+
+
 on the precipice of **pain**, i stay **strong**
 
 on the edge of **death**, i **rejoice**

@@ -13,6 +13,9 @@ been, and he talked about his day, but also about the news and about things from
 the past that the news reminded him. She offered an insight from time to time
 and he marveled at how to-the-point it was.
 
+<!-- truncate -->
+
+
 When he ran out of things to say, he just looked at her hands picking things up
 and putting them down. Her hands were a little more wrinkly these days, a little
 spotted, but they were the same hands he had always known. He could not remember

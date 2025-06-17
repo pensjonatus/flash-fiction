@@ -10,6 +10,9 @@ If you are reading this after I am dead, know I am not up there somewhere
 looking down on you. I am not on my knees worshiping the Lord. I am not in
 Heaven, eternally in bliss.
 
+<!-- truncate -->
+
+
 I am not in hell either, tormented by demons, of my separation from the creator.
 
 I was alive and experienced great joy and great sorrow. But then I died and my

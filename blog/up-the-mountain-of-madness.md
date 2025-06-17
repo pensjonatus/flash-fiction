@@ -9,6 +9,9 @@ A twitch ran down his body and came back up, causing his head to bob. Somebody
 noticed, but did not react, being polite. He contained the reflex and was able
 to go back to the presentation at hand, flipping to the next slide.
 
+<!-- truncate -->
+
+
 The next twitch came that evening, and he had been waiting. He wanted to see
 what causes the twitch and he managed to catch it. It was an image from his
 life, coming back with full intensity of all the senses. He was returned to the

@@ -13,6 +13,9 @@ of gaming was a minimum. Crafting, farming, hunting, questing. Week in, week
 out. It was hard, but it gave me a sense of accomplishment, I was somebody in
 the world of the digita. Plus making money.
 
+<!-- truncate -->
+
+
 One time, everybody went to this con and I was home alone with my Guildmaster's
 girlfriend. We were questing, but taking it easy, joking all the time on our
 headsets (she was upstairs).

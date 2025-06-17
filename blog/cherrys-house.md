@@ -10,6 +10,9 @@ I opened the screen door, the front door was ajar. Music was playing inside the
 house. "Hello!" I said loudly, "It's me, Dave. I'm here." Then I walked in. The
 living room was nice and cool. No AC, but Cherry kept it shady and aired.
 
+<!-- truncate -->
+
+
 "I'm in the bathroom, honey," I heard her melodic voice, "Why don't you get
 something to drink and wait five minutes. Just five, I promise."
 

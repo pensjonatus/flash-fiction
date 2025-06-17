@@ -14,6 +14,9 @@ continues sneaking behind his back until John finally decided he could not take
 it any more. He got up early one morning, took a knife from the kitchen, and
 stabbed her in the neck and chest sixty-four times.
 
+<!-- truncate -->
+
+
 Mike seduced his friend's wife part for sport and part to make himself feel
 better. He was losing his self confidence. As men do, at the threshold of forty.
 She was still attractive, her breasts juicy,  her lips keen, her eyes full of

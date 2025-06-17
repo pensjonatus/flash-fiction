@@ -8,6 +8,9 @@ categories:
 She wore blue jeans and a denim jacket. She lifted the shades to look me in the
 eye.
 
+<!-- truncate -->
+
+
 "Excuse me, is this the train to Yorkville."
 
 "Yes," I said.

@@ -10,6 +10,9 @@ The box found a new home on a shelf in our living room. My wife put it between
 the angel she bought in Las Vegas and the door handle she took from a hotel we
 stayed in on our way to the Grand Canyon.
 
+<!-- truncate -->
+
+
 "Aren't you going to open it?" I asked her.
 
 "I am not sure what's inside should be out in our world. I mean, it's probably

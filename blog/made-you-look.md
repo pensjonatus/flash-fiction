@@ -10,6 +10,9 @@ He noticed her bright eyes the first time he saw her. There was no reason to
 look longer than a few seconds, so he did not. But he remembered the eyes later
 when he was trying to sleep.
 
+<!-- truncate -->
+
+
 "Are you leaving?" he asked her one evening, several months later. She was
 working in the back office, he had just finished mopping the floor. They both
 started in the kitchen, but these days she was helping the manager with the

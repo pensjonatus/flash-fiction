@@ -10,6 +10,9 @@ When we retired, we got an apartment in Paris. If the night was clear and warm,
 we would sit on the terrace. No need to sleep that much anymore, so we would
 talk for hours.
 
+<!-- truncate -->
+
+
 "Do you remember our old house, Book?" she said. "When I think of it now, I feel
 like it misses us."
 

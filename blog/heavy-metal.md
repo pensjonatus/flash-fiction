@@ -8,6 +8,9 @@ categories:
 The music was dying down, the frontman was saying a final Thank you from the
 stage, and I was recovering from the rage of the last song.
 
+<!-- truncate -->
+
+
 There was not a drop of blood on my face, not a scratch on me, I was unscathed.
 The terror my muscles felt as adrenaline flushed over them was a sham, but that
 did not matter. I got what I came for.

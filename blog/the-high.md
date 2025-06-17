@@ -9,6 +9,9 @@ It was like a pink mist of happiness. And then a soft come-down to the smelly
 apartment, the unwashed dishes, the accumulation of pizza boxes. She was right
 next to him, coming down as well. Their eyes met.
 
+<!-- truncate -->
+
+
 He was slightly annoyed that it had to end. So was she. "Honey, can we do one
 more?"
 

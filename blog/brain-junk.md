@@ -11,6 +11,9 @@ liquor was being poured generously. It was an entertainment crowd, so some
 interesting characters, no doubt, but mostly same old, same old executives,
 writers, dancers, and homosexuals.
 
+<!-- truncate -->
+
+
 But one guy got my attention. He looked like a regular meth head. An old young
 man. Sinewy and covered in tats, very, very skinny. Dead eyes, set on one thing
 only and uncaring when satisfied. A junkie.

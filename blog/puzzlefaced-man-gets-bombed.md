@@ -9,6 +9,9 @@ I was very little back then, so I did not understand what was happening. I know
 most of it from stories they tattooed on my brain as I grew up and later, when I
 went back to visit my family.
 
+<!-- truncate -->
+
+
 My daddy was back from the Eastern Front, which I did not understand. Uncle Paul
 told me it was part of War, but I had not seen real War because in our city, War
 meant only that my mother had to work late and stand in long lines to get

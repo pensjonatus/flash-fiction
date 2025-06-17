@@ -10,6 +10,9 @@ smoking. It was a sunny day, and concrete was radiating heat, but the balcony
 was nice and shady. The greenery beneath was faded and jaded, people moved
 slowly.
 
+<!-- truncate -->
+
+
 Alice appeared in the door frame behind Mack. He could sense her quiet presence.
 
 "What?" he said lazily.

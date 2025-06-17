@@ -10,6 +10,9 @@ We were shocked to see a skeleton sitting behind the desk. We thought it was a
 bad joke, a Halloween decoration, until we realized the skeleton was alive. It
 spoke:
 
+<!-- truncate -->
+
+
 "Ah, welcome to Pine Grove Cemetery," he said, getting up from behind the desk
 and walking forth to greet us. He was using a walking stick. "I am sure you are
 here with grave business." Did he snicker? Or does the human skull always look

@@ -7,6 +7,9 @@ categories:
 
 "I wish I could quit my job," he said.
 
+<!-- truncate -->
+
+
 "So quit," she said.
 
 "What? And you would support us?"

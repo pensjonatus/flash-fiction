@@ -10,6 +10,9 @@ but there they were. Six of them, moving thanks to invisible strings,
 frantically out of sync with human rhythm, familiar in their fleshiness, but
 alien in their objectness.
 
+<!-- truncate -->
+
+
 I almost fall down doing a tumble thing to change direction and ran towards a
 chain-link fence. They were closing in from all sides, those murder puppets with
 knives and claws. Immobile faces, expressionless eyes, blank stares.

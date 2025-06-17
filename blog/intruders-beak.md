@@ -10,6 +10,9 @@ Those beaked creatures were intruders on Earth at first, but then we learned to
 love their quiet presence. I saw one in an alley on my way to work and I just
 knew I had to talk to it.
 
+<!-- truncate -->
+
+
 It was huge. I have never seen one move, but somehow they got to places. I
 approached it and looked into its eyes that were not really eyes. Scientists
 said they did not see and did not have any senses other than the sensitive beak.

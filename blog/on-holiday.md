@@ -11,6 +11,9 @@ what they always describe as a dream holiday, we were in an exotic locale
 surrounded by luxury, the weather was perfect, and we were properly in love. Her
 eyes were so dark and the sky was so bright.
 
+<!-- truncate -->
+
+
 We were sitting some distance apart in rattan chairs. There was a small glass
 table between us, its surface polished to perfection, with a couple of drinks on
 coasters. The gazebo was wrapped in loose linen cloth to protect from the

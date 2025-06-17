@@ -8,6 +8,9 @@ categories:
 I was was done with the delivery, about to leave, just had to get a signature.
 The guy was sitting by the pool with some people.
 
+<!-- truncate -->
+
+
 "Hey, why don't you stick around," he said, "There is going to be a party later
 on. People aren't coming in yet."
 

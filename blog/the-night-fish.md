@@ -10,6 +10,9 @@ Sam and Mary were sitting on the dark beach. Sun had already set, then the sky
 was alight for a while, but it had grown darker and darker until you could see
 all the stars and galaxies.
 
+<!-- truncate -->
+
+
 Sam and Mary had not spoken, but it was not the kind of uncomfortable silence
 where you stress over coming up with a topic of conversation. Perhaps they were
 at that stage back in college when they first met, but it was since past them.

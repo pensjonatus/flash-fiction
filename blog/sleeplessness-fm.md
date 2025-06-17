@@ -10,6 +10,9 @@ broadcasting live, all night through, on KBFM. If you know me, you know I cannot
 sleep on a night like this, so I come in a give you night owls something to
 listen to. Here's some music and then I will be back with an announcement."
 
+<!-- truncate -->
+
+
 As the music played, he was looking out the window on the parking lot. Only his
 car was there in the stale lamplight.
 

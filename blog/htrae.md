@@ -8,6 +8,9 @@ categories:
 I emerged on the other end of the wormhole and a sigh of relief escaped my
 lungs. Htrae, also known as Reverse Earth, I was finally here.
 
+<!-- truncate -->
+
+
 It was a peculiar place, where grass is blue and the sky is green. Water is hot
 and fire is cold. Men have emotional intelligence and women have confidence. Ah,
 Htrae. What a hellhole.

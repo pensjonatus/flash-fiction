@@ -12,6 +12,9 @@ proceedings. "I would like to call to order the 29th weekly meeting of the Ideas
 Put Into Practice Club. Attendance," he looked around, "Everybody's present.
 Let's begin. Jonah, what did you do this week."
 
+<!-- truncate -->
+
+
 "Well, my idea was to start a pizza club. So, I called on a few friends and we
 had a pizza dinner together."
 

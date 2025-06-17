@@ -8,6 +8,9 @@ categories:
 "Hey, you see those two? That's Saturn and Jupiter," she said, pointing at the
 two dots in the sky.
 
+<!-- truncate -->
+
+
 "Oh yeah?" he replied, "Those are planets?"
 
 The air was still and hot. The city hummed in the distance. It was quiet here in

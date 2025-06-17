@@ -11,6 +11,9 @@ not sure how high the car floor is going to be. I wanted to offer her my seat,
 but she stayed by the door, probably worried she would have a problem getting
 off later.
 
+<!-- truncate -->
+
+
 She had the perfect hair. I wondered how she combed it. She must have used her
 hand to make sure it was not tangled. Same with her clothes, no wrinkles at all.
 And her skin was perfect. She was not wearing any makeup.

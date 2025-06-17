@@ -11,6 +11,9 @@ something to be proud of. Her hard work and talent bought it. But she was not
 thinking about any of that. She was haunted by an idea she never had the chance
 to use, and now it was gone.
 
+<!-- truncate -->
+
+
 She had spent the day frantically running errands before a book signing, but
 when she finally sat down at the bookstore, she had time to organize her
 thoughts. And she remembered, in the flashes of the day, the one thought she

@@ -13,6 +13,9 @@ bed had been moved to the side to reveal a secret passage. Determined,
 Archbishop Cavalieri proceeded down the secret stairway, dropping the papers
 onto the stone floor.
 
+<!-- truncate -->
+
+
 The stairway led to a place he only knew from secret history books. It was the
 Labyrinth of Worry, which stretched its tentacles below Rome and was one of
 Vatican's most heavily guarded secrets. Legend has it was was built by the first

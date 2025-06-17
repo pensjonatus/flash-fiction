@@ -13,6 +13,9 @@ that are normally connected with things of interest and are fooled. Same goes
 for a man, a place, an event, a book, a movie, a quote, a bowl, a piece of
 clothing, a chair, a button, a universe.
 
+<!-- truncate -->
+
+
 I have met many boring girls who seemed interesting at first glance. I have
 dated quite a few as well. At one point, I figured perhaps a girl that seems
 completely boring would turn out to be interesting. She did not. Then I had a

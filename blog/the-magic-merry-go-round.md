@@ -9,6 +9,9 @@ There was a magic merry-go-round down by the pier when I was little. The man who
 inspected your tickets and operated the levers always smelled of wine, but that
 did not take away the magic of the ride.
 
+<!-- truncate -->
+
+
 Other kids used to say your wish would come true if you could sit on the red
 horse and if it revolved more than twelve times. The man would usually shut it
 off after ten or eleven times. I do not remember if I ever got more when sitting

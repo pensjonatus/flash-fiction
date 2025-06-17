@@ -9,6 +9,9 @@ It was a few weeks into the end of the world. People were gone. I walked through
 an abandoned subway station, big letters on the wall said WELL OF SWEAT. Funny,
 I did not remember this station before the end of the world.
 
+<!-- truncate -->
+
+
 There were papers scattered everywhere, colorful opera brochures and discount
 coupons for canned pees that nobody could use now that all stores were
 permanently closed. A teddy bear with its head sown on backwards. How weird.

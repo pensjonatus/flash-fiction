@@ -11,6 +11,9 @@ categories:
 "Uh-huh," she nodded. Her tea was getting cold. Good. She was trying to make
 herself seem completely absorbed in his story.
 
+<!-- truncate -->
+
+
 "If there is an infinite number of universes, all possibilities are covered.
 There is an infinite number of universes in which life is impossible. Infinite
 universe where life is different, and unfinite universes which are exactly the

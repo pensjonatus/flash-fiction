@@ -10,6 +10,9 @@ My wife does this thing when she walks in the door. She says "Honey, I'm home...
 Whoops! I forgot I wasn't married." It's what Michelle Pfeiffer says in Batman
 Returns when she comes back from work. It's funny, I think.
 
+<!-- truncate -->
+
+
 This time, she said her thing, but it sounded flat and ran out of energy at the
 end. She moved swiftly from speaking to listening. Hearing the infernal
 mechanism.

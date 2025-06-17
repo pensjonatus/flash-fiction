@@ -8,6 +8,9 @@ categories:
 "I am not really a man," said Jesus, "I am older than this world. I am Apollo,
 the son of Zeus."
 
+<!-- truncate -->
+
+
 Josiah shook his head in disbelief, he turned to John, "He's been spouting this
 shit since we brought him in. We can't show him in public like that."
 

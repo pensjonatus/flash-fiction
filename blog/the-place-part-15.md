@@ -11,6 +11,9 @@ of me, I could not see them, so, after a little bit, I started suspecting they
 were not even there. Meanwhile, the room stretched out and out. Too big to be
 called a room anymore. I was in a black world. Maybe a black universe.
 
+<!-- truncate -->
+
+
 I had been walking for a long time. I couldn't be sure how long, you cannot
 measure time in complete darkness. If I could hear the beats of my heart, I
 could count those.

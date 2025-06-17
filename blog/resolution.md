@@ -10,6 +10,9 @@ categories:
 She put her hand in his and looked out into the night. She was not afraid of the
 dark when she was with him, an assurance that only teenage love can give.
 
+<!-- truncate -->
+
+
 "What are you thinking about?" she asked.
 
 "When I woke up this morning, I thought I heard heavenly music. It was so

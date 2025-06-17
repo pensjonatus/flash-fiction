@@ -11,6 +11,9 @@ Alice was sitting in front of her mirror. She was getting ready for school. Had
 to look her best if she wanted to be asked out, the prom night was almost here.
 "No, that's ridiculous," she thought, "It's not just about the looks, is it?"
 
+<!-- truncate -->
+
+
 She was looking at her own face, noticing things. There was a little loose skin
 under her chin. Her neck was beginning to wrinkle. Her body was no longer tight,
 fat-free, pre-pubescent. She knew it was absurd, but she was getting anxious.

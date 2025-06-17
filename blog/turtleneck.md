@@ -8,6 +8,9 @@ categories:
 Paul got himself a new turtleneck. It was white, so he got a white jacket to go
 with it. He went out to meet some girls.
 
+<!-- truncate -->
+
+
 "Hey there, gorgeous," he said to the billionth chick that evening, "Is it just
 you, or is this room really hot?"
 

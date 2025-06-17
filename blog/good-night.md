@@ -8,6 +8,9 @@ categories:
 
 "I'll walk you to your room," he said, "I'm just down the hall."
 
+<!-- truncate -->
+
+
 "Thanks," she replied. "So we have that nine o'clock tomorrow, remember?"
 
 "Yeah. I hope we don't get lost again," he laughed.

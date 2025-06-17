@@ -11,6 +11,9 @@ Her account balance was eight figures long. She jumped up and gave a little
 cowboy cheer, then toppled me and we fell to the floor together. She was kissing
 my cheeks and neck. Then she sat on top of me, she had a huge smile on her face.
 
+<!-- truncate -->
+
+
 "I never have to go back into work again," she said.
 
 I made myself laugh but I could not get happy. Ever since I heard she had won

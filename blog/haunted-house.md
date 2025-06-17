@@ -11,6 +11,9 @@ barricades of religion and upbringing and from then on all we could think about
 was finding a place to do it. And when we did, we kept looking for more places.
 It was a really happy time for my genitals.
 
+<!-- truncate -->
+
+
 One Halloween, we decided to sneak into an old abandoned house.
 
 "They say the old lady who lived here," said Jerry, "Was a devil worshiper. She

@@ -9,6 +9,9 @@ Norman was hard sitting at his desk, going over the Henderson report and making
 little notes on the margin. It was a complicated case, lots of things to watch
 out for, and 2% of the quarter's profit margin relied on it. Heavily.
 
+<!-- truncate -->
+
+
 Norman loved his job so much he spent no less than 16 hours a day working. He
 was at an age when sleep was not as important. In fact, he could hardly ever
 fall asleep for more that two hours, so what else was there to do? He was proud

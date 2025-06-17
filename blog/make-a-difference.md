@@ -9,6 +9,9 @@ He came back home, dropped his keys on the side table, regretted the noise, and
 then walked softly into the bedroom. She was lying motionless, her eyes half
 open.
 
+<!-- truncate -->
+
+
 "Hello baby," she said faintly, "How was your day?"
 
 "Not so good," he said, "The post office is killing me. I don't know if I can

@@ -11,6 +11,9 @@ was teaching like a wise old Rabbi. He was speaking like somebody who had
 authority and indeed, he was able to answer all the detailed questions about the
 writings and the interpretations.
 
+<!-- truncate -->
+
+
 At last, he spoke thus:
 
 "God spoke to Abraham demanding a child to be sacrificed. Now he calls out

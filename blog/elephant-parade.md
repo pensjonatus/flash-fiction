@@ -8,6 +8,9 @@ categories:
 We were sitting at a diner, eating burgers. I had decided that would be the best
 way to celebrate my new citizenship, so American.
 
+<!-- truncate -->
+
+
 "Look outside," said Rob, "Are these elephants? Elephants in the middle of the
 street?"
 

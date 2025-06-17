@@ -8,6 +8,9 @@ categories:
 I kicked the guy's teeth in. He hit the floor. He must have passed out before he
 did, though, because he fell like a rag doll. I turned to the other one.
 
+<!-- truncate -->
+
+
 "You thinking of something?"
 
 "No, man."

@@ -8,6 +8,9 @@ categories:
 I heard a voice calling me in the night, so I woke up. There was nobody there,
 but the voice kept calling.
 
+<!-- truncate -->
+
+
 "James."
 
 "Who is it?"

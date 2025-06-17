@@ -11,6 +11,9 @@ was there, roaring, breathing fire, killing policemen and a few local heroes who
 had the courage to stand up to the beast. I knew I could not continue like that,
 so I decided to take action.
 
+<!-- truncate -->
+
+
 I called my agent:
 
 "I have a serious problem with this place."

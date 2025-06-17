@@ -8,6 +8,9 @@ categories:
 Natalie was sitting at the hotel cafe enjoying a light breakfast when she saw
 the familiar broad shoulders clad in a fashionable bright jacket.
 
+<!-- truncate -->
+
+
 "Jacob," she called out, "My favorite fellow expatriate," and she looked at him
 from above her Audrey Hepburn shades. He turned around and flashed his whitened
 teeth in a joyful smile.

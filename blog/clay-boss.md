@@ -11,6 +11,9 @@ discourse and I thought to myself "Vlad, people like that would never associate
 with the likes of you," and then immediately afterwards: "But they are posers
 and gasbags anyway, so who gives a doodle, right?"
 
+<!-- truncate -->
+
+
 But all that thinking changed when I noticed The Blonde. Truly, she must have
 been The Most Beautiful Woman In The World, all caps, and I fell in love. It was
 a silly emotion, based on nothing else than looks, but I started building on

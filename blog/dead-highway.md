@@ -8,6 +8,9 @@ categories:
 A car just flew by, not even slowing down. It was not quite the desert, but
 almost. Hot as Hell. I was stranded.
 
+<!-- truncate -->
+
+
 I would like to say a girl dumped me out of her convertible, and then threw my
 guitar. I would like to say I jumped out of a van and said "Leave without me" to
 some boring people. I would like to say my car broke down. I would like to say I

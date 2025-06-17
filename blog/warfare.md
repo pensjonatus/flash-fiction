@@ -11,6 +11,9 @@ have been long dead or worse, demoted and scrubbing bathroom floors. She was
 there and she helped me when I needed it, under the power lines in the grey grey
 sun.
 
+<!-- truncate -->
+
+
 But let us not get ahead of ourselves. Veronica and I started as neutral parties
 with a tendency to disagree. I always found her quite dull and disagreeable,
 with her constant complaining and her debilitating inability to think

@@ -12,6 +12,9 @@ perspective to know he did wrong and he would be faithful from now on. She would
 not have the strength to tell him she wanted to move on. She knew she would get
 back with him.
 
+<!-- truncate -->
+
+
 The phone stopped ringing. She went into the kitchen to make herself some
 chamomile tea. As the water was about to boil, the phone rang again. She knew
 she had to pick up this time. She ran to the living room.

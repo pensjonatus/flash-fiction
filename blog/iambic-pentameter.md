@@ -9,6 +9,9 @@ He had always been a good boy, so he climbed the steps of his parents' porch and
 knocked on the door without hesitation. But nobody answered, so he knocked again
 and again.
 
+<!-- truncate -->
+
+
 "They're not there," said an old lady in the street.
 
 "Oh, hello. I'm sorry, yeah. They're my parents. Do you know where they went?"

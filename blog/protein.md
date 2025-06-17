@@ -11,6 +11,9 @@ backup, in case he needed to stay out longer. He had to eat something small
 every two or three hours to keep up his muscle growth, but no sugar, processed
 fat, or carbs. He made little baggies and put them in his backpack.
 
+<!-- truncate -->
+
+
 One of his roommates, Jack, walked into the kitchen, "How's the rationing going,
 man?" he said with a yawn, still trying to wake up.
 

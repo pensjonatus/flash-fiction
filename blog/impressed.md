@@ -11,6 +11,9 @@ drive back home and get ready for that party. When I roll in, the girls will be
 like "Ooooh, we got a stripper," and I will be like "No, I'm no stripper, babe.
 But play your cards right, and you just might get a private show."
 
+<!-- truncate -->
+
+
 No, that is too sleazy. How about I show up in a cardigan and glasses and be the
 nerdy sensitive type but when I can get a girl upstairs, I will eat her out like
 a masterful master of head.

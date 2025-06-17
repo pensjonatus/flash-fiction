@@ -9,6 +9,9 @@ categories:
 type of guy that would make me feel safe because of how strong he is. He is also
 handsome."
 
+<!-- truncate -->
+
+
 He thought about his wife, whom he really loved and considered the perfect
 woman, but he did not say anything because he knew Dora would lash out.
 

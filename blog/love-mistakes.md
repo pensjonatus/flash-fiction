@@ -10,6 +10,9 @@ in black, but seemed like it, and she decided to cover the cleavage. She greeted
 me like we were drifting apart again, which should not be surprising to me since
 I broke up with her. I wanted to say "Hey, doll," like I used to.
 
+<!-- truncate -->
+
+
 "Hey, Doris," I said, "How are you?"
 
 "Fine," she was indifferent. "I have the portfolio you asked for. Hopefully,

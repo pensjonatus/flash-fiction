@@ -9,6 +9,9 @@ categories:
 "What is it called again?" she asked. She was driving, we were getting off the
 highway and into Culver City.
 
+<!-- truncate -->
+
+
 "The Museum of Jurassic Technology," I said.
 
 "Huh. So does it have dinosaurs and stuff?" Culver City was all around us. I had

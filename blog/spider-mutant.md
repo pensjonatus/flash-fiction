@@ -12,6 +12,9 @@ And, as you know, most of the neighbors died from the radiation itself, or the
 hunger, or the fighting. When everything settled, two groups remained: those
 that didn't mutate, and... Well, I ended up in the other group. As you know.
 
+<!-- truncate -->
+
+
 Forgive me if I sound cavalier, or in other words too relaxed, about this, but I
 think this is part of my mutation. More on that later.
 

@@ -8,6 +8,9 @@ categories:
 My friend was badly wounded. My friend is my phone, actually, and the display
 glass cracked. This would never have happened in the future!
 
+<!-- truncate -->
+
+
 It was innocent enough, this whole adventure. I put my friend on the night stand
 before going to sleep and when I woke up the next morning, the glass was
 cracked!

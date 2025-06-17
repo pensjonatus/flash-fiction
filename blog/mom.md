@@ -11,6 +11,9 @@ it full of supplies and drove off towards the horizon. A couple of days into the
 trip, they set up camp in a clearing in a wooded area. They had blankets and
 food and they talked and laughed.
 
+<!-- truncate -->
+
+
 People say one of the kids suddenly felt the need to relieve himself, and all he
 needed was some toilet paper. So he said to his girlfriend:
 

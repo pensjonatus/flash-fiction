@@ -11,6 +11,9 @@ was having sex on the other side of the wall. Except there is nobody on the
 other side of the wall, we live in a house in the mountains and our neighbors
 are about two miles away. I thought it was just a dream, but it kept repeating.
 
+<!-- truncate -->
+
+
 One night, I woke up in a haze and went to the bathroom. After I did my
 business, I was about to leave when I caught a glimpse of something fleshy in
 the mirror. For split second, I thought I saw a woman's bare breasts. And then I

@@ -10,6 +10,9 @@ The first girl I loved was really mean to me in that she never really noticed
 me. Her complete lack of interest taught me I am not as exceptional as reading
 Harry Potter might suggest. I sometimes think of her fondly.
 
+<!-- truncate -->
+
+
 The second girl I loved tried to change me into something I could never be. She
 bitched and bitched until I became even more than she could imagine. I left her
 way behind, but I sometimes think of her angrily.

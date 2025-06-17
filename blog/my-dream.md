@@ -8,6 +8,9 @@ categories:
 "My dream?" Jack put out a cigarette and lit up another. The place was empty, a
 retarded boy was cleaning the tables.
 
+<!-- truncate -->
+
+
 "Yes," she said, "What was your greatest dream when you were 18?"
 
 "When I was 18, it was all 'support our troops,'" he pretended to shout, "You

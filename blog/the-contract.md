@@ -12,6 +12,9 @@ York. Peter was looking outside the window with a smile. Somewhere far away was
 their little apartment in Jersey where they made all those youtube videos
 together.
 
+<!-- truncate -->
+
+
 "Uhm," said Molly finally, a little confused, but then she smiled bright, "Yeah,
 it all sounds great."
 

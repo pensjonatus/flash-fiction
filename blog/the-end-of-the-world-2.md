@@ -9,6 +9,9 @@ categories:
 It is the end of the world, but there is no fire in the sky or people screaming.
 There is almost no fire anywhere and everyone is already dead or slowly dying.
 
+<!-- truncate -->
+
+
 I spend my time in the ruins of an ancient city. I walk among the shattered
 glass from the enormous skyscrapers, it would be a hazard if there were any
 children around. They would cut their tiny feet as they laughed and played. But

@@ -10,6 +10,9 @@ have seven paper towels in my bathroom. I use one each time I wash my hands and
 then I hang it up to dry. By the time I start a new seven the next morning, all
 seven are dry again.
 
+<!-- truncate -->
+
+
 But my friend knows a better trick. He is a famous writer who has chosen to
 mentor bloggers anonymously. He posts comments on their blogs using the Socratic
 method (no answers, only questions) and coaxes greatness out of them. What is in

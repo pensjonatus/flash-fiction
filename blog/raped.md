@@ -9,6 +9,9 @@ She was nice to me and her hair smelled like bubblegum. But she gave me a lot of
 attention and I do not react well to that, so I left her and mingled with other
 people.
 
+<!-- truncate -->
+
+
 An hour later she came back and she was slightly drunk.
 
 "Hey," she said, "Want to get out of here?"

@@ -7,6 +7,9 @@ categories:
 
 Jeannie was sitting on the couch, Jake was playing a video game.
 
+<!-- truncate -->
+
+
 "Urgh, Jake. What is it with you and this game. Can't you spend some time with
 me? You're my boyfriend after all."
 

@@ -8,6 +8,9 @@ categories:
 "It's very gross. I mean just thinking about it makes me wanna puke. What kind
 of a guy would do something like that?"
 
+<!-- truncate -->
+
+
 "I guess it's kind of okay. I mean, I don't mind. As long as I never meet them.
 When I think that some of the guys I know do that. We're somewhere with a group
 of friends or something and the guy is looking at me thinking about what he did

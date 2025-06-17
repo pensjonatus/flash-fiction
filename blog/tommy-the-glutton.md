@@ -9,6 +9,9 @@ I remember Tommy from high school. He was very skinny and weak; there was no fat
 or muscle on his pale body and his eyes were much too large. Everybody thought
 Tommy was a geek, he was boring, but he had good grades.
 
+<!-- truncate -->
+
+
 I would like Tommy to have succeeded. I wish he set up his own company like Bill
 Gates and became a millionaire, or changed the world with the power of his mind.
 But I met him a few years ago when I was meeting some customers in San

@@ -11,6 +11,9 @@ bed sang a goodbye as she stood up. I heard her stretch and yawn and then walk
 away. Her bare feet made a bare-feety sound on the floor. Pat, pat, pat, pat,
 she went over to the terrace door and opened it.
 
+<!-- truncate -->
+
+
 Then I heard a flutter, like a whole lot of pigeons. I sat up to look, but she
 was gone. Flown out of the window [like my mother](./the-lady-who-drops-leaves).
 

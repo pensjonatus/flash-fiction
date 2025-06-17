@@ -8,6 +8,9 @@ categories:
 
 When she felt more confident with me, she started talking about her dreams.
 
+<!-- truncate -->
+
+
 "They're really weird sometimes," she said, "Like this one time I was in this
 old elementary school they turned into a hospital and then deserted after some
 kind of war. Only local people were using it again and I ended up in this room

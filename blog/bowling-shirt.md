@@ -12,6 +12,9 @@ categories:
 "Hey," the girl sat down next to me at the kitchen table. It was a party and it
 was 3 am. "Do you bowl?"
 
+<!-- truncate -->
+
+
 "Oh, the shirt?" I said, "No, I thought we were supposed to wear costumes. I'm
 Jesus from _The Big Lebowski_."
 

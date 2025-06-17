@@ -9,6 +9,9 @@ The mysterious stranger had such beautiful eyes. He stared at me, and it became
 awkward. The fact that this was a supernatural occurrence did not make it any
 less so.
 
+<!-- truncate -->
+
+
 "Hi, how are ya?" I said.
 
 "Hi, I'm fine, And you?"

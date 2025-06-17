@@ -10,6 +10,9 @@ to any of us these days." I was impressed by the critic's red skirt-suit and
 enormous head. She was a strong woman with lots of supporters and really good
 arguments.
 
+<!-- truncate -->
+
+
 "What is there left to any WOMAN these days," said the supporter. "Being a woman
 is much harder than being a man or a seringoin." The supporter was also pretty
 impressive, with beautiful hands and a beautiful mind.

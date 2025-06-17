@@ -9,6 +9,9 @@ I woke up in a medical-type room. What do you call one of those? A medical-type
 room was all I could think of, my mind was so woozy. It was one of those bright
 clean rooms with tiles. A medical-typ room.
 
+<!-- truncate -->
+
+
 There was a doctor there, as evidenced by his clothes and the context, and also
 by what he said: "How are you feeling?"
 

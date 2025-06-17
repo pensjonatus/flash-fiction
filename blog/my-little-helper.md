@@ -9,6 +9,9 @@ categories:
 medicine. I take my pills and I don't get none of the symptoms. I don't twitch,
 I sleep fine, and I don't hear voices."
 
+<!-- truncate -->
+
+
 Vanessa shifted in her chair. Around them, the food court reeled with people
 taking a break from shopping. She nodded her head with understanding, she knew
 the best part was coming.

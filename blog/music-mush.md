@@ -10,6 +10,9 @@ on the side of the road. They got out of their pickup truck to tease him which
 meant they were ready to take physical action. All I could do was watch them
 beat him up.
 
+<!-- truncate -->
+
+
 A man stopped to throw a dog out. The dog howled and ran after the car. A train
 screamed in the distance. I know the schedule by heart.
 

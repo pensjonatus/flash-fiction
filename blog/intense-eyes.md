@@ -9,6 +9,9 @@ categories:
 He entered and saw his wife's new secretary. Their eyes met, and he might have
 lingered a little too long.
 
+<!-- truncate -->
+
+
 "Hi, I'm Thomas... McClintock. Amanda's husband."
 
 "Nice to meet you, Thomas," she replied, "I'm Jane." She smiled a satisfied

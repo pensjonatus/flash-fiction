@@ -10,6 +10,9 @@ Mark had a mark on his face. It was a little circular scar on his left
 cheekbone, and his daddy had given it to him. The mark was one of the things
 that made him attractive in the eyes of women.
 
+<!-- truncate -->
+
+
 The tiny bell on the door chimed as he entered the diner, and Brenda trembled a
 little. Then she put on a harsh little face and focused on her cup of coffee. He
 scrambled over and sat down across her in the booth, his hair a mess and

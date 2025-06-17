@@ -9,6 +9,9 @@ I remember visiting grandma Ruth, she always smelled like herbs. As I grew up I
 learned what ganja was, back then I thought it's the smell of wisdom and
 cookies.
 
+<!-- truncate -->
+
+
 "Gammy, is mommy in heaven?" I asked her one day.
 
 "What do you think dear?"

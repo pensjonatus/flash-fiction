@@ -9,6 +9,9 @@ categories:
 Rebellion makes a boy cool. Revolution makes him a god. I was never part of any
 revolution, but I was still a god in the eyes of a few.
 
+<!-- truncate -->
+
+
 I was walking through the park with Becky, she asked me about fretting and
 chords, and I told her music needs to come from the heart and that I have to
 give up music school to be free. She wanted to hear me play again tonight. She

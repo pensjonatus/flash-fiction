@@ -10,6 +10,9 @@ Carcosa! If I heard it in any other context, I would have thought it was just a
 place in, maybe, South America. But I heard it in the place and I knew it had to
 be something special. The fabled city, as I later learned.
 
+<!-- truncate -->
+
+
 Let me tell you all about it, but first there's my wife. We were sitting on the
 porch, even though it was an unseasonably cold evening. My wife insisted, even
 though she's usually the one who is cold. So we wrapped ourselves in multiple

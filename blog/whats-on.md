@@ -11,6 +11,9 @@ Facebook was full of updates, no time to look at all of them. Thousands of
 unread email in my inbox. I scrolled down a page full of cat photos. Maybe some
 porn? Maybe later, when I'm ready to go to sleep.
 
+<!-- truncate -->
+
+
 I remembered a vast grassy field, except the grass was last year's. There was
 some snow, almost melted though. The sky was a heavy, dull gray. The wind was
 almost warm, spring was coming. The girl was in front of me, dressed in black, a

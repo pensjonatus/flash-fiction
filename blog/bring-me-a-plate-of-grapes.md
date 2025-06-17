@@ -9,6 +9,9 @@ The hotel suite had one of those large sitting spaces with two couches and a few
 armchairs. Truman was sitting comfortably, Regis was standing by the fireplace,
 smoking a cigarette.
 
+<!-- truncate -->
+
+
 "What do you think, love?" said Regis, "Is Veronica going to come?"
 
 "Ah, I should say 'that's what she said,' because indeed she said it, and

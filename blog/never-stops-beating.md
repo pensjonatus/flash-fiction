@@ -11,6 +11,9 @@ gave me the signal to stop. Using the gestures he taught me, he indicated there
 were three deer ahead. I could not see them, but he pointed in their direction
 and asked me to use the scope on my rifle.
 
+<!-- truncate -->
+
+
 The weapon was heavy. The initial rush of holding a lethal object was washed
 away by the muscle ache it caused. Nevertheless, I raised it up and looked
 through the scope. There were two teens and one massive horned one. I knew it

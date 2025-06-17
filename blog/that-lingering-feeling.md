@@ -9,6 +9,9 @@ categories:
 bright conference room. He was wearing a fresh green sweater that reminded her
 of nice weather and interesting conversations. He was smiling.
 
+<!-- truncate -->
+
+
 "They are not here today," said Bryan. "I can give it to them in our daily over
 Skype."
 

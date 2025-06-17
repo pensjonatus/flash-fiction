@@ -11,6 +11,9 @@ to get his giant suitcase into the narrow door. I thought to myself, what a
 peculiar man, so tiny, yet with such huge luggage. I wanted to help him, but he
 managed to get inside before I could make the decision to act.
 
+<!-- truncate -->
+
+
 The following evening, he came over to the shop. He looked very tired, pale, and
 as thin as paper. He smiled and said:
 

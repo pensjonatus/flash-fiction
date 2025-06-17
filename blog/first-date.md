@@ -9,6 +9,9 @@ I pick her up and try not to make the greeting awkward. When we get into my car,
 I call it my batmobile and she laughs, so we find a few things to talk about and
 it is smooth.
 
+<!-- truncate -->
+
+
 My reservation at the Four Seasons gets us a table right away, we browse the
 menu and talk about the food. I do not order for her, I am not that kind of guy.
 Then we talk about music and movies, express ourselves through other people's

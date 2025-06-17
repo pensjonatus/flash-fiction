@@ -8,6 +8,9 @@ categories:
 O'Reilly's Bar was dark and damp. Perfect. After a few drinks, the two men were
 shooting the breeze like they were old friends.
 
+<!-- truncate -->
+
+
 "My job is horrible," said Jack, laughing.
 
 "Oh yeah? What do you do?"

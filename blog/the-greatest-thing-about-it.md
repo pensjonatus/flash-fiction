@@ -9,6 +9,9 @@ categories:
 nigth, and this was just one of the things. I hung around to listen to the
 conversation. The party was booming around us.
 
+<!-- truncate -->
+
+
 "You won't understand it," Scotty tried being diplomatic, "I mean, we have our
 thing, you have yours."
 

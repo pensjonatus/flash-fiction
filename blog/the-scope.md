@@ -9,6 +9,9 @@ categories:
 the rifle scope to his eye. He took his time aiming and then fired. The crows
 flew away.
 
+<!-- truncate -->
+
+
 "You missed," said Bob.
 
 "If I shoot enough of them, they will stop coming back."

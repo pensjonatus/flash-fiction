@@ -10,6 +10,9 @@ other patients had green faces, like the dead, and their gowns and sheets looked
 like funeral cloth. Sarah was holding Jamie's hand. She did not
 look appalled despite all the tubes stuck to it with tape.
 
+<!-- truncate -->
+
+
 "Jamie, why did you do it?" she said.
 
 He was silent.

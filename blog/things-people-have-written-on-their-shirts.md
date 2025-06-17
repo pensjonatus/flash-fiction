@@ -10,6 +10,9 @@ Nike, Adidas, and other company names. Be free. I know who _you_ are, but who am
 _I_? All you need is love. All You Need Is Love. Freedom. Don't tread on me, and
 a picture of a snake.
 
+<!-- truncate -->
+
+
 I cannot do anything without my COFFEE!!! By the way, coffee is a soft drug, in
 my opinion, not as scary as heroin or some of the other stuff people put in
 themselves, that is why it is legal. That part is not written on any shirts I

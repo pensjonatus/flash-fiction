@@ -12,6 +12,9 @@ was. Thousands upon thousands of us in the timeless joy of floating. I felt
 serenity and purpose as I recalled all my incarnations, all life's paths
 joining.
 
+<!-- truncate -->
+
+
 We all arched back down to become incarnated again in a endless ballet. I was
 happy to leave the blue void behind, even though I felt so good up there. I dove
 into the black clouds below.

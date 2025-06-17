@@ -8,6 +8,9 @@ categories:
 We just bought a house. I was in the backyard with my son. He thought there were
 probably some treasures hidden there, so we were on a quest.
 
+<!-- truncate -->
+
+
 The far end of the yard was overgrown with trees, bushes, and high grass. There
 were three trees, and they all bent towards one another, as if frozen in a
 dance. They looked like some of those characters in a 30s cartoon, but my son

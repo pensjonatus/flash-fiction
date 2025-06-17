@@ -7,6 +7,9 @@ categories:
 
 "Hullo," I said into the receiver, "Is this the body horror clinic?"
 
+<!-- truncate -->
+
+
 "The Body Reformation Oversight Clinic, yes," said the young on the other side.
 "Would you like to come in for a consultation?"
 

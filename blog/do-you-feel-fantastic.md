@@ -14,6 +14,9 @@ of bed and he had to figure out what it was first. It was late in the afternoon,
 the evening haze was beginning to fall and everything outside the windows seemed
 gray. "Why did I wake up?" he thought, and then he heard it again.
 
+<!-- truncate -->
+
+
 "Jeremy? I need you," his mother was calling from downstairs.
 
 His left leg was still numb from having slept wrong. He limped out of his room,

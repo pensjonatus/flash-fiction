@@ -14,6 +14,9 @@ around your neck, you have a good chance of being decapitated. The chance grows
 the more you drop until about twenty feet where it drastically diminishes and
 your chances of dying are pretty small.
 
+<!-- truncate -->
+
+
 Suddenly, two girls ran past me screaming "Let's race!"
 
 They stopped a few paces ahead of me and turned back, walking slowly, laughing.

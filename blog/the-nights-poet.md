@@ -8,6 +8,9 @@ categories:
 It was dark when Jim climbed the front porch and walked the length of the roof
 to Melissa's open window. She was doing homework at her desk.
 
+<!-- truncate -->
+
+
 "Hey, can I come in?"
 
 She turned around surprised, but then smiled.

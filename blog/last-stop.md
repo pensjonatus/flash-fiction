@@ -9,6 +9,9 @@ Vinnie woke up as the bus was pulling into the bay. It was the last stop by the
 College of Mt St Vincent, just outside Bronx, dead empty at this time of night
 and it was the last bus.
 
+<!-- truncate -->
+
+
 "Sir, you have to get off," he heard the driver's tired voice from the
 loudspeaker.
 

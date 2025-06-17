@@ -13,6 +13,9 @@ she must get a lot of attention and have a lot of friends. Then, when I talked
 to her, I realized that even though she enjoys company, she can also make it as
 though she is just with me, nobody else.
 
+<!-- truncate -->
+
+
 Nevertheless, it took a lot of courage for me to ask her out. I wanted to take
 her out to a restaurant, but I was so nervous that I forgot to make a
 reservation so we ended up wandering from place to place until we wound up in a

@@ -13,6 +13,9 @@ say, because I cannot agree to love a mother who damned me to this fate. I
 wanted to murder the bird, the sea, the sky, the wind... One cannot do things
 like that.
 
+<!-- truncate -->
+
+
 Day 7779:
 
 In my mind, I replayed brutal scenes from my previous life. I was not a hero,

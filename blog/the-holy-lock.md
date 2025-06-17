@@ -9,6 +9,9 @@ The knight's body fell to the stone floor with a rattle of armor. Useless. The
 prince stood there, breathing heavily after the long fight. He was wounded. He
 was victorious. He was alone with the priest.
 
+<!-- truncate -->
+
+
 The prince leaned on his sword to move forward, as the priest fell backwards
 onto the altar. Upon it, amidst the decoration of golden giants and ruby-studded
 dragons was a precious box which contained an artifact of great power.

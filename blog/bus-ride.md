@@ -11,6 +11,9 @@ wondered how long ago they had gotten here and whether they liked living in the
 city. He was also thinking of the girl who always got on this bus, Muni 28 at
 9:14 pm.
 
+<!-- truncate -->
+
+
 The two immigrants were both grey-haired. He was wearing an old-fashioned
 checkered cap which Jake would now associate with Russians. She was wearing a
 scarf on her head.

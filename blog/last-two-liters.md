@@ -9,6 +9,9 @@ Silas ran a system check, everything was working fine. He had the computer
 re-calculate fuel and the results from the previous run were confirmed. He had
 enough to reach the space station. He turned on the comm.
 
+<!-- truncate -->
+
+
 "Space station Falcon, Space station Falcon, this is the Wanderer, license FX
 231-09-777. Do you read me."
 

@@ -9,6 +9,9 @@ categories:
 After Samuel died, we met in my apartment to figure out who would take care of
 his cat.
 
+<!-- truncate -->
+
+
 "So who wants it?" said Jessie.
 
 The room fell silent. Jacob from upstairs was looking out the window, Sasha was

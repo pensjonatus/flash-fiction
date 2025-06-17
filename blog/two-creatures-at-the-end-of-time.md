@@ -10,6 +10,9 @@ categories:
 "Hello? There is someone here, isn't there?" the lonely creature quickened with
 excitement.
 
+<!-- truncate -->
+
+
 "Yes," a shy voice responded.
 
 "I can't believe it! I have been alone all this time. I thought I was the last

@@ -9,6 +9,9 @@ I was on the phone, so I was able to take control of the project. Lucky! I think
 it can be finished within the next seven days, two days before the deadline. At
 any rate, it's good I was there, if I say so myself.
 
+<!-- truncate -->
+
+
 I don't know how it happened. How can I be a stock broker and risk manager after
 all the chemistry my mind has absorbed? They say neurons never regenerate, but
 that can't be true. Look at how crystal clear everything is. I can plan, I can

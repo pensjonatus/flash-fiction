@@ -11,6 +11,9 @@ Two men were riding the train into the night.
 looked outside at the golden-lit windows rushing by. Each promised a family
 dinner.
 
+<!-- truncate -->
+
+
 "You're right," said the other. "You know, I missed the 6:10 and had to wait for
 the 7:20."
 

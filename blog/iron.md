@@ -8,6 +8,9 @@ categories:
 
 Look, eating with metal utensils is the literal worst thing you can do.
 
+<!-- truncate -->
+
+
 I mean, just look at the science of it. Metal knives and forks are made of
 stainless steel. Steel is part iron. Iron is the element that everything fuses
 into or fizzles away to.

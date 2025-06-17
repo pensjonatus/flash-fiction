@@ -9,6 +9,9 @@ Sam was paralyzed from the neck down. Sometimes, he felt like just a head lying
 in a bed that is much too big. That is when he was in a good mood. The doctors
 had told him he would never get better.
 
+<!-- truncate -->
+
+
 His room was nice and clean, and a nurse would come and wash him. People visited
 and talked about stuff. His best friend sometimes came to make him laugh.
 
