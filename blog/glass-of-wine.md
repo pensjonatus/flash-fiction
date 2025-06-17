@@ -1,8 +1,8 @@
 ---
-title: 'Glass of Wine'
+title: Glass of Wine
 date: '2015-08-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "The point about Balzac," said a blond guy, "Is that he wrote all the time. If

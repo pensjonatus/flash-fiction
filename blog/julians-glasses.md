@@ -1,8 +1,8 @@
 ---
-title: "Julian's Glasses"
+title: Julian's Glasses
 date: '2012-05-31'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Hey, Monica," Sarah kissed her friend on the cheek. They hugged for half a

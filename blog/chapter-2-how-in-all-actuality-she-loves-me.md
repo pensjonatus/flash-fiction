@@ -1,8 +1,8 @@
 ---
 title: 'Chapter 2: How, In All Actuality, She Loves Me'
 date: '2015-07-09'
-categories:
-  - 'growing-up-in-greyland'
+tags:
+  - growing-up-in-greyland
 ---
 
 Anyway, as I was saying, years later I moved to America. I fiddled with this and

@@ -1,8 +1,8 @@
 ---
-title: 'Dissociative'
+title: Dissociative
 date: '2014-10-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 She was sitting on her bed, talking into a camera. She stopped when I came in.

@@ -1,8 +1,8 @@
 ---
-title: 'The Thief'
+title: The Thief
 date: '2014-11-19'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 When I was on the train a few years ago, I saw a girl steal a phone out of some

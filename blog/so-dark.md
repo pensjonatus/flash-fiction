@@ -1,8 +1,8 @@
 ---
-title: 'So Dark'
+title: So Dark
 date: '2014-10-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I sit in my cubicle, and I am bored. These tasks are too easy, a monkey could do

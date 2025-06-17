@@ -1,8 +1,8 @@
 ---
-title: 'The Belly'
+title: The Belly
 date: '2014-07-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Tamara put on the black tank top with the Jack Daniel's logo and stood in front

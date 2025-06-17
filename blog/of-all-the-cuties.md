@@ -1,9 +1,9 @@
 ---
-title: 'Of All The Cuties'
+title: Of All The Cuties
 date: '2012-07-27'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I drove to her house to pick her up. At the screen door, she greeted me with a

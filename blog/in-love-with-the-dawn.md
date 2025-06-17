@@ -1,8 +1,8 @@
 ---
-title: 'In Love with the Dawn'
+title: In Love with the Dawn
 date: '2015-08-03'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The sun was rising over Nogoori, the capital city of the planet Joom. Our hero,

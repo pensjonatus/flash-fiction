@@ -1,8 +1,8 @@
 ---
-title: 'Late Evening Walk from Work'
+title: Late Evening Walk from Work
 date: '2013-11-14'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 When you leave the office building it's a cold November evening. The first thing

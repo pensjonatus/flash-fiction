@@ -1,9 +1,9 @@
 ---
-title: 'That Orifice'
+title: That Orifice
 date: '2012-09-10'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Jack's wife was standing over him, the smoking gun still in her hand. The roar

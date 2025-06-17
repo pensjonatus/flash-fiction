@@ -1,9 +1,9 @@
 ---
-title: 'Knock, Knock'
+title: Knock, Knock
 date: '2012-11-16'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I was standing at the urinal, doing my business, and all of a sudden I knocked

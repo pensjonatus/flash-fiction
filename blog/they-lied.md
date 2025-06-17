@@ -1,9 +1,9 @@
 ---
-title: 'They Lied'
+title: They Lied
 date: '2017-11-04'
-categories:
-  - 'flash-fiction'
-  - 'sci-fi'
+tags:
+  - flash-fiction
+  - sci-fi
 ---
 
 We were on a spaceship from the Belt to Mars. We were waiting in line for the

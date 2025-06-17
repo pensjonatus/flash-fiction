@@ -1,8 +1,8 @@
 ---
-title: 'Bus Stop'
+title: Bus Stop
 date: '2018-11-07'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Within civilization, people are expected to spend their free time in rooms

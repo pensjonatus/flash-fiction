@@ -1,19 +1,44 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+bizarro:
+  label: Bizarro
+  permalink: /bizarro
+  description: Bizarro, a genre of fiction that is bizarre, absurd, and often surreal.
+creepy:
+  label: Creepy
+  permalink: /creepy
+  description: Creepy, spooky, or unsettling content that evokes a sense of fear or unease.
+flash-fiction:
+  label: Flash-fiction
+  permalink: /flash-fiction
+  description: Flash-fiction refers to very short stories, typically under 1000 words, that convey a complete narrative.
+growing-up-in-greyland:
+  label: Growing-up-in-greyland
+  permalink: /growing-up-in-greyland
+  description: Growing-up-in-greyland, a tag for stories that explore themes of adolescence and the challenges of growing up in a fictional or metaphorical greyland.
+love:
+  label: Love
+  permalink: /love
+  description: Love stories, if you can remember what love is
+novel:
+  label: Novel
+  permalink: /novel
+  description: Novel tag description, typically used for longer works of fiction that tell a complete story.
+pm-writing:
+  label: PM writing
+  permalink: /pm-writing
+  description: PM writing is when I write in the evening or at night
+poem:
+  label: Poem
+  permalink: /poem
+  description: Poems
+poetry:
+  label: Poetry
+  permalink: /poetry
+  description: Poetry that I wrote for myself and for you
+sci-fi:
+  label: Sci-fi
+  permalink: /sci-fi
+  description: Science fiction, double feature, single feature, multi feature
+short-stories:
+  label: Short-stories
+  permalink: /short-stories
+  description: Short stories for young and old

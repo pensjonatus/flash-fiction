@@ -1,9 +1,9 @@
 ---
-title: 'It Was the Summer of Love'
+title: It Was the Summer of Love
 date: '2014-03-15'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 It was not a date.

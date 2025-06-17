@@ -1,9 +1,9 @@
 ---
-title: 'Days of Longing'
+title: Days of Longing
 date: '2015-05-12'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Where are you, my Alice? The sun is setting over the treeline making everything

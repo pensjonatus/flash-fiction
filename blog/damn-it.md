@@ -1,8 +1,8 @@
 ---
-title: 'Damn It!'
+title: Damn It!
 date: '2012-03-14'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "I wish I could be in two places at the same time," said Frank, putting the beer

@@ -1,9 +1,9 @@
 ---
-title: 'Five Senses'
+title: Five Senses
 date: '2013-08-16'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Before we were married, she called me one Sunday to pick her up. I came over and

@@ -1,9 +1,9 @@
 ---
-title: 'Everything Has a Beginning'
+title: Everything Has a Beginning
 date: '2013-08-04'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 She was twenty four, but I guess I was her first. We never had actual sex, you

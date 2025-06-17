@@ -1,8 +1,8 @@
 ---
-title: 'Some Kind of Monster'
+title: Some Kind of Monster
 date: '2012-11-19'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Praised be the name of the LORD who delivered Moses from the hands of Aegypt. I

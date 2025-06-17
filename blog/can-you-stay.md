@@ -1,8 +1,8 @@
 ---
-title: 'Can You Stay?'
+title: Can You Stay?
 date: '2014-05-18'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He was buttoning up his shirt. She reached her hand out.

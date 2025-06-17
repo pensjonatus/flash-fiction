@@ -1,10 +1,10 @@
 ---
-title: 'What Does She Look Like?'
+title: What Does She Look Like?
 date: '2015-06-02'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - creepy
+  - flash-fiction
+  - love
 ---
 
 I have a friend on Facebook whom I do not know. She invited me once and I

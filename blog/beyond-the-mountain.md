@@ -1,8 +1,8 @@
 ---
-title: 'Beyond the Mountain'
+title: Beyond the Mountain
 date: '2013-08-03'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Hunting was not going well. The two boys laid their bows by the river and

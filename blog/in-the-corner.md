@@ -1,9 +1,9 @@
 ---
-title: 'In the Corner'
+title: In the Corner
 date: '2015-04-12'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 "I'm going to be honest with you, Mr. Baker," said the therapist.

@@ -1,9 +1,9 @@
 ---
-title: 'Longings'
+title: Longings
 date: '2012-10-23'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Can a man be friends with a woman? He noticed her looking, but then she turned

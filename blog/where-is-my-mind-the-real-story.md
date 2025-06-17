@@ -1,9 +1,9 @@
 ---
-title: 'Where Is My Mind (The Real Story)'
+title: Where Is My Mind (The Real Story)
 date: '2012-07-29'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 The real story is too scary to tell, so let us assume that Mark was sitting at a

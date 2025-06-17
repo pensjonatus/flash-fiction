@@ -1,8 +1,8 @@
 ---
-title: 'Cream'
+title: Cream
 date: '2013-10-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was late in the evening when Brenda and Sam were working on burritos for

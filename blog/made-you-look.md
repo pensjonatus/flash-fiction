@@ -1,9 +1,9 @@
 ---
-title: 'Made You Look'
+title: Made You Look
 date: '2013-10-01'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 He noticed her bright eyes the first time he saw her. There was no reason to

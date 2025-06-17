@@ -1,8 +1,8 @@
 ---
-title: 'Sex Doll'
+title: Sex Doll
 date: '2014-08-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Striker, snap out of it, man," Toad's voice sounded distant and distorted, like

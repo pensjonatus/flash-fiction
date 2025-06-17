@@ -1,9 +1,9 @@
 ---
-title: 'Anything for Love'
+title: Anything for Love
 date: '2015-04-16'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 It was late, it was Paris, and they had a wonderful day behind them. She looked

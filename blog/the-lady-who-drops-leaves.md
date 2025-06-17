@@ -1,8 +1,8 @@
 ---
-title: 'The Lady Who Drops Leaves'
+title: The Lady Who Drops Leaves
 date: '2015-11-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 My mom was a special woman. Other moms attended bake sales and prepared lunch

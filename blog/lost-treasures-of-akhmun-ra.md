@@ -1,8 +1,8 @@
 ---
-title: 'Lost Treasures of Akhmun-Ra'
+title: Lost Treasures of Akhmun-Ra
 date: '2015-02-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 We woke up before dawn, excited to be reaching the last stretch of our long walk

@@ -1,8 +1,8 @@
 ---
-title: 'Two Houses'
+title: Two Houses
 date: '2013-12-23'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 In California December sun, the house was getting ready for Christmas, but Jason

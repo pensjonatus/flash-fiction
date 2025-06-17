@@ -1,8 +1,8 @@
 ---
-title: 'Guys Talking'
+title: Guys Talking
 date: '2014-05-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was hot, it was a an outdoor cafe, it was summer. Two man were drinking

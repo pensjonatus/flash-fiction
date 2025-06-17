@@ -1,8 +1,8 @@
 ---
-title: 'Giving Himself Up'
+title: Giving Himself Up
 date: '2016-06-18'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Explain it to me again," said the policeman, "Like I'm seven years old."

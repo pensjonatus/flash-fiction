@@ -1,8 +1,8 @@
 ---
-title: 'The Perfect Temple'
+title: The Perfect Temple
 date: '2013-12-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 When I found myself cast away on Hispaniola, I did not trek to any of the cities

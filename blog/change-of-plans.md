@@ -1,9 +1,9 @@
 ---
-title: 'Change of Plans'
+title: Change of Plans
 date: '2015-08-18'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Not so sure you were pretty, not sure you were ugly either. You had a woolen hat

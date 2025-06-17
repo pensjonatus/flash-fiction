@@ -1,8 +1,8 @@
 ---
-title: 'Dealing with the End of the World'
+title: Dealing with the End of the World
 date: '2016-08-07'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 We all had our ways of dealing with the end of the world. Some denied it, others

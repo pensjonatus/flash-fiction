@@ -1,8 +1,8 @@
 ---
-title: 'A Bad Joke'
+title: A Bad Joke
 date: '2012-05-02'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "So what do you do?" the stunning red-haired girl asked.

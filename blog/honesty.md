@@ -1,9 +1,9 @@
 ---
-title: 'Honesty'
+title: Honesty
 date: '2014-01-04'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I cannot say I was not hoping for the opportunity, but also I was definitely not

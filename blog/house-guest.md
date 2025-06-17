@@ -1,8 +1,8 @@
 ---
-title: 'House Guest'
+title: House Guest
 date: '2018-02-17'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Lucy got out of her car, past the mailbox, past the two stone frogs on the lawn,

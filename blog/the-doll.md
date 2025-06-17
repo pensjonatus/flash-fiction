@@ -1,8 +1,8 @@
 ---
-title: 'The Doll'
+title: The Doll
 date: '2014-04-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I bought a doll from an antique shop on Upper East Side. It had a white china

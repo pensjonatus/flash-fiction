@@ -1,8 +1,8 @@
 ---
-title: 'Lots of Space'
+title: Lots of Space
 date: '2016-03-18'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The house where we grew up was very calm and empty. There was very little

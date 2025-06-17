@@ -1,9 +1,9 @@
 ---
-title: 'Acid Harsh'
+title: Acid Harsh
 date: '2012-10-02'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Mark had a mark on his face. It was a little circular scar on his left

@@ -1,8 +1,8 @@
 ---
-title: 'Boylston Social Club'
+title: Boylston Social Club
 date: '2017-05-02'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Sitting on the balcony overlooking Boylston Street and the Commons, Mack was

@@ -1,8 +1,8 @@
 ---
-title: 'A Distraction'
+title: A Distraction
 date: '2014-07-17'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was about two hours into the meeting, just me and Natalie from the

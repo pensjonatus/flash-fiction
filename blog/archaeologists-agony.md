@@ -1,10 +1,10 @@
 ---
-title: "Archaeologist's Agony"
+title: Archaeologist's Agony
 date: '2016-05-02'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - creepy
+  - flash-fiction
+  - pm-writing
 ---
 
 The expedition had gone terribly wrong and I was all alone now in the ruins. I

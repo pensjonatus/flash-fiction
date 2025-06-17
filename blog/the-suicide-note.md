@@ -1,8 +1,8 @@
 ---
-title: 'The Suicide Note'
+title: The Suicide Note
 date: '2012-07-31'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 First of all, it has nothing to do with any of you. I was happy with you,

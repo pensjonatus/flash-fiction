@@ -1,9 +1,9 @@
 ---
-title: 'The World of Tomorrow'
+title: The World of Tomorrow
 date: '2017-07-05'
-categories:
-  - 'flash-fiction'
-  - 'sci-fi'
+tags:
+  - flash-fiction
+  - sci-fi
 ---
 
 I am a bit drowsy before I have my morning 72 coffees, so please bear with me. I

@@ -1,8 +1,8 @@
 ---
-title: "Dick's Diary"
+title: Dick's Diary
 date: '2013-11-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I know what this city is really like. Every night, kneeling in its own filth,

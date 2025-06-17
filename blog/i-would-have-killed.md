@@ -1,8 +1,8 @@
 ---
-title: 'I Would Have Killed'
+title: I Would Have Killed
 date: '2014-05-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The doorbell rang. I opened and saw the girl. She was a ghostly blonde now, she

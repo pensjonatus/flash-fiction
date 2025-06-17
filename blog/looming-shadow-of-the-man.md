@@ -1,8 +1,8 @@
 ---
-title: 'Looming Shadow of the Man'
+title: Looming Shadow of the Man
 date: '2014-01-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Sarah just got off the phone about a new job. They liked her during the

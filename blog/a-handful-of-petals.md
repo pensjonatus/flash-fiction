@@ -1,9 +1,9 @@
 ---
-title: 'A Handful of Petals'
+title: A Handful of Petals
 date: '2014-06-22'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 We were having a great time playing tennis in the garden. And when we sat down

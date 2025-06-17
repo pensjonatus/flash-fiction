@@ -1,8 +1,8 @@
 ---
-title: "He's Coming!"
+title: He's Coming!
 date: '2015-12-19'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "He's coming," I said into the phone, "I have to go."

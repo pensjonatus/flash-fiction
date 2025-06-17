@@ -1,9 +1,9 @@
 ---
-title: 'Soda Breath Promises'
+title: Soda Breath Promises
 date: '2012-07-21'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Their eyes first met when they were at a burger place with their respective

@@ -1,8 +1,8 @@
 ---
-title: 'Without You'
+title: Without You
 date: '2016-03-03'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 His wife was out of town, so he could finally sleep in. She would always get up

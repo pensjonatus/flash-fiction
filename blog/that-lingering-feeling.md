@@ -1,8 +1,8 @@
 ---
-title: 'That Lingering Feeling'
+title: That Lingering Feeling
 date: '2015-01-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "So where's Kevin and Mordecai?" asked Kelly. She was alone with Bryan in the

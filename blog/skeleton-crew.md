@@ -1,9 +1,9 @@
 ---
-title: 'Skeleton Crew'
+title: Skeleton Crew
 date: '2015-10-24'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 We were shocked to see a skeleton sitting behind the desk. We thought it was a

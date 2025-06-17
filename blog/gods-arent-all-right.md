@@ -1,8 +1,8 @@
 ---
-title: "Gods Aren't All Right"
+title: Gods Aren't All Right
 date: '2012-04-02'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Discarded by generation after generation, the rusty cars piled up sky high. The

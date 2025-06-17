@@ -1,8 +1,8 @@
 ---
-title: 'Make a Difference'
+title: Make a Difference
 date: '2013-06-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He came back home, dropped his keys on the side table, regretted the noise, and

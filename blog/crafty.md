@@ -1,8 +1,8 @@
 ---
-title: 'Crafty'
+title: Crafty
 date: '2015-04-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The number four streetcar rolled away just as I reached the stop, so I missed

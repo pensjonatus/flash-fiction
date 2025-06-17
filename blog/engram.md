@@ -1,8 +1,8 @@
 ---
-title: 'Engram'
+title: Engram
 date: '2022-11-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Daddy, I want to be a designer. I want to design things."

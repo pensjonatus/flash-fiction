@@ -1,8 +1,8 @@
 ---
-title: 'Dapper'
+title: Dapper
 date: '2017-04-28'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Jake got a new old-looking suit and a trilby hat. He stood in front of the

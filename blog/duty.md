@@ -1,8 +1,8 @@
 ---
-title: 'Duty'
+title: Duty
 date: '2013-08-02'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The whole family was sat around the fire, the mother, the daughters, the little

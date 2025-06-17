@@ -1,9 +1,9 @@
 ---
-title: 'Unexpected'
+title: Unexpected
 date: '2016-09-27'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 That one night in Venice changed my life.

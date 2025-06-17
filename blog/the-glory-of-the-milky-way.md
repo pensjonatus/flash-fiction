@@ -1,8 +1,8 @@
 ---
-title: 'The Glory of the Milky Way'
+title: The Glory of the Milky Way
 date: '2015-01-30'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was winter, so I was not very keen on going outside, but Jacob wanted to

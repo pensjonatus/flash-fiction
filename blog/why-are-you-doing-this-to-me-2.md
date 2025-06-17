@@ -1,9 +1,9 @@
 ---
-title: 'Why Are You Doing This To Me?'
+title: Why Are You Doing This To Me?
 date: '2012-10-05'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 She was waiting for the train, her toes neatly on the line. She got all the

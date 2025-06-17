@@ -1,8 +1,8 @@
 ---
-title: 'Sleeplessness FM'
+title: Sleeplessness FM
 date: '2012-05-15'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Good evening, folks," he said into the microphone, "This is Jake O'Reilly,

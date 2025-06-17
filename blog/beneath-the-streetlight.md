@@ -1,10 +1,10 @@
 ---
-title: 'Beneath the Streetlight'
+title: Beneath the Streetlight
 date: '2014-06-18'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - creepy
+  - flash-fiction
+  - love
 ---
 
 "I met him when the bars were closed," she said. "I wanted to get a drink but it

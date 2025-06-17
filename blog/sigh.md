@@ -1,8 +1,8 @@
 ---
-title: 'Sigh'
+title: Sigh
 date: '2013-12-29'
-categories:
-  - 'love'
+tags:
+  - love
 ---
 
 "Does everything in San Francisco happen on rooftops?" I asked.

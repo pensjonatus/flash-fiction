@@ -1,8 +1,8 @@
 ---
-title: 'Blackout'
+title: Blackout
 date: '2014-05-30'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Almost late for work, night shift today, I got out of the apartment and started

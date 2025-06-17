@@ -1,10 +1,9 @@
 ---
-title: 'Shirt'
+title: Shirt
 date: '2024-01-27'
-categories:
-  - 'poetry'
 tags:
-  - 'poem'
+  - poem
+  - poetry
 ---
 
 In a room above a pub I lay my things down.

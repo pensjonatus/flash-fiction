@@ -1,8 +1,8 @@
 ---
-title: 'The Rope'
+title: The Rope
 date: '2016-01-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I live in the cave with my parents and I am old enough for rope duty. It is a

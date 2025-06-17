@@ -1,8 +1,8 @@
 ---
-title: 'Give Me A Kiss'
+title: Give Me A Kiss
 date: '2014-05-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Give me a kiss, my dear friend.

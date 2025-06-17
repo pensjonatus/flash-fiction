@@ -1,9 +1,9 @@
 ---
-title: 'Night Shadow'
+title: Night Shadow
 date: '2012-07-30'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 We were at the park at night, sitting on a small wall, waiting for nothing,

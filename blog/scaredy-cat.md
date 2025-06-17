@@ -1,9 +1,9 @@
 ---
-title: 'Scaredy Cat'
+title: Scaredy Cat
 date: '2012-09-30'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Not entirely sure what she would say, Tom approached Kate to invite her to the

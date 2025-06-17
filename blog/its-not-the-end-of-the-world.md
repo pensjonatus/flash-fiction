@@ -1,9 +1,9 @@
 ---
-title: "It's not the end of the world"
+title: It's not the end of the world
 date: '2020-07-28'
-categories:
-  - 'flash-fiction'
-  - 'sci-fi'
+tags:
+  - flash-fiction
+  - sci-fi
 ---
 
 "And so I told her," said Reginald, "That we cannot move the recital. We are

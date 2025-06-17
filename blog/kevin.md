@@ -1,8 +1,8 @@
 ---
-title: 'Kevin'
+title: Kevin
 date: '2012-09-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Kevin was a weird kid and I could never relate to him. There was a bunch of us

@@ -1,8 +1,8 @@
 ---
-title: 'Wacko'
+title: Wacko
 date: '2013-11-18'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was working security at a big office building. It was late, reception was

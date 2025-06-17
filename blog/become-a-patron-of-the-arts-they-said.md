@@ -1,8 +1,8 @@
 ---
-title: 'Become a Patron of the Arts, They Said'
+title: Become a Patron of the Arts, They Said
 date: '2014-03-10'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was enjoying the art show I paid for. The venue was properly located, the wine

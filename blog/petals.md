@@ -1,9 +1,9 @@
 ---
-title: 'Petals'
+title: Petals
 date: '2013-10-14'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Mary was sitting on the wall. The sun was bright, the day was warm, she was

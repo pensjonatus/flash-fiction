@@ -1,9 +1,9 @@
 ---
-title: 'Too Busy'
+title: Too Busy
 date: '2015-08-10'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 She called Frank. "Hey, Frank, you got a minute."

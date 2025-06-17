@@ -1,9 +1,9 @@
 ---
-title: 'Irregular'
+title: Irregular
 date: '2014-07-26'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 He was a completely unimpressive man. Average looking, nothing special. Not

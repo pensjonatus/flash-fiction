@@ -1,8 +1,8 @@
 ---
-title: 'World of Ruin'
+title: World of Ruin
 date: '2012-02-24'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Stuck to the cold coffee, Jack was waiting for Jill to come back. He raised his

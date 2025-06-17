@@ -1,9 +1,9 @@
 ---
-title: 'She Was About To'
+title: She Was About To
 date: '2015-10-11'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 The Skype signal made her snap out of a reverie. "Jason is calling..." popped

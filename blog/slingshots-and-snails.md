@@ -1,8 +1,8 @@
 ---
-title: 'Slingshots and Snails'
+title: Slingshots and Snails
 date: '2012-05-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Jeannie was sitting on the couch, Jake was playing a video game.

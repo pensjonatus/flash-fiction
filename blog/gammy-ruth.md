@@ -1,8 +1,8 @@
 ---
-title: 'Gammy Ruth'
+title: Gammy Ruth
 date: '2013-07-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I remember visiting grandma Ruth, she always smelled like herbs. As I grew up I

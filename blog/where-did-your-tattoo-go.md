@@ -1,8 +1,8 @@
 ---
-title: 'Where Did Your Tattoo Go?'
+title: Where Did Your Tattoo Go?
 date: '2014-06-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The guys were drinking some beers, relaxing after work. There were five of them

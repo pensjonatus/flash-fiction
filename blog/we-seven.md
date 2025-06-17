@@ -1,8 +1,8 @@
 ---
-title: 'We Seven'
+title: We Seven
 date: '2014-04-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I just got into bed, getting ready for a good night's sleep. I was alone, my

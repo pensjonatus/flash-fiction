@@ -1,8 +1,8 @@
 ---
-title: "Raven's Bridge"
+title: Raven's Bridge
 date: '2016-03-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Hurry up," he said, "We're almost there."

@@ -1,9 +1,9 @@
 ---
-title: 'The Place Part 6'
+title: The Place Part 6
 date: '2017-07-16'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 I had never been to Morocco, but I kind of had a feel for it. Warm and gold,

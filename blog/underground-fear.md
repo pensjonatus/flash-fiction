@@ -1,8 +1,8 @@
 ---
-title: 'Underground Fear'
+title: Underground Fear
 date: '2012-03-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Clive was walking through an underground tunnel beneath Checker Street. The

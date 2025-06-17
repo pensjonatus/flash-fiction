@@ -1,8 +1,8 @@
 ---
-title: 'Things People Have Written on Their Shirts'
+title: Things People Have Written on Their Shirts
 date: '2015-08-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Kiss me, I'm Irish. Animal. Live free. FBI - Female Body Inspector. Doctor Who.

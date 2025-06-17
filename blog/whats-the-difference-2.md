@@ -1,8 +1,8 @@
 ---
-title: "What's the difference?"
+title: What's the difference?
 date: '2017-05-13'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Have you seen that Australian version of Alien? They say it’s exactly the same

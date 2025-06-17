@@ -1,8 +1,8 @@
 ---
-title: 'Blank Wall'
+title: Blank Wall
 date: '2013-01-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Two old men shared a hospital room. As it all took place in a world where people

@@ -1,9 +1,9 @@
 ---
-title: 'Workouts'
+title: Workouts
 date: '2014-09-11'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Ben was jogging. He was dressed well, although he was way past the "I need to

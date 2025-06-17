@@ -1,9 +1,9 @@
 ---
-title: "Mom's Nose"
+title: Mom's Nose
 date: '2015-01-24'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 The mother sat the child in front of her across the kitchen table. She spread a

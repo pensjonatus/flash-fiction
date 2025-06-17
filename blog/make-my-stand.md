@@ -1,8 +1,8 @@
 ---
-title: 'Make My Stand'
+title: Make My Stand
 date: '2012-03-15'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Listen up," Sarge was crouching with his back against the wall, the team were

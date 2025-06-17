@@ -1,9 +1,9 @@
 ---
-title: 'A Pack of Gum'
+title: A Pack of Gum
 date: '2012-09-16'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I was leaving the motel, locked the door, then wondered if I should have left it

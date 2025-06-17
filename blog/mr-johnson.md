@@ -1,8 +1,8 @@
 ---
-title: 'Mr. Johnson'
+title: Mr. Johnson
 date: '2013-11-24'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Hey, Mr. Johnson, you may be sitting at a bar, leering at women, looking for one

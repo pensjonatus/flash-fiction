@@ -1,8 +1,8 @@
 ---
-title: 'In a Loop'
+title: In a Loop
 date: '2013-06-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Why thank you kindly. You're a good man, I can tell. You never know where

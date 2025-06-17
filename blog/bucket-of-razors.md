@@ -1,8 +1,8 @@
 ---
-title: 'Bucket of Razors'
+title: Bucket of Razors
 date: '2015-02-07'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Somebody had left a bucket half-full of shaving razors back stage, the

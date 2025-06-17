@@ -1,8 +1,8 @@
 ---
-title: 'Political Poetry'
+title: Political Poetry
 date: '2015-02-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Of course her poetry is political," said the critic, "What else is there left

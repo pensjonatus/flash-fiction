@@ -1,8 +1,8 @@
 ---
-title: 'Sidewinder'
+title: Sidewinder
 date: '2012-07-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was in the eastern forty-sevens in New York, just like Truman Capote's

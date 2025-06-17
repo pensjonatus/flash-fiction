@@ -1,8 +1,8 @@
 ---
-title: 'Crawling Threat'
+title: Crawling Threat
 date: '2016-03-19'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 ## Monday

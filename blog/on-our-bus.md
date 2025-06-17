@@ -1,8 +1,8 @@
 ---
-title: 'On Our Bus'
+title: On Our Bus
 date: '2017-05-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I like our bus! The road is not too bumpy, the driver is a funny man (when he

@@ -1,8 +1,8 @@
 ---
-title: 'Sharing the Bible'
+title: Sharing the Bible
 date: '2012-08-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Ben rushed into the classroom last minute, just as sister Mary was closing the

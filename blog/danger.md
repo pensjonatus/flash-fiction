@@ -1,9 +1,9 @@
 ---
-title: 'Danger!'
+title: Danger!
 date: '2017-05-07'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 I entered the room. There was a woman sitting in the armchair, and a cup of

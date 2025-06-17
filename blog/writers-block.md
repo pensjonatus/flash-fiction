@@ -1,8 +1,8 @@
 ---
-title: "Writer's Block"
+title: Writer's Block
 date: '2015-01-19'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He was sitting in his study in front of a blank electronic page. It was his

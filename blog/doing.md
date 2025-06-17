@@ -1,8 +1,8 @@
 ---
-title: 'Doing'
+title: Doing
 date: '2012-04-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Bless your faces," said the reverend, entering the podium. It was a steamy

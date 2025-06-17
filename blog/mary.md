@@ -1,9 +1,9 @@
 ---
-title: 'Mary'
+title: Mary
 date: '2014-06-21'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 "Tell us more about Mary, Tim. Go ahead."

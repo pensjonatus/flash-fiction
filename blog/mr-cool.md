@@ -1,8 +1,8 @@
 ---
-title: 'Mr. Cool'
+title: Mr. Cool
 date: '2013-08-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I sit down with a pack of cigarettes. I think about taking one, and then I put

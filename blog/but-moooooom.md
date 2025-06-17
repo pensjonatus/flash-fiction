@@ -1,8 +1,8 @@
 ---
-title: 'But Moooooom...'
+title: But Moooooom...
 date: '2015-04-18'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "But moooom, why do I have to go?" she said to the phone, "I don't like these

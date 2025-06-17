@@ -1,8 +1,8 @@
 ---
-title: 'The Greatest Thing About It'
+title: The Greatest Thing About It
 date: '2012-06-23'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "So what's so great about being straight anyway?" Jervais was teasing Scotty all

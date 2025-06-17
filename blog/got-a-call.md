@@ -1,9 +1,9 @@
 ---
-title: 'Got a Call'
+title: Got a Call
 date: '2015-03-31'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 The phone rang. She hesitated to answer because she knew it was him. She knew he

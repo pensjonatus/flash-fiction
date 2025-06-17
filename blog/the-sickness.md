@@ -1,8 +1,8 @@
 ---
-title: 'The Sickness'
+title: The Sickness
 date: '2012-02-10'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 On day one, Jeff came in a little late. His eyes were all red, his nose was

@@ -1,8 +1,8 @@
 ---
-title: 'Spider Mutant'
+title: Spider Mutant
 date: '2019-02-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 As you know, the recent nuclear war did a number on our neighborhood. It is

@@ -1,8 +1,8 @@
 ---
-title: 'They Could Not Stop'
+title: They Could Not Stop
 date: '2014-08-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 My boss told me that when he was on a business trip, his wife would call about

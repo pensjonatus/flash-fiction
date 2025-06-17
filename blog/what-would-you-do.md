@@ -1,9 +1,9 @@
 ---
-title: 'What Would You Do?'
+title: What Would You Do?
 date: '2015-08-30'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 "Do you know why you are here, Mr. Holiday?" the inspector, or whoever he was,

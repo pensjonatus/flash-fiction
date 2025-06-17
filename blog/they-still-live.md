@@ -1,8 +1,8 @@
 ---
-title: 'They Still Live'
+title: They Still Live
 date: '2013-08-11'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was late at night, but she was still up, going through some old papers. Her

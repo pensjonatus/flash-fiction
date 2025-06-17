@@ -1,8 +1,8 @@
 ---
-title: 'Bring Me a Plate of Grapes'
+title: Bring Me a Plate of Grapes
 date: '2012-04-30'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The hotel suite had one of those large sitting spaces with two couches and a few

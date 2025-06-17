@@ -1,8 +1,8 @@
 ---
-title: 'My Friend Was Wounded'
+title: My Friend Was Wounded
 date: '2016-08-23'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 My friend was badly wounded. My friend is my phone, actually, and the display

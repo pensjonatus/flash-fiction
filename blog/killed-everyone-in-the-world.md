@@ -1,9 +1,9 @@
 ---
-title: 'Killed Everyone in the World'
+title: Killed Everyone in the World
 date: '2017-04-30'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 Jackson worked tirelessly, until he killed everyone in the world.

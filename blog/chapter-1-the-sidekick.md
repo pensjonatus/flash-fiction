@@ -1,11 +1,10 @@
 ---
 title: 'Chapter 1: The Sidekick?'
 date: '2015-07-05'
-categories:
-  - 'growing-up-in-greyland'
 tags:
-  - 'bizarro'
-  - 'novel'
+  - growing-up-in-greyland
+  - bizarro
+  - novel
 ---
 
 A girl sometimes seems interesting when she is, in fact, boring. We see things

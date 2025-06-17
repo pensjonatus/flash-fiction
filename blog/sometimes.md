@@ -1,9 +1,9 @@
 ---
-title: 'Sometimes'
+title: Sometimes
 date: '2013-01-29'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 It was the last scene of the third act. The lights came on with that theatrical

@@ -1,9 +1,9 @@
 ---
-title: 'Late Night Pictures'
+title: Late Night Pictures
 date: '2012-08-17'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 When I was 17, I drove Dora to the movies and we saw two sci fi flicks back to

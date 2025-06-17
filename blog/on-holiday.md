@@ -1,9 +1,9 @@
 ---
-title: 'On Holiday'
+title: On Holiday
 date: '2015-05-26'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 We were sitting in a gazebo in a seaside resort on a tropical island. It was

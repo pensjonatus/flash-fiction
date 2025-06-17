@@ -1,9 +1,9 @@
 ---
-title: 'Best Teacher Ever'
+title: Best Teacher Ever
 date: '2015-03-26'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 Mr. White was one of the greatest teachers we knew, but his love for apples made

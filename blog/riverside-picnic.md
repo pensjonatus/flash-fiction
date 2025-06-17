@@ -1,8 +1,8 @@
 ---
-title: 'Riverside Picnic'
+title: Riverside Picnic
 date: '2014-06-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Do you remember that picnic we had on the bank of the Yenisei? It was windy but

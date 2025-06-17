@@ -1,8 +1,8 @@
 ---
-title: 'Experience of Time'
+title: Experience of Time
 date: '2014-06-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Hello, listeners, lost souls, wanderers, laborers and bored people, you are

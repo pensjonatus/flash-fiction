@@ -1,8 +1,8 @@
 ---
-title: 'Getting Back Home'
+title: Getting Back Home
 date: '2015-09-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 So tired. I was walking back home in the rain after a double shift. I did not

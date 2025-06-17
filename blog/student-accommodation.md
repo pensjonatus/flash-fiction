@@ -1,9 +1,9 @@
 ---
-title: 'Student Accommodation'
+title: Student Accommodation
 date: '2017-05-27'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 I got a bed at a slaughterhouse for twenty a week. It is a pretty good deal,

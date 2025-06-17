@@ -1,8 +1,8 @@
 ---
-title: 'None of This Junk!'
+title: None of This Junk!
 date: '2014-07-18'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The distant future, the year 20XX, night time in a large city. Jeremy was

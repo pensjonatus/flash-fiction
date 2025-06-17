@@ -1,8 +1,8 @@
 ---
-title: 'Hotel Royal'
+title: Hotel Royal
 date: '2012-02-07'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "When was the last time you went to a party where people did not talk about

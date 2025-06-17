@@ -1,8 +1,8 @@
 ---
-title: 'Underground butterflies'
+title: Underground butterflies
 date: '2023-04-03'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The greatest discovery he ever made! In a lifetime a man can only have one of

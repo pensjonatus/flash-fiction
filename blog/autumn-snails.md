@@ -1,9 +1,9 @@
 ---
-title: 'Autumn Snails'
+title: Autumn Snails
 date: '2013-02-14'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Rebellion makes a boy cool. Revolution makes him a god. I was never part of any

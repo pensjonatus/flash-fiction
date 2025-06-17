@@ -1,8 +1,8 @@
 ---
-title: 'One of those Suicides'
+title: One of those Suicides
 date: '2013-09-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 One time when I heard the song, I decided to kill myself. My reason was the

@@ -1,9 +1,9 @@
 ---
-title: 'Welcome to Hell'
+title: Welcome to Hell
 date: '2013-07-09'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 You are the kind of guy who always kicks his tires before he leaves. So to

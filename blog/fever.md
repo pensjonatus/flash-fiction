@@ -1,8 +1,8 @@
 ---
-title: 'Fever'
+title: Fever
 date: '2013-08-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I remember it vividly, as if it was real. Perhaps it was real, I cannot say for

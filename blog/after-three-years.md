@@ -1,9 +1,9 @@
 ---
-title: 'After Three Years'
+title: After Three Years
 date: '2014-04-19'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I just found out my girlfriend has the annoying habit of eating raw parrot meat.

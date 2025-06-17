@@ -1,8 +1,8 @@
 ---
-title: 'Under My Boots'
+title: Under My Boots
 date: '2012-04-30'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I kicked the guy's teeth in. He hit the floor. He must have passed out before he

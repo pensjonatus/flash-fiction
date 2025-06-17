@@ -1,8 +1,8 @@
 ---
-title: 'Sunset Boulevard'
+title: Sunset Boulevard
 date: '2012-06-26'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 They were walking down the street.

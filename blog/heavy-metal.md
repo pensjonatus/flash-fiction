@@ -1,8 +1,8 @@
 ---
-title: 'Heavy Metal'
+title: Heavy Metal
 date: '2012-04-02'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The music was dying down, the frontman was saying a final Thank you from the

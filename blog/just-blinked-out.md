@@ -1,8 +1,8 @@
 ---
-title: 'Just Blinked Out'
+title: Just Blinked Out
 date: '2015-03-07'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I do not remember what I was doing on the day some of the stars disappeared from

@@ -1,9 +1,9 @@
 ---
-title: 'Nobody Is Perfect'
+title: Nobody Is Perfect
 date: '2013-11-02'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 The first girl I loved was really mean to me in that she never really noticed

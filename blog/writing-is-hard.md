@@ -1,9 +1,9 @@
 ---
-title: 'Writing is Hard'
+title: Writing is Hard
 date: '2018-04-01'
-categories:
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - flash-fiction
+  - pm-writing
 ---
 
 David was having trouble getting on with his lessons because the sun was shining

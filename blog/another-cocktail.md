@@ -1,9 +1,9 @@
 ---
-title: 'Another Cocktail'
+title: Another Cocktail
 date: '2017-05-02'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 "Another one, please," and the waitress shuffled away to get me another

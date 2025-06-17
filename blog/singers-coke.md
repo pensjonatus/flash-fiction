@@ -1,8 +1,8 @@
 ---
-title: "Singer's Coke"
+title: Singer's Coke
 date: '2014-09-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was cleaning up the place, picking up all the beer bottles from all the

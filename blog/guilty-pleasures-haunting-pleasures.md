@@ -1,9 +1,9 @@
 ---
-title: 'Guilty Pleasures, Haunting Pleasures'
+title: Guilty Pleasures, Haunting Pleasures
 date: '2012-10-10'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 We are at a shopping mall, she needs to get some new clothes for a trip she will

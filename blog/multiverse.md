@@ -1,9 +1,9 @@
 ---
-title: 'Multiverse'
+title: Multiverse
 date: '2013-06-05'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 "Now think of the implications," he said.

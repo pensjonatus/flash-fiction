@@ -1,9 +1,9 @@
 ---
-title: 'Allergic to you'
+title: Allergic to you
 date: '2018-04-23'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 My skin itches, my nose is runny, and I cough. When you are near me. I cannot

@@ -1,8 +1,8 @@
 ---
-title: 'My Uncle'
+title: My Uncle
 date: '2012-09-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 My name is Darren and I am 14 years old. I want to tell you about my uncle Jim.

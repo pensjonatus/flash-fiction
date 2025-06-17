@@ -1,8 +1,8 @@
 ---
-title: 'Carnal Knowledge'
+title: Carnal Knowledge
 date: '2012-02-28'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Emily was still recovering from the orgasm, it only just reached her that Zack's

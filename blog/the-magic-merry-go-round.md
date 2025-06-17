@@ -1,8 +1,8 @@
 ---
-title: 'The Magic Merry-Go-Round'
+title: The Magic Merry-Go-Round
 date: '2015-02-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 There was a magic merry-go-round down by the pier when I was little. The man who

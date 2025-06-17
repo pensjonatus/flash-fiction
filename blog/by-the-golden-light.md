@@ -1,8 +1,8 @@
 ---
-title: 'By the Golden Light'
+title: By the Golden Light
 date: '2015-09-30'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was a late evening and Kate was lying in bed with a book. It was the cabin

@@ -1,8 +1,8 @@
 ---
-title: "Father's Heart"
+title: Father's Heart
 date: '2012-03-31'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was with Jake and Amanda when she was giving birth. It was an abandoned

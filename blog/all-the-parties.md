@@ -1,8 +1,8 @@
 ---
-title: 'All the Parties'
+title: All the Parties
 date: '2012-04-23'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Zack tossed a beer bottle in the air spilling the frothy goodness all around.

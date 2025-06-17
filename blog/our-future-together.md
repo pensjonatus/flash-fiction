@@ -1,8 +1,8 @@
 ---
-title: 'Our Future Together'
+title: Our Future Together
 date: '2014-03-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 They were sitting at a cafe, waiting for their orders of coffee and apple pie.

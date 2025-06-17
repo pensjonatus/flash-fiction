@@ -1,8 +1,8 @@
 ---
-title: 'Kitchen Man in a Kitchen Land'
+title: Kitchen Man in a Kitchen Land
 date: '2012-03-14'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 They Hispanic guys were shouting something in Spanish, and the Polish guys were

@@ -1,8 +1,8 @@
 ---
-title: 'The Ritual'
+title: The Ritual
 date: '2012-05-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Sarah read a short short story online. It was weird, it made little sense and

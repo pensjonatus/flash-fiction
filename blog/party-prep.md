@@ -1,8 +1,8 @@
 ---
-title: 'Party Prep'
+title: Party Prep
 date: '2015-01-30'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Jill was chopping up the vegetables, and Jack was frying up the meat. They were

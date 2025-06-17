@@ -1,8 +1,8 @@
 ---
-title: 'A Place Where Time Stopped'
+title: A Place Where Time Stopped
 date: '2018-08-15'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 During my time as an explorer, I visited a place where time stopped. It was a

@@ -1,8 +1,8 @@
 ---
-title: 'A Necessary Death'
+title: A Necessary Death
 date: '2012-07-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The Roman soldier jumped off the pier onto the beach. The screams of the siege

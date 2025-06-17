@@ -1,9 +1,9 @@
 ---
-title: 'The End of the World'
+title: The End of the World
 date: '2016-10-31'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 It is the end of the world, but there is no fire in the sky or people screaming.

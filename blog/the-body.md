@@ -1,8 +1,8 @@
 ---
-title: 'The Body'
+title: The Body
 date: '2014-06-19'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Your eyes are beautiful, your smile is brilliant, and I love the way you play

@@ -1,9 +1,9 @@
 ---
-title: 'Universal Love'
+title: Universal Love
 date: '2013-09-24'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Party, the music was loud, everybody was drunk dancing falling over the couch

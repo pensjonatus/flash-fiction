@@ -1,8 +1,8 @@
 ---
-title: 'The Perfect Girl'
+title: The Perfect Girl
 date: '2013-09-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was on the subway, sitting by the door when she boarded. She was blind, using

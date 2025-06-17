@@ -1,8 +1,8 @@
 ---
-title: 'Google It!'
+title: Google It!
 date: '2015-06-21'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Chaz and Melissa were having brunch by the marina. The food was: shrimp

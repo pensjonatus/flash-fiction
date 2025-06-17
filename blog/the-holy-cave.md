@@ -1,8 +1,8 @@
 ---
-title: 'The Holy Cave'
+title: The Holy Cave
 date: '2014-04-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Brian was finally allowed to enter the Holy Cave. After the bumpy flight with

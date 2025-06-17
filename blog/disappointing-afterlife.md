@@ -1,8 +1,8 @@
 ---
-title: 'Disappointing afterlife'
+title: Disappointing afterlife
 date: '2023-07-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The life after life is a big apartment building which I think you might have

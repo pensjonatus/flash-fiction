@@ -1,9 +1,9 @@
 ---
-title: "Adrian's Night Out"
+title: Adrian's Night Out
 date: '2014-06-16'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Adrian noticed that after a few drinks, the place got a lot more classy. The dim

@@ -1,9 +1,9 @@
 ---
-title: 'Same Shit, Different Day'
+title: Same Shit, Different Day
 date: '2012-09-22'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Marcus Polonius entered the taverna. The interior was dimly lit, smelled of of

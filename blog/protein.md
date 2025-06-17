@@ -1,8 +1,8 @@
 ---
-title: 'Protein'
+title: Protein
 date: '2012-08-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 An ounce of nuts, how much protein is that? Brad was wondering as he was

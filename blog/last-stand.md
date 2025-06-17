@@ -1,8 +1,8 @@
 ---
-title: 'Last Stand'
+title: Last Stand
 date: '2018-07-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The good guy fled and the bad guys followed. Well, he was good relative to the

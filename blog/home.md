@@ -1,9 +1,9 @@
 ---
-title: 'Home'
+title: Home
 date: '2016-05-17'
-categories:
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - flash-fiction
+  - pm-writing
 ---
 
 "Mom, I'm home," I said, like I used to when I got back from school. The house

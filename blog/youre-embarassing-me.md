@@ -1,8 +1,8 @@
 ---
-title: "You're Embarassing Me"
+title: You're Embarassing Me
 date: '2014-04-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was playing Xbox with my friends one evening. It was already dark outside and

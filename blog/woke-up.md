@@ -1,9 +1,9 @@
 ---
-title: 'Woke Up'
+title: Woke Up
 date: '2012-10-31'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I woke up in the middle of the night and, for a second, I did not know which of

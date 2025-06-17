@@ -1,8 +1,8 @@
 ---
-title: 'Midnight Games'
+title: Midnight Games
 date: '2014-11-20'
-categories:
-  - 'creepy'
+tags:
+  - creepy
 ---
 
 It was late. I think it was about midnight when I finished work. I closed my

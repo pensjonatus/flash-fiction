@@ -1,8 +1,8 @@
 ---
-title: 'Papers'
+title: Papers
 date: '2012-05-23'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Benjamin and Tara were sitting on a park bench. The leaves were falling off the

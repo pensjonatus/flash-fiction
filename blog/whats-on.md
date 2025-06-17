@@ -1,8 +1,8 @@
 ---
-title: "What's On?"
+title: What's On?
 date: '2013-04-11'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Okay, so TV was no good. Reruns of _Friends_, _Dancing with the Stars_, some

@@ -1,8 +1,8 @@
 ---
-title: "Junkie's Life"
+title: Junkie's Life
 date: '2016-03-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "And here we are again, in my office, talking about the same thing," the

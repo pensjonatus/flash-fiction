@@ -1,9 +1,9 @@
 ---
-title: 'The Place Part 1'
+title: The Place Part 1
 date: '2017-07-11'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 We discovered a strange place. When people say "alternate dimension"... I never

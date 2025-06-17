@@ -1,8 +1,8 @@
 ---
-title: 'Drugmind'
+title: Drugmind
 date: '2012-07-03'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was on the phone, so I was able to take control of the project. Lucky! I think

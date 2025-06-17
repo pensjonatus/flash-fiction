@@ -1,9 +1,9 @@
 ---
-title: 'Underappreciated'
+title: Underappreciated
 date: '2012-09-25'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Phil was more confident than his usual self, joking all the time and maybe even

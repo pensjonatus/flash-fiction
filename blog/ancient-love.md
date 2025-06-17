@@ -1,9 +1,9 @@
 ---
-title: 'Ancient Love'
+title: Ancient Love
 date: '2014-09-27'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 He looked her in the eye with love and smiled brilliantly. He touched her

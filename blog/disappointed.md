@@ -1,9 +1,9 @@
 ---
-title: 'Disappointed'
+title: Disappointed
 date: '2013-04-06'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 John got up in the middle of the night and stepped out into the unfamiliar

@@ -1,9 +1,9 @@
 ---
-title: 'Two Poets'
+title: Two Poets
 date: '2012-11-24'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 It was poetry reading night at Dragon Circus Cafe, so Natalie took her new

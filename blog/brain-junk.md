@@ -1,8 +1,8 @@
 ---
-title: 'Brain Junk'
+title: Brain Junk
 date: '2012-12-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was a San Francisco party, so it was on a roof. Below, the street was going

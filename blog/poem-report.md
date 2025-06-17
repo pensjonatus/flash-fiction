@@ -1,8 +1,8 @@
 ---
-title: 'Poem Report'
+title: Poem Report
 date: '2013-04-13'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Zoe was washing the dishes. There were a lot, from her friends coming over for

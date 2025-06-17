@@ -1,8 +1,8 @@
 ---
-title: 'Shades of Grey'
+title: Shades of Grey
 date: '2012-02-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Hey, you see those two? That's Saturn and Jupiter," she said, pointing at the

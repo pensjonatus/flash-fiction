@@ -1,8 +1,8 @@
 ---
-title: 'Two Life Stories'
+title: Two Life Stories
 date: '2015-08-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 At the county fair, there was a "hydration station" set up. Specifically, it was

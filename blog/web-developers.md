@@ -1,9 +1,9 @@
 ---
-title: 'Web developers'
+title: Web developers
 date: '2020-07-27'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 Clakkata-clakkata-clakkata. That's the sound of keyboards. Everyone's typing.

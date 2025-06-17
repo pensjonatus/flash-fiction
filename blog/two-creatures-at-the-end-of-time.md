@@ -1,10 +1,10 @@
 ---
-title: 'Two Creatures at the End of Time'
+title: Two Creatures at the End of Time
 date: '2017-05-17'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - creepy
+  - flash-fiction
+  - pm-writing
 ---
 
 "Hello? There is someone here, isn't there?" the lonely creature quickened with

@@ -1,9 +1,9 @@
 ---
-title: 'Hard to Say'
+title: Hard to Say
 date: '2012-07-04'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 They came to the corner of the street.

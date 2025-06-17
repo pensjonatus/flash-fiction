@@ -1,8 +1,8 @@
 ---
-title: 'Fiction'
+title: Fiction
 date: '2012-04-19'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The writer was having breakfast at a waffle house when a young man approached.

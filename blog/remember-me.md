@@ -1,9 +1,9 @@
 ---
-title: 'Remember Me'
+title: Remember Me
 date: '2013-01-19'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 She came to my book signing. I did not look up when it was her turn, I just said

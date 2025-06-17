@@ -1,8 +1,8 @@
 ---
-title: 'The Whimsical'
+title: The Whimsical
 date: '2013-07-22'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was doing my homework when my dad leaned inside.

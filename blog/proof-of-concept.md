@@ -1,8 +1,8 @@
 ---
-title: 'Proof of Concept'
+title: Proof of Concept
 date: '2013-07-10'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The two men boarded the spacecraft. It left the planet's surface noiselessly and

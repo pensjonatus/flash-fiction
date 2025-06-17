@@ -1,8 +1,8 @@
 ---
-title: 'By All Means'
+title: By All Means
 date: '2012-06-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "What is up with that girl," said Vlad. He and Jamal were sitting on the curb in

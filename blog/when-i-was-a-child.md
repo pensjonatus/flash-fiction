@@ -1,8 +1,8 @@
 ---
-title: 'When I Was a Child...'
+title: When I Was a Child...
 date: '2014-03-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The three of them were sitting together one evening, drinking wine and talking.

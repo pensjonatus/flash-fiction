@@ -1,8 +1,8 @@
 ---
-title: 'No More Fun In Fundamentalism'
+title: No More Fun In Fundamentalism
 date: '2015-07-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 When I was growing up, there was a playwright in town. He was quite popular, and

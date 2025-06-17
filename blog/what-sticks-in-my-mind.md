@@ -1,8 +1,8 @@
 ---
-title: 'What Sticks In My Mind'
+title: What Sticks In My Mind
 date: '2015-07-17'
-categories:
-  - 'love'
+tags:
+  - love
 ---
 
 I remember things she said throughout my life. When we first met, it was at

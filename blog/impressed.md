@@ -1,8 +1,8 @@
 ---
-title: 'Impressed'
+title: Impressed
 date: '2014-06-22'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I stand in front of a mirror after a workout and I am impressed by God's work.

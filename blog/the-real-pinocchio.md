@@ -1,9 +1,9 @@
 ---
-title: 'The Real Pinocchio'
+title: The Real Pinocchio
 date: '2016-07-30'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 A long, long time ago there was a carpenter living in a village outside of Milan

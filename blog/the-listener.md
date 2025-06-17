@@ -1,8 +1,8 @@
 ---
-title: 'The Listener'
+title: The Listener
 date: '2012-06-22'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The music coming from the radio was soft, it was putting Tony to sleep. He was

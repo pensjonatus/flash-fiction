@@ -1,8 +1,8 @@
 ---
-title: "Don't Leave"
+title: Don't Leave
 date: '2012-05-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He was not sleeping, he was not sobbing anymore either. The apartment was full

@@ -1,9 +1,9 @@
 ---
-title: "Intruder's Beak"
+title: Intruder's Beak
 date: '2015-01-25'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 Those beaked creatures were intruders on Earth at first, but then we learned to

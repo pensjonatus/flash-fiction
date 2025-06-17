@@ -1,8 +1,8 @@
 ---
-title: 'Car Crash'
+title: Car Crash
 date: '2014-02-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Jacob saw somebody get hit by a car every day since he was ten. The first one

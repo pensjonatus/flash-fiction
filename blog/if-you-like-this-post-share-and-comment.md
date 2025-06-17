@@ -1,8 +1,8 @@
 ---
-title: 'If You Like This Post, Share and Comment'
+title: If You Like This Post, Share and Comment
 date: '2014-08-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Eating poisonous fish was the last thing he ever did. It was the end of a very

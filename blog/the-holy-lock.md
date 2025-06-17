@@ -1,8 +1,8 @@
 ---
-title: 'The Holy Lock'
+title: The Holy Lock
 date: '2017-07-30'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The knight's body fell to the stone floor with a rattle of armor. Useless. The

@@ -1,8 +1,8 @@
 ---
-title: 'Those Last Moments Are Sometimes Sad'
+title: Those Last Moments Are Sometimes Sad
 date: '2013-04-17'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Olivia was dying. She was in a haze, stretched mercilessly between pain and pain

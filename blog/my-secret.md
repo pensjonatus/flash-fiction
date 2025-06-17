@@ -1,8 +1,8 @@
 ---
-title: 'My Secret'
+title: My Secret
 date: '2017-06-19'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I have a little secret, and I will tell you.

@@ -1,9 +1,9 @@
 ---
-title: 'After Work'
+title: After Work
 date: '2013-10-10'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 She was preparing supper. Whatever she made was always bad because she was a bad

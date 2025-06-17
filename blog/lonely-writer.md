@@ -1,8 +1,8 @@
 ---
-title: 'Lonely Writer'
+title: Lonely Writer
 date: '2015-03-10'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Howard finished another story. He put the period at the end of the sentence of

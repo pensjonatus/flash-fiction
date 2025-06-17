@@ -1,9 +1,9 @@
 ---
-title: 'The Place Part 3'
+title: The Place Part 3
 date: '2017-07-13'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 My job is pretty dull, but I get to read a lot. Used to be on paper, and now

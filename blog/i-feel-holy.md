@@ -1,8 +1,8 @@
 ---
-title: 'I Feel Holy'
+title: I Feel Holy
 date: '2014-07-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Theo was sitting on the porch, looking at the rain. It was hot and the rain was

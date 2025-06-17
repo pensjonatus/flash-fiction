@@ -1,9 +1,9 @@
 ---
-title: 'The Prerequisite for Action Is Inaction'
+title: The Prerequisite for Action Is Inaction
 date: '2012-12-19'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I was part of a hardcore online gaming commune once. We lived in an old house in

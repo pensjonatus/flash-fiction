@@ -1,8 +1,8 @@
 ---
-title: 'The Commute'
+title: The Commute
 date: '2014-11-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Two men were riding the train into the night.

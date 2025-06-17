@@ -1,8 +1,8 @@
 ---
-title: 'Mr. Sandoval'
+title: Mr. Sandoval
 date: '2023-04-03'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Oh, Mr. Sandoval, you are always so busy, running from meeting to meeting. Your

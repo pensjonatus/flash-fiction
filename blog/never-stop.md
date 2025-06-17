@@ -1,8 +1,8 @@
 ---
-title: 'Never Stop'
+title: Never Stop
 date: '2012-07-13'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The sun was high in the sky and the farm was quiet. It was the perfect time for

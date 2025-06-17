@@ -1,8 +1,8 @@
 ---
-title: 'Oracle stones'
+title: Oracle stones
 date: '2023-03-13'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "I stand before thee, my lords," said the Elder, "To ask your advice. My people

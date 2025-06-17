@@ -1,9 +1,9 @@
 ---
-title: 'Got a Text'
+title: Got a Text
 date: '2016-08-01'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I got a text this morning which said: "Please, please tell me there is a chance

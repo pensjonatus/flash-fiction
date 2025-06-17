@@ -1,8 +1,8 @@
 ---
-title: "Mosby's Guitar"
+title: Mosby's Guitar
 date: '2014-10-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Mosby was relaxing in the sun when the Rag Tag Gang stole his guitar. The

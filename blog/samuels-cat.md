@@ -1,9 +1,9 @@
 ---
-title: "Samuel's Cat"
+title: Samuel's Cat
 date: '2018-03-31'
-categories:
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - flash-fiction
+  - pm-writing
 ---
 
 After Samuel died, we met in my apartment to figure out who would take care of

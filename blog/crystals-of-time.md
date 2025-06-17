@@ -1,8 +1,8 @@
 ---
-title: 'Crystals of Time'
+title: Crystals of Time
 date: '2024-11-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 We had this thing at work, called Crystals of Time, which I always thought

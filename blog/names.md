@@ -1,8 +1,8 @@
 ---
-title: 'Names'
+title: Names
 date: '2012-06-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Hey, welcome. What's your name?" said the male interviewer.

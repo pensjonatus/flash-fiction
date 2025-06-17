@@ -1,9 +1,9 @@
 ---
-title: 'Shake Your Paranoia'
+title: Shake Your Paranoia
 date: '2012-10-11'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I was feeling like such an asshole. The sight of her crying was etched into my

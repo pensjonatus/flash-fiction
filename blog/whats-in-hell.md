@@ -1,10 +1,10 @@
 ---
-title: "What's in Hell"
+title: What's in Hell
 date: '2017-06-16'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - creepy
+  - flash-fiction
+  - pm-writing
 ---
 
 They put me on the table to do the lethal injection. They strapped my arms and

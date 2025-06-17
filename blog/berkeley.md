@@ -1,8 +1,8 @@
 ---
-title: 'Berkeley'
+title: Berkeley
 date: '2012-04-14'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Hey, so this campus is really nice," I said.

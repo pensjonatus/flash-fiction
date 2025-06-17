@@ -1,8 +1,8 @@
 ---
-title: 'Working Before the Holidays'
+title: Working Before the Holidays
 date: '2015-12-22'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The office was not as busy before the holidays, because we did not want to start

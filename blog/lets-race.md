@@ -1,8 +1,8 @@
 ---
-title: "Let's Race!"
+title: Let's Race!
 date: '2015-04-23'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was a sunny day and there were lots of people by the river,

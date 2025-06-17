@@ -1,8 +1,8 @@
 ---
-title: 'Elephant Parade'
+title: Elephant Parade
 date: '2013-11-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 We were sitting at a diner, eating burgers. I had decided that would be the best

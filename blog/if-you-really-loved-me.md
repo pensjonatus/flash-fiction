@@ -1,8 +1,8 @@
 ---
-title: 'If You Really Loved Me'
+title: If You Really Loved Me
 date: '2012-06-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The car pulled up, but he did not get out. She opened her own door. When they

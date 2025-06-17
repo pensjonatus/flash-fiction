@@ -1,8 +1,8 @@
 ---
-title: 'Last Man on Earth'
+title: Last Man on Earth
 date: '2015-11-02'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Last man on Earth, alone in a room. What would he do?

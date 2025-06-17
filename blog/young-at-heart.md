@@ -1,8 +1,8 @@
 ---
-title: 'Young at Heart'
+title: Young at Heart
 date: '2014-08-02'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was sitting at the kitchen table with my laptop powered down, a cup of coffee

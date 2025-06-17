@@ -1,8 +1,8 @@
 ---
-title: 'Unemployed'
+title: Unemployed
 date: '2015-03-24'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 When I was little, we would play all day and live off the land all day. Tommy,

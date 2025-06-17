@@ -1,9 +1,9 @@
 ---
-title: 'Behind the House'
+title: Behind the House
 date: '2016-10-28'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 The front of the house was for normal things, like cars pulling up, and saying

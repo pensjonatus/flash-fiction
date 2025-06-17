@@ -1,8 +1,8 @@
 ---
-title: 'Turtleneck'
+title: Turtleneck
 date: '2012-05-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Paul got himself a new turtleneck. It was white, so he got a white jacket to go

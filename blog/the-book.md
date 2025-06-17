@@ -1,9 +1,9 @@
 ---
-title: 'The Book'
+title: The Book
 date: '2015-05-16'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 I am a writer, maybe that is why my dreams are so stable and complete, like

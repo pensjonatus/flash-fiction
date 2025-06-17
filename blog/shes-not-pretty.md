@@ -1,8 +1,8 @@
 ---
-title: "She's Not Pretty"
+title: She's Not Pretty
 date: '2015-01-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Gil and Deb were sitting at the bar, having some beers after work.

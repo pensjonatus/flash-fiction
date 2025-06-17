@@ -1,9 +1,9 @@
 ---
-title: '4 a.m.'
+title: 4 a.m.
 date: '2012-11-18'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 It was the devil's hour. Two cool kids were coming back from a party, still

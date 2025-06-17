@@ -1,9 +1,9 @@
 ---
-title: 'Drifting Away'
+title: Drifting Away
 date: '2016-08-30'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 She was sitting at the kitchen counter drinking her afternoon coffee. He came

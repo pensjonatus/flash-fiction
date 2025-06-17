@@ -1,9 +1,9 @@
 ---
-title: 'The Place Part 7'
+title: The Place Part 7
 date: '2017-07-17'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 I read this theory about density shifting, and it puts things right with all the

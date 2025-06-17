@@ -1,8 +1,8 @@
 ---
-title: 'Neighbors'
+title: Neighbors
 date: '2016-07-26'
-categories:
-  - 'short-stories'
+tags:
+  - short-stories
 ---
 
 # 1.

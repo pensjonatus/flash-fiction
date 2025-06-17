@@ -1,9 +1,9 @@
 ---
-title: 'Cleaning Up'
+title: Cleaning Up
 date: '2013-09-19'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 The hotel I worked at was huge but there were not many guests, I only had a few

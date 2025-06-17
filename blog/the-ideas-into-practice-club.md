@@ -1,8 +1,8 @@
 ---
-title: 'The Ideas Into Practice Club'
+title: The Ideas Into Practice Club
 date: '2012-09-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Classes were over, the teachers had gone to their own wing, leaving the boys to

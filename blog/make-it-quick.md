@@ -1,8 +1,8 @@
 ---
-title: 'Make It Quick'
+title: Make It Quick
 date: '2012-03-11'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Mr. Jefferson was a history teacher at Thomas Jefferson High. He was not

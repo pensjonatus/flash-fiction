@@ -1,8 +1,8 @@
 ---
-title: 'Slingshot'
+title: Slingshot
 date: '2012-03-11'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Mark had a great slingshot. It was painted red with the leftovers from that time

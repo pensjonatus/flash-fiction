@@ -1,8 +1,8 @@
 ---
-title: 'Bye, Grandpa'
+title: Bye, Grandpa
 date: '2012-11-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 That morning grandpa took his pill and felt better right away. He walked

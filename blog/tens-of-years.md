@@ -1,10 +1,10 @@
 ---
-title: 'Tens of Years'
+title: Tens of Years
 date: '2015-09-20'
-categories:
-  - 'flash-fiction'
-  - 'love'
-  - 'pm-writing'
+tags:
+  - flash-fiction
+  - love
+  - pm-writing
 ---
 
 She was making dinner and she did not have a job for him. That was fine, he sat

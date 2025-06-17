@@ -1,9 +1,9 @@
 ---
-title: 'Relieve Some Tension'
+title: Relieve Some Tension
 date: '2018-02-18'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I was in Amsterdam again. After the a day of client meetings, I took the tram to

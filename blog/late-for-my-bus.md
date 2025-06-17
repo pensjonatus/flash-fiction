@@ -1,9 +1,9 @@
 ---
-title: 'Late for my Bus'
+title: Late for my Bus
 date: '2015-06-23'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I was standing outside the Anthropology Building, hoping to see her, and there

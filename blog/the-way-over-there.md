@@ -1,8 +1,8 @@
 ---
-title: 'The Way Over There'
+title: The Way Over There
 date: '2012-05-21'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Well, here we go," said Marshal as the plane was taking off.

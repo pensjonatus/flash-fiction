@@ -1,9 +1,9 @@
 ---
-title: "Cherry's House"
+title: Cherry's House
 date: '2013-08-03'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I opened the screen door, the front door was ajar. Music was playing inside the

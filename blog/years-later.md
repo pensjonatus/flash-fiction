@@ -1,8 +1,8 @@
 ---
-title: 'Years Later'
+title: Years Later
 date: '2012-05-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Steve was sipping on some latte at a cafe when Molly walked up.

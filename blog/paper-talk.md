@@ -1,9 +1,9 @@
 ---
-title: 'Paper Talk'
+title: Paper Talk
 date: '2013-01-28'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Scott and I were restocking the shelves. We were on toilet paper when he said:

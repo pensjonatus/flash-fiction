@@ -1,8 +1,8 @@
 ---
-title: 'The Truth'
+title: The Truth
 date: '2012-03-31'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The flickering light made the hospital room look ghastly and unfriendly. The

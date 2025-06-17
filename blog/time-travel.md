@@ -1,8 +1,8 @@
 ---
-title: 'Time Travel'
+title: Time Travel
 date: '2014-09-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Time of death, 11:22 PM," I heard them say.

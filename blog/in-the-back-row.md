@@ -1,9 +1,9 @@
 ---
-title: 'In the Back Row'
+title: In the Back Row
 date: '2013-07-09'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 The movie theater was hot, or was it just him? The hero on the screen was a

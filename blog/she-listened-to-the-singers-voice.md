@@ -1,9 +1,9 @@
 ---
-title: "She Listened to the Singer's Voice"
+title: She Listened to the Singer's Voice
 date: '2012-10-24'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Young and in love, I followed the girl to the ends of earth. We were in the

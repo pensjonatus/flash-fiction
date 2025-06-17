@@ -1,8 +1,8 @@
 ---
-title: 'I Want To Be a Writer'
+title: I Want To Be a Writer
 date: '2012-03-19'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The sun had set and night was falling. Steve was carrying a bag full of copies

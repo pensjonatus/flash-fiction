@@ -1,12 +1,12 @@
 ---
-title: 'Bowling shirt'
+title: Bowling shirt
 date: '2017-01-24'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
-  - 'love'
-  - 'pm-writing'
-  - 'sci-fi'
+tags:
+  - creepy
+  - flash-fiction
+  - love
+  - pm-writing
+  - sci-fi
 ---
 
 "Hey," the girl sat down next to me at the kitchen table. It was a party and it

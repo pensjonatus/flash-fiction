@@ -1,9 +1,9 @@
 ---
-title: 'A Dialogue with Two Philosophers'
+title: A Dialogue with Two Philosophers
 date: '2013-12-06'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I was walking down the street. It was cold and tiny snowflakes filled the air.

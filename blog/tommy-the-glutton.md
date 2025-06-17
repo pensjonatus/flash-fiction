@@ -1,8 +1,8 @@
 ---
-title: 'Tommy the Glutton'
+title: Tommy the Glutton
 date: '2012-05-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I remember Tommy from high school. He was very skinny and weak; there was no fat

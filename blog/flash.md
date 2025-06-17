@@ -1,9 +1,9 @@
 ---
-title: 'Flash!'
+title: Flash!
 date: '2012-10-11'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 The storm was raging outside, but the two of them were tucked in a blanket on

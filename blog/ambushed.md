@@ -1,9 +1,9 @@
 ---
-title: 'Ambushed'
+title: Ambushed
 date: '2013-02-08'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 They were just friends hanging out after work, they both had somebody. He was

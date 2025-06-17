@@ -1,8 +1,8 @@
 ---
-title: 'Shopping Bags'
+title: Shopping Bags
 date: '2016-02-18'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 She was walking back from the store, carrying brown paper shopping bags. She

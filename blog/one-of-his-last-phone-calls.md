@@ -1,8 +1,8 @@
 ---
-title: 'One of His Last Phone Calls'
+title: One of His Last Phone Calls
 date: '2013-04-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He had to wait two signals before she picked up. "Hello, it's me," he said.

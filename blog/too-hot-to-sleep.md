@@ -1,9 +1,9 @@
 ---
-title: 'Too Hot to Sleep'
+title: Too Hot to Sleep
 date: '2012-11-25'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 They were both completely naked, and the sheet was rumpled up between them. The

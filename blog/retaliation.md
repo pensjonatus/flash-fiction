@@ -1,9 +1,9 @@
 ---
-title: 'Retaliation'
+title: Retaliation
 date: '2015-06-18'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 [A man](./on-holiday) was sitting alone in a penthouse suite. There was an old

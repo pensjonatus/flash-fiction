@@ -1,9 +1,9 @@
 ---
-title: 'My Secret Desire'
+title: My Secret Desire
 date: '2014-01-03'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 **1.**

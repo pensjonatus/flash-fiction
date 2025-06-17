@@ -1,8 +1,8 @@
 ---
-title: 'No Damsel In Distress'
+title: No Damsel In Distress
 date: '2013-05-31'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I had to press my contacts real hard before I got it. And by real hard I mean

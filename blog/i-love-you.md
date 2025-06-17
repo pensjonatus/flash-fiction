@@ -1,9 +1,9 @@
 ---
-title: 'I Love You'
+title: I Love You
 date: '2016-09-15'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 She rolled over to her side of the bed and closed her eyes. Her face was calm

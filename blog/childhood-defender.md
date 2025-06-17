@@ -1,9 +1,9 @@
 ---
-title: 'Childhood Defender'
+title: Childhood Defender
 date: '2013-11-16'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I was crying, even though I promised myself I would not. I had known this

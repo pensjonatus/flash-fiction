@@ -1,8 +1,8 @@
 ---
-title: 'The Actor'
+title: The Actor
 date: '2015-01-28'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The actor was alone at home. He just got back from a meeting with his agent who

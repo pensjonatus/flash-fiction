@@ -1,8 +1,8 @@
 ---
-title: 'Pastrami'
+title: Pastrami
 date: '2019-08-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I want a sandwich. I want the bread to be white and crunchy, and I want a lot of

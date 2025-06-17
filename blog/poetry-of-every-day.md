@@ -1,8 +1,8 @@
 ---
-title: 'Poetry of Every Day'
+title: Poetry of Every Day
 date: '2013-01-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Mark changed his desktop background. He smiled at it, and then looked around his

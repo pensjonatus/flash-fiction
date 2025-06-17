@@ -1,9 +1,9 @@
 ---
-title: 'The Place Part 12'
+title: The Place Part 12
 date: '2017-07-22'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 This is a note of mine I found. I am putting it here, because I wrote it after

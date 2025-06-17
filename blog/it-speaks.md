@@ -1,8 +1,8 @@
 ---
-title: 'It Speaks'
+title: It Speaks
 date: '2014-12-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I borrowed a book from my friend and at first I was amused by the comments she

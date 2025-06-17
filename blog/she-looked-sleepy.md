@@ -1,8 +1,8 @@
 ---
-title: 'She Looked Sleepy'
+title: She Looked Sleepy
 date: '2015-11-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was working behind the counter at the gas station. It was really early in the

@@ -1,9 +1,9 @@
 ---
-title: 'Art and Bread'
+title: Art and Bread
 date: '2012-07-13'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 He placed the bag of groceries on the counter and smiled at her. She looked up

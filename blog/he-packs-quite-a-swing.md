@@ -1,8 +1,8 @@
 ---
-title: 'He Packs Quite a Swing'
+title: He Packs Quite a Swing
 date: '2012-05-24'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Come one, Tom! Come on!"

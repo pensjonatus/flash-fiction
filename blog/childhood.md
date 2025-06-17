@@ -1,8 +1,8 @@
 ---
-title: 'Childhood'
+title: Childhood
 date: '2012-06-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The sun was setting over the Ocean and three people were sitting on the terrace,

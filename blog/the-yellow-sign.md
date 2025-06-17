@@ -1,8 +1,8 @@
 ---
-title: 'The Yellow Sign'
+title: The Yellow Sign
 date: '2023-07-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I woke up in a hospital room and the rain was pit-pat-pattering against the

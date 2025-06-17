@@ -1,8 +1,8 @@
 ---
-title: 'A gate of ghosts'
+title: A gate of ghosts
 date: '2020-07-26'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 They put up a metal gate at the front of the hospital, and they only closed it

@@ -1,8 +1,8 @@
 ---
-title: 'Nothing Wrong'
+title: Nothing Wrong
 date: '2014-05-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It is going to be a cold night on deck, boatswain. I know you are not in

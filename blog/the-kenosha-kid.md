@@ -1,8 +1,8 @@
 ---
-title: 'The Kenosha Kid'
+title: The Kenosha Kid
 date: '2016-01-14'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was my third day at the record store. The colors seemed faded as the sun

@@ -1,9 +1,9 @@
 ---
-title: "I'll Take It From Here"
+title: I'll Take It From Here
 date: '2015-10-22'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 "She's probably gonna be hungry," said the text from my boss, "So take her out

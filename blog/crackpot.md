@@ -1,8 +1,8 @@
 ---
-title: 'Crackpot'
+title: Crackpot
 date: '2012-05-28'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "I am not really a man," said Jesus, "I am older than this world. I am Apollo,

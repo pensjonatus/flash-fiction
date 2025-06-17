@@ -1,9 +1,9 @@
 ---
-title: 'Haunted'
+title: Haunted
 date: '2015-05-02'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 It started about 4 am one night. I woke up and heard a soft moan, as if somebody

@@ -1,8 +1,8 @@
 ---
-title: 'mai fewcher'
+title: mai fewcher
 date: '2013-08-21'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 i woz slingin by the streats, lookin to get hi, an i woz wiv mai frend, dedzon.

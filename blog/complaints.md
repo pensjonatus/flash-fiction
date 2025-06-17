@@ -1,8 +1,8 @@
 ---
-title: 'Complaints'
+title: Complaints
 date: '2013-11-15'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Every morning, I drive to the Department Building and set up in my cube. I open

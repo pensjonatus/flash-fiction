@@ -1,8 +1,8 @@
 ---
-title: 'Diary'
+title: Diary
 date: '2013-06-19'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Day 7778:

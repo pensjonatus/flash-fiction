@@ -1,9 +1,9 @@
 ---
-title: 'The Place Part 15'
+title: The Place Part 15
 date: '2017-07-25'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 There was no light anywhere, completely black. When I held out my hands in front

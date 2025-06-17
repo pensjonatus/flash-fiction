@@ -1,8 +1,8 @@
 ---
-title: 'Shoes Tied and a Pocket Full of Bills'
+title: Shoes Tied and a Pocket Full of Bills
 date: '2015-01-31'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Josh was walking down the street, looking for something to do. There was a

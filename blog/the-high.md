@@ -1,8 +1,8 @@
 ---
-title: 'The High'
+title: The High
 date: '2012-07-15'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was like a pink mist of happiness. And then a soft come-down to the smelly

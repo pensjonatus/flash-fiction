@@ -1,9 +1,9 @@
 ---
-title: 'Awoken by Thunderclap'
+title: Awoken by Thunderclap
 date: '2014-11-29'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 I am so glad I survived the night. Thunder woke me up in the morning.

@@ -1,9 +1,9 @@
 ---
-title: 'Pillowtalk'
+title: Pillowtalk
 date: '2012-07-04'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 The evening was hot, almost unbearable. They were lying in bed, looking out the

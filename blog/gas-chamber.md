@@ -1,8 +1,8 @@
 ---
-title: 'Gas Chamber'
+title: Gas Chamber
 date: '2014-07-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 This new club is really popular with the youth. It is preferred to places like

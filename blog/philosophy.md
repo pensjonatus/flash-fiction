@@ -1,8 +1,8 @@
 ---
-title: 'Philosophy'
+title: Philosophy
 date: '2012-02-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Hey, nice jacket. Got a minute?" said the religious guy. The writer stopped and

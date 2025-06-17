@@ -1,8 +1,8 @@
 ---
-title: 'The Princess'
+title: The Princess
 date: '2013-06-10'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 You're not the kind of girl to be bossed around, after all, you are a princess.

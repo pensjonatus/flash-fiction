@@ -1,9 +1,9 @@
 ---
-title: 'Zombie Statue'
+title: Zombie Statue
 date: '2014-06-06'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 On holiday in France, I visited a small church in Bar-le-Duc and saw a statue of

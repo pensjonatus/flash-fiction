@@ -1,9 +1,9 @@
 ---
-title: 'A Million'
+title: A Million
 date: '2013-09-30'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 "A million candy bars to win," Jake read the wrapper. They were sitting on the

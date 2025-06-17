@@ -1,8 +1,8 @@
 ---
 title: 'Chapter 4: The Messenger'
 date: '2015-07-20'
-categories:
-  - 'growing-up-in-greyland'
+tags:
+  - growing-up-in-greyland
 ---
 
 The mysterious stranger had such beautiful eyes. He stared at me, and it became

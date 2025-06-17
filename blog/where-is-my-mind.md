@@ -1,9 +1,9 @@
 ---
-title: 'Where Is My Mind'
+title: Where Is My Mind
 date: '2012-07-29'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Mark had never taken drugs before, so he did not know how to behave. He decided

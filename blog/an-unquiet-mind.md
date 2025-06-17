@@ -1,8 +1,8 @@
 ---
-title: 'An Unquiet Mind'
+title: An Unquiet Mind
 date: '2014-09-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Jim was cooking up some franks and patties at a barbecue. He was wearing one of

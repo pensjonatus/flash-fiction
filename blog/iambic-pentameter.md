@@ -1,8 +1,8 @@
 ---
-title: 'Iambic Pentameter'
+title: Iambic Pentameter
 date: '2013-02-11'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He had always been a good boy, so he climbed the steps of his parents' porch and

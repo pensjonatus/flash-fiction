@@ -1,8 +1,8 @@
 ---
-title: 'Lost Soul'
+title: Lost Soul
 date: '2013-07-15'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was late in the evening, one cold November evening in New York when Timothy

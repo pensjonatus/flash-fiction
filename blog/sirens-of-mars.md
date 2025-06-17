@@ -1,9 +1,9 @@
 ---
-title: 'Sirens of Mars'
+title: Sirens of Mars
 date: '2015-06-09'
-categories:
-  - 'flash-fiction'
-  - 'sci-fi'
+tags:
+  - flash-fiction
+  - sci-fi
 ---
 
 "What would you like for birthday?" she asked me.

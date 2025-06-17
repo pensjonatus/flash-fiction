@@ -1,9 +1,9 @@
 ---
-title: 'Pasta'
+title: Pasta
 date: '2012-08-12'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 She was still on the couch, but it was about time to take action. She switched

@@ -1,9 +1,9 @@
 ---
-title: 'Staring Contest'
+title: Staring Contest
 date: '2015-01-21'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 He was dropping her off. The car pulled up by the curb.

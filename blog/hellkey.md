@@ -1,8 +1,8 @@
 ---
-title: 'Hellkey'
+title: Hellkey
 date: '2014-05-13'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "I hate my life," said Becky, "Mark keeps talking about other women. He says

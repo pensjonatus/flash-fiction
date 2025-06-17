@@ -1,9 +1,9 @@
 ---
-title: 'One of Their Breakfasts'
+title: One of Their Breakfasts
 date: '2013-08-03'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 He was already sitting at the kitchen table with a bowl of cereal. She came in

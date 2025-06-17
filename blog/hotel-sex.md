@@ -1,9 +1,9 @@
 ---
-title: 'Hotel Sex'
+title: Hotel Sex
 date: '2014-02-26'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I was having supper at the hotel restaurant. I noticed a couple, he was a

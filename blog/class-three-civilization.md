@@ -1,8 +1,8 @@
 ---
-title: 'Class Three Civilization'
+title: Class Three Civilization
 date: '2015-07-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 On Kardashev's scale, a class-three civilization is one that can control its

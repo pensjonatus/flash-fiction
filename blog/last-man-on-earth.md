@@ -1,8 +1,8 @@
 ---
-title: 'Last Man on Earth'
+title: Last Man on Earth
 date: '2015-07-02'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 So there I was, last man on Earth. I do not need to tell you what had happened

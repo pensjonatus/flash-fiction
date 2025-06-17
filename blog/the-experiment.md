@@ -1,10 +1,10 @@
 ---
-title: 'The Experiment'
+title: The Experiment
 date: '2018-08-13'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
-  - 'sci-fi'
+tags:
+  - creepy
+  - flash-fiction
+  - sci-fi
 ---
 
 I walked down the gloomy corridor and into the dark room. The man was sitting in

@@ -1,8 +1,8 @@
 ---
-title: 'Queasy'
+title: Queasy
 date: '2012-12-13'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He managed to get on the last train, and it was still a forty-five minute ride

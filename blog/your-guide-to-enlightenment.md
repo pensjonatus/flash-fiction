@@ -1,10 +1,10 @@
 ---
-title: 'Your Guide to Enlightenment'
+title: Your Guide to Enlightenment
 date: '2017-05-01'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - creepy
+  - flash-fiction
+  - pm-writing
 ---
 
 This paper is provided to all of you still left behind on Earth who could not

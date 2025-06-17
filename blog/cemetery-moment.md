@@ -1,8 +1,8 @@
 ---
-title: 'Cemetery Moment'
+title: Cemetery Moment
 date: '2014-11-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He stood over the grave. It was a sunny day, the grass was green, the birds were

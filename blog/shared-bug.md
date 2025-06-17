@@ -1,9 +1,9 @@
 ---
-title: 'Shared Bug'
+title: Shared Bug
 date: '2015-10-06'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 Ralph got home early and saw his wife was in a mood. It was pretty strange,

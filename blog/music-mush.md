@@ -1,8 +1,8 @@
 ---
-title: 'Music Mush'
+title: Music Mush
 date: '2014-09-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The boy was carrying a guitar. A bunch of rednecks stopped by as he was walking

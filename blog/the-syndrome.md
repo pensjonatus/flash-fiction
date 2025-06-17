@@ -1,8 +1,8 @@
 ---
-title: 'The Syndrome'
+title: The Syndrome
 date: '2014-05-10'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The hospital room was dark and the wife was standing by the husband's bedside.

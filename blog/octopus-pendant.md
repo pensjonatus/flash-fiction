@@ -1,9 +1,9 @@
 ---
-title: 'Octopus Pendant'
+title: Octopus Pendant
 date: '2015-08-12'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I gave her the pendant on our first month-iversary. My look back then was a tank

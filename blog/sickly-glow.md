@@ -1,10 +1,10 @@
 ---
-title: 'Sickly Glow'
+title: Sickly Glow
 date: '2015-09-17'
-categories:
-  - 'flash-fiction'
-  - 'love'
-  - 'pm-writing'
+tags:
+  - flash-fiction
+  - love
+  - pm-writing
 ---
 
 Ben's face, the upper part of his chest, and his left arm were the only

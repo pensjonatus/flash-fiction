@@ -1,8 +1,8 @@
 ---
-title: 'In the Hallway'
+title: In the Hallway
 date: '2012-06-13'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Fred was on his way to apartment 2E. He was holding the paper shopping bag  in

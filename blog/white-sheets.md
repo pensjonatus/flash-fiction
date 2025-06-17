@@ -1,9 +1,9 @@
 ---
-title: 'White Sheets'
+title: White Sheets
 date: '2013-07-28'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I opened my eyes and saw her lying next to me, wrapped in white sheets, awake.

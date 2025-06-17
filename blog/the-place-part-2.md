@@ -1,9 +1,9 @@
 ---
-title: 'The Place Part 2'
+title: The Place Part 2
 date: '2017-07-12'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 It was dark and stuffy there. My wife thinks there was a giant boiler just

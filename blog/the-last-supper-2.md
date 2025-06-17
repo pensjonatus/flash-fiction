@@ -1,8 +1,8 @@
 ---
-title: 'The Last Supper'
+title: The Last Supper
 date: '2012-03-15'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Jesus, you don't look yourself tonight."

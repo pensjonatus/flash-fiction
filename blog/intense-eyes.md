@@ -1,9 +1,9 @@
 ---
-title: 'Intense Eyes'
+title: Intense Eyes
 date: '2012-10-03'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 He entered and saw his wife's new secretary. Their eyes met, and he might have

@@ -1,8 +1,8 @@
 ---
-title: 'Give it up!'
+title: Give it up!
 date: '2023-04-14'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was early in the morning when the fire broke out. I was on the 46th floor

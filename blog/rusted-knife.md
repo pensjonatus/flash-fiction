@@ -1,8 +1,8 @@
 ---
-title: 'Rusted Knife'
+title: Rusted Knife
 date: '2016-04-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 When renovating the house, we tore up the floors and Skip found a rusted knife.

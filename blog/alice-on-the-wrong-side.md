@@ -1,8 +1,8 @@
 ---
-title: 'Alice on the Wrong Side'
+title: Alice on the Wrong Side
 date: '2015-10-15'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 ## Morning

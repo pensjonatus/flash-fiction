@@ -1,9 +1,9 @@
 ---
-title: 'The Day She Left'
+title: The Day She Left
 date: '2015-11-23'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 It was a lazy Sunday morning and I was still in bed when I heard her get up. The

@@ -1,9 +1,9 @@
 ---
-title: 'Hastur!'
+title: Hastur!
 date: '2015-03-05'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 So I have been granted the privilege of becoming a Dreamer, or whatever. And I

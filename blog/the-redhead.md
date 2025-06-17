@@ -1,9 +1,9 @@
 ---
-title: 'The Redhead'
+title: The Redhead
 date: '2012-10-05'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I often saw her on the subway on my way to work. She was not beautiful, but she

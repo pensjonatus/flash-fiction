@@ -1,8 +1,8 @@
 ---
-title: 'The CEO'
+title: The CEO
 date: '2014-03-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Mr. Wiletzky was a very successful man. He had a beautiful wife whom he loved

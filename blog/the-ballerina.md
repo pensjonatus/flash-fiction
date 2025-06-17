@@ -1,9 +1,9 @@
 ---
-title: 'The Ballerina'
+title: The Ballerina
 date: '2012-09-17'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 He was wrapping the long scarf around his neck, getting ready to go out. It was

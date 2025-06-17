@@ -1,9 +1,9 @@
 ---
-title: "A Writer's Eye"
+title: A Writer's Eye
 date: '2013-05-18'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 During my time in Paris, I found a nice little bookshop and I went there every

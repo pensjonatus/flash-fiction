@@ -1,8 +1,8 @@
 ---
-title: 'Silvery grass'
+title: Silvery grass
 date: '2023-04-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 When I stepped out of the pharmacy, a homeless-looking man said to me:

@@ -1,8 +1,8 @@
 ---
-title: 'Things I Think About When I Am Falling Asleep'
+title: Things I Think About When I Am Falling Asleep
 date: '2013-02-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Eating pizza with my wife. Riding a bike when I was little. Riding a bike when I

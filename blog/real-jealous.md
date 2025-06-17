@@ -1,9 +1,9 @@
 ---
-title: 'Real Jealous'
+title: Real Jealous
 date: '2015-03-17'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Veronica was climbing up the stairs of her apartment building. Jeremy was not

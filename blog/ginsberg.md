@@ -1,8 +1,8 @@
 ---
-title: 'Ginsberg'
+title: Ginsberg
 date: '2012-07-17'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 When I was fourteen, my dad moved out and left my mom, my sister, and me in

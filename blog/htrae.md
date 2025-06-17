@@ -1,8 +1,8 @@
 ---
-title: 'Htrae'
+title: Htrae
 date: '2023-04-18'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I emerged on the other end of the wormhole and a sigh of relief escaped my

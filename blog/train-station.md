@@ -1,9 +1,9 @@
 ---
-title: 'Train Station'
+title: Train Station
 date: '2012-07-08'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I was at a train station in a place I hardly knew, far away from home. The

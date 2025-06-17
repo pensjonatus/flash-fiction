@@ -1,8 +1,8 @@
 ---
-title: 'How He Wants to Go'
+title: How He Wants to Go
 date: '2012-03-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Norman was hard sitting at his desk, going over the Henderson report and making

@@ -1,8 +1,8 @@
 ---
-title: 'Spooky Wingman'
+title: Spooky Wingman
 date: '2018-08-10'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "...and that's why we are all born... screaming." Scott leaned back in his chair

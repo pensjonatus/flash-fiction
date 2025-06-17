@@ -1,8 +1,8 @@
 ---
-title: 'The Voice in the Night'
+title: The Voice in the Night
 date: '2014-11-10'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I heard a voice calling me in the night, so I woke up. There was nobody there,

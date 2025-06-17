@@ -1,8 +1,8 @@
 ---
-title: 'All About My Mother'
+title: All About My Mother
 date: '2012-07-07'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Mr. Black, Anna Hetch is here."

@@ -1,8 +1,8 @@
 ---
-title: 'Happy Birthday'
+title: Happy Birthday
 date: '2012-11-18'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Wei was in trouble. He was trying to pinch a sweet bun from a stand and the guy

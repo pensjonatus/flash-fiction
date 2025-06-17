@@ -1,8 +1,8 @@
 ---
-title: 'The Gorilla Act'
+title: The Gorilla Act
 date: '2013-04-21'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Lucy was eight when she saw the Gorilla Act. She went with her mom and her

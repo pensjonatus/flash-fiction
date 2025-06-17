@@ -1,8 +1,8 @@
 ---
-title: 'Windfall'
+title: Windfall
 date: '2012-04-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Janice and I were over her laptop, waiting for the page to load. First the

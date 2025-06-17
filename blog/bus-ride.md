@@ -1,8 +1,8 @@
 ---
-title: 'Bus Ride'
+title: Bus Ride
 date: '2012-02-26'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The bus was going from Golden Gate Bridge to the Embarcadero. Jake was coming

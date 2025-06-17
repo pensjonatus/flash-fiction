@@ -1,8 +1,8 @@
 ---
-title: 'A Look Back'
+title: A Look Back
 date: '2014-09-02'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Life is a series of backward glances. We were on holiday, walking down a narrow

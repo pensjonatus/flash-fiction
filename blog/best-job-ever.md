@@ -1,8 +1,8 @@
 ---
-title: 'Best job Ever'
+title: Best job Ever
 date: '2018-04-22'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I got fired from a lot of jobs. I used to sell this brand of yogurt to shops,

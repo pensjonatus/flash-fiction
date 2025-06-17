@@ -1,9 +1,9 @@
 ---
-title: 'Never a Shame'
+title: Never a Shame
 date: '2014-09-30'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 It is always a shame when you are rejected, I thought as she started talking.

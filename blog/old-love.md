@@ -1,9 +1,9 @@
 ---
-title: 'Old Love'
+title: Old Love
 date: '2017-05-20'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 "So, what's happening with Veronica?" he asked me.

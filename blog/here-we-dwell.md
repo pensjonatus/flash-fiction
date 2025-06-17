@@ -1,9 +1,9 @@
 ---
-title: 'Here We Dwell'
+title: Here We Dwell
 date: '2013-07-01'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 When we retired, we got an apartment in Paris. If the night was clear and warm,

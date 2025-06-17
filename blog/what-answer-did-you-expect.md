@@ -1,8 +1,8 @@
 ---
-title: 'What Answer Did You Expect?'
+title: What Answer Did You Expect?
 date: '2015-01-02'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "It's very gross. I mean just thinking about it makes me wanna puke. What kind

@@ -1,9 +1,9 @@
 ---
-title: 'Not Her Type'
+title: Not Her Type
 date: '2014-11-22'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 "You're handsome, just not my type."

@@ -1,9 +1,9 @@
 ---
-title: 'I Had a Great Time'
+title: I Had a Great Time
 date: '2015-01-29'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I walked her to the porch.

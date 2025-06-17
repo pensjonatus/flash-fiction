@@ -1,8 +1,8 @@
 ---
-title: 'Confidant'
+title: Confidant
 date: '2015-05-21'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "He is the strong type, a business shark, but also a real man," Dora said. "The

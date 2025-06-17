@@ -1,8 +1,8 @@
 ---
-title: 'Say no'
+title: Say no
 date: '2024-07-28'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Nights are not quiet where I live because the windows open into a busy street.

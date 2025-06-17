@@ -1,8 +1,8 @@
 ---
-title: 'The feeder'
+title: The feeder
 date: '2023-06-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Hey, so how's that feeder working out for you?"

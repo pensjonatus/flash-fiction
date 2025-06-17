@@ -1,8 +1,8 @@
 ---
-title: 'The Contract'
+title: The Contract
 date: '2012-07-15'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "...and this will be on a monthly basis. Now as for concert fees..." the

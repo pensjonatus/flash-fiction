@@ -1,9 +1,9 @@
 ---
-title: 'Two Sides of the Story'
+title: Two Sides of the Story
 date: '2013-07-11'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 **1.**

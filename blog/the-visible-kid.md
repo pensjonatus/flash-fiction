@@ -1,8 +1,8 @@
 ---
-title: 'The Visible Kid'
+title: The Visible Kid
 date: '2012-06-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Someone pushed Jim back into the circle. His nose was pulsating with pain, there

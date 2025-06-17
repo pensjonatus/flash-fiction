@@ -1,9 +1,9 @@
 ---
-title: 'Another Misunderstanding'
+title: Another Misunderstanding
 date: '2014-10-25'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 We were out in a waffle house, all of us, and it was hard to talk to her because

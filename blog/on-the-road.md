@@ -1,9 +1,9 @@
 ---
-title: 'On the Road'
+title: On the Road
 date: '2012-11-08'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Ike was stretched out on the bunk of the tour bus. The road was fast and light,

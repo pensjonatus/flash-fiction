@@ -1,9 +1,9 @@
 ---
-title: 'Suddenly Born'
+title: Suddenly Born
 date: '2016-03-25'
-categories:
-  - 'flash-fiction'
-  - 'sci-fi'
+tags:
+  - flash-fiction
+  - sci-fi
 ---
 
 Pete suddenly came to life in Machine City and he wondered the block for a

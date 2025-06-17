@@ -1,8 +1,8 @@
 ---
-title: 'A Background Character'
+title: A Background Character
 date: '2015-01-10'
-categories:
-  - 'love'
+tags:
+  - love
 ---
 
 I wish magic items were possible in life. Key items that move the plot forward,

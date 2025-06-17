@@ -1,8 +1,8 @@
 ---
-title: 'Just Idle'
+title: Just Idle
 date: '2014-06-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I sent this beautiful creature a text: "Will you join me in the plaza?" but did

@@ -1,8 +1,8 @@
 ---
-title: 'Contractors'
+title: Contractors
 date: '2015-02-26'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I got my mom a new house. Well, it was pretty old, but it was new to her. She

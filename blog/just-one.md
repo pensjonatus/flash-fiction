@@ -1,8 +1,8 @@
 ---
-title: 'Just One'
+title: Just One
 date: '2012-05-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The haematology department was getting empty, there were no more visitors and

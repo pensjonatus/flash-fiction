@@ -1,8 +1,8 @@
 ---
-title: 'Humans'
+title: Humans
 date: '2018-02-23'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I woke up as usual and sniffed around the apartment to make sure everything was

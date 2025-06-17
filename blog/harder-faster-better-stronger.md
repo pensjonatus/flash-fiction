@@ -1,8 +1,8 @@
 ---
-title: 'Harder, Faster, Better, Stronger'
+title: Harder, Faster, Better, Stronger
 date: '2012-05-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Hank was under the car, looking for the torque wrench, when he realized he

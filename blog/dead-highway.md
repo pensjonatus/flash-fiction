@@ -1,8 +1,8 @@
 ---
-title: 'Dead Highway'
+title: Dead Highway
 date: '2012-03-22'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 A car just flew by, not even slowing down. It was not quite the desert, but

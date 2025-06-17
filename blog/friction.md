@@ -1,8 +1,8 @@
 ---
-title: 'Friction'
+title: Friction
 date: '2012-02-07'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Jake rang the doorbell. Normally, he would just walk in because this used to be

@@ -1,8 +1,8 @@
 ---
-title: 'Banana Lunch'
+title: Banana Lunch
 date: '2012-03-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "So what kind of music do you like, Rox?"

@@ -1,8 +1,8 @@
 ---
-title: 'Travel Time'
+title: Travel Time
 date: '2013-08-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "We're leaving for Taiwan," I said. "Everybody, take just one thing."

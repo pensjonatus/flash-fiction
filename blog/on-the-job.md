@@ -1,8 +1,8 @@
 ---
-title: 'On the Job'
+title: On the Job
 date: '2013-12-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Hey, Vinnie," Tony asked me to come over with a gesture and then he told me

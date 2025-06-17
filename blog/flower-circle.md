@@ -1,8 +1,8 @@
 ---
-title: 'Flower Circle'
+title: Flower Circle
 date: '2018-10-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 There is a place in our town which belongs to flowers and nobody is allowed to

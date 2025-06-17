@@ -1,8 +1,8 @@
 ---
-title: 'Snow'
+title: Snow
 date: '2013-07-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I hardly remember what life was like before the revolution, but I remember

@@ -1,9 +1,9 @@
 ---
-title: 'The Place Part 11'
+title: The Place Part 11
 date: '2017-07-21'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 After the mechanism stopped working, we both collapsed on the couch in our

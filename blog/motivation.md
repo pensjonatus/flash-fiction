@@ -1,8 +1,8 @@
 ---
-title: 'Motivation!'
+title: Motivation!
 date: '2015-12-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Ms. Vernon," said the young girl in jean overalls and pink-rimmed glasses, "I

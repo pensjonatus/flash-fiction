@@ -1,9 +1,9 @@
 ---
-title: 'Iron'
+title: Iron
 date: '2017-08-12'
-categories:
-  - 'creepy'
-  - 'sci-fi'
+tags:
+  - creepy
+  - sci-fi
 ---
 
 Look, eating with metal utensils is the literal worst thing you can do.

@@ -1,9 +1,9 @@
 ---
-title: 'Friends'
+title: Friends
 date: '2018-04-22'
-categories:
-  - 'flash-fiction'
-  - 'sci-fi'
+tags:
+  - flash-fiction
+  - sci-fi
 ---
 
 "When you travel, do you ever wake up and not know where you are or, for that

@@ -1,9 +1,9 @@
 ---
-title: 'The Waitress at El Restaurante'
+title: The Waitress at El Restaurante
 date: '2017-01-23'
-categories:
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - flash-fiction
+  - pm-writing
 ---
 
 The waitress at El Restaurante saw a significant customer. He was significant,

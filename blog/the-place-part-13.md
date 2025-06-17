@@ -1,9 +1,9 @@
 ---
-title: 'The Place Part 13'
+title: The Place Part 13
 date: '2017-07-23'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 My wife and I used to spend evenings with this other couple, Greg and Lisa. We

@@ -1,8 +1,8 @@
 ---
-title: 'Liberal Services'
+title: Liberal Services
 date: '2015-09-03'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The young man was wearing a colorful bow tie and shirt. He had a bluetooth

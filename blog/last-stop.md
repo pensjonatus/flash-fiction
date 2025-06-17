@@ -1,8 +1,8 @@
 ---
-title: 'Last Stop'
+title: Last Stop
 date: '2012-05-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Vinnie woke up as the bus was pulling into the bay. It was the last stop by the

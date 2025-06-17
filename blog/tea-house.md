@@ -1,8 +1,8 @@
 ---
-title: 'Tea house'
+title: Tea house
 date: '2023-03-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 A traveler came into the tea house. It was late, dark outside, but cozy and warm

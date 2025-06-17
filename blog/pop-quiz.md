@@ -1,9 +1,9 @@
 ---
-title: 'Pop Quiz'
+title: Pop Quiz
 date: '2013-09-26'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 1\. Which is the most tasty?

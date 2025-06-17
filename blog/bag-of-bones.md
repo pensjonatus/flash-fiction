@@ -1,9 +1,9 @@
 ---
-title: 'Bag of Bones'
+title: Bag of Bones
 date: '2015-01-23'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 I was nervous before going to the party, mostly because of the movies. See, in

@@ -1,8 +1,8 @@
 ---
-title: 'A Deadline Cynic'
+title: A Deadline Cynic
 date: '2013-05-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 She was biting her nails in front of the laptop. She worked for a news blog

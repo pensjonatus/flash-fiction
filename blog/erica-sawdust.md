@@ -1,8 +1,8 @@
 ---
-title: 'Erica Sawdust'
+title: Erica Sawdust
 date: '2015-02-17'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 People travel from all over the state to see Erica Sawdust's garage. They have

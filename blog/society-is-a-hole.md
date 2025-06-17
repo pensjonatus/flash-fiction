@@ -1,8 +1,8 @@
 ---
-title: 'Society is a Hole'
+title: Society is a Hole
 date: '2015-10-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "And the motherfucker cut me off. No blinkers, he just jumped lanes and cut me

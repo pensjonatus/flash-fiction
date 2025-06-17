@@ -1,8 +1,8 @@
 ---
-title: 'Last Two Liters'
+title: Last Two Liters
 date: '2012-05-23'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Silas ran a system check, everything was working fine. He had the computer

@@ -1,9 +1,9 @@
 ---
-title: 'As Good As Gone'
+title: As Good As Gone
 date: '2013-01-06'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 She was standing in the kitchen door, looking across the hallway into the living

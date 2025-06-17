@@ -1,8 +1,8 @@
 ---
-title: 'Evil Babies'
+title: Evil Babies
 date: '2014-03-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Okay, so what's next?" asked Derek.

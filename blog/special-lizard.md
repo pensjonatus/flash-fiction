@@ -1,8 +1,8 @@
 ---
-title: 'Special Lizard'
+title: Special Lizard
 date: '2016-07-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 There is a special lizard living on the outside wall of the lighthouse, although

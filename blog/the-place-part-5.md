@@ -1,9 +1,9 @@
 ---
-title: 'The Place Part 5'
+title: The Place Part 5
 date: '2017-07-15'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 Carcosa! If I heard it in any other context, I would have thought it was just a

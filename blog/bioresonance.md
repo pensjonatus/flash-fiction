@@ -1,8 +1,8 @@
 ---
-title: 'Bioresonance'
+title: Bioresonance
 date: '2023-04-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I went out to see some live music, but everyone at the club had succumbed to

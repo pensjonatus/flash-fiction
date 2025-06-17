@@ -1,8 +1,8 @@
 ---
-title: 'Everything Is Fine, In General'
+title: Everything Is Fine, In General
 date: '2015-05-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "He is not a burglar _per se_," I said, "I mean, he did break in, but he did not

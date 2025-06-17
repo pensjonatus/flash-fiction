@@ -1,8 +1,8 @@
 ---
-title: 'The Past and the Future'
+title: The Past and the Future
 date: '2012-03-11'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 My brother's homecoming was like in the movies. He got off the bus in a uniform,

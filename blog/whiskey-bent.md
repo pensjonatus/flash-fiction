@@ -1,8 +1,8 @@
 ---
-title: 'Whiskey Bent'
+title: Whiskey Bent
 date: '2014-03-03'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was two years since my wife had... died and I was still looking at Sue with

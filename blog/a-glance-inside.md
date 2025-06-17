@@ -1,8 +1,8 @@
 ---
-title: 'A Glance Inside'
+title: A Glance Inside
 date: '2012-12-19'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was working the cloak room at an opera house in New York. People hand me their

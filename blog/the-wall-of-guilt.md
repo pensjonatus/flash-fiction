@@ -1,8 +1,8 @@
 ---
-title: 'The Wall of Guilt'
+title: The Wall of Guilt
 date: '2012-09-26'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Tom and Sharon had to share a dressing room, and that was fine, because they

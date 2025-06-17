@@ -1,9 +1,9 @@
 ---
-title: 'So many Times'
+title: So many Times
 date: '2014-02-01'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 How nice her hair is, Joe thought, and how graciously she brushes it back with

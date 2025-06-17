@@ -1,8 +1,8 @@
 ---
-title: 'Blistery Mike'
+title: Blistery Mike
 date: '2012-06-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Mike was a painter, and he was working on the latest one. It was called: the

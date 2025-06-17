@@ -1,8 +1,8 @@
 ---
-title: 'Confessions of a Star'
+title: Confessions of a Star
 date: '2014-02-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Cue music.

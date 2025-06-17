@@ -1,9 +1,9 @@
 ---
-title: 'My Shiny Bully'
+title: My Shiny Bully
 date: '2016-03-27'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 Jeremy C. Shepherd was a classic bully. He took our lunch money, he beat on us,

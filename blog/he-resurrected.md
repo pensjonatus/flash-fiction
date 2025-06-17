@@ -1,8 +1,8 @@
 ---
-title: 'He Resurrected'
+title: He Resurrected
 date: '2012-04-28'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Jesus felt the final pangs of pain as the electrical activity in his body ebbed.

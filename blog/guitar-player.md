@@ -1,9 +1,9 @@
 ---
-title: 'Guitar Player'
+title: Guitar Player
 date: '2016-02-03'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Can you make a better first impression than when you walk down the street with a

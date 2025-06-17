@@ -1,9 +1,9 @@
 ---
-title: 'The Feeling I Cannot Name'
+title: The Feeling I Cannot Name
 date: '2012-10-01'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I have seen you so many times, and you wore so many faces. I remember you as the

@@ -1,9 +1,9 @@
 ---
-title: 'Help Me, Rhonda'
+title: Help Me, Rhonda
 date: '2014-03-27'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Jim thought he could find his way in a European city but he did not take into

@@ -1,8 +1,8 @@
 ---
-title: 'What a Twist!'
+title: What a Twist!
 date: '2012-05-19'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Jack was alone in his tiny dorm room, sitting straight in front of his tiny

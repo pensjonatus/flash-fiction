@@ -1,8 +1,8 @@
 ---
-title: 'The Big Promotion'
+title: The Big Promotion
 date: '2013-04-18'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Larry was walking down the long hallway beyond the stadium's maintenance area.

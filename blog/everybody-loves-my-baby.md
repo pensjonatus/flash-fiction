@@ -1,9 +1,9 @@
 ---
-title: 'Everybody Loves My Baby'
+title: Everybody Loves My Baby
 date: '2014-03-30'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Matthew rushed over to his fellows. It was a hot night and they were taking air

@@ -1,9 +1,9 @@
 ---
-title: 'Voicebox'
+title: Voicebox
 date: '2013-12-04'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 She was walking down the street back from work. It was a November night, cold,

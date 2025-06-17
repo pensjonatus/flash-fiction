@@ -1,9 +1,9 @@
 ---
-title: 'After I am Dead'
+title: After I am Dead
 date: '2016-11-18'
-categories:
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - flash-fiction
+  - pm-writing
 ---
 
 If you are reading this after I am dead, know I am not up there somewhere

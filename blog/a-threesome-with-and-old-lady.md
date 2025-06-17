@@ -1,8 +1,8 @@
 ---
-title: 'A Threesome with and Old Lady'
+title: A Threesome with and Old Lady
 date: '2012-05-28'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The bus was full. Tom was sitting next to Anna and they were talking cheerfully

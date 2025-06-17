@@ -1,8 +1,8 @@
 ---
-title: 'The State'
+title: The State
 date: '2012-12-14'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 In Brainesia life was not always easy. The country used to be just like any

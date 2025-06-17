@@ -1,9 +1,9 @@
 ---
-title: 'Last Day'
+title: Last Day
 date: '2015-10-03'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Friday was Jake's last day and he sent an email, inviting people to say goodbye

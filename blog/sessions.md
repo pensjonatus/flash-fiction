@@ -1,8 +1,8 @@
 ---
-title: 'Sessions'
+title: Sessions
 date: '2012-03-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "How are you feeling, Hal?" asked doctor Peters.

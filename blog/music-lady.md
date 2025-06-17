@@ -1,8 +1,8 @@
 ---
-title: 'Music Lady'
+title: Music Lady
 date: '2012-05-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I leaned on the bar, the music was booming. "What am I doing here, I hate

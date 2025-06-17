@@ -1,8 +1,8 @@
 ---
-title: 'Life During Wartime'
+title: Life During Wartime
 date: '2014-02-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 She had had an okay day at work. Got a little tired but not too bad, had some

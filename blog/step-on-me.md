@@ -1,8 +1,8 @@
 ---
-title: 'Step on Me'
+title: Step on Me
 date: '2014-02-28'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 After the art show, we walked six blocks to her apartment. At the end of the

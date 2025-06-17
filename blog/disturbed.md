@@ -1,8 +1,8 @@
 ---
-title: 'Disturbed'
+title: Disturbed
 date: '2012-06-28'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He finished the presentation, fixed his tie. "Any questions?"

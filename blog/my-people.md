@@ -1,9 +1,9 @@
 ---
-title: 'My People'
+title: My People
 date: '2017-01-27'
-categories:
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - flash-fiction
+  - pm-writing
 ---
 
 I was on the train to work, drinking a cup of coffee, when I got the text. My

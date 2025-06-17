@@ -1,9 +1,9 @@
 ---
-title: 'The Museum of Jurassic Technology'
+title: The Museum of Jurassic Technology
 date: '2012-07-27'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 "What is it called again?" she asked. She was driving, we were getting off the

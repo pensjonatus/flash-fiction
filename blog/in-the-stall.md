@@ -1,8 +1,8 @@
 ---
-title: 'In the Stall'
+title: In the Stall
 date: '2014-12-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was a few weeks into the end of the world. People were gone. I walked through

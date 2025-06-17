@@ -1,9 +1,9 @@
 ---
-title: 'The Girl Who Was Afraid'
+title: The Girl Who Was Afraid
 date: '2015-08-06'
-categories:
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - flash-fiction
+  - pm-writing
 ---
 
 "Amanda, this is Jake," that's how I introduced them. Now we were sitting in my

@@ -1,8 +1,8 @@
 ---
-title: 'Brothers and Sisters'
+title: Brothers and Sisters
 date: '2012-02-13'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Hey, can I get that coffee?"

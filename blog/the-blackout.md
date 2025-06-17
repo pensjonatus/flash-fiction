@@ -1,8 +1,8 @@
 ---
-title: 'The Blackout'
+title: The Blackout
 date: '2012-06-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 We were walking down the street after dinner and a movie. She was talking about

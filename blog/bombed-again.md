@@ -1,8 +1,8 @@
 ---
-title: 'Bombed Again'
+title: Bombed Again
 date: '2012-07-03'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The music died suddenly. The dancing figures stopped in mid motion, an arm

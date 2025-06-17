@@ -1,10 +1,10 @@
 ---
-title: 'Ella'
+title: Ella
 date: '2015-07-01'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - creepy
+  - flash-fiction
+  - love
 ---
 
 Ella got my attention pretty quickly after I met her and she kept it for quite a

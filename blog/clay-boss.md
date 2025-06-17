@@ -1,8 +1,8 @@
 ---
-title: 'Clay Boss'
+title: Clay Boss
 date: '2012-04-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I used to pass by this artsy cafe on my way to a construction site I was

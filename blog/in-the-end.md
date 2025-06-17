@@ -1,8 +1,8 @@
 ---
-title: 'In the End'
+title: In the End
 date: '2012-10-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 A day is a day is a day, and in the end, a girl needs to make money. That is

@@ -1,8 +1,8 @@
 ---
-title: "The Night's Poet"
+title: The Night's Poet
 date: '2012-05-17'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was dark when Jim climbed the front porch and walked the length of the roof

@@ -1,8 +1,8 @@
 ---
-title: 'Wash It Down'
+title: Wash It Down
 date: '2015-04-21'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 She had to drink a lot to get all those pills down. She had never tried to

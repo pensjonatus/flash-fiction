@@ -1,8 +1,8 @@
 ---
-title: 'Same dream'
+title: Same dream
 date: '2023-04-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Now tell me this, professor, and I keep coming back to this, why do people on

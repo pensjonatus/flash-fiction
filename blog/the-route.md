@@ -1,9 +1,9 @@
 ---
-title: 'The Route'
+title: The Route
 date: '2012-12-03'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 The postman was coming back now and the couple were still standing there, by the

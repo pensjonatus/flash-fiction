@@ -1,8 +1,8 @@
 ---
-title: 'Misunderstood Rose'
+title: Misunderstood Rose
 date: '2012-04-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He was walking her back to her place. He had given her a rose, she had asked him

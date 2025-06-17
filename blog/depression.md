@@ -1,8 +1,8 @@
 ---
-title: 'Depression'
+title: Depression
 date: '2012-07-02'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 She could not get out of bed for five days. She felt so tired and the thought of

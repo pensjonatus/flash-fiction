@@ -1,8 +1,8 @@
 ---
-title: 'Dave'
+title: Dave
 date: '2012-05-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The apartment was empty. He threw his keys on the counter, right next to the

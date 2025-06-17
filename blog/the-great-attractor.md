@@ -1,9 +1,9 @@
 ---
-title: 'The Great Attractor'
+title: The Great Attractor
 date: '2014-07-09'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Our Sun is falling towards a supermassive unseen object known as the Great

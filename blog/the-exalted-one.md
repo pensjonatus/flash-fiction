@@ -1,9 +1,9 @@
 ---
-title: 'The Exalted One'
+title: The Exalted One
 date: '2016-03-17'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 I woke up and I knew immediately it was going to be a horrible day.

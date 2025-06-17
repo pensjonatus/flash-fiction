@@ -1,8 +1,8 @@
 ---
-title: 'Mistletoe'
+title: Mistletoe
 date: '2012-06-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Happy Christmas everyone!" Julia screamed for the fiftieth time. She was really

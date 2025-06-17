@@ -1,9 +1,9 @@
 ---
-title: 'Do You Feel Fantastic?'
+title: Do You Feel Fantastic?
 date: '2015-05-27'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 https://youtu.be/rLy-AwdCOmI

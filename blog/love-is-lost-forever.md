@@ -1,9 +1,9 @@
 ---
-title: 'Love Is Lost Forever?'
+title: Love Is Lost Forever?
 date: '2014-03-24'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Riding on the train, I was reading text messages from my ex-girlfriend. There

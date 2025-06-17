@@ -1,8 +1,8 @@
 ---
-title: 'Parties to Come'
+title: Parties to Come
 date: '2013-07-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was was done with the delivery, about to leave, just had to get a signature.

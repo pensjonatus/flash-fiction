@@ -1,8 +1,8 @@
 ---
-title: 'Crazy Person'
+title: Crazy Person
 date: '2014-01-13'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was standing in line for a coffee. There was a shabby lady in front of me.

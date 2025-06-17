@@ -1,8 +1,8 @@
 ---
-title: 'Make it Simple'
+title: Make it Simple
 date: '2018-04-21'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 This is how I started biking to work. One morning I got into my car as usual,

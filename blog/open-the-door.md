@@ -1,8 +1,8 @@
 ---
-title: 'Open the Door'
+title: Open the Door
 date: '2014-03-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The sound of someone banging on my door awoke me from fitful sleep. It was the

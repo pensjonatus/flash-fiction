@@ -1,8 +1,8 @@
 ---
-title: 'Running on Empty'
+title: Running on Empty
 date: '2012-05-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The car rolled smooth across the desert. The landscape was immobile, only the

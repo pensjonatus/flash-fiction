@@ -1,9 +1,9 @@
 ---
-title: 'The End of the World'
+title: The End of the World
 date: '2012-07-03'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 The asteroids were clearly visible during the day as well. Fragile electronics

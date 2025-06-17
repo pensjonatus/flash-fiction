@@ -1,8 +1,8 @@
 ---
-title: 'The Dragon'
+title: The Dragon
 date: '2012-04-13'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Jenny was just a little girl before the dragon came. She was afraid of it before

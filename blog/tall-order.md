@@ -1,8 +1,8 @@
 ---
-title: 'Tall Order'
+title: Tall Order
 date: '2012-12-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The doorbell. Annabelle waddled down the hall yelling "I'm coming." At the door,

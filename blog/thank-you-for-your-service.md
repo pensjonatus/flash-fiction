@@ -1,8 +1,8 @@
 ---
-title: 'Thank You for Your Service'
+title: Thank You for Your Service
 date: '2015-06-10'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Ronald P. Winter was just finishing his last day at Wilson Industries. He had

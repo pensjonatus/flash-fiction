@@ -1,9 +1,9 @@
 ---
-title: 'The Storms'
+title: The Storms
 date: '2017-08-12'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 Anyone catch the storms this morning? Ugh, they were amazing!

@@ -1,8 +1,8 @@
 ---
-title: 'Watercooler'
+title: Watercooler
 date: '2018-04-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "How are ya, Dick?" Gregory approached me at the watercooler.

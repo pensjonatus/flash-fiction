@@ -1,8 +1,8 @@
 ---
-title: 'Get to the Back of the Line'
+title: Get to the Back of the Line
 date: '2014-02-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 She was standing in a long line, in a gray corridor, in a drab old building.

@@ -1,8 +1,8 @@
 ---
-title: 'Uncertain'
+title: Uncertain
 date: '2014-09-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 My girlfriend, before she even became my girlfriend, was a barista at the coffee

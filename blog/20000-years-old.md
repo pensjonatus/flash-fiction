@@ -1,9 +1,9 @@
 ---
-title: '20,000 Years Old'
+title: 20,000 Years Old
 date: '2015-04-30'
-categories:
-  - 'flash-fiction'
-  - 'sci-fi'
+tags:
+  - flash-fiction
+  - sci-fi
 ---
 
 "Mr. Johnson," said the reporter, "You were not among the first to become

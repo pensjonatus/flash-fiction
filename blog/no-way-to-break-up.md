@@ -1,8 +1,8 @@
 ---
-title: 'No Way to Break Up'
+title: No Way to Break Up
 date: '2015-03-03'
-categories:
-  - 'love'
+tags:
+  - love
 ---
 
 I was having lunch with my girlfriend.

@@ -1,8 +1,8 @@
 ---
-title: 'Glass Slipper'
+title: Glass Slipper
 date: '2017-05-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Hullo, Hugo," the younger guard hollered tubally, "Shall we convene for whiskey

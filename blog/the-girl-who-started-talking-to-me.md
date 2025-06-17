@@ -1,9 +1,9 @@
 ---
-title: 'The Girl Who Started Talking to Me'
+title: The Girl Who Started Talking to Me
 date: '2016-01-14'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 It was a birthday party at a bar. I was in a circle of people talking about

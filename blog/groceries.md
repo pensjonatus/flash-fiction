@@ -1,8 +1,8 @@
 ---
-title: 'Groceries'
+title: Groceries
 date: '2015-01-21'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 In the hallway on the way to my apartment, there were groceries in a paper bag.

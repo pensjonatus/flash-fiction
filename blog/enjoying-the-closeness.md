@@ -1,9 +1,9 @@
 ---
-title: 'Enjoying the Closeness'
+title: Enjoying the Closeness
 date: '2013-10-24'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 It was a Washington DC party, a white tie occasion, with all the senators and

@@ -1,9 +1,9 @@
 ---
-title: 'Always the Same'
+title: Always the Same
 date: '2013-04-30'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I was on a train back home and the world was whooshing by. I was tired, could

@@ -1,8 +1,8 @@
 ---
-title: 'LLM, a liminal creator'
+title: LLM, a liminal creator
 date: '2023-07-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 An LLM is a computer construct which people in the year 2023 use to generate

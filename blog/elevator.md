@@ -1,8 +1,8 @@
 ---
-title: 'Elevator'
+title: Elevator
 date: '2012-04-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He got on and pressed the top floor, as usual. The ride took about 90 seconds,

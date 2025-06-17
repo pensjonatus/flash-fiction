@@ -1,8 +1,8 @@
 ---
-title: 'Angelic babies'
+title: Angelic babies
 date: '2024-08-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The reverend and his church group were protesting against abortion when an angel

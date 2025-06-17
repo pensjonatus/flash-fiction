@@ -1,8 +1,8 @@
 ---
-title: 'Fist Fights'
+title: Fist Fights
 date: '2012-03-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Oh my God, what happened to you?"

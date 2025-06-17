@@ -1,8 +1,8 @@
 ---
-title: 'The Ocean and Mandy'
+title: The Ocean and Mandy
 date: '2012-02-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was dozing off in a rocking chair on the ocen-side proch of a small hotel in

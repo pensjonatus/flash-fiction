@@ -1,8 +1,8 @@
 ---
-title: 'Nothing'
+title: Nothing
 date: '2012-06-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Mark was leaning on the window sill looking outside. It was the middle of the

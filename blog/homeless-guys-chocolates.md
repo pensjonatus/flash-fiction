@@ -1,8 +1,8 @@
 ---
-title: "Homeless Guy's Chocolates"
+title: Homeless Guy's Chocolates
 date: '2015-08-18'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was taking the morning train to work. It was pretty empty at this hour, so I

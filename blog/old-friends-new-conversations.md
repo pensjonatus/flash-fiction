@@ -1,8 +1,8 @@
 ---
-title: 'Old Friends, New Conversations'
+title: Old Friends, New Conversations
 date: '2012-06-01'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The well-dressed man was walking down the street when the homeless man asked:

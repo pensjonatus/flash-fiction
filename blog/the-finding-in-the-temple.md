@@ -1,8 +1,8 @@
 ---
-title: 'The Finding in the Temple'
+title: The Finding in the Temple
 date: '2012-03-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The people gathered were mostly older men, well versed in the scripture. They

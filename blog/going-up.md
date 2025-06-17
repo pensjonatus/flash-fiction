@@ -1,9 +1,9 @@
 ---
-title: 'Going Up'
+title: Going Up
 date: '2016-06-14'
-categories:
-  - 'flash-fiction'
-  - 'sci-fi'
+tags:
+  - flash-fiction
+  - sci-fi
 ---
 
 The old man climbed the rusty ladder and I followed, around us the night was

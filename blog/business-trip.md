@@ -1,8 +1,8 @@
 ---
-title: 'Business trip'
+title: Business trip
 date: '2018-04-21'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The hotel had guns up front, turrets, sandbags. But inside the breakfast was a

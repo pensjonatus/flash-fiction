@@ -1,9 +1,9 @@
 ---
-title: 'The Surgeons'
+title: The Surgeons
 date: '2015-02-19'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 Every night I go to bed, the surgeons drag me out. One of them grabs me by the

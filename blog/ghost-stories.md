@@ -1,9 +1,9 @@
 ---
-title: 'Ghost Stories'
+title: Ghost Stories
 date: '2015-03-19'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 All ghost stories are bullshit. I know, because I have seen real ghosts in my

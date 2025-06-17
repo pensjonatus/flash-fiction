@@ -1,8 +1,8 @@
 ---
-title: 'Tyranny'
+title: Tyranny
 date: '2012-03-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The bearded guy leaned over the kid. The kid was on the ground, spitting blood.

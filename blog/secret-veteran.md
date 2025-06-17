@@ -1,8 +1,8 @@
 ---
-title: 'Secret Veteran'
+title: Secret Veteran
 date: '2012-06-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was sweeping the sidewalk in front of the store and I could see a beggar on

@@ -1,8 +1,8 @@
 ---
-title: 'The Arm'
+title: The Arm
 date: '2014-04-20'
-categories:
-  - 'creepy'
+tags:
+  - creepy
 ---
 
 When we are children, we learn to name emotions. We all know what sad is, and

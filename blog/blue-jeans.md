@@ -1,8 +1,8 @@
 ---
-title: 'Blue Jeans'
+title: Blue Jeans
 date: '2012-07-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 She wore blue jeans and a denim jacket. She lifted the shades to look me in the

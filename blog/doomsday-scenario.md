@@ -1,8 +1,8 @@
 ---
-title: 'Doomsday Scenario'
+title: Doomsday Scenario
 date: '2014-07-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Imagine yourself speeding. You are in your car, going just above the limit,

@@ -1,8 +1,8 @@
 ---
-title: 'Never Stops Beating'
+title: Never Stops Beating
 date: '2012-05-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was a hunting trip, so the two of us were dressed in pseudo-military garb and

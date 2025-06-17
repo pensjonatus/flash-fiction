@@ -1,8 +1,8 @@
 ---
-title: 'Quadruplegic'
+title: Quadruplegic
 date: '2012-03-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Sam was paralyzed from the neck down. Sometimes, he felt like just a head lying

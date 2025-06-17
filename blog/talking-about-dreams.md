@@ -1,9 +1,9 @@
 ---
-title: 'Talking about Dreams'
+title: Talking about Dreams
 date: '2016-08-25'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 When she felt more confident with me, she started talking about her dreams.

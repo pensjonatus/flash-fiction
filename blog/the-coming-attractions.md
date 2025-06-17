@@ -1,8 +1,8 @@
 ---
-title: 'The Coming Attractions'
+title: The Coming Attractions
 date: '2013-06-11'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 They stepped out of the theater. She said: "So did you enjoy the movie, baby?"

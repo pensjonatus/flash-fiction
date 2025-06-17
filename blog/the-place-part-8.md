@@ -1,9 +1,9 @@
 ---
-title: 'The Place Part 8'
+title: The Place Part 8
 date: '2017-07-18'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 The box found a new home on a shelf in our living room. My wife put it between

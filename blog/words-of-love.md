@@ -1,9 +1,9 @@
 ---
-title: 'Words of Love'
+title: Words of Love
 date: '2014-01-03'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 "When would you compare a girl to a winter's morning," I asked, "Or say her hair

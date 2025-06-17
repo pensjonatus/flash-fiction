@@ -1,9 +1,9 @@
 ---
-title: 'Coffee, Black'
+title: Coffee, Black
 date: '2013-05-07'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 "So, did you talk to Frank," I asked him.

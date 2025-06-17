@@ -1,8 +1,8 @@
 ---
-title: 'A trip'
+title: A trip
 date: '2023-03-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Harr wanted to take a trip with his friends. That was his first thought when he

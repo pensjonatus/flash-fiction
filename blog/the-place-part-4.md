@@ -1,9 +1,9 @@
 ---
-title: 'The Place Part 4'
+title: The Place Part 4
 date: '2017-07-14'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 My research first made me think that it was all make-believe. That visiting

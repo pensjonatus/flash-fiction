@@ -1,8 +1,8 @@
 ---
-title: 'My Dream'
+title: My Dream
 date: '2014-10-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "My dream?" Jack put out a cigarette and lit up another. The place was empty, a

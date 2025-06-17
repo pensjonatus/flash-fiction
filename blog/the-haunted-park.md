@@ -1,9 +1,9 @@
 ---
-title: 'The Haunted Park'
+title: The Haunted Park
 date: '2017-06-24'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 Klaus committed suicide in the little park on the edge of town. But that was not

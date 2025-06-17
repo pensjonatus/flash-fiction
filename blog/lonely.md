@@ -1,9 +1,9 @@
 ---
-title: 'Lonely'
+title: Lonely
 date: '2013-08-22'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 They were done shooting for the day, the crew were turning off the powerful

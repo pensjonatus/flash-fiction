@@ -1,8 +1,8 @@
 ---
-title: 'Drunk'
+title: Drunk
 date: '2012-03-17'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The party felt pretty wild to the four guys who were drinking heavily. They

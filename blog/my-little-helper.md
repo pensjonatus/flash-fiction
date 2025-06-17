@@ -1,8 +1,8 @@
 ---
-title: 'My Little Helper'
+title: My Little Helper
 date: '2014-09-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Most of the time," said Jacob, "The disorder is in check because of the

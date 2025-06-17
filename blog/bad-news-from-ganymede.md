@@ -1,8 +1,8 @@
 ---
-title: 'Bad News from Ganymede'
+title: Bad News from Ganymede
 date: '2016-07-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 A terrible ring shook the observatory and I was jolted back into consciousness.

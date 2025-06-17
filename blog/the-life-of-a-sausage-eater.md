@@ -1,8 +1,8 @@
 ---
-title: 'The Life of a Sausage Eater'
+title: The Life of a Sausage Eater
 date: '2013-10-14'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I remember when Mr. Pericault, the maths teacher, first arrived in town. He

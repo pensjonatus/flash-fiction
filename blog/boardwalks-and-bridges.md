@@ -1,8 +1,8 @@
 ---
-title: 'Boardwalks and Bridges'
+title: Boardwalks and Bridges
 date: '2012-11-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was on holiday again, almost out of season this time. It was a seaside town in

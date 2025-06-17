@@ -1,8 +1,8 @@
 ---
-title: 'this is my religion'
+title: this is my religion
 date: '2013-09-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 on the verge of **uncanny events**, i remain **vigilant**

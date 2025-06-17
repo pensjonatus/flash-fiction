@@ -1,8 +1,8 @@
 ---
-title: 'Listening to Tears'
+title: Listening to Tears
 date: '2012-05-31'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was there for the famous Bill Hicks speech about the roller coaster. I heard

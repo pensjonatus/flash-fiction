@@ -1,8 +1,8 @@
 ---
-title: 'Deadboy Adventures'
+title: Deadboy Adventures
 date: '2012-06-02'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "A comic book?" she smiled, "I didn't know you drew comic books. Let me see."

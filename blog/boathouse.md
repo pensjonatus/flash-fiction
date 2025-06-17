@@ -1,9 +1,9 @@
 ---
-title: 'Boathouse'
+title: Boathouse
 date: '2014-12-06'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 She lived with him on a boathouse for one glorious fall. She would rush out of

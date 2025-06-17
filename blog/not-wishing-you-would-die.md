@@ -1,8 +1,8 @@
 ---
-title: 'Not wishing you would die'
+title: Not wishing you would die
 date: '2023-04-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Valentine got lots of birthday cards, and they were all on the table, basking in

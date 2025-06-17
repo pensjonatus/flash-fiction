@@ -1,8 +1,8 @@
 ---
-title: 'Love Mistakes'
+title: Love Mistakes
 date: '2012-06-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 She was fragile, tearful, I could tell she had been crying. She was not dressed

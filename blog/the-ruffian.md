@@ -1,8 +1,8 @@
 ---
-title: 'The Ruffian'
+title: The Ruffian
 date: '2012-10-23'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was sitting at Harley's Diner with Matt. We were about to make a deal that

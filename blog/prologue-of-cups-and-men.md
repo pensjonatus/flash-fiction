@@ -1,8 +1,8 @@
 ---
 title: 'Prologue: Of Cups and Men'
 date: '2015-07-03'
-categories:
-  - 'growing-up-in-greyland'
+tags:
+  - growing-up-in-greyland
 ---
 
 My thirteenth birthday was a weird day for me.

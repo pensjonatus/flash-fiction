@@ -1,9 +1,9 @@
 ---
-title: 'Fake Emotion'
+title: Fake Emotion
 date: '2013-11-13'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I am feeling so good, smiling so nice, I lay my head on the table. The club is

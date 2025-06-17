@@ -1,9 +1,9 @@
 ---
-title: 'Business Trip Tagalong'
+title: Business Trip Tagalong
 date: '2014-06-06'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Clara was getting ready to go out to work. I flung myself across the bed and

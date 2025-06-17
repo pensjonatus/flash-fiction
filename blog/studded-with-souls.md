@@ -1,8 +1,8 @@
 ---
-title: 'Studded with Souls'
+title: Studded with Souls
 date: '2013-12-31'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I remember my last moments. There was some pain, but a lot of relief. I was not

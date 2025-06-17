@@ -1,8 +1,8 @@
 ---
-title: 'The Quest Master'
+title: The Quest Master
 date: '2012-04-26'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The sun was rising over the land and the city of Dragonport was just waking up.

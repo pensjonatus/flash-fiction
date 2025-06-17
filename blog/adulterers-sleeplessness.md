@@ -1,8 +1,8 @@
 ---
-title: "Adulterer's Sleeplessness"
+title: Adulterer's Sleeplessness
 date: '2013-12-11'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I cannot sleep, so I shift. You are next to me, very warm. Too hot. When I lie

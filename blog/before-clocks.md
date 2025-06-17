@@ -1,8 +1,8 @@
 ---
-title: 'Before Clocks'
+title: Before Clocks
 date: '2015-04-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Balthazar was shifting in his cot. It was nearly 2 AM, per the clock in the

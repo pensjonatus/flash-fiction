@@ -1,8 +1,8 @@
 ---
-title: 'Heart to heart'
+title: Heart to heart
 date: '2018-05-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 During the last war I was drafted. But I was lucky and got a desk job at Fort

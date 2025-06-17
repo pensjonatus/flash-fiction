@@ -1,8 +1,8 @@
 ---
-title: 'It Was Nice to Meet You'
+title: It Was Nice to Meet You
 date: '2014-03-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Anyway, it was really nice to meet you," I said, reaching my hand out.

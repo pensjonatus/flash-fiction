@@ -1,9 +1,9 @@
 ---
-title: 'The Place Part 9'
+title: The Place Part 9
 date: '2017-07-19'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 My wife does this thing when she walks in the door. She says "Honey, I'm home...

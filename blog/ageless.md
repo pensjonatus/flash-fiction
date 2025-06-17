@@ -1,8 +1,8 @@
 ---
-title: 'Ageless'
+title: Ageless
 date: '2015-04-07'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Two ageless women were sitting across from me on the train. As soon as they got

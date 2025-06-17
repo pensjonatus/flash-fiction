@@ -1,8 +1,8 @@
 ---
-title: 'Confessions of a Monster'
+title: Confessions of a Monster
 date: '2015-01-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The viewers held their breath as the face of the criminal came into focus again.

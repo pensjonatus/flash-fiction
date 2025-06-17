@@ -1,9 +1,9 @@
 ---
-title: 'Humans'
+title: Humans
 date: '2016-01-03'
-categories:
-  - 'flash-fiction'
-  - 'sci-fi'
+tags:
+  - flash-fiction
+  - sci-fi
 ---
 
 Humans were a carbon-based life form which arose in the Original Solar System

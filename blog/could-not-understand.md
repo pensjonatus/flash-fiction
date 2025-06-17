@@ -1,9 +1,9 @@
 ---
-title: 'Could Not Understand'
+title: Could Not Understand
 date: '2015-06-19'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Bob was by the bar, ordering beers for the table. As he was waiting, he looked

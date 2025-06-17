@@ -1,8 +1,8 @@
 ---
-title: 'The Notebook'
+title: The Notebook
 date: '2013-05-02'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The car garage was waiting to be become the setting of a scene. There were tools

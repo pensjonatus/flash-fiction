@@ -1,8 +1,8 @@
 ---
-title: 'Body Horror Clinic'
+title: Body Horror Clinic
 date: '2022-07-26'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Hullo," I said into the receiver, "Is this the body horror clinic?"

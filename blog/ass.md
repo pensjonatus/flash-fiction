@@ -1,9 +1,9 @@
 ---
-title: 'Ass'
+title: Ass
 date: '2015-11-23'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I am an ass man, definitely. I have dated a lot of girls and only one of them

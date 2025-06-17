@@ -1,8 +1,8 @@
 ---
-title: "Summer's End"
+title: Summer's End
 date: '2013-09-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Ivan was sitting by the pool, watching the sun set slowly over the buildings of

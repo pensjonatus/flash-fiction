@@ -1,8 +1,8 @@
 ---
-title: 'Picking up music from the past'
+title: Picking up music from the past
 date: '2020-07-26'
-categories:
-  - 'sci-fi'
+tags:
+  - sci-fi
 ---
 
 Not sure how it was even possible, but we picked up an old radio transmission

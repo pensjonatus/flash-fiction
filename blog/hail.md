@@ -1,8 +1,8 @@
 ---
-title: 'Hail'
+title: Hail
 date: '2013-06-10'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was almost home when I was caught in a hailstorm. I ran the final stretch and

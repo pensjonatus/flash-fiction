@@ -1,8 +1,8 @@
 ---
-title: 'Downright'
+title: Downright
 date: '2012-06-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The man was the bulky biker type. Not fat, but not all muscle either, he was

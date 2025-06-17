@@ -1,9 +1,9 @@
 ---
-title: 'Wife'
+title: Wife
 date: '2012-09-24'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 She rolled over to look him in the eye. She smiled. They were lying together in

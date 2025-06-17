@@ -1,10 +1,10 @@
 ---
-title: 'Resolution'
+title: Resolution
 date: '2017-04-02'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - creepy
+  - flash-fiction
+  - love
 ---
 
 She put her hand in his and looked out into the night. She was not afraid of the

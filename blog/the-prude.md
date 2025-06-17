@@ -1,9 +1,9 @@
 ---
-title: 'The Prude'
+title: The Prude
 date: '2012-12-11'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 They were kissing and he could tell she was getting hot and wet. Or at least he

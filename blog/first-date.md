@@ -1,8 +1,8 @@
 ---
-title: 'First Date'
+title: First Date
 date: '2012-06-03'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I pick her up and try not to make the greeting awkward. When we get into my car,

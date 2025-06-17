@@ -1,8 +1,8 @@
 ---
-title: 'Faux Pas'
+title: Faux Pas
 date: '2013-11-13'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "We're taking heave fire, we need backup," said one of the teenagers matter of

@@ -1,8 +1,8 @@
 ---
-title: 'Create!'
+title: Create!
 date: '2023-07-14'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was tuning the radio to catch some music when my father popped his head into

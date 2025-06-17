@@ -1,8 +1,8 @@
 ---
-title: 'Off Topic'
+title: Off Topic
 date: '2012-03-13'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Juliana was lying in her hospital bed, more or less ready to die. Nothing had

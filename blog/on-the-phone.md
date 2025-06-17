@@ -1,8 +1,8 @@
 ---
-title: 'On the Phone'
+title: On the Phone
 date: '2012-02-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 John stirred in the dark. Right after his sudden awakening, came the sound of

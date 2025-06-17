@@ -1,8 +1,8 @@
 ---
-title: 'Faltered from the Path'
+title: Faltered from the Path
 date: '2012-10-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I got into my car, tried to calm myself. Those girls, they were nothing but

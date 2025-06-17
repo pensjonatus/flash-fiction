@@ -1,8 +1,8 @@
 ---
-title: 'I am a Boring Guy'
+title: I am a Boring Guy
 date: '2013-05-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I happened to me in a shopping mall when I was on a business trip a million

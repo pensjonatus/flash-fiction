@@ -1,8 +1,8 @@
 ---
-title: 'Up the Mountain of Madness'
+title: Up the Mountain of Madness
 date: '2012-12-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 A twitch ran down his body and came back up, causing his head to bob. Somebody

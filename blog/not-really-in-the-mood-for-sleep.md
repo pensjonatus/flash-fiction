@@ -1,8 +1,8 @@
 ---
-title: 'Not really in the Mood for Sleep'
+title: Not really in the Mood for Sleep
 date: '2015-11-22'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 When summer nights got hot, I used to go up to the roof. I was in high school

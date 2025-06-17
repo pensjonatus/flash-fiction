@@ -1,8 +1,8 @@
 ---
-title: 'Lip Balm'
+title: Lip Balm
 date: '2013-01-30'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I got out of the club and realized it was light outside. What time? I checked my

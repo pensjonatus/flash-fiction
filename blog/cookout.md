@@ -1,9 +1,9 @@
 ---
-title: 'Cookout'
+title: Cookout
 date: '2013-06-23'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 It was a hot day in the kitchen. I was washing some pots when the boss came up

@@ -1,9 +1,9 @@
 ---
-title: 'Daisies and Coffee'
+title: Daisies and Coffee
 date: '2015-06-07'
-categories:
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - flash-fiction
+  - pm-writing
 ---
 
 Daisy took a sip of coffee and looked at Marcus with her big cow eyes. She

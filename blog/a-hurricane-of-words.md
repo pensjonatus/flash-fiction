@@ -1,8 +1,8 @@
 ---
-title: 'A Hurricane of Words'
+title: A Hurricane of Words
 date: '2013-12-29'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I was trying to write, so I leaned over my laptop but I could not focus because

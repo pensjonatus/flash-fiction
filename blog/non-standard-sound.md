@@ -1,8 +1,8 @@
 ---
-title: 'Non-standard Sound'
+title: Non-standard Sound
 date: '2016-05-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The best sound effects guy in town was called in. As he arrived, the director

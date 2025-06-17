@@ -1,9 +1,9 @@
 ---
-title: 'Anyone There?'
+title: Anyone There?
 date: '2016-06-13'
-categories:
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - flash-fiction
+  - pm-writing
 ---
 
 "Hello," I said into the house, "Anyone there?" Particles of dust were floating

@@ -1,8 +1,8 @@
 ---
-title: 'Darker'
+title: Darker
 date: '2012-03-14'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Hey, you got a minute?" Bill was standing at the entrance to her cubicle. She

@@ -1,9 +1,9 @@
 ---
-title: 'The One That Got Away'
+title: The One That Got Away
 date: '2012-07-06'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Everybody was hanging out, eating pizza, taking turns playing Xbox in pairs. The

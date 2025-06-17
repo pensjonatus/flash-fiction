@@ -1,8 +1,8 @@
 ---
-title: 'No Confirmation'
+title: No Confirmation
 date: '2014-06-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Ian was a writer by calling and a writer by passion. He had a little space in

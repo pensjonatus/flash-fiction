@@ -1,10 +1,10 @@
 ---
-title: 'Diamond Mine'
+title: Diamond Mine
 date: '2016-04-07'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - creepy
+  - flash-fiction
+  - pm-writing
 ---
 
 Out of boredom I think, we dug around one beggar patient's brain and found a

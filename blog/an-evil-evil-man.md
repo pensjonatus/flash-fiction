@@ -1,8 +1,8 @@
 ---
-title: 'An Evil, Evil Man'
+title: An Evil, Evil Man
 date: '2014-03-27'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Emily was so lucky to be married to Lord Havisham. She was scared at first, when

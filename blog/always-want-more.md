@@ -1,9 +1,9 @@
 ---
-title: 'Always Want More'
+title: Always Want More
 date: '2012-12-02'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 "You're one lucky bastard," said one of the guys, and I just nodded, looking

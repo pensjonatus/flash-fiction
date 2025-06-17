@@ -1,8 +1,8 @@
 ---
-title: 'Of Angels and Men'
+title: Of Angels and Men
 date: '2014-03-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Every schoolchild knows the basics of cosmology. The world exists in the corpse

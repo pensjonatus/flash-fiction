@@ -1,9 +1,9 @@
 ---
-title: 'I have a Surprise'
+title: I have a Surprise
 date: '2015-04-13'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 "Honey, I have a surprise for you," the husband bellowed from downstairs.

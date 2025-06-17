@@ -1,8 +1,8 @@
 ---
-title: 'Bellboy (Attrition)'
+title: Bellboy (Attrition)
 date: '2012-05-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He opened the door and carried the bags in. Then he turned around, but the guest

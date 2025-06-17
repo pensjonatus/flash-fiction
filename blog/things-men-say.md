@@ -1,8 +1,8 @@
 ---
-title: 'Things Men Say'
+title: Things Men Say
 date: '2014-09-05'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Have you noticed we never run out of things to talk about? Your hair looks

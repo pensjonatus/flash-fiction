@@ -1,9 +1,9 @@
 ---
-title: 'The Cathedral'
+title: The Cathedral
 date: '2015-06-17'
-categories:
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - flash-fiction
+  - pm-writing
 ---
 
 The cathedral was full of people, inside and out. The crowd surrounded the

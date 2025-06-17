@@ -1,8 +1,8 @@
 ---
-title: 'Keep a Record'
+title: Keep a Record
 date: '2014-10-22'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 On Jim's birthday we all went bowling. He looked at me three times the entire

@@ -1,8 +1,8 @@
 ---
-title: 'Speed'
+title: Speed
 date: '2012-11-12'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He had to get out fast. She was right behind him, but he did not care. Around

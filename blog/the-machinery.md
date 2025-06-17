@@ -1,8 +1,8 @@
 ---
-title: 'The Machinery'
+title: The Machinery
 date: '2014-03-11'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Jake was twelve and his life was great. But that day he wanted to go for a walk

@@ -1,8 +1,8 @@
 ---
-title: 'The Nightwatchman'
+title: The Nightwatchman
 date: '2012-07-21'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 The girl took a shortcut through an alley. Big mistake. Freddy was pretty horny

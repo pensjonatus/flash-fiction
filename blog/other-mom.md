@@ -1,9 +1,9 @@
 ---
-title: 'Other Mom'
+title: Other Mom
 date: '2014-11-03'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 I tucked my son in and gave him a hug. As I got up to leave, he said:

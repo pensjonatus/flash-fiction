@@ -1,9 +1,9 @@
 ---
-title: 'A Long Journey for a Small Box'
+title: A Long Journey for a Small Box
 date: '2016-05-19'
-categories:
-  - 'flash-fiction'
-  - 'pm-writing'
+tags:
+  - flash-fiction
+  - pm-writing
 ---
 
 "This box," said Weathers, "Made its way here all the way from Marakesh." He was

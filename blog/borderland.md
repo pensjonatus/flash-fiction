@@ -1,8 +1,8 @@
 ---
-title: 'Borderland'
+title: Borderland
 date: '2012-05-30'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 It was a cold day. Mike and his dog Barkley were out on a walk in the woods.

@@ -1,9 +1,9 @@
 ---
-title: 'Helping the Crazy Kids'
+title: Helping the Crazy Kids
 date: '2016-08-07'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 Dear diary, today I begin my internship at the Stone Pines Asylum, the

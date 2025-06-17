@@ -1,8 +1,8 @@
 ---
-title: 'Zelda'
+title: Zelda
 date: '2012-05-09'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "You look happy," said Irene when she finally noticed Marks broad smile. They

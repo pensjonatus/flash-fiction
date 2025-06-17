@@ -1,8 +1,8 @@
 ---
-title: 'A New Emotion'
+title: A New Emotion
 date: '2012-12-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 John was done writing the report. The office was almost empty, just a few lights

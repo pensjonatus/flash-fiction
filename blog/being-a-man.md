@@ -1,8 +1,8 @@
 ---
-title: 'Being a Man'
+title: Being a Man
 date: '2014-01-07'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 My father was dying. I flew to New York and took a cab to Manhattan. I rang the

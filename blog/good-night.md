@@ -1,9 +1,9 @@
 ---
-title: 'Good Night'
+title: Good Night
 date: '2013-04-20'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 "I'll walk you to your room," he said, "I'm just down the hall."

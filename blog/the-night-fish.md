@@ -1,9 +1,9 @@
 ---
-title: 'The Night Fish'
+title: The Night Fish
 date: '2014-07-27'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Sam and Mary were sitting on the dark beach. Sun had already set, then the sky

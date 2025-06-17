@@ -1,9 +1,9 @@
 ---
-title: 'Demonic Possession'
+title: Demonic Possession
 date: '2014-07-15'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 Through a one-way mirror, the doctor and the mother were looking into playroom

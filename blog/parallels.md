@@ -1,8 +1,8 @@
 ---
-title: 'Parallels'
+title: Parallels
 date: '2012-06-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 O'Reilly's Bar was dark and damp. Perfect. After a few drinks, the two men were

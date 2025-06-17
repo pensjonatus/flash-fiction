@@ -1,8 +1,8 @@
 ---
-title: 'Strictly Speaking'
+title: Strictly Speaking
 date: '2015-10-26'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Hey, how are you doing?" said the guy at the bar. He was kind of handsome, but

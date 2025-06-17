@@ -1,8 +1,8 @@
 ---
-title: 'Just Banter'
+title: Just Banter
 date: '2012-02-16'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Bang! A stiff's head exploded in a cloud of rotten meat and black clots. Bang!

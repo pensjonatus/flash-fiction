@@ -1,8 +1,8 @@
 ---
-title: 'Differences'
+title: Differences
 date: '2014-12-22'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Everybody knows school sucks. But still, generation after generation people make

@@ -1,9 +1,9 @@
 ---
-title: 'The Chamber of Mystery'
+title: The Chamber of Mystery
 date: '2015-10-19'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 Archbishop Cavalieri was in attendance of the Pope for the week. He just entered

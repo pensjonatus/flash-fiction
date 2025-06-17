@@ -1,8 +1,8 @@
 ---
-title: 'Chocolate Mousse'
+title: Chocolate Mousse
 date: '2012-04-21'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "So how did you guys meet?" I asked. The four of us were having dessert.

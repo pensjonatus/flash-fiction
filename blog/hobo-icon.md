@@ -1,8 +1,8 @@
 ---
-title: 'Hobo Icon'
+title: Hobo Icon
 date: '2018-08-03'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 We just bought a house. I was in the backyard with my son. He thought there were

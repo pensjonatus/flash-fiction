@@ -1,9 +1,9 @@
 ---
-title: 'A Way to Understand'
+title: A Way to Understand
 date: '2013-10-05'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 Two guys were waiting on the pier. The boat was far away, they could not hear

@@ -1,8 +1,8 @@
 ---
-title: 'Tiberius and Nina'
+title: Tiberius and Nina
 date: '2012-03-06'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Wat you playin' at, girl?"

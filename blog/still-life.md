@@ -1,8 +1,8 @@
 ---
-title: 'Still Life'
+title: Still Life
 date: '2012-06-18'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 Jacob and Mary were in the conference room, going over the monthly statements.

@@ -1,9 +1,9 @@
 ---
-title: 'Last Date'
+title: Last Date
 date: '2015-05-21'
-categories:
-  - 'flash-fiction'
-  - 'love'
+tags:
+  - flash-fiction
+  - love
 ---
 
 I am on a date with Tara. Some people do not have much to say, so they just talk

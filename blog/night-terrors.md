@@ -1,9 +1,9 @@
 ---
-title: 'Night Terrors'
+title: Night Terrors
 date: '2014-06-08'
-categories:
-  - 'creepy'
-  - 'flash-fiction'
+tags:
+  - creepy
+  - flash-fiction
 ---
 
 I am a mother. Or I was a mother, I do not know anymore.

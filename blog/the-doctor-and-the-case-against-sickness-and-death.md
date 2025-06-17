@@ -1,8 +1,8 @@
 ---
-title: 'The Doctor and the Case Against Sickness and Death'
+title: The Doctor and the Case Against Sickness and Death
 date: '2023-12-20'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I woke up in a medical-type room. What do you call one of those? A medical-type

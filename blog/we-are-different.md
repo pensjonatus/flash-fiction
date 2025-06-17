@@ -1,8 +1,8 @@
 ---
-title: 'We Are Different'
+title: We Are Different
 date: '2012-02-25'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "Excuse me, is this the way to the meeting hall," the girl asked.

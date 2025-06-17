@@ -1,8 +1,8 @@
 ---
-title: 'Shrimp'
+title: Shrimp
 date: '2013-05-22'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 He took her to a fancy restaurant on the 900th floor, the view was breathtaking.

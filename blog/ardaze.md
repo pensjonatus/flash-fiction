@@ -1,8 +1,8 @@
 ---
-title: 'Ardaze'
+title: Ardaze
 date: '2012-07-08'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 I would like to put two pieces of writing together. The first one is a story I

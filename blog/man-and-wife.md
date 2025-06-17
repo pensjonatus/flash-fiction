@@ -1,8 +1,8 @@
 ---
-title: 'Man and Wife'
+title: Man and Wife
 date: '2015-02-04'
-categories:
-  - 'flash-fiction'
+tags:
+  - flash-fiction
 ---
 
 "I wish I could quit my job," he said.

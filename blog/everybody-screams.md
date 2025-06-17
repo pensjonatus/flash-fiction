@@ -1,8 +1,8 @@
 ---
-title: 'Everybody Screams'
+title: Everybody Screams
 date: '2014-12-22'
-categories:
-  - 'creepy'
+tags:
+  - creepy
 ---
 
 When I died, everything seemed so abrupt that I closed my eyes and did not open
