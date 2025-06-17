@@ -22,8 +22,9 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'pensjonatus', // Usually your GitHub org/user name.
+  projectName: 'flash-fiction', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -77,7 +78,6 @@ const config: Config = {
       items: [],
     },
     footer: {
-      style: 'dark',
       links: [],
       copyright: `Copyright © ${new Date().getFullYear()} Flash Fiction, built with Docusaurus.`,
     },
