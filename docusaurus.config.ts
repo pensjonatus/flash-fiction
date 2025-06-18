@@ -75,7 +75,13 @@ const config: Config = {
         alt: 'Flash Fiction Logo',
         src: 'img/flash-fiction.png',
       },
-      items: [],
+      items: [
+        {
+          label: 'Author',
+          to: 'author',
+          position: 'right',
+        },
+      ],
       style: 'dark',
     },
     footer: {
