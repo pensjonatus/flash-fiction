@@ -53,6 +53,10 @@
         30px 90px / 200px 200px repeat;
     opacity: 0.25;
   }
+
+  article {
+    background-color: black;
+  }
 }
 
 [data-theme='light'] body::after {
@@ -81,14 +85,14 @@
   mix-blend-mode: lighten;
 }
 
+body {
+  margin: 16px 8px;
+  border-radius: 50%;
+}
+
 h1,
 h2 {
   font-family: var(--stylized-font);
-}
-
-body {
-  margin: 16px;
-  border-radius: 50%;
 }
 
 nav.navbar {
@@ -97,4 +101,22 @@ nav.navbar {
 
 div[class^='col col--12 author'] {
   display: none;
+}
+
+article {
+  background-color: white;
+  padding: 4rem 2rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+}
+
+footer {
+  border-radius: 32px;
+}
+
+@media (max-width: 996px) {
+  body {
+    margin: 4px !important;
+  }
 }
