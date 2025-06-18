@@ -40,7 +40,7 @@ okay, I guess. It is what it is."
 wanted to change my mind about having one."
 
 "I mean, yeah, maybe it would get it out. I don't know. But the kids, man. The
-feeder would it them. You can't leave it hungry. You have to feed the feeder."
+feeder would eat them. You can't leave it hungry. You have to feed the feeder."
 
 "You HAVE to feed it?"
 
