@@ -7,8 +7,8 @@ tags:
 authors: pensjonatus
 ---
 
-[A man](./on-holiday) was sitting alone in a penthouse suite. There was an old
-leather-bound book in his lap. He was wrapped in a blanket, there were cheap
+[A man](./on-holiday.md) was sitting alone in a penthouse suite. There was an
+old leather-bound book in his lap. He was wrapped in a blanket, there were cheap
 bracelets all over his arms, he was wearing more than six belts. All of these
 items he had enchanted using magic from another plane of existence. They each
 served a purpose, all together making him invincible. He could have replaced
