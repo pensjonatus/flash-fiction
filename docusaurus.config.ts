@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Flash Fiction',
+  title: 'Flash Fiction by Paweł Kowaluk',
   tagline: 'by Paweł Kowaluk',
   favicon: 'img/favicon.ico',
 
