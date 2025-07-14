@@ -1,5 +1,4 @@
 pensjonatus:
   name: Paweł Kowaluk
-  url: https://www.linkedin.com/in/pawel-kowaluk/
   image_url: https://github.com/pensjonatus.png
-  page: true
+  page: false
