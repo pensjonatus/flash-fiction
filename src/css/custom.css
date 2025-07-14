@@ -99,7 +99,7 @@ nav.navbar {
   border-radius: 24px;
 }
 
-div[class^='col col--12 author'] {
+.avatar__photo-link {
   display: none;
 }
 
